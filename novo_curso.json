@@ -3,12 +3,12 @@
   "title": "Novo Curso",
   "units": [
     {
-      "id": "u_v45aw",
+      "id": "u1",
       "title": "Coisas Básicas",
       "color": "bg-green-500",
       "lessons": [
         {
-          "id": "l_drckh",
+          "id": "u1l1",
           "title": "Coisas Basiquinhas",
           "slides": [
             {
@@ -33,7 +33,7 @@
           ]
         },
         {
-          "id": "l_c4gh1",
+          "id": "u1l2",
           "title": "Coisas Básicas",
           "slides": [
             {
@@ -56,12 +56,12 @@
       ]
     },
     {
-      "id": "u_dxht8",
+      "id": "u2",
       "title": "Coisas Médias",
       "color": "bg-orange-500",
       "lessons": [
         {
-          "id": "l_izv5t",
+          "id": "u2l1",
           "title": "Coisas Médias Iniciantes",
           "slides": [
             {
@@ -82,7 +82,7 @@
           ]
         },
         {
-          "id": "l_2ekn4",
+          "id": "u2l2",
           "title": "Coisas Médias Avançadas",
           "slides": [
             {
