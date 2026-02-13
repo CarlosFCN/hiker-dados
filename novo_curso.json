@@ -3,7 +3,7 @@
   "title": "Novo Curso",
   "units": [
     {
-      "id": "u1",
+      "id": "1",
       "title": "Coisas Básicas",
       "color": "bg-green-500",
       "lessons": [
@@ -56,7 +56,7 @@
       ]
     },
     {
-      "id": "u2",
+      "id": "2",
       "title": "Coisas Médias",
       "color": "bg-orange-500",
       "lessons": [
