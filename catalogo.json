@@ -1,4 +1,5 @@
-   {
+[
+    {
         "id": "direitoconstitucional_01",
         "title": "Direito Constitucional",
         "description": "Preparatório Completo de Constitucional para Concursos",
@@ -10,3 +11,4 @@
         "description": "Ortografia, gramática e interpretação de texto focada nas principais bancas.",
         "cloudUrl": "em_breve"
     }
+]
