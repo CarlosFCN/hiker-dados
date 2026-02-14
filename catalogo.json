@@ -1,15 +1,14 @@
 [
-        {
-            "id": "direitoconstitucional_01",
-            "title": "Direito Constitucional",
-            "description": "Preparatório Completo de Constitucional para Concursos",
-            "cloudUrl": "https://raw.githubusercontent.com/CarlosFCN/hiker-dados/refs/heads/main/direito_constitucional.json"
-        },
-        {
-            "id": "portugues_01",
-            "title": "Língua Portuguesa",
-            "description": "Ortografia, gramática e interpretação de texto focada nas principais bancas.",
-            "cloudUrl": "em_breve"
-        }
+   {
+        "id": "direitoconstitucional_01",
+        "title": "Direito Constitucional",
+        "description": "Preparatório Completo de Constitucional para Concursos",
+        "cloudUrl": "https://raw.githubusercontent.com/CarlosFCN/hiker-dados/refs/heads/main/direito_constitucional.json"
+    },
+    {
+        "id": "portugues_01",
+        "title": "Língua Portuguesa",
+        "description": "Ortografia, gramática e interpretação de texto focada nas principais bancas.",
+        "cloudUrl": "em_breve"
+    }
 ]
-
