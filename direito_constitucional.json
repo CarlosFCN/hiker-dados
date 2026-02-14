@@ -1,0 +1,372 @@
+{
+  "id": "constitucional_01",
+  "title": "Direito Constitucional",
+  "units": [
+    {
+      "id": "1",
+      "title": "Teoria da Constituição",
+      "color": "bg-purple-500",
+      "lessons": [
+        {
+          "id": "u1l1",
+          "title": "Natureza e Conceito",
+          "slides": [
+            {
+              "type": "content",
+              "text": "Antes de tratarmos do Direito Constitucional propriamente dito, que será nosso objeto de estudo ao longo do curso, cabe antes fazermos uma reflexão acerca do Direito. Em uma acepção mais comumente empregada, a expressão Direito é utilizada para designar o conjunto de prescrições com que se disciplina e se organiza a vida em sociedade."
+            },
+            {
+              "type": "content",
+              "text": "Onde houver sociedade, lá estará o direito (ubi societas, ibi ius), que reciprocamente também a pressupõe (ubi ius, ibi societas)."
+            },
+            {
+              "type": "content",
+              "text": "Essas prescrições são formuladas e cristalizadas em regras dotadas de juridicidade: ou seja, possuem caráter jurídico, o que as diferencia das demais regras de comportamento social e lhes confere eficácia garantida pelo Estado."
+            },
+            {
+              "type": "content",
+              "text": "Juridicidade é o atributo que distingue a regra do direito das demais regras de comportamento social, atuando como fronteira entre o jurídico e o não jurídico, caracterizando as normas que pertencem aos sistemas de direito, conjuntos de princípios e regras dotadas de legitimidade e obrigatoriedade."
+            },
+            {
+              "type": "content",
+              "text": "Norma jurídica é um gênero que possui duas espécies: regras e princípios."
+            },
+            {
+              "type": "content",
+              "text": "Segundo Robert Alexy, “os princípios são normas que ordenam que algo seja realizado na maior medida possível, dentro das possibilidades jurídicas e reais existentes. Portanto, são mandamentos de otimização, caracterizados pelo fato de que podem ser cumpridos em diferente grau e que a medida devida de seu cumprimento não só depende das possibilidades reais como também das jurídicas\"."
+            },
+            {
+              "type": "content",
+              "text": "\"O âmbito das possibilidades jurídicas é determinado pelos princípios e regras opostos. Contrariamente, as regras são normas que tão somente podem ser cumpridas ou não. Se uma regra é válida, então deve se fazer exatamente o que ela exige, nem mais nem menos\"."
+            },
+            {
+              "type": "content",
+              "text": "\"Portanto, as regras contêm determinações no âmbito do fático e juridicamente possível. Isso significa que a diferença entre regras e princípios é qualitativa e não de grau. Toda norma é uma regra ou um princípio\"."
+            },
+            {
+              "type": "content",
+              "text": "\"[...] As regras e os princípios podem ser resumidos sob o conceito de norma. Tanto as regras como os princípios são normas porque ambos dizem o que deve ser. Ambos podem ser formulados com auxílio das expressões deônticas básicas do mandamento, da permissão e da proibição\"."
+            },
+            {
+              "type": "content",
+              "text": "\"Os princípios como as regras são razões para juízos concretos de dever ser, ainda quando sejam razões de um tipo muito diferente. A distinção entre regras e princípios é, pois, uma distinção entre dois tipos de normas\"."
+            },
+            {
+              "type": "content",
+              "text": "Segundo José Afonso da Silva, o Direito é fenômeno histórico-cultural, realidade ordenada, ou ordenação normativa da conduta segundo uma conexão de sentido. É um sistema normativo, podendo ser estudado por unidades estruturais que o compõem, sem perder de vista a totalidade de suas manifestações."
+            },
+            {
+              "type": "content",
+              "text": "Essas unidades estruturais do sistema jurídico são conhecidas também como ramos da ciência jurídica e comportam subdivisões. É bom frisar que essa divisão não é pacífica na doutrina, havendo divergências pontuais entre os juristas sobre a classificação de determinadas disciplinas jurídicas. A divisão abaixo é encontrada na obra de José Afonso da Silva."
+            },
+            {
+              "type": "content",
+              "text": "Direito Público: Constitucional, Administrativo, Urbanístico, Econômico, Financeiro, Tributário, Processual, Penal, Internacional (público e privado).\n\nDireito Social: Do Trabalho, Previdenciário.\n\nDireito Privado: Civil, Comercial (Empresarial)."
+            },
+            {
+              "type": "content",
+              "text": "Voltando agora nossas atenções ao ramo do Direito Constitucional... nota-se que ele pertence à divisão de Direito Público. Pois bem, ainda segundo José Afonso da Silva, trata-se de um Direito Público fundamental porque se refere diretamente à organização e funcionamento do Estado, à articulação dos elementos primários do mesmo e ao estabelecimento das bases da estrutura política."
+            },
+            {
+              "type": "content",
+              "text": "As normas de Direito Constitucional constituem uma ordem em que repousam a harmonia e a vida do grupo, porque estabelece equilíbrio entre seus elementos e na qual todas as demais disciplinas jurídicas centram seu ponto de apoio. Pode-se até mesmo dizer que o Direito Constitucional é um tronco do qual se separam os demais ramos do Direito."
+            }
+          ]
+        },
+        {
+          "id": "u1l2",
+          "title": "Objeto do D. Constitucional",
+          "slides": [
+            {
+              "type": "content",
+              "text": "Para José Afonso da Silva, Direito Constitucional é o ramo do Direito Público que expõe, interpreta e sistematiza os princípios e normas fundamentais do Estado. Como esses princípios e normas fundamentais do Estado compõem o conteúdo das constituições, pode-se afirmar que o Direito Constitucional é a ciência positiva das constituições."
+            },
+            {
+              "type": "content",
+              "text": "Segundo Paulo Bonavides, o Direito Constitucional tem basicamente por objeto determinar a forma de Estado, a forma de governo e o reconhecimento dos direitos individuais. Para ele, o estabelecimento de poderes supremos, a distribuição da competência, a transmissão e o exercício da autoridade, a formulação dos direitos e das garantias individuais e sociais são o objeto do Direito Constitucional contemporâneo."
+            },
+            {
+              "type": "content",
+              "text": "Já para José Afonso da Silva, cabe ao Direito Constitucional o estudo sistemático das normas que integram a constituição do Estado. Sendo ciência, há de ser forçosamente um conhecimento sistematizado sobre determinado objeto, e este é constituído pelas normas fundamentais da organização do Estado, isto é, (...)"
+            },
+            {
+              "type": "content",
+              "text": "(...) pelas normas relativas à estrutura do Estado, forma de governo, modo de aquisição e exercício do poder, estabelecimento de seus órgãos, limites de sua atuação, direitos fundamentais do homem e respectivas garantias e regras básicas da ordem econômica e social."
+            }
+          ]
+        },
+        {
+          "id": "u1l3",
+          "title": "Conteúdo Científico",
+          "slides": [
+            {
+              "type": "content",
+              "text": "Para terminarmos essas noções introdutórias, uma vez mais destacamos o magistério de José Afonso da Silva quanto às disciplinas que surgem do Direito Constitucional: (1) o Direito Constitucional Positivo ou Particular, (2) o Direito Constitucional Comparado e (3) o Direito Constitucional Geral."
+            },
+            {
+              "type": "content",
+              "text": "(1) Direito Constitucional Positivo (ou Particular): é o que tem por objeto o estudo dos princípios e normas de uma constituição concreta, de um Estado determinado. Abrange a interpretação, sistematização e crítica das normas jurídico-constitucionais desse Estado."
+            },
+            {
+              "type": "content",
+              "text": "(2) Direito Constitucional Comparado: é o estudo teórico das normas jurídico-constitucionais positivas de vários Estados (países), preocupando-se em destacar as singularidades e os contrastes entre eles. É um método que consiste em cotejar instituições políticas e jurídicas para extrair a evidência de semelhanças entre elas."
+            },
+            {
+              "type": "content",
+              "text": "(3) Direito Constitucional Geral: disciplina que delineia uma série de princípios de conceitos e de instituições que se acham em vários direitos positivos ou em grupos deles para classificá-los e sistematizá-los numa visão unitária."
+            }
+          ]
+        },
+        {
+          "id": "u1l4",
+          "title": "Sentido Sociológico",
+          "slides": [
+            {
+              "type": "content",
+              "text": "Iniciaremos o estudo das concepções de constituição apresentando seu sentido sociológico, que surgiu no século XIX, definido por Ferdinand Lassalle."
+            },
+            {
+              "type": "content",
+              "text": "Na concepção sociológica, a Constituição é um fato social, e não uma norma jurídica. Busca-se definir o que a Constituição “realmente é”, ou seja, leva-se em conta seu caráter material (sua verdadeira essência), e não seu caráter formal (como foi criada)."
+            },
+            {
+              "type": "content",
+              "text": "Lassalle entende que a Constituição real e efetiva de um Estado consiste na soma dos fatores reais de poder que vigoram na sociedade; ela é, assim, um reflexo das relações de poder que existem no âmbito do Estado. Com efeito, é o embate das forças econômicas, sociais, políticas e religiosas que forma a Constituição real (efetiva) do Estado."
+            },
+            {
+              "type": "content",
+              "text": "Na Prússia do tempo de Lassalle, os fatores reais de poder (forças econômicas, políticas e sociais) eram determinados pelo choque de interesses dos diversos atores do processo político: a monarquia, o Exército, a aristocracia, os grandes industriais, os banqueiros e também a pequena burguesia e a classe operária, ou seja, o povo."
+            },
+            {
+              "type": "content",
+              "text": "O equilíbrio instável entre esses interesses resultaria, segundo o autor, na Constituição real."
+            },
+            {
+              "type": "content",
+              "text": "Na situação ideal, essa Constituição real, resultante dos fatores reais do poder, adquiriria expressão escrita. Uma vez que esses fatores fossem incorporados ao papel, tornar-se-iam verdadeiro Direito – instituições escritas."
+            },
+            {
+              "type": "content",
+              "text": "Por outro lado, caso essa situação ideal não se concretizasse, a Constituição escrita seria mera “folha de papel”. O Estado teria, então, duas constituições: uma real, efetiva, correspondente à soma dos fatores reais de poder que o regessem; e outra, escrita, que consistiria apenas numa “folha de papel”. Em caso de conflito entre as duas, prevaleceria a primeira, ou seja, a efetiva."
+            },
+            {
+              "type": "content",
+              "text": "Foi a partir dessa lógica que Lassalle entendeu que todo e qualquer Estado sempre teve e sempre terá uma constituição real e efetiva, independentemente da existência de um texto escrito. A existência das constituições não é algo dos “tempos modernos”; o que o evoluir do constitucionalismo fez foi criar constituições escritas, verdadeiras “folhas de papel”."
+            }
+          ]
+        },
+        {
+          "id": "u1l5",
+          "title": "Sentido Político",
+          "slides": [
+            {
+              "type": "content",
+              "text": "Outra concepção de constituição que devemos conhecer é a preconizada por Carl Schmitt, a partir de sua obra “A Teoria da Constituição”, de 1920. Na sua visão, a Constituição seria fruto da vontade do povo, titular do poder constituinte; por isso mesmo é que essa teoria é considerada decisionista ou voluntarista."
+            },
+            {
+              "type": "content",
+              "text": "Para Schmitt, a Constituição é uma decisão política fundamental que visa estruturar e organizar os elementos essenciais do Estado. A validade da Constituição, segundo ele, baseia-se na decisão política que lhe dá existência, e não na justiça de suas normas. Pouco importa, ainda, se a Constituição corresponde ou não aos fatores reais de poder que imperam na sociedade; (...)"
+            },
+            {
+              "type": "content",
+              "text": "(...) o que interessa tão somente é que a Constituição é um produto da vontade do titular do Poder Constituinte. Daí a teoria de Schmitt ser chamada de voluntarista ou decisionista."
+            },
+            {
+              "type": "content",
+              "text": "Schmitt distingue Constituição de leis constitucionais. A primeira, segundo ele, dispõe apenas sobre matérias de grande relevância jurídica (decisões políticas fundamentais), como é o caso da organização do Estado, por exemplo. As segundas, por sua vez, seriam normas que fazem parte formalmente do texto constitucional, mas que tratam de assuntos de menor importância."
+            },
+            {
+              "type": "content",
+              "text": "A concepção política de constituição guarda notória correlação com a classificação das normas em materialmente constitucionais e formalmente constitucionais. As normas materialmente constitucionais correspondem àquilo que Carl Schmitt denominou “Constituição”; por sua vez, normas formalmente constitucionais são o que o autor chamou de “leis constitucionais”."
+            }
+          ]
+        },
+        {
+          "id": "u1l6",
+          "title": "Sentido Jurídico",
+          "slides": [
+            {
+              "type": "content",
+              "text": "Outra importante concepção de constituição foi a preconizada por Hans Kelsen, criador da Teoria Pura do Direito."
+            },
+            {
+              "type": "content",
+              "text": "Nessa concepção, a Constituição é entendida como norma jurídica pura, sem qualquer consideração de cunho sociológico, político ou filosófico. Ela é a norma superior e fundamental do Estado, que organiza e estrutura o poder político, limita a atuação estatal e estabelece direitos e garantias individuais."
+            },
+            {
+              "type": "content",
+              "text": "Para Kelsen, a Constituição não retira o seu fundamento de validade dos fatores reais de poder, é dizer, sua validade não se apoia na realidade social do Estado. Essa era, afinal, a posição defendida por Lassale, em sua concepção sociológica de constituição que, como é possível perceber, opunha-se fortemente à concepção kelseniana."
+            },
+            {
+              "type": "content",
+              "text": "Com o objetivo de explicar o fundamento de validade das normas, Kelsen concebeu o ordenamento jurídico como um sistema em que há um escalonamento hierárquico das normas. Sob essa ótica, as normas jurídicas inferiores (normas fundadas) sempre retiram seu fundamento de validade das normas jurídicas superiores (normas fundantes)."
+            },
+            {
+              "type": "content",
+              "text": "Assim, um decreto retira seu fundamento de validade das leis ordinárias; por sua vez, a validade das leis ordinárias apoia-se na Constituição."
+            },
+            {
+              "type": "content",
+              "text": "Chega-se, então, a uma pergunta decisiva para que se possa completar a lógica do sistema: de qual norma a Constituição, enquanto Lei suprema do Estado, retira seu fundamento de validade?"
+            },
+            {
+              "type": "content",
+              "text": "A resposta a essa pergunta, elaborada por Hans Kelsen, depende da compreensão da Constituição a partir de dois sentidos: o lógico-jurídico e o jurídico-positivo."
+            },
+            {
+              "type": "content",
+              "text": "No sentido lógico-jurídico, a Constituição é a norma hipotética fundamental (não real, mas sim imaginada, pressuposta) que serve como fundamento lógico transcendental da validade da Constituição em sentido jurídico-positivo."
+            },
+            {
+              "type": "content",
+              "text": "Essa norma não possui um enunciado explícito, consistindo apenas numa ordem, dirigida a todos, de obediência à Constituição positiva. É como se a norma fundamental hipotética dissesse o seguinte: “Obedeça-se à constituição positiva!”. "
+            },
+            {
+              "type": "content",
+              "text": "Já no sentido jurídico-positivo, a Constituição é a norma positiva suprema, que serve para regular a criação de todas as outras. É documento solene, cujo texto só pode ser alterado mediante procedimento especial. No Brasil, essa Constituição é, atualmente, a de 1988 (CF/88)."
+            },
+            {
+              "type": "content",
+              "text": "No sistema proposto por Kelsen, o fundamento de validade das normas está na hierarquia entre elas. Toda norma apoia sua validade na norma imediatamente superior. Com a Constituição positiva (escrita) não é diferente: seu fundamento de validade está na norma hipotética fundamental, que é norma pressuposta, imaginada."
+            }
+          ]
+        },
+        {
+          "id": "u1l7",
+          "title": "Sentido Cultural",
+          "slides": [
+            {
+              "type": "content",
+              "text": "Apesar de pouco cobrado em prova, é importante que saibamos o que significa a Constituição no sentido cultural, preconizado por Meirelles Teixeira. Para esse sentido, o Direito só pode ser entendido como objeto cultural, ou seja, uma parte da cultura. Isso porque o Direito NÃO É:"
+            },
+            {
+              "type": "content",
+              "text": "a) Real, uma vez que os seres reais pertencem à natureza, como uma pedra ou um rio, por exemplo.\n"
+            },
+            {
+              "type": "content",
+              "text": "b) Ideal, uma vez que não se trata de uma relação (igualdade, diferença, metade, etc.) nem de uma quantidade ou figura matemática (números, formas geométricas, etc.) ou de uma essência, pois os seres ideais são imutáveis e existem fora do tempo e do espaço, enquanto o conteúdo das normas jurídicas varia através dos tempos, dos lugares, dos povos e da história."
+            },
+            {
+              "type": "content",
+              "text": "c) Puro valor, uma vez que, por meio de suas normas, apenas tenta concretizar ou realizar um valor, não se confundindo com ele."
+            },
+            {
+              "type": "content",
+              "text": "Por isso, considerando que os seres são classificados em quatro categorias – reais, ideais, valores e objetos culturais –, o Direito pertence a esta última. Isso porque, assim como a cultura, o Direito é produto da atividade humana."
+            },
+            {
+              "type": "content",
+              "text": "A partir dessa análise, chega-se ao conceito de constituição total, que é condicionada pela cultura do povo e também atua como condicionante dessa mesma cultura. Essa constituição abrange todos os aspectos da vida da sociedade e do Estado, sendo uma combinação de todas as concepções anteriores – sociológica, política e jurídica."
+            }
+          ]
+        },
+        {
+          "id": "u1l8",
+          "title": "Força Normativa da Constituição",
+          "slides": [
+            {
+              "type": "content",
+              "text": "O jurista alemão Konrad Hesse, autor da obra A força normativa da Constituição, é um dos responsáveis pelo conceito mais moderno e atual de constituição. Como o próprio nome da obra sugere, a linha de pensamento de Hesse vai no sentido de que a Constituição deve ser considerada uma norma jurídica, tendo, portanto, força normativa."
+            },
+            {
+              "type": "content",
+              "text": "Trata-se de um ponto de vista que vai de encontro ao que afirma Ferdinand Lassale: para este, a Constituição seria uma simples \"folha de papel\" e um fato social (e não uma norma jurídica). Hesse reconhece a importância da realidade histórica social do tempo em que a Constituição foi editada, mas essa realidade temporal não pode ser uma única condicionante para a Constituição.\n"
+            },
+            {
+              "type": "content",
+              "text": "Ou seja, para Hesse, em caso de conflito entre um fato social e a Constituição, esta deve preponderar."
+            },
+            {
+              "type": "content",
+              "text": "Nesse sentido, para Hesse, não há que se falar em separação ou confusão entre \"Constituição real\" e \"Constituição jurídica\". Há um condicionamento mútuo entre elas."
+            },
+            {
+              "type": "content",
+              "text": "Acerca disso, leia o excerto a seguir, retirado da obra de Konrad Hesse:\n\n\"A norma constitucional não tem existência autônoma em face da realidade. A sua essência reside na sua vigência, ou seja, a situação por ela regulada pretende ser concretizada na realidade\"."
+            },
+            {
+              "type": "content",
+              "text": "\"A pretensão de eficácia de uma norma constitucional não se confunde com as condições de sua realização; a pretensão de eficácia associa-se a essas condições como elemento autônomo\"."
+            },
+            {
+              "type": "content",
+              "text": "\"A Constituição não configura, portanto, apenas expressão de um ser, mas também de um dever ser; ela significa mais do que o simples reflexo das condições fáticas de sua vigência, particularmente as forças sociais e política\"."
+            },
+            {
+              "type": "content",
+              "text": "\"Graças à pretensão de eficácia, a Constituição procura imprimir ordem e conformação à realidade política e social. Determinada pela realidade social e, ao mesmo tempo, determinante em relação a ela, não se pode definir como fundamental nem a pura normatividade, nem a simples eficácia das condições sociopolíticas e econômicas\"."
+            },
+            {
+              "type": "content",
+              "text": "\"A força condicionante da realidade e a normatividade da Constituição podem ser diferençadas; elas não podem, todavia, ser definitivamente separadas ou confundidas. [...] A 'Constituição real' e a 'Constituição jurídica' se condicionam mutuamente, mas não dependem, pura e simplesmente, uma da outra\".\n"
+            },
+            {
+              "type": "content",
+              "text": "Quanto mais o conteúdo de uma constituição corresponder à natureza do seu tempo, mais segura será a sua força normativa. Ela deve levar em conta não só os elementos sociais, políticos e econômicos dominantes, mas também incorporar o estado espiritual do seu tempo, algo que assegurará apoio e defesa da consciência geral da população em relação à Constituição:\n"
+            },
+            {
+              "type": "content",
+              "text": "\"Um ótimo desenvolvimento da força normativa da Constituição depende não apenas do seu conteúdo, mas também de sua práxis. De todos os partícipes da vida constitucional exige-se partilhar aquela concepção anteriormente por mim denominada vontade de Constituição. Ela é fundamental, considerada global ou singularmente\".\n"
+            },
+            {
+              "type": "content",
+              "text": "Konrad Hesse atribui ao Direito Constitucional a tarefa de concretização da força normativa da Constituição, sobretudo porque esta não está assegurada de plano, “configurando missão que, somente em determinadas condições poderá ser realizada de forma excelente”. A Ciência do Direito Constitucional \"cumpre seu mister quando envida esforços para evitar que as questões constitucionais se convertam em questões de poder\"."
+            },
+            {
+              "type": "content",
+              "text": "Konrad Hesse entende que a Constituição deve ser entendida como a ordem jurídica fundamental de uma comunidade ou o plano estrutural para a conformação jurídica de uma comunidade, segundo certos princípios fundamentais, uma tarefa cuja realização só se torna possível porque a Lei Fundamental:\n"
+            },
+            {
+              "type": "content",
+              "text": "1 - fixa os princípios diretores segundo os quais se deve formar a unidade política e desenvolver as tarefas estatais;\n2 - define os procedimentos para a solução dos conflitos no interior da comunidade;\n3 - disciplina a organização e o processo de formação da unidade política e da atuação estatal; e\n4 - cria as bases e determina os princípios da ordem jurídica global."
+            },
+            {
+              "type": "content",
+              "text": "A obra de Pedro Lenza consigna outra classificação: seria a Constituição dúctil (ou maleável, suave), assim denominada pelo jurista Gustavo Zagrebelsky:"
+            },
+            {
+              "type": "content",
+              "text": "\"[...] para exprimir a necessidade de a Constituição acompanhar a perda do centro ordenador do estado e refletir o pluralismo social, político e econômico. Neste sentido, a uma Constituição caberá a tarefa básica de assegurar apenas as condições possibilitadoras de uma vida em comum, mas já não lhe pertence realizar diretamente um projeto predeterminado dessa vida comunitária\"."
+            },
+            {
+              "type": "content",
+              "text": "\"As Constituições concebem-se, pois, como plataformas de partida para a realização de políticas constitucionais diferenciadas que utilizem em termos inventivos os 'vários materiais de construção' semeados nos textos constitucionais\"."
+            },
+            {
+              "type": "content",
+              "text": "Logo, a sobrevivência da sociedade complexa, pluralista e democrática,\nreconhecendo-se a importância de uma dogmática ”fluida”, depende da\nidentificação de um modelo de constituição dúctil (maleável) a assegurar, dentro\ndos seus limites e de uma perspectiva de coexistência, a espontaneidade da vida\nsocial e, assim, as condições para a vida em comum."
+            }
+          ]
+        },
+        {
+          "id": "u1l9",
+          "title": "Pondo à Prova - BLOCO 1",
+          "slides": [
+            {
+              "type": "question",
+              "header": "CRP/MA - 2021",
+              "statement": "Para Konrad Hesse, o documento escrito com o nome de constituição, se não espelhar fielmente a soma dos fatores reais de poder que coexistem em uma sociedade, não será de serventia alguma, não passando de um pedaço de papel.",
+              "correctOption": "E",
+              "explanation": "A alternativa expressa, na verdade, o sentido sociológico de constituição elaborado por Ferdinand Lassale. Konrad Hesse é o jurista que defendeu a força normativa da Constituição. Questão errada."
+            },
+            {
+              "type": "question",
+              "header": "FAPESP - 2018",
+              "statement": "No tocante ao tema conceito de constituição, existem pensadores e doutrinadores que formularam concepções de constituição segundo seus diferentes sentidos. Consequentemente, é correto afirmar que Ferdinand Lassale, Carl Schmitt e Hans Kelsen estão ligados às concepções de constituição, respectivamente, nos sentidos sociológico, político e jurídico.",
+              "correctOption": "C",
+              "explanation": "Lassale é responsável pelo conceito sociológico de constituição, em que ela é a soma dos fatores reais do poder. Schmitt, por sua vez, define constituição em seu sentido político, considerando-a decisão política fundamental. Por fim, Hans Kelsen preconiza constituição em sentido jurídico, como norma hipotética fundamental da qual se extrai a validade de todo o ordenamento jurídico. Questão correta."
+            },
+            {
+              "type": "question",
+              "header": "TJ-PR - 2017",
+              "statement": "Em sentido sociológico, a Constituição deve ser entendida como a norma que se\nrefere à decisão política estruturante da organização do Estado.",
+              "correctOption": "E",
+              "explanation": "A Constituição em sentido sociológico é a soma dos fatores reais de poder que vigoram na sociedade. Questão errada."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
