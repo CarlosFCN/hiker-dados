@@ -5,7 +5,7 @@
     {
       "id": "1",
       "title": "Teoria da Constituição",
-      "color": "bg-blue-400",
+      "color": "bg-blue-500",
       "lessons": [
         {
           "id": "u1l1",
@@ -341,7 +341,7 @@
         },
         {
           "id": "u1l9",
-          "title": "Pondo à Prova - BLOCO 1",
+          "title": "VAMOS PRATICAR",
           "slides": [
             {
               "type": "question",
@@ -363,6 +363,307 @@
               "statement": "Em sentido sociológico, a Constituição deve ser entendida como a norma que se\nrefere à decisão política estruturante da organização do Estado.",
               "correctOption": "E",
               "explanation": "A Constituição em sentido sociológico é a soma dos fatores reais de poder que vigoram na sociedade. Questão errada."
+            },
+            {
+              "type": "question",
+              "header": "PC/DF – 2015",
+              "statement": "Hans Kelsen concebe dois planos distintos do direito: o jurídico-positivo, que são as normas positivadas; e o lógico-jurídico, situado no plano lógico, como norma fundamental hipotética pressuposta, criando-se uma verticalidade hierárquica de normas.",
+              "correctOption": "C",
+              "explanation": "No sentido lógico-jurídico, a Constituição é a norma hipotética fundamental. Já no sentido jurídico-positivo, a Constituição é a norma positiva suprema. Questão correta.\n"
+            },
+            {
+              "type": "question",
+              "header": "PC/DF – 2015",
+              "statement": "De acordo com o sentido político de Carl Schmitt, a constituição é o somatório dos fatores reais do poder dentro de uma sociedade. Isso significa que a constituição somente se legitima quando representa o efetivo poder social.",
+              "correctOption": "E",
+              "explanation": "No sentido sociológico, preconizado por Ferdinand Lassale, a Constituição é a soma dos fatores reais de poder. Questão errada."
+            },
+            {
+              "type": "question",
+              "header": "PC/DF – 2015",
+              "statement": "De acordo com o sentido sociológico de Ferdinand Lassale, a constituição não se confunde com as leis constitucionais. A constituição, como decisão política fundamental, irá cuidar apenas de determinadas matérias estruturantes do Estado, como órgãos do Estado, e dos direitos e das garantias fundamentais, entre outros.",
+              "correctOption": "E",
+              "explanation": "Carl Schmitt é quem fez a distinção entre Constituição e “leis constitucionais”. Questão errada."
+            }
+          ]
+        },
+        {
+          "id": "u1l10",
+          "title": "Concepção Estrutural",
+          "slides": [
+            {
+              "type": "content",
+              "text": "José Afonso da Silva aponta que as concepções de Lassale, Schmitt ou Kelsen, por exemplo, pecam pela unilateralidade. Nesse sentido, vários juristas têm tentado formular um conceito unitário de constituição, concebendo-a em sentido que revele conexão de suas normas com a totalidade da vida coletiva. É o que se conhece como “Constituição Total”.\n"
+            },
+            {
+              "type": "content",
+              "text": "\"A Constituição é algo que tem, (i) como forma, um complexo de normas (escritas ou\ncostumeiras); (ii) como conteúdo, a conduta humana motivada pelas relações sociais\n(econômicas, políticas, religiosas); (iii) como fim, a realização dos valores que apontam para o existir da comunidade; e, finalmente, (iv) como causa criadora e recriadora, o poder que emana do povo\".\n"
+            },
+            {
+              "type": "content",
+              "text": "\"Não pode ser compreendida e interpretada, se não se tiver em mente essa estrutura, considerada como conexão de sentido, como é tudo aquilo que integra um conjunto de valores\"."
+            }
+          ]
+        },
+        {
+          "id": "u1l11",
+          "title": "Conceito de Constituição",
+          "slides": [
+            {
+              "type": "content",
+              "text": "O estudo do Direito Constitucional – e do Direito, como um todo – necessariamente começa com a seguinte pergunta: o que se entende por Constituição?\n"
+            },
+            {
+              "type": "content",
+              "text": "Objeto de estudo do Direito Constitucional, a Constituição é a lei fundamental e suprema de um Estado, criada pela vontade soberana do povo. É ela que determina a organização político-jurídica do Estado, dispondo sobre a sua forma, os órgãos que o integram e as competências destes e, finalmente, a aquisição e o exercício do poder."
+            },
+            {
+              "type": "content",
+              "text": "Cabe também a ela estabelecer as limitações ao poder do Estado e enumerar os direitos e as garantias fundamentais."
+            },
+            {
+              "type": "content",
+              "text": "Na doutrina de Paulo Bonavides, Constituição, do ponto de vista material (ou seja, acerca do seu conteúdo), é o conjunto de normas pertinentes à organização do poder, à distribuição de competência, ao exercício da autoridade, à forma de governo, aos direitos da pessoa humana, tanto individuais como sociais."
+            },
+            {
+              "type": "content",
+              "text": "Tudo quanto for, enfim, conteúdo básico referente à composição e ao funcionamento da ordem política exprime o aspecto material da Constituição. São as determinações mais importantes e merecedoras de serem designadas como matéria constitucional."
+            },
+            {
+              "type": "content",
+              "text": "Por outro lado, há normas enxertadas no corpo da Constituição que não se referem aos elementos básicos ou institucionais de organização política. São normas de aparência constitucional, portanto. Logo, tudo o que está na Constituição tem aspecto formal, porquanto está incorporado ao texto da Carta."
+            },
+            {
+              "type": "content",
+              "text": "A concepção de constituição ideal foi preconizada por J. J. Canotilho. Trata-se de constituição de caráter liberal, que apresenta os seguintes elementos:\na) Deve ser escrita. b) Deve conter um sistema de direitos fundamentais individuais (liberdades negativas). c) Deve conter a definição e o reconhecimento do princípio da separação dos poderes. d) Deve adotar um sistema democrático formal.\n"
+            },
+            {
+              "type": "content",
+              "text": "Note que todos esses elementos estão intrinsecamente relacionados à limitação do poder coercitivo do Estado. Cabe destacar, por estar relacionado ao conceito de constituição ideal, o que dispõe o art. 16 da Declaração dos Direitos do Homem e do Cidadão (1789): “Toda sociedade na qual não está assegurada a garantia dos direitos nem determinada a separação de poderes, não tem constituição”.\n"
+            },
+            {
+              "type": "content",
+              "text": "É importante ressaltar que a doutrina não é pacífica quanto à definição do conceito de constituição, podendo este ser analisado a partir de diversas concepções. Isso porque o Direito não pode ser estudado isoladamente em relação a outras ciências sociais, como Sociologia e Política, por exemplo."
+            }
+          ]
+        },
+        {
+          "id": "u1l12",
+          "title": "Estrutura das Constituições",
+          "slides": [
+            {
+              "type": "content",
+              "text": "As Constituições, de forma geral, dividem-se em três partes: preâmbulo, parte dogmática e disposições transitórias."
+            },
+            {
+              "type": "content",
+              "text": "O preâmbulo é a parte que antecede o texto constitucional propriamente dito. Tem como função definir as intenções do legislador constituinte, proclamando os princípios da nova constituição e rompendo com a ordem jurídica anterior.\n"
+            },
+            {
+              "type": "content",
+              "text": "Além disso, serve de elemento de integração dos artigos que lhe seguem, bem como orienta a sua interpretação. Também sintetiza a ideologia do Poder Constituinte Originário, expondo os valores por ele adotados e os objetivos por ele perseguidos."
+            },
+            {
+              "type": "content",
+              "text": "Segundo o Supremo Tribunal Federal, o preâmbulo não é norma constitucional. Portanto, não serve de parâmetro para a declaração de inconstitucionalidade e não estabelece limites para o Poder Constituinte Derivado, seja ele Reformador ou Decorrente."
+            },
+            {
+              "type": "content",
+              "text": "Por isso, o STF entende que suas disposições não são de reprodução obrigatória pelas Constituições Estaduais. Segundo o STF, o Preâmbulo não dispõe de força normativa, não tendo caráter vinculante. Apesar disso, a doutrina não o considera juridicamente irrelevante, uma vez que deve ser uma das linhas mestras interpretativas do texto constitucional."
+            },
+            {
+              "type": "content",
+              "text": "Nesse sentido, é importante conhecermos o que diz o preâmbulo da nossa atual Carta Magna. Veja a transcrição dele a seguir:"
+            },
+            {
+              "type": "content",
+              "text": "\"Nós, representantes do povo brasileiro, reunidos em Assembleia Nacional Constituinte para instituir um Estado Democrático, destinado a assegurar o exercício dos direitos sociais e individuais, a liberdade, a segurança, o bem-estar, o desenvolvimento, a igualdade e a justiça como valores supremos de uma sociedade fraterna, pluralista e sem preconceitos, (...)\""
+            },
+            {
+              "type": "content",
+              "text": "\"(...) fundada na harmonia social e comprometida, na ordem interna e internacional, com a solução pacífica das controvérsias, promulgamos, sob a proteção de Deus, a seguinte CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL\"."
+            },
+            {
+              "type": "content",
+              "text": "Note a menção a princípios caros ao nosso ordenamento jurídico, como liberdade, segurança, bem-estar, desenvolvimento, igualdade e justiça. O próprio preâmbulo afirma que se trata de valores supremos de uma sociedade fraterna, pluralista e sem preconceitos.\n"
+            },
+            {
+              "type": "content",
+              "text": "A parte dogmática da Constituição é o texto constitucional propriamente dito, que prevê os direitos e deveres criados pelo Poder Constituinte. Trata-se do corpo permanente da Carta Magna, que, na CF/88, vai do art. 1º ao 250."
+            },
+            {
+              "type": "content",
+              "text": "Destaca-se que falamos em “corpo permanente” porque, a princípio, essas normas não têm caráter transitório, embora possam ser modificadas pelo Poder Constituinte Derivado Reformador, mediante Emenda Constitucional."
+            },
+            {
+              "type": "content",
+              "text": "Por fim, a parte transitória da Constituição visa integrar a ordem jurídica antiga à nova, quando do advento de uma nova Constituição, garantindo a segurança jurídica e evitando o colapso entre um ordenamento jurídico e outro. Suas normas são formalmente constitucionais, embora, no texto da CF/88, apresente numeração própria (veja ADCT – Ato das Disposições Constitucionais Transitórias)."
+            },
+            {
+              "type": "content",
+              "text": " Assim como a parte dogmática, a parte transitória pode ser modificada por reforma constitucional. Além disso, também pode servir como paradigma para o controle de constitucionalidade das leis."
+            }
+          ]
+        },
+        {
+          "id": "u1l13",
+          "title": "VAMOS PRATICAR",
+          "slides": [
+            {
+              "type": "question",
+              "header": "FUB – 2022",
+              "statement": "Por ser norma jurídica, a CF é dotada de força normativa para vincular e impor os seus comandos, a exemplo de seu preâmbulo, que possui força normativa de reprodução obrigatória nas constituições dos estados-membros da Federação.",
+              "correctOption": "E",
+              "explanation": "Conforme o posicionamento do Supremo Tribunal Federal, o preâmbulo constitucional não se trata de norma de reprodução obrigatória: \"[...] II. - Preâmbulo da Constituição: não constitui norma central. Invocação da proteção de Deus: não se trata de norma de reprodução obrigatória na Constituição estadual, não tendo força normativa. [...]\" (STF – ADI 2.076). Questão errada."
+            },
+            {
+              "type": "question",
+              "header": "ALESE – 2018",
+              "statement": "O preâmbulo da Constituição Federal brasileira é norma de reprodução obrigatória nas Constituições Estaduais.",
+              "correctOption": "E",
+              "explanation": "Segundo o STF, o preâmbulo da Constituição Federal brasileira não é norma de reprodução obrigatória nas Constituições Estaduais, por não ser norma constitucional. Questão errada."
+            },
+            {
+              "type": "question",
+              "header": "DPE-MS – 2014",
+              "statement": "O preâmbulo da Constituição não constitui norma central, não tendo força normativa e, consequentemente, não servindo como paradigma para a declaração de inconstitucionalidade.",
+              "correctOption": "C",
+              "explanation": "O preâmbulo não tem força normativa e, em razão disso, não serve de paradigma para o controle de constitucionalidade. Questão correta."
+            }
+          ]
+        },
+        {
+          "id": "u1l14",
+          "title": "Elementos das Constituições",
+          "slides": [
+            {
+              "type": "content",
+              "text": "Embora as Constituições formem um todo sistematizado, suas normas estão agrupadas em títulos, capítulos e seções, com conteúdo, origem e finalidade diferentes. Diz-se, por isso, que a Constituição tem caráter polifacético, ou seja, que possui “muitas faces”."
+            },
+            {
+              "type": "content",
+              "text": "A fim de melhor compreender cada uma dessas faces, a doutrina agrupa as normas constitucionais conforme suas finalidades, no que se denominam elementos da constituição. Segundo José Afonso da Silva, esses elementos formam cinco categorias:"
+            },
+            {
+              "type": "content",
+              "text": "a) Elementos orgânicos — compreendem as normas que regulam a estrutura do Estado e do Poder. Exemplos: Título III (Da Organização do Estado) e IV (Da Organização dos Poderes e do Sistema de Governo).\n"
+            },
+            {
+              "type": "content",
+              "text": "b) Elementos limitativos — compreendem as normas que compõem os direitos e as garantias fundamentais, limitando a atuação do poder estatal. Os direitos sociais, que são aqueles que exigem prestações positivas do Estado em favor dos indivíduos, não se enquadram como elementos limitativos. Exemplo: Título II (Dos Direitos e Garantias Fundamentais), exceto Capítulo II (Dos Direitos Sociais).\n"
+            },
+            {
+              "type": "content",
+              "text": "c) Elementos socioideológicos — são as normas que traduzem o compromisso das Constituições modernas com o bem-estar social. Tais normas refletem a existência do Estado social, intervencionista, prestacionista. Exemplos: Capítulo II do Título II (Dos Direitos Sociais), Títulos VII (Da Ordem Econômica e Financeira) e VIII (Da Ordem Social)."
+            },
+            {
+              "type": "content",
+              "text": "d) Elementos de estabilização constitucional — compreendem as normas destinadas a prover solução de conflitos constitucionais, bem como a defesa da Constituição, do Estado e das instituições democráticas. São instrumentos de defesa do Estado, com vistas a promover a paz social. Exemplos: art. 102, I, “a” (ação de inconstitucionalidade) e arts. 34 a 36 (intervenção)."
+            },
+            {
+              "type": "content",
+              "text": "e) Elementos formais de aplicabilidade — compreendem as normas que estabelecem regras de aplicação da Constituição. Exemplos: preâmbulo, disposições  constitucionais transitórias e art. 5º, § 1º, que estabelece que as normas definidoras dos direitos e das garantias fundamentais têm aplicação imediata."
+            }
+          ]
+        },
+        {
+          "id": "u1l15",
+          "title": "Supremacia da Constituição",
+          "slides": [
+            {
+              "type": "content",
+              "text": "Segundo José Afonso da Silva, a rigidez constitucional decorre da maior dificuldade para sua modificação do que para a alteração das demais normas jurídicas da ordenação estatal. Da rigidez emana, como primordial consequência, o princípio da supremacia da Constituição."
+            },
+            {
+              "type": "content",
+              "text": "Significa que a Constituição se coloca no vértice do sistema jurídico do país, a que confere validade, e que todos os poderes estatais são legítimos na medida em que ela os reconheça e na proporção por ela distribuídos.\n"
+            },
+            {
+              "type": "content",
+              "text": "É nela que se encontram a própria estruturação do Estado e a organização de seus órgãos; é nela que se acham as normas fundamentais de Estado, e só nisso se notará sua superioridade em relação às demais normas jurídicas."
+            },
+            {
+              "type": "content",
+              "text": "A atual Constituição Brasileira, promulgada em 5 de outubro de 1988, é rígida. Em consequência, é a lei fundamental e suprema do Estado brasileiro. Toda autoridade só nela encontra fundamento e só ela confere poderes e competências governamentais."
+            },
+            {
+              "type": "content",
+              "text": "Nem o governo federal, nem os governos estaduais, nem os dos Municípios ou do Distrito Federal são soberanos, porque todos são limitados, expressa ou implicitamente, pelas normas positivas daquela lei fundamental. Exercem suas atribuições nos termos nela estabelecidos."
+            },
+            {
+              "type": "content",
+              "text": "Todas as normas que integram a ordenação jurídica nacional só serão válidas se se conformarem com as normas da Constituição Federal."
+            }
+          ]
+        },
+        {
+          "id": "u1l16",
+          "title": "Aplicabilidade das N. Constitucionais",
+          "slides": [
+            {
+              "type": "content",
+              "text": "O estudo da aplicabilidade das normas constitucionais é essencial à correta interpretação da Constituição Federal. É a compreensão da aplicabilidade das normas constitucionais que nos permitirá entender exatamente o alcance e o grau de realização dos diversos dispositivos da Constituição."
+            },
+            {
+              "type": "content",
+              "text": "Todas as normas constitucionais apresentam juridicidade. Todas elas são imperativas e cogentes ou, em outras palavras, todas as normas constitucionais surtem efeitos jurídicos: o que varia entre elas é o grau de eficácia."
+            },
+            {
+              "type": "content",
+              "text": "A doutrina americana (clássica) distingue duas espécies de normas constitucionais quanto à aplicabilidade: as normas autoexecutáveis (“self-executing”) e as normas não autoexecutáveis."
+            },
+            {
+              "type": "content",
+              "text": "As normas autoexecutáveis são normas que podem ser aplicadas sem a necessidade de qualquer complementação. São normas completas, bastantes em si mesmas."
+            },
+            {
+              "type": "content",
+              "text": "Já as normas não autoexecutáveis dependem de complementação legislativa antes de serem aplicadas: são as normas incompletas, as normas programáticas (que definem diretrizes para as políticas públicas) e as normas de estruturação (instituem órgãos, mas deixam para a lei a tarefa de organizar o seu funcionamento)."
+            },
+            {
+              "type": "content",
+              "text": "Embora a doutrina americana seja bastante didática, a classificação das normas quanto à sua aplicabilidade mais aceita no Brasil foi a proposta pelo Prof. José Afonso da Silva."
+            },
+            {
+              "type": "content",
+              "text": "A partir da aplicabilidade das normas constitucionais, José Afonso da Silva classifica as normas constitucionais em três grupos: i) normas de eficácia plena; ii) normas de eficácia contida; e iii) normas de eficácia limitada.\n"
+            },
+            {
+              "type": "content",
+              "text": "A classificação do Prof. José Afonso da Silva analisa a eficácia das normas sob um ponto de vista jurídico. Também é possível se falar em eficácia social das normas, que diz respeito ao grau em que uma determinada norma jurídica é aplicada no dia a dia da sociedade. Do ponto de vista social, uma norma será eficaz quando for efetivamente aplicada a casos concretos."
+            }
+          ]
+        },
+        {
+          "id": "u1l17",
+          "title": "Normas de Eficácia Plena",
+          "slides": [
+            {
+              "type": "content",
+              "text": "Normas de eficácia plena são aquelas que, desde a entrada em vigor da Constituição, produzem, ou têm possibilidade de produzir, todos os efeitos que o legislador constituinte quis regular. É o caso do art. 2º da CF/88, que diz: “são Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário”."
+            },
+            {
+              "type": "content",
+              "text": "As normas de eficácia plena possuem as seguintes características:"
+            },
+            {
+              "type": "content",
+              "text": "a) são autoaplicáveis, é dizer, elas independem de lei posterior regulamentadora que lhes complete o alcance e o sentido. Isso não quer dizer que não possa haver lei regulamentadora versando sobre uma norma de eficácia plena; a lei regulamentadora até pode existir, mas a norma de eficácia plena já produz todos os seus efeitos de imediato, independentemente de qualquer tipo de regulamentação."
+            },
+            {
+              "type": "content",
+              "text": "b) são não restringíveis, ou seja, caso exista uma lei tratando de uma norma de eficácia plena, esta não poderá limitar sua aplicação."
+            },
+            {
+              "type": "content",
+              "text": "c) possuem aplicabilidade direta (não dependem de norma regulamentadora para produzir seus efeitos), imediata (estão aptas a produzir todos os seus efeitos desde o momento em que é promulgada a Constituição) e integral (não podem sofrer limitações ou restrições em sua aplicação)."
+            },
+            {
+              "type": "question",
+              "header": "CNMP – 2023)",
+              "statement": "As normas constitucionais de eficácia plena são assim classificadas porque não é necessário que produzam todos os seus efeitos essenciais de forma direta, imediata e integral, bastando terem a possibilidade de produzi-los.",
+              "correctOption": "C",
+              "explanation": "A norma constitucional é plena porque ela tem a possibilidade de produzir efeitos de forma\ndireta, imediata e integral. Isso não significa que, necessariamente, as normas de eficácia plena\nproduzirão seus efeitos essenciais. Questão correta."
             }
           ]
         }
