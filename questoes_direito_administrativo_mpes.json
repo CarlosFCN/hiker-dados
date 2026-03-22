@@ -1,0 +1,183 @@
+{
+  "id": "curso_novo",
+  "title": "QUESTÕES DIREITO ADMINISTRATIVO MPES",
+  "acronym": "DADM",
+  "version": "220320260239",
+  "units": [
+    {
+      "id": "1",
+      "title": "PRINCÍPIOS DA ADMINISTRAÇÃO PÚBLICA",
+      "color": "bg-purple-500",
+      "lessons": [
+        {
+          "id": "u1l1",
+          "title": "Primeira Lição",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – CNU / Nível Superior / 2025) ",
+              "question": "Determinado gestor teve grande dedicação na estruturação e correlata implementação de política pública direcionada à população em situação de vulnerabilidade socioeconômica, o que, a seu ver, deveria ser objeto de ampla divulgação, de modo a permitir a fruição dos respectivos benefícios pelos seus destinatários em potencial. Logo após o início da campanha publicitária, que teve caráter informativo, sem promoção pessoal, diversos setores da sociedade civil organizada a criticaram. Afinal, para ele, considerando a realização de eleições no ano subsequente, a campanha terminaria naturalmente por acarretar benefícios indiretos ao gestor, que já se apresentava nas redes sociais como pré-candidato. Na situação descrita, é correto afirmar que a campanha publicitária:",
+              "options": [
+                "não poderia ser realizada, por afrontar a moralidade administrativa;",
+                "não poderia ser realizada, por configurar publicidade de política pública;",
+                "poderia ser realizada, considerando o objetivo almejado com a sua realização;",
+                "não poderia ser realizada, por afrontar o princípio da impessoalidade;",
+                "poderia ser realizada, considerando a plena liberdade do gestor na definição dos objetivos a serem alcançados com a publicidade institucional."
+              ],
+              "answer": 2,
+              "explanation": "Segundo a CF,\n\n\"Art. 37 [...] § 1º A publicidade dos atos, programas, obras, serviços e campanhas dos órgãos públicos deverá ter caráter educativo, informativo ou de orientação social, dela não podendo constar nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos\".\n\nDessa forma, como a publicidade teve o objetivo de “a permitir a fruição dos respectivos benefícios pelos seus destinatários em potencial”, gozando de “caráter informativo, sem promoção pessoal”, não houve violação ao ordenamento jurídico, pois a publicidade ocorreu de acordo com o princípio da impessoalidade.\n\nDessa forma, a publicidade poderia ser realizada, considerando o objetivo almejado com a sua realização (letra C) e, pelo mesmo motivo, a letra D está errada. \n\nA letra A está errada, já que não houve violação à moralidade, pois o prefeito não buscou favorecimento ou promoção pessoal. A letra B está incorreta, já que a publicidade poderia ser realizada, justamente por configurar publicidade de política pública, realizada de forma impessoal. Por fim, o erro na letra E é que o gestor não poderia definir os objetivos da publicidade, uma vez que o art. 37, § 1º, da CF, já define o caráter educativo, informativo ou de orientação social.\n\nGabarito: alternativa C.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – TRT - 24ª REGIÃO (MS) / 2025)",
+              "question": "As certidões e os autos de arrematação, adjudicação, reintegração e imissão devem refletir os princípios da fé pública, da objetividade, da completeza e da impessoalidade. Assinale a opção que apresenta corretamente a aplicação do princípio de impessoalidade.",
+              "options": [
+                "Garante que os atos administrativos sejam personalizados conforme o entendimento do servidor responsável pela sua emissão, desde que haja fundamentação técnica.",
+                "Permite a promoção pessoal de autoridades públicas, desde que vinculada a ações administrativas relevantes.",
+                "Limita-se, nas certidões e autos, à linguagem utilizada, não influenciando o conteúdo ou os efeitos do ato.",
+                "Determina que os atos administrativos não devem visar beneficiar ou prejudicar pessoas específicas, devendo ser atribuídos à entidade pública e não ao agente individual.",
+                "Impede que a Administração Pública utilize modelos padronizados de certidões e autos, pois isso compromete a análise individualizada de cada caso."
+              ],
+              "answer": 3,
+              "explanation": "a) Errada. Os atos administrativos não podem ser utilizados para atingir interesses meramente privados, pessoais, desconexos com o interesse da coletividade, e por isso não há que se falar em personalização conforme livre entendimento do servidor. O princípio da impessoalidade se traduz na ideia de isonomia, pois a Administração deve atender a todos os administrados sem discriminações.\n\nb) Errada. O princípio da impessoalidade veda a promoção pessoal, tendo em vista que os agentes públicos atuam em nome do Estado. Dessa forma, não poderá ocorrer a pessoalização ou promoção pessoal do agente público pelos atos realizados.\n\nc) Errada. O conteúdo desses atos deve ser claro para que possa ser compreendido de imediato, evitandose o uso de linguagem que dificulte a compreensão pelos administrados.\n\nd) Certa. A impessoalidade obriga que o poder público não privilegie interesses particulares através do uso da máquina pública, garantindo que todo e qualquer ato praticado por qualquer servidor seja considerado como um ato estatal e não pessoal. Assim, atos administrativos devem ser sempre redigidos em nome do Poder Público, de modo a atender aos interesses coletivos.\n\ne) Errada. Pelo contrário, a padronização é aceita e recomendável, pois evitam que cada órgão público utilize seu próprio tipo de escrita e diagramação de texto.\n\nGabarito: alternativa D.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – TRT - 24ª REGIÃO (MS) / 2025)",
+              "question": "Os Oficiais de Justiça devem atuar com base nos princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência, garantindo a lisura e a eficácia dos atos processuais. Assinale a opção que apresenta corretamente o princípio que exige que o agente público atue com o melhor desempenho possível e que a Administração Pública seja organizada de forma a alcançar os melhores resultados na prestação dos serviços públicos.",
+              "options": [
+                "Legalidade.",
+                "Impessoalidade.",
+                "Moralidade.",
+                "Publicidade.",
+                "Eficiência."
+              ],
+              "answer": 4,
+              "explanation": "a) Errada. O princípio da legalidade determina que a Administração Pública só pode atuar quando houver previsão legal ou autorização normativa que fundamente seus atos. Trata-se, portanto, da necessidade de subordinação da função administrativa à vontade da lei.\n\nb) Errada. O princípio da impessoalidade, expresso no art. 37 da CF/88, determina que a Administração Pública atue com imparcialidade, isonomia e em prol do interesse público, proibindo arbitrariedades e favorecimento ou perseguição pessoal.\n\nc) Errada. O princípio da moralidade administrativa exige que os atos administrativos sejam praticados segundo os padrões éticos, tais como honestidade, probidade, boa-fé e lealdade.\n\nd) Errada. O princípio da publicidade representa a exigência de publicação em órgãos oficiais como requisito de eficácia dos atos administrativos, bem como a exigência de transparência da atuação administrativa.\n\ne) Certa. O princípio constitucional da eficiência, previsto expressamente no art. 37, caput, da Constituição Federal, exige da Administração Pública desempenho das atividades administrativas com produtividade, economicidade e otimização dos resultados. Isso implica que os servidores públicos, ao executarem suas tarefas, busquem o melhor desempenho possível, visando atingir o máximo resultado com o menor uso possível de recursos, promovendo economicidade, eficácia e eficiência operacional. Esse é exatamente o caso descrito no enunciado.\n\nGabarito: alternativa E.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – TRT - 24ª REGIÃO (MS) / 2025)",
+              "question": "A Administração Pública, guiada por princípios constitucionais, busca uma gestão ética, transparente e eficaz, voltada ao interesse da sociedade. Assinale a opção que apresenta corretamente o princípio que é requisito de eficácia dos atos administrativos. ",
+              "options": [
+                "Eficiência.",
+                "Legalidade.",
+                "Moralidade.",
+                "Publicidade.",
+                "Impessoalidade."
+              ],
+              "answer": 3,
+              "explanation": "O princípio da publicidade representa a exigência de publicação em órgãos oficiais como requisito de eficácia dos atos administrativos, bem como a exigência de transparência da atuação administrativa, exatamente como mencionado no enunciado. Agora, vamos analisar as demais alternativas:\n\na) Errada. O princípio da eficiência busca assegurar que a Administração Pública alcance seus objetivos da forma mais eficaz, econômica e célere possível.\n\nb) Errada. O princípio da legalidade impõe a atuação administrativa nos termos da lei.\n\nc) Errada. O princípio da moralidade exige que os agentes públicos atuem com ética, boa-fé e probidade administrativa.\n\ne) Errada. O princípio da impessoalidade refere-se ao tratamento isonômico e à busca pelo interesse público, vedando o favorecimento pessoal de indivíduos ou grupos. Ele também significa que a publicidade oficial não pode ser utilizada para favorecimentos pessoais.\n\nGabarito: alternativa D.",
+              "id": 4
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – TJ-GO / 2025)",
+              "question": "Ao estudar Direito Administrativo para determinado concurso público, Eurídice observou que os princípios expressos no Art. 37, caput, da CRFB/88, assim como os implícitos no texto constitucional, são de crucial relevância no âmbito do regime jurídico administrativo. Nesse cenário, assinale a afirmativa correta.",
+              "options": [
+                "O princípio da eficiência, expresso na CRFB/88, é de fundamental importância para a gestão administrativa, diante da necessidade de se atender ao interesse público.",
+                "O princípio da supremacia do interesse público, expresso na CRFB/88, deve prevalecer sobre os demais princípios de direito administrativo.",
+                "O princípio da publicidade, implícito na CRFB/88, apresenta-se como requisito de forma dos atos administrativos.",
+                "O princípio da moralidade, implícito na CRFB/88, pode ser considerado o cerne do princípio da impessoalidade expresso no texto constitucional.",
+                "O princípio da segurança jurídica, por não estar expresso na CRFB/88, não é aplicável ao regime jurídico administrativo."
+              ],
+              "answer": 0,
+              "explanation": "a) Certa. Segundo Maria Sylvia Di Pietro, a eficiência possui dois aspectos: (i) o desempenho individual do servidor, com avaliações periódicas de desempenho, e (ii) a organização administrativa, a fim de se alcançar os melhores resultados possíveis. Além disso, é um princípio expresso na CF. Portanto, podemos dizer que ele é de fundamental importância para a gestão administrativa.\n\nb) Errada. O princípio da supremacia do interesse público sobre o privado garante que, em caso de conflito, o bem-estar coletivo deve prevalecer sobre os interesses privados. Contudo, não existe hierarquia entre os princípios. Logo, o princípio da supremacia não prevalece automaticamente sobre os demais.\n\nc) Errada. Pelo princípio da publicidade, os atos administrativos que produzem efeitos externos ou que geram ônus ao patrimônio público precisam ser publicados em órgãos oficiais, para que possam produzir efeitos jurídicos válidos, sendo, portanto, um requisito de eficácia, e não de forma dos atos administrativos.\n\nd) Errada. O princípio da moralidade está expresso no caput do art. 37 da CF/88, e diz que a Administração Pública deve manter uma conduta ética e agir conforme padrões de probidade, honestidade e lealdade. A moralidade e a impessoalidade são princípios relacionados, possuindo pontos “em comum”, como a vedação ao nepotismo e a vedação à promoção pessoal indevida. Entretanto, cada um tem o seu sentido, não se confundindo em todos os casos. Logo, um não é o “cerne” do outro.\n\ne) Errada. O princípio da segurança jurídica decorre do inciso XXXVI do art. 5º da Constituição Federal, segundo o qual “a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada”. Realmente não é um princípio expresso, mas é sim aplicável ao regime jurídico administrativo. Basta analisar as diversas menções ao princípio na legislação administrativa, como na Lei 9.784/1999 (art. 2º, caput).\n\nGabarito: alternativa A.",
+              "id": 5
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – CFC / 2025)",
+              "question": "Avalie se os princípios da Administração Pública incluem: I a legalidade; II a moralidade; III a livre concorrência; IV a publicidade. São de fato princípios da Administração Pública os itens A)  B)  C)  D) ",
+              "options": [
+                "I e II, apenas.",
+                "II, III e IV, apenas.",
+                "I, II e IV, apenas.",
+                "I, II, III e IV."
+              ],
+              "answer": 2,
+              "explanation": "Os princípios administrativos constam do art. 37 da CF/88, e são os seguintes:\n\n\"Art. 37. A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência [...]\".\n\nPortanto, dos itens apresentados, apenas o “III – livre concorrência” não é um princípio da administração pública. Com isso, nosso gabarito está na letra C.\n\nGabarito: alternativa C.",
+              "id": 6
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – TRT - 24ª REGIÃO (MS) / 2025)",
+              "question": "A atividade do Oficial de Justiça Avaliador é guiada por princípios fundamentais como a fé pública, a imparcialidade, a boa-fé, a celeridade, a probidade, a eficiência, a transparência e a legalidade estrita, assegurando a correta e justa execução das ordens judiciais. Assinale a opção que apresenta corretamente o princípio que envolve um aspecto objetivo – relacionado à conduta leal e honesta – e um aspecto subjetivo – referente à convicção do agente de estar agindo de forma correta.",
+              "options": [
+                "Fé pública.",
+                "Imparcialidade.",
+                "Boa-fé.",
+                "Celeridade.",
+                "Transparência."
+              ],
+              "answer": 2,
+              "explanation": "a) Errada. A fé pública se refere à característica pela qual os atos praticados pelos agentes públicos são dotados de confiança e credibilidade. Esses atos são considerados autênticos e verdadeiros, admitindo prova em contrário (presunção relativa de veracidade). Já ouviu falar que a palavra de um agente público tem “fé de ofício”. Isso significa que a palavra do agente se presume verdadeira até a prova em contrário.\n\nb) Errada. Pelo princípio da imparcialidade, os agentes públicos devem agir de modo impessoal, sem favorecer ou prejudicar pessoas ou grupos específicos com base em critérios subjetivos ou arbitrários. Pelo contrário, as decisões administrativas devem observar a lei.\n\nc) Certa. A boa-fé, de fato, possui aspectos subjetivos e objetivos. Nesse sentido, a boa-fé subjetiva se relaciona com a convicção interna do agente de que está agindo de forma correta, com base no conhecimento que possui da situação; já o aspecto objetivo se relaciona com a imposição de um comportamento ético e leal nas relações jurídicas, independentemente de suas convicções pessoais.\n\nd) Errada. A celeridade se relaciona com o princípio da eficiência, reforçando a necessidade do cumprimento dos atos administrativos da forma mais rápida e célere, fornecendo serviços públicos de qualidade à população, com o menor custo possível.\n\ne) Errada. A transparência se relaciona com princípio da publicidade, e diz respeito à necessidade de publicação dos atos administrativos em órgão oficiais e à exigência de transparência da atuação administrativa.\n\nGabarito: alternativa C.",
+              "id": 7
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV / TRF - 1ª REGIÃO / 2024)",
+              "question": "Para além dos princípios previstos expressamente no Art. 37, caput, da CRFB/1988, as normas que versam sobre direito administrativo costumam elencar outros princípios relacionados às respectivas matérias (setoriais), tal como se observa no Art. 2º da Lei nº 9.784/1999, que trata do processo administrativo, e no Art. 5º da Lei nº 14.133/2021, que trata de licitações e contratos. Nesse contexto, os princípios que NÃO estão no aludido dispositivo constitucional, mas que constam textualmente das referidas normas, são, respectivamente:",
+              "options": [
+                "impessoalidade e vinculação ao edital;",
+                "segregação de funções e moralidade;",
+                "motivação e publicidade;",
+                "proporcionalidade e planejamento;",
+                "probidade administrativa e eficiência."
+              ],
+              "answer": 3,
+              "explanation": "Estamos em busca de princípios que não estão na CF, art. 37, caput, mas estão na Lei 9.784/1999 ou na Lei 14.133/2021. Aqui, bastava lembrar do LIMPE, que são os princípios da Constituição. No caso, as letras A, B, C e E citam princípios que constam no texto constitucional. Consequentemente, a letra D será o nosso gabarito. Vamos ver as opções:\n\na) Errada: o princípio da impessoalidade é um dos expressos na CF, art. 37, caput, o que torna a opção A errada. O princípio da vinculação ao edital é previsto na Lei 14.133/2021.\n\nb) Errada: o princípio da segregação de funções é previsto na Lei 14.133/2021. No entanto, o princípio da moralidade é mais um dos expressos na CF.\n\nc) Errada: a motivação é prevista tanto na Lei 9.784/1999 quanto na Lei 14.133/2021, mas a opção C está errada porque a publicidade é um princípio expresso na CF.\n\nd) Certa: a proporcionalidade é um princípio previsto na Lei 9.784/1999 e na Lei 14.133/2021, que também prevê o princípio do planejamento.\n\ne) Errada: a probidade administrativa é um princípio da Lei 14.133/2021. A CF prevê expressamente o princípio da eficiência.\n\nGabarito Letra D.",
+              "id": 8
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – TJ MT/2024)",
+              "question": "Os instrumentos consensuais têm ganhado relevo no direito administrativo moderno, diante da compreensão de que são mecanismos que têm a aptidão para melhor promover o interesse público.\n\nTal entendimento decorre da releitura de certo princípio da Administração Pública considerado implícito na Constituição.\n\nO mencionado princípio é o da",
+              "options": [
+                "moralidade.",
+                "eficiência.",
+                "publicidade.",
+                "legalidade.",
+                "indisponibilidade do interesse público."
+              ],
+              "answer": 4,
+              "explanation": "No caput do art. 37 da Constituição Federal, estão explícitos os seguintes princípios voltados para a administração pública: legalidade, impessoalidade, moralidade, publicidade e eficiência (LIMPE).\n\nCom isso em mente, já é possível responder a questão, uma vez que somente a letra E versa sobre um princípio implícito na CF.\n\nPor oportuno, destacamos que, pelo princípio da indisponibilidade do interesse público, a Administração não pode dispor livremente dos bens e interesses públicos, haja vista que pertencem ao povo. Entretanto, a modernização das práticas administrativas implica uma releitura desse princípio, no sentido de que, em algumas situações, o interesse público pode ser promovido por meio de soluções consensuais, desde que preservados os limites legais. Essa mudança ampara-se na busca por uma gestão mais participativa e democrática, de modo a substituir a imposição por diálogo e cooperação.\n\nNessa toada, vamos aos comentários sobre os demais princípios citados nas alternativas: \n\na) Errado. O princípio da moralidade exige que os agentes públicos ajam com ética, boa-fé e probidade administrativa\n\nb) Errado. O princípio da eficiência busca assegurar que a Administração Pública alcance seus objetivos de forma eficaz, econômica e célere\n\nc) Errado. O princípio da publicidade diz respeito à necessidade de publicação dos atos administrativos em órgãos oficiais e à exigência de transparência na atuação administrativa.\n\nd) Errado. O princípio da legalidade impõe a atuação administrativa nos termos da lei.\n\nGabarito: alternativa E.",
+              "id": 9
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – TJ RR/2024)",
+              "question": "Entre os princípios que regem a atividade administrativa, existe aquele que objetiva a minimização dos gastos públicos, sem comprometimento dos padrões de qualidade, o qual não está expresso no Art. 37, caput, da CRFB/88, mas que consta do texto constitucional, notadamente em relação à atividade de controle interno. Tal princípio é o da",
+              "options": [
+                "impessoalidade.",
+                "impositividade.",
+                "economicidade.",
+                "eficiência.",
+                "finalidade."
+              ],
+              "answer": 2,
+              "explanation": "De acordo com o Tribunal de Contas da União – TCU, a economicidade visa a minimização do custo dos recursos utilizados na realização de uma atividade, sem que se comprometa os padrões qualidade. Nesse sentido, Diogo de Figueiredo ensina que o princípio da economicidade tem base no art. 70 da Constituição e deve ser considerado um princípio geral do Direito Administrativo, pois envolve a análise do custo-benefício das ações administrativas. Portanto, a alternativa correta é a letra C.\n\nQuanto às demais alternativas, vejamos:\n\na) Errado. O princípio da impessoalidade refere-se ao tratamento isonômico e à busca pelo interesse público.\n\nb) Errado. A impositividade refere-se ao princípio do orçamento impositivo (dever de execução das programações orçamentárias). Não é um princípio específico do direito administrativo.\n\nd) Errado. Apesar de o princípio da eficiência relacionar-se com a prestação de serviço público de qualidade e menor custo possível, tal princípio também engloba a excelência na busca pelo melhor resultado possível e, também, a modernização da gestão pública. Logo, o princípio da economicidade atende melhor ao enunciado.\n\ne) Errado. O princípio da finalidade prega que o ato administrativo deve objetivar a satisfação do interesse público e a finalidade específica prevista em lei.\n\nGabarito: alternativa C.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u1l2",
+          "title": "Segunda Lição",
+          "slides": [
+            {
+              "type": "question",
+              "statement": "Nova questão",
+              "correctOption": "C",
+              "explanation": "",
+              "id": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
