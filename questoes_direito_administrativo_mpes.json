@@ -1,8 +1,8 @@
 {
-  "id": "curso_novo",
+  "id": "questoes_direito_administrativo_mpes",
   "title": "QUESTÕES DIREITO ADMINISTRATIVO MPES",
   "acronym": "DADM",
-  "version": "220320260239",
+  "version": "220320261517",
   "units": [
     {
       "id": "1",
@@ -169,11 +169,154 @@
           "title": "Segunda Lição",
           "slides": [
             {
-              "type": "question",
-              "statement": "Nova questão",
-              "correctOption": "C",
-              "explanation": "",
+              "type": "multiple_choice",
+              "header": "(FGV – Prefeitura de Niterói - RJ/2024)",
+              "question": "Os Princípios Básicos da Administração Pública guiam as ações do setor público, garantindo transparência, ética e qualidade nos serviços prestados à sociedade. Assinale a alternativa que apresenta a definição do princípio da impessoalidade.\n",
+              "options": [
+                "A Administração Pública deve priorizar interesses pessoais em suas ações.",
+                "A Administração Pública deve atuar conforme interesses individuais.",
+                "A Administração Pública deve considerar as vontades pessoais dos gestores públicos.",
+                "As decisões administrativas podem beneficiar indivíduos específicos, desde que justificadas.",
+                "A Administração Pública deve agir em benefício do interesse público, sem favorecimentos a pessoas determinadas"
+              ],
+              "answer": 4,
+              "explanation": "O princípio da impessoalidade impõe que a Administração Pública atue em prol do interesse público, vedando atos com desvio de finalidade. O agente público não pode promover interesses pessoais nem favorecer ou prejudicar administrados, garantindo isonomia. Além disso, há vedação à promoção pessoal de agentes públicos e previsão de impedimento e suspeição para assegurar a imparcialidade nos processos administrativos e judiciais.\n\nPortanto, o princípio da impessoalidade exige que a Administração atue exclusivamente em benefício do interesse público, sem favorecimento de pessoas específicas.\n\nGabarito: alternativa E.",
               "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – Prefeitura de Niterói - RJ/2024)",
+              "question": "Os Princípios Básicos da Administração Pública orientam as ações do setor público, assegurando transparência, ética e excelência na prestação de serviços à sociedade. Quanto à atuação da Administração Pública e às interações com particulares, de acordo com o princípio da legalidade, assinale a afirmativa correta.",
+              "options": [
+                "A Constituição Federal brasileira não menciona a necessidade de lei para a atuação da Administração Pública.",
+                "No âmbito das relações entre particulares, a autonomia da vontade permite a realização de qualquer ato que não seja proibido pela lei.",
+                "O princípio da legalidade se aplica apenas à esfera privada, enquanto a autonomia da vontade é exclusiva da Administração Pública.",
+                "A Administração Pública atua de forma autônoma, podendo estabelecer limitações aos direitos dos particulares sem necessidade de amparo legal.",
+                "A Administração Pública pode conceder direitos e criar obrigações por meio de atos administrativos, independentemente de previsão legal."
+              ],
+              "answer": 1,
+              "explanation": "Vamos analisar cada uma das alternativas:\n\na) Errada. O princípio da legalidade está previsto expressamente na Constituição Federal, no art. 37, caput (LIMPE), e estabelece que a Administração Pública só pode agir conforme previsão legal. Logo, é incorreto afirmar que a Constituição não menciona essa exigência.\n\nb) Correto. De acordo Maria Sylvia Zanella Di Pietro, o princípio da legalidade tem dois sentidos distintos: (i) aos particulares, tudo o que não for proibido é permitido; (ii) à Administração Pública, só é permitido o que estiver previsto em lei. Portanto, entre particulares, aplica-se a autonomia da vontade, que permite a prática de qualquer ato que não seja vedado por lei, o que torna a alternativa correta.\n\nc) Errado. Essa afirmativa inverte os papéis. O princípio da legalidade se aplica de forma rígida à Administração Pública, que só pode agir conforme a lei, enquanto a autonomia da vontade é característica das relações entre particulares.\n\nd) Errado. A Administração Pública não pode atuar de forma autônoma, tampouco estabelecer restrições aos direitos dos particulares sem amparo legal. Essa afirmativa viola diretamente o princípio da estrita legalidade.\n\ne) Errado. A Administração Pública não pode conceder direitos nem criar obrigações sem previsão legal. Atos administrativos devem estar sempre fundamentados em lei, conforme determina o princípio da legalidade.\n\nGabarito: alternativa B.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – Prefeitura de Caraguatatuba - SP/2024)",
+              "question": "Leia atentamente o trecho de texto a seguir, que se refere a um dos princípios do Direito Administrativo: “a conduta da Administração Pública deve ser pautada no interesse da coletividade, isto é, não deve visar a quem beneficiar ou prejudicar, uma vez que todos devem ser olhados de forma igual, não sendo possível deste modo qualquer tipo de discriminação” Este princípio é o de",
+              "options": [
+                "publicidade.",
+                "moralidade.",
+                "impessoalidade.",
+                "motivação.",
+                "Razoabilidade."
+              ],
+              "answer": 2,
+              "explanation": "O enunciado refere-se ao princípio da impessoalidade, segundo o qual a Administração Pública deve atuar com base no interesse público e tratamento isonômico, sem promover perseguições, favoritismos. Com efeito, podemos “detalhar” esse princípio nos seguintes aspectos:\n\n(i) finalidade - todo ato administrativo deve ser praticado visando à satisfação do interesse público.\n(ii) igualdade ou isonomia - a Administração deve tratar todos os administrados de forma igualitária, evitando discriminações indevidas.\n(iii) vedação de promoção pessoal - agentes públicos não podem se utilizar de suas funções para promover seus nomes ou imagens pessoais.\n(iv) validade do ato do agente de fato - atos praticados por agentes que não tiveram investidura regular são considerados válidos se beneficiaram terceiros de boa-fé.\n(v) impedimento e suspeição - agentes que não tenham condições de atuar de forma imparcial devem se afastar de processos.\n\nNessa esteira, percebe-se que o enunciado se refere ao princípio da impessoalidade, pois afirma que a Administração Pública deve agir sem discriminação e no interesse da coletividade. Portanto, alternativa correta é a letra C.\n\nVejamos as demais alternativas:\n\na) Errado. À luz do princípio da publicidade, os atos administrativos que produzem efeitos externos ou que geram ônus ao patrimônio público precisam ser publicados em órgãos oficiais, para que possam produzir efeitos jurídicos válidos (eficácia).\n\nb) Errado. Consoante o princípio da moralidade, a Administração Pública deve manter uma conduta ética e agir conforme padrões de probidade, honestidade e lealdade.\n\nd) Errado. O princípio da motivação implica que os atos administrativos devem ser fundamentados, ou seja, é necessário expor as razões que justificam determinada decisão.\n\ne) Errado. Segundo o princípio da razoabilidade, o agente público deve atuar conforme critérios aceitáveis do ponto de vista racional, evitando condutas que sejam desarrazoadas, bizarras, incoerentes ou que desconsiderem as circunstâncias relevantes. Esse princípio visa assegurar que as decisões administrativas sejam prudentes, sensatas e proporcionais, respeitando os limites da discricionariedade (Celso Antônio Bandeira de Mello).\n\nGabarito: alternativa C.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – Prefeitura de Macaé - RJ/2024)",
+              "question": "Os princípios da Administração Pública orientam a atuação dos gestores públicos, garantindo que as ações governamentais sejam realizadas dentro da lei, de forma ética, transparente e com foco no interesse coletivo e na qualidade dos serviços prestados. Assinale a opção que indica o princípio que envolve o desempenho do agente público e a organização da Administração Pública.",
+              "options": [
+                "Legalidade.",
+                "Impessoalidade.",
+                "Moralidade.",
+                "Publicidade.",
+                "Eficiência."
+              ],
+              "answer": 4,
+              "explanation": "O princípio da eficiência, decorrente da Reforma Gerencial, refere-se tanto ao desempenho do agente público quanto à organização da Administração Pública. Segundo Maria Sylvia Di Pietro, a eficiência possui dois aspectos: (i) o desempenho individual do servidor, com avaliações periódicas de desempenho, e (ii) a organização administrativa, a fim de se alcançar os melhores resultados possíveis. Essa lógica fortalece a administração gerencial, que preza pelo controle dosresultados, sempre observando os demais princípios constitucionais, tais como legalidade, moralidade e publicidade. Logo, a alternativa correta é a letra E.\n\nEm continuidade, passemos à análise das demais alternativas:\n\na) Errada: o princípio da legalidade exige que a Administração Pública atue conforme a lei.\n\nb) Errada: o princípio da impessoalidade exige que a Administração Pública atue de forma impessoal, sem beneficiar ou prejudicar indivíduos específicos, garantindo que as ações públicas visem ao interesse coletivo, sem personalização ou promoção pessoal dos agentes públicos.\n\nc) Errada: o princípio da moralidade exige que os agentes públicos ajam com ética, probidade e boa-fé. Logo, a Administração Pública deve cumprir não apenas a lei, mas também respeitar valores éticos e sociais.\n\nd) Errada: conforme o princípio da publicidade, os atos administrativos que produzem efeitos externos ou que geram ônus ao patrimônio público precisam ser publicados em órgãos oficiais, para que possam produzir efeitos jurídicos válidos (eficácia).\n\nGabarito: alternativa E.",
+              "id": 4
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – Prefeitura de Nova Iguaçu - RJ/2024)",
+              "question": "João, leitor muito ativo, verificou que a emenda constitucional nº 19/1998 incluiu um novo princípio no art. 37, caput, da Constituição Federal, com o objetivo de substituir a Administração Pública burocrática, existente até então, por um modelo de Administração Pública gerencial ou de resultados. Nesse cenário, considerando o entendimento doutrinário e jurisprudencial dominante, é correto afirmar que se está diante de uma manifestação do princípio da",
+              "options": [
+                "impessoalidade.",
+                "moralidade.",
+                "publicidade.",
+                "legalidade.",
+                "eficiência."
+              ],
+              "answer": 4,
+              "explanation": "De acordo com Marcelo Alexandrino e Vicente Paulo, a administração burocrática tinha como foco principal o controle rígido de procedimentos e a estrita observância à legalidade. Embora esse modelo buscasse evitar arbitrariedades, ele também gerava morosidade e baixa eficiência.\n\nPor outro lado, a administração gerencial, verificada, no Brasil, a partir de 1995, tem como foco a obtenção de resultados, privilegiando a qualidade dos serviços públicos. Nesse contexto, busca-se reduzir a burocracia e aproximar a gestão pública das práticas do setor privado, visando mais agilidade e eficiência. O princípio da eficiência exige que a Administração Pública desempenhe suas funções com rapidez, qualidade e economicidade. Nesse sentido, a Administração Pública passou a ter um compromisso explícito com a gestão de resultados, o que implica autonomia gerencial, redução de controles excessivos e foco na entrega de serviços de qualidade à sociedade. Logo, conclui-se que o princípio da eficiência consiste no objetivo de se fazer a transição de uma administração burocrática para uma administração gerencial. Portanto, a alternativa correta é a letra E.\n\nVejamos as demais alternativas da questão:\n\na) Errado. O princípio da impessoalidade exige que a Administração Pública atue de forma impessoal, sem beneficiar ou prejudicar indivíduos específicos, garantindo que as ações públicas visem ao interesse coletivo, sem personalização ou promoção pessoal dos agentes públicos.\n\nb) Errado. O princípio da moralidade exige que os agentes públicos ajam com ética, probidade e boa-fé. Logo, a Administração Pública deve cumprir não apenas a lei, mas também respeitar valores éticos e sociais.\n\nc) Errado. À luz do princípio da publicidade, os atos administrativos que produzem efeitos externos ou que geram ônus ao patrimônio público precisam ser publicados em órgãos oficiais, para que possam produzir efeitos jurídicos válidos (eficácia).\n\nd) Errado. O princípio da legalidade exige que a Administração Pública atue conforme a lei.\n\nGabarito: alternativa E.",
+              "id": 5
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – TJ RR/2024)",
+              "question": "José e João estavam estudando juntos para o concurso público para o cargo de Técnico Judiciário do Tribunal de Justiça do Estado de Roraima, quando adentraram o tema relativo a princípios expressos e implícitos da Administração Pública, à luz da Constituição Federal de 1988, contexto em que concluíram corretamente que",
+              "options": [
+                "o princípio da supremacia do interesse público está expresso na Constituição e deve prevalecer sobre os demais princípios consagrados no texto da Lei Maior.",
+                "o princípio da segurança jurídica está expresso na Constituição, de modo que não pode ser aplicado nas hipóteses que envolvem o exercício da autotutela.",
+                "o princípio da consensualidade está implícito na Constituição, resultando da cláusula do Estado Democrático de Direito, buscando mecanismos que envolvam a participação do administrado para melhor atender ao interesse público.",
+                "o princípio da publicidade está implícito na Constituição, revelando-se uma importante ferramenta para fins de viabilizar o controle social da atividade administrativa.",
+                "o princípio da juridicidade está expresso na Constituição e resulta na conclusão de que a Administração é mera executora da lei, inexistindo qualquer papel criativo para o aplicador do direito."
+              ],
+              "answer": 2,
+              "explanation": "a) Errado. O princípio da supremacia do interesse público é um princípio doutrinário, não estando expressamente previsto na Constituição Federal. Além disso, não podemos afirmar que ele deva prevalecer sobre todos os demais princípios, pois o ordenamento jurídico busca equilíbrio entre os valores constitucionais e não existe hierarquia entre os princípios.\n\nb) Errado. O princípio da segurança jurídica decorre do inciso XXXVI do art. 5º da Constituição Federal, segundo o qual “a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada”. Ademais, o princípio da segurança jurídica impõe limites ao exercício da autotutela, pois a Administração pode anular os atos administrativos dos quais decorram efeitos favoráveis aos destinatários dentro do prazo decadencial de cinco anos, salvo comprovada má-fé. Sendo assim, após esse prazo, não é possível o exercício da autotutela por parte da Administração.\n\nc) Certo. O princípio da consensualidade é um mecanismo moderno e eficaz para melhorar o atendimento ao interesse público, reduzindo a distância entre Administração Pública e administrados. Ele está implícito na Constituição Federal e resulta diretamente do conceito de Estado Democrático de Direito, que valoriza diálogo, transparência e participação popular. Como exemplo desse princípio podemos citar a realização de audiências públicas.\n\nd) Errado. O princípio da publicidade, expressamente previsto (explícito) no caput do art. 37 da Constituição Federal (LIMPE), exige que sejam publicados, em órgãos oficiais, os atos administrativos gerais que produzirão efeitos externos e, também, os atos que impliquem ônus para o patrimônio público, a fim de que produzam os efeitos jurídicos (eficácia). Logo, ocorrendo tais publicações, torna-se viável o controle social da atividade administrativa.\n\ne) Errado. O princípio da juridicidade, implícito na Constituição, não restringe o administrador público à obediência estrita à lei (norma formal), mas sim a todo o ordenamento jurídico, incluindo princípios, regulamentos, jurisprudência e demais normas aplicáveis. Como consequência, o administrador possui um certo papel criativo ao aplicar o direito, especialmente nas situações em que as normas trazem conceitos jurídicos indeterminados (como “interesse público” ou “razoabilidade”) ou quando há necessidade de ponderação de princípios. Anota-se, porém, que a juridicidade diminui a discricionariedade do administrador, na medida em que amplia as hipóteses de controle judicial.\n\nGabarito: alternativa C.",
+              "id": 6
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – Prefeitura de Macaé - RJ/2024)",
+              "question": "Atenção: Para a resolução da próxima questão, considere:\n• IIA – The Institute of Internal Auditors (Instituto dos Auditores Internos)\n• EFS -Entidade de Fiscalização Superior\n\nNa atividade de controle da Administração Pública, é necessário “... afastar as atividades de controle do agente a quem é atribuído o mister de executar outras funções, tendo em vista que, no regular exercício da função de controle, quem controla não deve executar, quem executa não deve controlar.” Essa ponderação refere-se ao princípio orientador da atividade de controle da Administração Pública denominado",
+              "options": [
+                "devido processo legal.",
+                "segregação de funções.",
+                "legalidade.",
+                "definição de competências.",
+                "impessoalidade."
+              ],
+              "answer": 1,
+              "explanation": "O princípio da segregação de funções tem como objetivo evitar o acúmulo de funções incompatíveis por uma mesma pessoa ou unidade administrativa, o que poderia comprometer a independência e a imparcialidade do controle. Conforme o Tribunal de Contas da União (TCU), esse princípio envolve a separação das atividades de (i) autorização, (ii) aprovação, (iii) execução, (iv) controle e (v) contabilização para prevenir fraudes e erros. Nesse sentido, nota-se que, na Administração Pública, a segregação de funções visa evitar conflitos de interesse, de modo a promover uma gestão pública eficiente e transparente. Inclusive, levando isso em consideração, a Nova Lei de Licitações e Contratos – NLLC (Lei 14.133/2021) cita expressamente o princípio em tela. Ademais, esse princípio é fundamental para as atividades finalísticas desenvolvidas pelos órgãos de controle. Portanto, a alternativa correta é a letra B.\n\nVejamos as demais alternativas:\n\na) Errado. O princípio do devido processo legal, previsto no art. 5º, LIV, da Constituição Federal, garante que nenhuma pessoa seja privada de sua liberdade ou de seus bens sem um processo justo e conforme a lei. Esse princípio assegura o contraditório e a ampla defesa, impedindo que a Administração Pública tome decisões arbitrárias e garantindo que os processos administrativos e judiciais respeitem regras formais e materiais.\n\nc) Errado. O princípio da legalidade impõe a atuação administrativa nos termos da lei.\n\nd) Errado. O princípio da competência (ou simplesmente competência) é o poder conferido por lei a agentes, órgãos e entidades, a fim de que desempenhem as suas atribuições específicas.\n\ne) Errado. O princípio da impessoalidade exige que a Administração Pública atue de forma impessoal, sem beneficiar ou prejudicar indivíduos específicos, garantindo que as ações públicas visem ao interesse coletivo, sem personalização ou promoção pessoal dos agentes públicos.\n\nGabarito: alternativa B.",
+              "id": 7
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – TRF 1/2024)",
+              "question": "Ao estudar o princípio da supremacia do interesse público, à luz do direito administrativo moderno, Cristiane concluiu corretamente que:",
+              "options": [
+                "o interesse público primário confunde-se com o interesse público secundário, não sendo possível distingui-los;",
+                "a supremacia do interesse público é um princípio expressamente consagrado na Constituição da República de 1988;",
+                "o interesse público secundário deve prevalecer sobre o interesse privado, ainda que importe em indevida restrição a direitos fundamentais;",
+                "o interesse público e o interesse privado são dicotômicos, sendo inviável alcançar a materialização daquele mediante a garantia dos direitos fundamentais;",
+                "o interesse público primário deve ser considerado o objetivo finalístico da Administração, notadamente para fins de ponderação com direitos fundamentais."
+              ],
+              "answer": 4,
+              "explanation": "O princípio da Supremacia do Interesse Público sobre o Privado garante que, em caso de conflito, o bem-estar coletivo deve prevalecer sobre os interesses privados.\n\nNessa perspectiva, conforme ensina Bruno Betti, são classificados como interesse público primário os valores fundamentais da sociedade, tais como saúde, educação e proteção ambiental; por sua vez, o interesse público secundário refere-se aos objetivos institucionais do Estado, tais como economicidade e eficiência.\n\nCom isso, fica nítido que o interesse público primário é considerado o objetivo finalístico da Administração Pública, sendo, portanto, priorizado em suas ações. No entanto, a ponderação com direitos fundamentais é essencial para (i) evitar abusos e (ii) garantir que as decisões administrativas respeitem os limites constitucionais, haja vista que a supremacia do interesse público não é absoluta. Então, a opção correta é a letra E.\n\nVamos analisar as demais alternativas:\n\na) Errada. Há uma distinção clara entre interesse público primário (ligado ao bem-estar da coletividade) e secundário (interesses administrativos internos do Estado). Confundi-los é um equívoco.\n\nb) Errado. O princípio da supremacia do interesse público não está expressamente citado na Constituição Federal; todavia, desta se extrai a essência do princípio em comento.\n\nc) Errado. O interesse público secundário não deve prevalecer sobre o interesse privado de forma irrestrita, especialmente quando isso viola direitos fundamentais. A prevalência do interesse público refere-se ao primário, não ao secundário.\n\nd) Errado. Os interesses público e privado não são sempre dicotômicos (opostos). Embora a Administração Pública deva priorizar o interesse público primário, não há incompatibilidade absoluta entre ambos os interesses. Por exemplo: se a Administração concede um incentivo para determinado setor econômico, buscando gerar empregados, será observado o interesse público (mais empregos). Ao mesmo tempo, as empresas desse setor serão privilegiadas, conseguindo mais lucro. Simultaneamente, foram observados os dois interesses.\n\nGabarito: alternativa E.",
+              "id": 8
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – CGE PB/2024)",
+              "question": "Ao compulsar a Lei nº 14.129/2021, que dispõe sobre princípios, regras e instrumentos para o Governo Digital e para o aumento da eficiência pública, Marieva deparou-se com uma definição que, para os fins da mencionada lei, corresponde à “disponibilização de dados pela administração pública independentemente de solicitações”. Trata-se do conceito de:",
+              "options": [
+                "transparência ativa;",
+                "transparência passiva;",
+                "transparência reativa;",
+                "transparência transversal;",
+                "universalização da transparência."
+              ],
+              "answer": 0,
+              "explanation": "A lei traz a definição de transparência ativa em seu art. 4°, XI: “XI - transparência ativa: disponibilização de dados pela administração pública independentemente de solicitações”. Nosso gabarito está na letra A. As demais alternativas não possuem significado na lei.\n\nGabarito: alternativa A.",
+              "id": 9
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – CVM/2024)",
+              "question": "A Assembleia Legislativa do estado Alfa descumpriu os limites de gastos com pessoal, razão pela qual a União proibiu o estado Alfa de realizar operações de crédito e de receber transferências de recursos federais, com base na Lei de Responsabilidade Fiscal, não obstante a inexistência de irregularidades no tema pelo Poder Executivo estadual. De acordo com a jurisprudência do Supremo Tribunal Federal, a União agiu:",
+              "options": [
+                "corretamente, pois a Assembleia Legislativa faz parte da administração direta do estado Alfa;",
+                "corretamente, pois a Assembleia Legislativa é pessoa jurídica de direito público da administração indireta do estado Alfa;",
+                "corretamente, pois é o ente federativo do estado Alfa que mantém relação jurídica contratual com a União;",
+                "incorretamente, por violação ao princípio da intranscedência, pois o Poder Executivo não tem competência para intervir na esfera orgânica do Legislativo;",
+                "incorretamente, por violação ao princípio da impessoalidade, pois é inconstitucional restrição imposta pela União aos estados por ilegalidades cometidas por gestores públicos, que devem ser responsabilizados pessoalmente."
+              ],
+              "answer": 3,
+              "explanation": "Segundo o STF:\n\nI. A imposição de sanções ao Poder Executivo estadual em virtude de pendências de órgãos dotados de autonomia institucional e orgânico-administrativa, tais como o Ministério Público estadual, constitui violação do princípio da intranscendência, na medida em que o Governo do Estado não tem competência para intervir na esfera orgânica dessa instituição autônoma.\n\nII. O Poder Executivo não pode ser impedido de contratar operações de crédito em razão do descumprimento dos limites setoriais de despesa com pessoal por outros poderes e órgãos autônomos (art. 20, II, e 23, § 3º, da Lei de Responsabilidade Fiscal).\n\nIII. Ação cível originária julgada procedente. (ACO 3072, Relator(a): RICARDO LEWANDOWSKI, Tribunal Pleno, julgado em 24/08/2020, PROCESSO ELETRÔNICO DJe-229 DIVULG 16-09-2020 PUBLIC 17-09-2020) Portanto, a União agiu de forma incorreta, violando o princípio da intranscendência subjetiva das sanções.\n\nGabarito: alternativa D.",
+              "id": 10
             }
           ]
         }
