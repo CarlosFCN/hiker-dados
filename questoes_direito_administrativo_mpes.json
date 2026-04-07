@@ -2,7 +2,7 @@
   "id": "direito_administrativo_mpes",
   "title": "Direito Administrativo MPES",
   "acronym": "DADM",
-  "version": "300320260122",
+  "version": "070420261328",
   "units": [
     {
       "id": "1",
@@ -3218,6 +3218,480 @@
               "answer": 2,
               "explanation": "Dessa vez vamos reescreveras frases\n\na) as áreas de atuação das fundações de direito público são determinadas via lei ordinária. Segundo o art. 37, XIX, da Constituição, somente por lei complementar poderão ser definidas as suas áreas de atuação – ERRADA;\n\nb) as empresas públicas são pessoas jurídicas de direito público [privado] criadas com o registro de seus atos constitutivos. São pessoas jurídicas de direito privado – ERRADA;\n\nc) somente por lei específica poderá ser criada autarquia e autorizada a instituição de empresa pública, sociedade de economia mista e fundação – CORRETA;\n\nd) as autarquias possuem natureza jurídica de direito privado [público], sendo criadas diretamente por lei, sem necessidade de registro. Possuem natureza jurídica de direito público – ERRADA;\n\ne) com a entrada em vigor da lei instituidora de sociedade de economia mista, dá-se o termo inicial de sua pessoa jurídica. Somente com o registro do ato constitutivo em órgão competente é que se dá o início da pessoa jurídica da sociedade de economia mista. Assim, a lei somente autoriza a criação, porém a efetivação ocorre com o registro do ato constitutivo – ERRADA.\n\nGabarito: alternativa C.",
               "id": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "ORGANIZAÇÃO ADMINISTRATIVA II",
+      "color": "bg-orange-500",
+      "lessons": [
+        {
+          "id": "u3l1",
+          "title": "Primeira Lição",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – TCE-RR / 2025)",
+              "question": "A sociedade de economia mista Alfa, vinculada ao Poder Executivo do Estado Sigma, que tem a maioria do capital social, explora atividade econômica em sentido estrito e possui uma subsidiária integral, Beta, que controla a sociedade por cotas de responsabilidade limitada Delta. Ao analisar a admissão de pessoal realizada por Delta, o Tribunal de Contas do Estado Sigma entendeu que seria necessária a observância da regra do concurso público, o que não ocorrera. Delta, por sua vez, defendia que não estava sujeita à exigência constitucional. Na situação descrita, é correto afirmar que",
+              "options": [
+                "apenas Alfa, não as empresas estatais de segundo e terceiro graus, está sujeita à fiscalização do Tribunal de Contas.",
+                "Alfa, Beta e Delta estão sujeitas à fiscalização do Tribunal de Contas e à exigência constitucional do concurso público.",
+                "o fato de Alfa explorar atividade econômica em sentido estrito indica que não está sujeita à fiscalização do Tribunal de Contas.",
+                "empresas subsidiárias e controladas não integram a administração pública indireta, logo, não estão sujeitas à exigência constitucional do concurso público.",
+                "Beta e Gama estão sujeitas a regime de direito privado, com derrogações de direito público, limitandose a fiscalização do Tribunal de Contas à verificação da ocorrência, ou não, de prejuízo ao erário na sua gestão."
+              ],
+              "answer": 1,
+              "explanation": "Vamos, primeiro, organizar as informações:\n\nAlfa: é a estatal de primeiro grau. Uma sociedade de Economia Mista, vinculada ao poder Executivo do Estado Sigma, que possui a maioria do capital social de Alfa.\n\nBeta: é a estatal de segundo grau, subsidiária da Alfa e que controla a Delta.\n\nDelta: é estatal de terceiro grau, uma sociedade por cotas de responsabilidade limitada controlada pela subsidiária Beta.\n\nAssim, Delta é indiretamente controlada pela Alfa, que, por sua vez, é vinculada ao Poder Executivo do Estado Sigma sendo que este possui maioria do capital social, de modo que há recursos públicos envolvidos na gestão das três entidades.\n\nAlfa é uma sociedade de economia mista integrante da Administração Indireta que não goza das prerrogativas de Estado, mas sofre limitações dos princípios da Administração Pública, entre os quais o da impessoalidade. Por isso, deve realizar concurso público para admissão de pessoal.\n\nNão há consenso se as entidades subsidiárias e controladas compõem a Administração ou não. Contudo, o STF entende que devem seguir regime similar aos das empresas estatais, e por isso se submetem às restrições decorrentes do regime-jurídico administrativo e devem realizar concurso público para admissão de pessoal.\n\nPor isso, concluímos que as três entidades se submetem ao controle contábil do Tribunal de Contas, em virtude dos recursos públicos envolvidos.\n\nA questão utilizou como base a seguinte decisão do STF:\n\nEMENTA: AGRAVO INTERNO EM MANDADO DE SEGURANÇA. DELIBERAÇÃO IMPUGNADA QUE SE INSERE NO ÂMBITO DAS ATRIBUIÇÕES CONSTITUCIONAIS DO TRIBUNAL DE CONTAS DA UNIÃO. EXIGÊNCIA DE CONCURSO PÚBLICO PARA ADMISSÃO DE EMPREGADOS POR EMPRESA ESTATAL DE TERCEIRO GRAU. SOCIEDADE POR COTAS DE RESPONSABILIDADE LIMITADA CONTROLADA POR SUBSIDIÁRIA INTEGRAL DO BANCO DO BRASIL. ADMINISTRAÇÃO PÚBLICA INDIRETA. SUBMISSÃO A REGIME DE DIREITO PRIVADO COM DERROGAÇÕES DE DIREITO PÚBLICO.\n\n1. No exercício da missão constitucional de auxiliar o Congresso Nacional na atividade de controle externo, o Tribunal de Contas da União está incumbido de fiscalizar órgãos e entidades da administração federal direta e indireta.\n\n2. As cotas do capital social da BBTur pertencem, em última análise, integralmente ao Banco do Brasil S.A., diretamente ou por intermédio da subsidiária integral BB Cayman Islands Holding. Por sua vez, a maioria do capital social com direito a voto da sociedade de economia mista Banco do Brasil é de titularidade da União. Daí concluir-se que a gestão do capital social da BBTur tem impacto nos resultados do conglomerado Banco do Brasil e, portanto, no erário.\n\n3. Resultado de processo de descentralização do poder, por meio da criação de pessoas jurídicas, a administração pública indireta é constituída por autarquias, fundações públicas e empresas estatais. Qualificam-se como empresas estatais as sociedades de economia mista e as empresas públicas, bem assim como as respectivas subsidiárias ou controladas.\n\n4. Tendo em vista a sua condição de sociedade por cotas de responsabilidade limitada controlada por subsidiária integral do Banco do Brasil, a ora agravante, BBTur, em taxonomia adotada pela doutrina, consiste em empresa estatal de terceiro grau. A União possui a maioria das ações com direito a voto da empresa estatal principal ou de primeiro grau, qual seja, o Banco do Brasil. A referida sociedade de economia mista, por sua vez, por intermédio da subsidiária integral BB Cayman Islands Holding, estatal de segundo grau, controla a BBTur, estatal de terceiro grau. À luz dessa cadeia de controle em três níveis, a BBTur é sociedade empresária indiretamente controlada pela União e, nessa condição, submetida, sob pena de burla aos princípios da impessoalidade e da moralidade, a regime de direito privado com derrogações de direito público, em especial quanto à forma de admissão de pessoal e de contratação de bens e serviços.\n\n5. Entes da administração pública indireta detentores de personalidade jurídica de direito privado e endereçados à exploração de atividade econômica também estão jungidos ao previsto no art. 37, II, da Magna Carta. Precedente: MS 21322, Plenário, Rel. Min. Paulo Brossard, DJ de 23.4.1993.\n\n6. Admissões realizadas por empresas estatais sem observância da exigência constitucional de prévia aprovação em concurso público não estão protegidas pela garantia do ato jurídico perfeito nem resguardadas pelos princípios da proteção da confiança e da segurança jurídica.\n\n(STF, MS 23294 AGR/DF, 1ª turma, Relatora Min. Rosa Weber, 23/08/2019)\n\nAssim, nosso gabarito está na letra B, pois Alfa, Beta e Delta estão sujeitas à fiscalização do Tribunal de Contas e à exigência constitucional do concurso público.\n\nVamos analisar cada alternativa, para assim entender a aplicação do julgado no contexto da questão:\n\na) Errada. A fiscalização do Tribunal de Contas alcança todas as entidades que administrem recursos públicos, inclusive subsidiárias.\n\nb) Certa. A jurisprudência reconhece que todas as empresas estatais controladas pelo poder público (direta ou indiretamente) estão sujeitas à exigência do concurso público e à fiscalização dos Tribunais de Contas.\n\nc) Errada. A atividade econômica em sentido estrito não afasta o controle do Tribunal de Contas, já que, de qualquer forma, há recursos públicos envolvidos.\n\nd) Errada. Não é pacífico se as subsidiárias e controladas integra ou não a Administração. De qualquer forma, o STF entende que devem seguir regime similar aos das empresas públicas e sociedades de economia mista, motivo pelo qual a Suprema Corte entende que devem realizar concurso público para admissão de pessoal (MS 23294 AGR/DF).\n\ne) Errada. A fiscalização do Tribunal de Contas não se limita ao prejuízo ao erário; abrange a legalidade e legitimidade dos atos que envolvam recursos públicos.\n\nGabarito: alternativa B.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – TRF - 5ª REGIÃO / 2025)",
+              "question": "As empresas públicas e sociedades de economia mista, integrantes da Administração Pública indireta brasileira, têm natureza híbrida, uma vez que gozam de natureza jurídica privada e visam à obtenção de lucros. Diante do exposto, é correto afirmar que:",
+              "options": [
+                "considerando a livre iniciativa e a livre concorrência, as estatais têm liberdade econômica para adquirir produtos e contratar serviços no mercado brasileiro;",
+                "considerando serem entidades da administração indireta, as contratações realizadas pelas estatais devem ser precedidas de licitação pública na forma da Constituição Federal de 1988;",
+                "a Constituição Federal de 1988 afastou o controle do Tribunal de Contas em face de tais entidades, em razão de sua natureza jurídica privada;",
+                "a extinção e a alienação do controle acionário de empresa pública e sociedade de economia mista exigem autorização legislativa;",
+                "a atuação das estatais deve ser validada pela análise do respectivo ente público direto ao qual estão vinculadas, sob pena de violação ao princípio da separação e da harmonia entre os poderes."
+              ],
+              "answer": 3,
+              "explanation": "a) Errada. As empresas estatais devem respeitar o procedimento licitatório para a aquisição de bens e contratação de serviços, nos termos da Lei n° 13.303/2016.\n\nb) Errada. As licitações das empresas estatais devem seguir um estatuto jurídico próprio, previsto na própria CF. Não é a CF/88 que regulamenta as licitações das empresas estatais, mas sim a Lei n° 13.303/2016. A questão, em si, ficou estranha. Não diria que está errada, ainda que haja uma alternativa melhor adiante. Outro possível erro pode ser o fato de que as entidades da administração indireta não seguem o mesmo regime licitatório (Lei 13.303/2016 para as empresas estatais e Lei 14.133/2021 para as demais). Ainda assim, estaríamos “forçando” para encontrar um erro.\n\nc) Errada. As empresas estatais estão sim sujeitas à fiscalização do Tribunal de Contas, especialmente quanto à aplicação de recursos públicos e à observância dos princípios da Administração Pública.\n\nd) Certa. De acordo com o entendimento consolidado do STF: “A alienação do controle acionário de empresas públicas e sociedades de economia mista exige autorização legislativa e licitação. A exigência de autorização legislativa, todavia, não se aplica à alienação do controle de suas subsidiárias e controladas. Nesse caso, a operação pode ser realizada sem a necessidade de licitação, desde que siga procedimentos que observem os princípios da administração pública inscritos no art. 37 da CF/88, respeitada, sempre, a exigência de necessária competitividade”. (ADI 5624 MC-Ref/DF – Informativo 943 do STF).\n\ne) Errada. As empresas estatais são entidades vinculadas à Administração Direta, mas isso não significa que não gozam de autonomia administrativa e operacional. Por isso, não há que se falar em necessidade de validação prévia do ente ao qual estão vinculadas, pois isso implicaria em violação à autonomia conferida às entidades administrativas.\n\nGabarito: alternativa D.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – MP-RJ / 2025)",
+              "question": "O Município Alfa criou um ente da administração pública indireta, com personalidade jurídica de direito privado e capital majoritariamente público, com o objetivo de prestar serviço público de sua competência, em atuação que lhe é própria. Essa exploração seria realizada em regime não concorrencial. À luz da sistemática constitucional, é correto afirmar que",
+              "options": [
+                "a prestação indireta do serviço público somente pode ser realizada em regime de concessão ou permissão, não da forma descrita na narrativa.",
+                "o serviço público pode ser prestado da forma descrita, sendo possível, inclusive, a delegação do poder de polícia, por meio de lei, ao ente da administração pública indireta.",
+                "o serviço público deve ser prestado diretamente pelo ente federativo que o titulariza, portanto, por sua administração direta, não pela administração indireta, como foi feito.",
+                "o serviço público pode ser prestado por ente da administração pública indireta, mas, na situação descrita, esse ente tem personalidade jurídica de direito privado, o que é vedado.",
+                "cabe à administração pública definir a forma de prestação do serviço público, que pode ser explorado, inclusive, por empresas privadas que requeiram autorização do ente competente, logo, é correta a referida forma de exploração."
+              ],
+              "answer": 1,
+              "explanation": "a) Errada. O serviço pode ser prestado diretamente pelos entes da administração indireta, inclusive por aqueles dotados de personalidade jurídica de direito privado.\n\nb) Certa. O STF já decidiu, em sede de Repercussão Geral (Tema 532) que “É constitucional a delegação do poder de polícia, por meio de lei, a pessoas jurídicas de direito privado integrantes da Administração Pública indireta de capital social majoritariamente público que prestem exclusivamente serviço público de atuação própria do Estado e em regime não concorrencial”. (Plenário. RE 633782/MG, Rel. Min. Luiz Fux, julgado em 23/10/2020).\n\nc) Errada. É possível a prestação do serviço mencionado por entidade integrante da Administração Indireta.\n\nd) Errada. Não há vedação quanto à prestação do serviço por entidades de direito privado da Administração Indireta. É muito comum, por exemplo, instituir empresas estatais para a prestação de serviços públicos, sendo que tais entidades gozam de personalidade de direito privado.\n\ne) Errada. Os serviços podem ser prestados por entidades de direito privado que compõem a Administração. Como a questão falou em “atuação que lhe é própria” é possível que a banca se refira a serviços que só o Estado pode prestar, como o poder de polícia. Assim, não caberia a prestação por particulares.\n\nGabarito: alternativa B.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – TRT - 24ª REGIÃO (MS) / 2025)",
+              "question": "A Administração Pública estrutura-se por meio de organizações formais que definem a distribuição de funções, competências e níveis de autoridade, assegurando a gestão organizacional do poder público de forma racional e eficiente. Assinale a opção que apresenta corretamente a pessoa jurídica de direito privado que, embora controlada pelo Estado, não atende a todos os requisitos legais para ser considerada empresa pública ou sociedade de economia mista, atuando em regra na prestação de serviços públicos de natureza comercial ou industrial.",
+              "options": [
+                "Autarquia especial.",
+                "Fundação pública de direito público.",
+                "Empresa sob controle acionário do Estado.",
+                "Sociedade de economia mista.",
+                "Empresa pública."
+              ],
+              "answer": 2,
+              "explanation": "a) Errada. As autarquias são entidades administrativas dotadas de personalidade jurídica de direito público, e por isso não se enquadram no caso do enunciado.\n\nb) Errada. As fundações públicas de direito público também possuem personalidade jurídica de direito público.\n\nc) Certa. Uma empresa sob controle acionário do Estado é uma pessoa jurídica de direito privado controlada pelo Estado, mas que não se enquadra como EP ou SEM. Segundo a CF/88,\n\n\"Art. 37 [...] XX - depende de autorização legislativa, em cada caso, a criação de subsidiárias das entidades mencionadas no inciso anterior, assim como a participação de qualquer delas em empresa privada;\"\n\nNesses casos, o Estado fará algum tipo de de investimento na empresa, porém, sem que haja a designação (formal) de empresa pública ou sociedade de economia mista. Em outras palavras, a lei autoriza a participação do Estado, mas não chega a designar a entidade como EP ou SEM.\n\nd) Errada. O próprio enunciado diz que a entidade não atende aos requisitos para ser considerada SEM. De qualquer forma, a lei conceitua a sociedade de economia mista como a entidade dotada de personalidade jurídica de direito privado, com criação autorizada por lei, sob a forma de sociedade anônima, cujas ações com direito a voto pertençam em sua maioria à União, aos Estados, ao Distrito Federal, aos Municípios ou a entidade da administração indireta (art. 4°, Lei 13.303/2016).\n\ne) Errada. O próprio enunciado diz que a entidade não atende aos requisitos para ser considerada EP. De qualquer forma, empresa pública é a entidade dotada de personalidade jurídica de direito privado, com criação autorizada por lei e com patrimônio próprio, cujo capital social é integralmente detido pela União, pelos Estados, pelo Distrito Federal ou pelos Municípios (art. 3°, Lei 13.303/2016).\n\nGabarito: alternativa C.",
+              "id": 4
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – MPU / 2025)",
+              "question": "XYZ é uma entidade sem fins lucrativos, criada em virtude de autorização legislativa, para o desenvolvimento de atividades que não exijam execução por órgãos ou entidades de direito público, com autonomia administrativa, patrimônio próprio gerido pelo seu órgão de direção e funcionamento custeado por recursos da União e de outras fontes. A relação jurídica mantida entre a XYZ e seus prestadores de serviço é regida pela Consolidação das Leis do Trabalho. Além disso, XYZ adquiriu personalidade jurídica com a inscrição da escritura pública de sua constituição no Registro Civil de Pessoas Jurídicas. É correto afirmar que XYZ é uma:",
+              "options": [
+                "empresa pública;",
+                "fundação pública de direito público;",
+                "autarquia;",
+                "fundação pública de direito privado;",
+                "sociedade de economia mista."
+              ],
+              "answer": 3,
+              "explanation": "Comentário: o enunciado, ao falar em entidade sem fins lucrativos e criada por autorização legislativa, já nos permitia eliminar as alternativas A, B, C e E. Isso porque as EP e SEM podem ter fins lucrativos, e as autarquias e fundações públicas de direito púbico são criadas diretamente pela lei. Assim, de forma simples, chegamos ao gabarito, letra D.\n\nAs fundações públicas de direito privado não possuem fins lucrativos e, por conseguinte, seus recursos extras serão sempre aplicados no aprimoramento das finalidades da entidade. Assim, as fundações públicas não podem ser criadas para exploração de atividade econômica em sentido estrito; sendo que, para esse fim, o Estado deverá criar empresas públicas ou sociedades de economia mista. Além disso, o seu pessoal segue o regime trabalhista da CLT, e são considerados empregados públicos. Por fim, as fundações públicas de direito privado recebem autorização legislativa para criação, mas dependem do registro do ato constitutivo no Registro Civil de Pessoas Jurídicas para que adquiram a personalidade jurídica.\n\nGabarito: alternativa D.",
+              "id": 5
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – TCE-RR / 2025)",
+              "question": "Assinale a opção que apresenta apenas estruturas que fazem parte da Administração Direta.",
+              "options": [
+                "Secretaria de Educação, Tribunal de Contas, Polícia Civil.",
+                "Empresa Pública de Ônibus, Fundação Pública de Saúde, Secretaria de Transporte.",
+                "Autarquia prestadora de serviço previdenciário, Ministério Público, Sociedade de Economia Mista.",
+                "Tribunal de Justiça, Fundação Pública de Educação. Empresa Pública de Saneamento Básico.",
+                "Polícia Militar, Procuradoria Estadual, Empresa Pública de Eletricidade."
+              ],
+              "answer": 0,
+              "explanation": "a) Certa. Todos os entes listados fazem parte da Administração Direta, pois são órgãos públicos integrantes da estrutura das entidades federativas.\n\nb) Errada. Empresas públicas e fundações são entidades da Administração Indireta.\n\nc) Errada. Sociedade de economia mista faz parte da Administração Indireta.\n\nd) Errada. Fundação pública e empresa pública são da Administração Indireta.\n\ne) Errada. Empresa pública integra a Administração Indireta.\n\nGabarito: alternativa A.",
+              "id": 6
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – TCE-RR / 2025)",
+              "question": "O conselho de administração da sociedade de economia mista X, que integra a administração pública indireta do Município Sigma, deliberou que seria positiva para as suas",
+              "options": [
+                "é vedada.",
+                "é realizada por lei.",
+                "é autorizada por lei.",
+                "é realizada conforme a lei civil, não dependendo de previsão legal.",
+                "é autorizada por decreto do prefeito municipal, sendo realizada conforme a lei civil."
+              ],
+              "answer": 2,
+              "explanation": "a) Errada. A criação de subsidiárias por sociedades de economia mista é permitida com autorização legal.\n\nb) Errada. A criação ocorre mediante autorização legal, não diretamente por lei.\n\nc) Certa. A criação depende de autorização legislativa, conforme a Constituição: “Art.37 [...] XX - depende de autorização legislativa, em cada caso, a criação de subsidiárias das entidades mencionadas no inciso anterior, assim como a participação de qualquer delas em empresa privada”. Nesse caso, basta a autorização legislativa genérica, mas ainda assim há necessidade de autorização lega.\n\nd) Errada. A lei civil regula o funcionamento, mas não exime da autorização legal prevista constitucionalmente.\n\ne) Errada. A criação não pode ser autorizada por decreto do Executivo, mas sim por autorização legislativa.\n\nGabarito: alternativa C.",
+              "id": 7
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – CAGE-RS / 2025)",
+              "question": "Foi criada a Fundação Sigma, no âmbito do Poder Executivo do Estado Alfa, com competência para desenvolver atividade titularizada por esse ente federativo, de natureza econômica, mas passível de ser delegada à iniciativa privada.\n\nO Ministério Público do Estado Alfa, ao analisar se o referido ente da administração pública indireta teria personalidade jurídica de direito público ou privado, o que influiria em sua atuação funcional, concluiu corretamente que",
+              "options": [
+                "por ser criada por lei, a Fundação Sigma tem personalidade jurídica de direito público.",
+                "toda fundação criada no âmbito do Poder Público, incluindo Sigma, tem personalidade jurídica de direito público.",
+                "por desenvolver atividade de natureza econômica, passível de ser delegada à iniciativa privada, tem personalidade jurídica de direito privado.",
+                "como se trata de atividade titularizada pelo Estado Alfa, ainda que passível de delegação, a Fundação Sigma tem personalidade jurídica de direito público.",
+                "em razão da atividade que desenvolve, a Fundação Sigma pode ter personalidade jurídica de direito público ou de direito privado, conforme o estatuto de sua criação ou autorização."
+              ],
+              "answer": 4,
+              "explanation": "a) Errada. Segundo o STF (RE 716378), a qualificação de uma fundação instituída pelo Estado como sujeita ao regime público ou privado depende de dois fatores: i) do estatuto de sua criação ou autorização e ii) das atividades por ela prestadas. Logo, não podemos afirmar categoricamente que a fundação é criada por lei (ela pode ser autorizada).\n\nb) Errada. Nem toda fundação pública tem personalidade de direito público, existindo também as fundações de direito privado.\n\nc) Errada. A natureza da atividade não determina sozinha a personalidade jurídica, mas depende de dois fatores: do estatuto de sua criação ou autorização e das atividades por ela prestadas. Vamos refazer a leitura da tese fixada pelo STF (STF. Plenário. RE 716.378 Tema 545, julgado em 7/8/2019): 1. A qualificação de uma fundação instituída pelo Estado como sujeita ao regime público ou privado depende (i) do estatuto de sua criação ou autorização e (ii) das atividades por ela prestadas. As atividades de conteúdo econômico e as passíveis de delegação, quando definidas como objetos de dada fundação, ainda que essa seja instituída ou mantida pelo Poder Público, podem se submeter ao regime jurídico de direito privado. Portanto, a abertura afirma que a entidade pode ser de direito público ou privado (não afirma que será necessariamente um ou outro). Depois, o STF afirma que as atividades passíveis de delegação PODEM ser desempenhadas por fundações de direito privado. Porém, elas também podem ser de direito público.\n\nd) Errada. A titularidade estatal não define obrigatoriamente a personalidade jurídica, pois isso depende de outros fatores, conforme entendimento do STF.\n\ne) Certa. A fundação pública pode ser de direito público ou privado, dependendo do estatuto de sua criação ou autorização e das atividades por ela prestadas, nos termos da jurisprudência do STF.\n\nGabarito: alternativa E.",
+              "id": 8
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – CGM BH/2024)",
+              "question": "A estrutura do aparelho público brasileiro compreende a administração direta e a indireta, delineando as formas pelas quais o Estado organiza suas atividades. Assinale a opção que apresenta as características de uma sociedade de economia mista.",
+              "options": [
+                "Executa atividades econômicas, algumas delas típicas da iniciativa privada e outras, assumidas pelo Estado como serviços públicos.",
+                "Presta serviços públicos comerciais e industriais do Estado.",
+                "Fornece serviços e promove ações colaborativas entre dois ou mais entes federativos com o propósito de atender ao interesse coletivo e proporcionar benefícios públicos.",
+                "Desempenha atividades típicas do Estado."
+              ],
+              "answer": 0,
+              "explanation": "a) Correta: a sociedade de economia mista tem sua criação autorizada por lei para explorar atividades econômicas ou para prestar serviços públicos.\n\nb) Errada: os serviços públicos comerciais ou industriais são também denominados serviços públicos econômicos. Tais serviços atendem às necessidades coletivas e podem ser explorados com fins lucrativos, como ocorre no fornecimento de energia elétrica. Sinceramente, não vejo erro nesta opção, pois muitas empresas estatais atuam prestando este tipo de serviço. Talvez, a banca considerou que os serviços públicos comerciais ou industriais são prestados por concessionárias (entidades privadas), mediante delegação. De fato, essa é a medida mais usual, não exclui a prestação também por sociedades de economia mista.\n\nc) Errada: normalmente, quando dois ou mais entes promovem ações colaborativas ou fornecem serviços, são criados os consórcios públicos.\n\nd) Errada: as autarquias, entidades administrativas de direito público, é que desempenham atividades típicas do Estado.\n\nGabarito: alternativa A.",
+              "id": 9
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – TJ MT/2024)",
+              "question": "Imagine que, no âmbito de sua organização administrativa, o Estado Ômega esteja realizando estudos para criar uma pessoa jurídica de direito privado, na forma de sociedade anônima, cujas ações com direito a voto pertençam em sua maioria ao mencionado ente federativo, para a realização de atividade econômica de relevante interesse público. Considerando as entidades integrantes da Administração Direta e da Administração Indireta, é correto afirmar que aquela delimitada na situação descrita corresponde a",
+              "options": [
+                "uma autarquia, integrante da Administração Indireta.",
+                "uma empresa pública, integrante da Administração Direta.",
+                "uma entidade do terceiro setor, integrante da Administração Indireta.",
+                "uma fundação de direito privado, integrante da Administração Direta.",
+                "uma sociedade de economia mista, integrante da Administração Indireta."
+              ],
+              "answer": 4,
+              "explanation": "a) Errada: de acordo com o Decreto-Lei 200/1967, autarquia é “o serviço autônomo, criado por lei, com personalidade jurídica, patrimônio e receita próprios, para executar atividades típicas da Administração Pública [...]” (art. 5º, I). A execução de atividades típicas de Estado só pode ser realizada por entidades de direito público.\n\nb) Errada: segundo a Lei 13.303/2016 (Lei das Estatais), empresa pública é “a entidade dotada de personalidade jurídica de direito privado, com criação autorizada por lei e com patrimônio próprio, cujo capital social é integralmente detido pela União, pelos Estados, pelo Distrito Federal ou pelos Municípios” (art. 3º, caput). Logo, o capital social dessa entidade é integralmente público e ela compõe a administração indireta.\n\nc) Errada: entidades do terceiro setor não são objeto desta aula, mas elas não integram a Administração Pública. São entidades privadas sem fins lucrativos.\n\nd) Errada: fundações são definidas como a personificação de um patrimônio a fim de realizar atividades de interesse social. As fundações podem ser privadas (particulares) ou públicas. Neste último caso, se subdividem em fundações públicas de direito público e fundações públicas de direito privado, ambas compondo a administração indireta. Segundo a jurisprudência e a doutrina, essas entidades podem ser de direito público ou de direito privado. Veja este trecho do RE 101.126/RJ do STF: Nem toda fundação instituída pelo Poder Público é fundação de direito privado. As fundações, instituídas pelo Poder Público, que assumem a gestão de serviço estatal e se submetem a regime administrativo previsto, nos Estados-membros, por leis estaduais, são fundações de direito público, e, portanto, pessoas jurídicas de direito público. Tais fundações são espécie do gênero autarquia [...]. Ressalta-se que quando têm natureza jurídica de direito público, as fundações públicas são chamadas de fundações autárquicas ou autarquias fundacionais.\n\ne) Certa: há, no enunciado, as características da sociedade de economia mista, conforme definidas pelo art. 4º da Lei 13.303/2016: “Sociedade de economia mista é a entidade dotada de personalidade jurídica de direito privado, com criação autorizada por lei, sob a forma de sociedade anônima, cujas ações com direito a voto pertençam em sua maioria à União, aos Estados, ao Distrito Federal, aos Municípios ou a entidade da administração indireta”.\n\nGabarito: alternativa E.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u3l2",
+          "title": "Segunda Lição",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – Prefeitura de Caraguatatuba - SP/2024)",
+              "question": "Relacione as entidades da Administração Pública indireta relacionadas a seguir, com as respectivas descrições\n\n1. Empresas Públicas 2. Autarquias 3. Fundações Públicas\n\n( ) criadas por lei, podendo ser entidade de direito público ou privado. Sua atividade fim deve ser de interesse público e não pode ter fins lucrativos.\n\n( ) instituídas por lei, têm autonomia administrativa e financeira, mas estão sujeitas ao controle do Estado. São entidades de direito público e sua atividade fim é de interesse público.\n\n( ) pessoas jurídicas de direito privado, criadas por autorização legal e administradas pelo poder público. O capital é público, prestam serviço de interesse coletivo e exercem atividades econômicas.\n\nAssinale a opção que indica a relação correta, na ordem apresentada.",
+              "options": [
+                "1 – 2 – 3.",
+                "2 – 1 – 3.",
+                "2 – 3 – 1.",
+                "3 – 1 – 2.",
+                "3 – 2 – 1."
+              ],
+              "answer": 4,
+              "explanation": "Empresa pública é, segundo a Lei 13.303/2016, a “[...] entidade dotada de personalidade jurídica de direito privado, com criação autorizada por lei e com patrimônio próprio, cujo capital social é integralmente detido pela União, pelos Estados, pelo Distrito Federal ou pelos Municípios” (art. 3º). Ademais, as empresas públicas são instituídas para a prestação de serviços públicos ou exploração de atividade econômica, como afirmado no “terceiro” item.\n\nAutarquia é, de acordo com o Decreto-Lei 200/1967, “o serviço autônomo, criado por lei, com personalidade jurídica, patrimônio e receita próprios, para executar atividades típicas da Administração Pública que requeiram, para seu melhor funcionamento, gestão administrativa e financeira descentralizada” (art. 5º, I). Assim, a criação dessa entidade, sempre mediante lei, tem finalidade de especialização da Administração Pública, com autonomia em relação ao ente político instituidor. Por outro lado, o órgão central realiza o controle finalístico sobre a atividade da autarquia. Ademais, as atividades típicas de Estado só podem ser realizadas por entidades de direito público. Logo, o conceito corresponde ao “segundo” item.\n\nFundações públicas são entidades que podem ter natureza jurídica de direito público ou de direito privado. No primeiro caso, são criadas por lei. No segundo caso, a lei autoriza a criação, que se dá no registro do ato constitutivo. Por fim, a atividade desse tipo de entidade é a de interesse público, sem fins lucrativos. A afirmação corresponde ao “primeiro” item. Contudo, o conceito não ficou “redondo”, pois nem toda fundação é criada diretamente por lei. Porém, é o conceito mais próximo de fundação pública.\n\nDessa forma, a ordem correta é 3 – 2 – 1.\n\nGabarito: alternativa E.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV / Prefeitura de Abreu e Lima - PE / 2024)",
+              "question": "No exercício de suas atribuições em cargo integrante da controladoria do Município de Abreu e Lima, Guilherme foi instado a indicar uma entidade da Administração Indireta, que tenha personalidade jurídica de direito privado, cuja criação é autorizada por lei e depende de registro dos respectivos atos constitutivos. Diante dessa situação hipotética, Guilherme apontou corretamente",
+              "options": [
+                "uma autarquia.",
+                "uma agência reguladora.",
+                "uma empresa pública.",
+                "uma Secretaria Municipal.",
+                "uma organização da sociedade civil de interesse público."
+              ],
+              "answer": 2,
+              "explanation": "a) Errada: autarquias são entidades da Administração Indireta, mas têm personalidade jurídica de direito público, pois são criadas por lei. Não há, para elas, o registro de atos constitutivos, medida que ocorre nas entidades de direito privado.\n\nb) Errada: agências reguladoras são autarquias de regime especial. Logo, como as autarquias comuns, não têm natureza jurídica de direito privado e não dependem do registro de atos constitutivos.\n\nc) Certa: de fato, empresas públicas são entidades da Administração Indireta, com natureza jurídica de direito privado e criação autorizada por lei, com posterior registro dos atos constitutivos.\n\nd) Errada: Secretarias Municipais são órgãos que compõem a Administração Direta, criados por lei.\n\ne) Errada: as organizações da sociedade civil sequer fazem parte da Administração Pública. São entidades privadas que compõem o chamado “terceiro setor”.\n\nGabarito Letra C.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV / EPE / 2024)",
+              "question": "Leia o fragmento a seguir. A entidade dotada de personalidade jurídica de direito privado, sem fins lucrativos, criada em virtude de autorização legislativa para o desenvolvimento de atividades que não exijam execução por órgãos ou entidades de direito público, com autonomia administrativa, patrimônio próprio gerido pelos respectivos órgãos de direção e funcionamento custeado por recursos da União e de outras fontes. O fragmento apresenta as características de uma",
+              "options": [
+                "autarquia.",
+                "fundação pública.",
+                "empresa pública.",
+                "sociedade de economia mista.",
+                "entidade paraestatal."
+              ],
+              "answer": 1,
+              "explanation": "O fragmento apresentado no enunciado corresponde à definição de fundação pública dada pelo Decreto-Lei 200/1967 (art. 5º, IV) (gabarito: letra B). Lembrando, contudo, que as fundações também podem ter natureza de direito público.\n\nVejamos as incompatibilidades dessa definição às demais entidades:\n\na) Errada: autarquias são criadas por lei. Têm personalidade jurídica de direito público e desenvolvem atividades típicas de Estado.\n\nc) e d) Erradas: empresas estatais podem obter lucro e seu funcionamento pode ser custeado por recursos próprios.\n\ne) Errada: entidades paraestatais compõem o chamado terceiro setor. Não integram a Administração Pública. Com exceção dos serviços sociais autônomos, a criação dessas entidades independe de lei.\n\nGabarito: Letra B.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – TJ MT/2024)",
+              "question": "O governo do estado do Mato Grosso deseja criar uma fundação estatal cujo objeto é o atendimento à população em situação de rua. Sendo essa uma fundação estatal de direito privado, é correto afirmar que:",
+              "options": [
+                "a sua área de atuação deve ser definida por lei ordinária;",
+                "o regime de seu pessoal será o estatutário;",
+                "gozará de imunidade tributária recíproca;",
+                "seu patrimônio será composto por bens públicos;",
+                "submeter-se-á ao controle pelo Ministério Público, assim como as demais fundações privadas."
+              ],
+              "answer": 2,
+              "explanation": "a) Errada: de acordo com a CF, “somente por lei específica poderá ser criada autarquia e autorizada a instituição de empresa pública, de sociedade de economia mista e de fundação, cabendo à lei complementar, neste último caso, definir as áreas de sua atuação” (art. 37, XIX). Assim, a área de atuação das fundações é definida por lei complementar, a qual ainda não foi editada.\n\nb) Errada: as fundações públicas de direito privado adotam regime celetista.\n\nc) Certa: a imunidade tributária recíproca, prevista na CF (art. 150, VI, “a”), é uma característica comum às fundações públicas de direito público e de direito privado, por força do art. 150, §2º: “A vedação do inciso VI, \"a\", é extensiva às autarquias e às fundações instituídas e mantidas pelo poder público [...]”.\n\nd) Errada: os bens da fundação pública de direito privado, em regra, são privados. Ressalta-se que os bens que estiverem empregados diretamente na prestação de serviços públicos poderão receber algumas prerrogativas de bens públicos, como a impenhorabilidade, em decorrência do princípio da continuidade dos serviços públicos.\n\ne) Errada: a fiscalização do Ministério Público sobre fundações, conforme prevista no art. 66 do Código Civil (“Velará pelas fundações o Ministério Público do Estado onde situadas”), diz respeito às entidades privadas. As fundações públicas, sejam de direito público ou de direito privado, submetem-se a controle pelo ente federativo que as criou.\n\nGabarito: alternativa C.",
+              "id": 4
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – DNIT/2024)",
+              "question": "A organização administrativa no setor público envolve modelos que delineiam a distribuição de poder e responsabilidades. A dicotomia entre centralização e descentralização é fundamental na tomada de decisões governamentais, com a primeira concentrando autoridade e a última delegando competências. Esses modelos refletem a diversidade estratégica adotada pelos governos em busca de eficiência, transparência e atendimento às necessidades da sociedade.\n\nRelacione as organizações listadas a seguir às respectivas naturezas jurídicas.\n\n1. Departamento Nacional de Infraestrutura de Transportes (DNIT)\n2. Ministério dos Transportes\n3. Companhia Paulista de Trens Metropolitanos (CPTM)\n4. Empresa de Transportes e Trânsito de Belo Horizonte (BHTRANS)\n\n( ) Autarquia\n( ) Sociedade de Economia Mista\n( ) Ministério\n( ) Empresa Pública\n\nAssinale a opção que indica a relação correta, na ordem apresentada.",
+              "options": [
+                "1 – 3 – 2 – 4.",
+                "1 – 4 – 2 – 3.",
+                "4 – 2 – 3 – 1.",
+                "2 – 4 – 3 – 1.",
+                "4 – 3 – 2 – 1."
+              ],
+              "answer": 1,
+              "explanation": "Nessa questão, temos que entender a categoria de cada entidade ou órgão. Vamos começar pelos dois mais fáceis:\n\n▪ DNIT: é autarquia federal;\n▪ Ministério dos Transportes: é órgão do Poder Executivo federal.\n\nA BHTRANS ficou “famosa” no mundo dos concursos, porque é a entidade envolvida na decisão do STF sobre a possibilidade de delegação do poder de polícia. Lembra que, na tese do STF, eles admitiram a delegação para entidade cujo capital seja “majoritariamente público”? Logo, se é majoritariamente público, trata-se de uma sociedade de economia mista.\n\nCom isso, já dava para resolver a questão.\n\nVale acrescentar que a CPTM é uma empresa pública.\n\nQuestão decoreba. Infelizmente, às vezes, aparecem algumas questões assim.\n\nGabarito: alternativa B.",
+              "id": 5
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – Receita Federal/2023)",
+              "question": "Hospital Dod é uma sociedade de economia mista estadual que realiza atividade típica de Estado na área da saúde e que não tem intuito de obtenção de lucro, de modo que atua em regime não concorrencial. Em decorrência de uma série de demandas ajuizadas em seu desfavor, seus dirigentes estão com fundadas dúvidas acerca do reconhecimento pelo Supremo Tribunal Federal de peculiaridades relativas ao respectivo regime jurídico enquanto entidade da Administração Indireta, sendo correto afirmar que",
+              "options": [
+                "a entidade administrativa em questão integra o conceito de Fazenda Pública.",
+                "deve a ela ser reconhecida imunidade tributária recíproca.",
+                "a responsabilização civil da entidade por erro médico de seus agentes apenas pode decorrer de dolo ou culpa.",
+                "os bens de sua titularidade podem ser penhorados, ainda que utilizados na realização de suas atividades.",
+                "não é possível atribuir a tal entidade nenhuma prerrogativa reconhecida para os entes federativos."
+              ],
+              "answer": 1,
+              "explanation": "A questão trata da chamada “autarquização” das empresas estatais. Para tanto, são necessários três requisitos:\n\n1) que a empresa estatal preste um serviço público;\n2) que esse serviço público seja prestado em regime não concorrencial;\n3) que a entidade não faça a distribuição de lucros entre acionistas.\n\nEsses três requisitos constam no caso descrito no enunciado.\n\nDessa forma, a empresa pode gozar de algumas regras aplicáveis às autarquias, como a delegação do poder de polícia, o pagamento de débitos pelo regime de precatórios e incidência da imunidade tributária recíproca (STF, ACO 3410/SE, j. 20/4/2022).\n\nAgora, vamos analisar as opções:\n\na) a priori, o termo Fazenda Pública designa as entidades de direito público. Há algumas divergências conceituais, mas é certo que as empresas estatais não compõem esse conceito – ERRADA;\n\nb) de fato, a entidade goza da imunidade tributária recíproca – CORRETA;\n\nc) a responsabilidade, nesse caso, é objetiva, já que a entidade presta serviço público, independente de dolo ou culpa, portanto – ERRADA;\n\nd) se a entidade presta serviços públicos, os bens utilizados diretamente na prestação desses serviços não podem ser penhorados (STF, ADPF 275/PB, j. 17/10/2018) – ERRADA;\n\ne) é possível sim estender benefícios dos entes federativos no caso da questão, como a imunidade tributária recíproca – ERRADA.\n\nGabarito: alternativa B.",
+              "id": 6
+            },
+            {
+              "type": "multiple_choice",
+              "header": "(FGV – MPE GO/2022)",
+              "question": "O Estado Beta editou legislação que (i) define a saúde pública como área de atuação passível de exercício por fundação pública de direito privado; (ii) autoriza a instituição de fundações públicas de direito privado destinadas à prestação de serviços de saúde (hospitais e institutos de saúde); e (iii) atribui a essas entidades autonomia gerencial, orçamentária e financeira, além de estabelecer o regime celetista para contratação de seus funcionários.\n\nNo caso em tela, de acordo com a jurisprudência do Supremo Tribunal Federal, a mencionada legislação estadual é:",
+              "options": [
+                "inconstitucional, haja vista que essas fundações públicas de direito privado não podem prestar serviços de saúde, sendo certo que tais fundações são veladas pelo Ministério Público Estadual;",
+                "constitucional, e essas fundações públicas de direito privado fazem jus à isenção das custas processuais e integram a Administração Pública indireta, mas não estão sujeitas ao controle finalístico pela Secretaria Estadual de Saúde;",
+                "inconstitucional, haja vista que deve ser adotado o regime jurídico estatutário para seus servidores por se tratar de fundações públicas, gozando essas entidades das prerrogativas processuais, como isenção de custas;",
+                "constitucional, e essas fundações públicas de direito privado não fazem jus à isenção das custas processuais, mas integram a Administração Pública indireta e estão sujeitas ao controle financeiro e orçamentário realizado pelo Tribunal de Contas;",
+                "inconstitucional, haja vista que deve ser adotado o regime jurídico estatutário para seus servidores por se tratar de fundações públicas, mas suas contratações prescindem de prévia licitação."
+              ],
+              "answer": 3,
+              "explanation": "Para responder essa questão, é necessário conhecer a decisão do STF no RE 716.378/SP:\n\n\"1. A qualificação de uma fundação instituída pelo Estado como sujeita ao regime público ou privado depende (i) do estatuto de sua criação ou autorização e (ii) das atividades por ela prestadas. As atividades de conteúdo econômico e as passíveis de delegação, quando definidas como objetos de dada fundação, ainda que essa seja instituída ou mantida pelo Poder Público, podem se submeter ao regime jurídico de direito privado.\n\n2. A estabilidade especial do art. 19 do ADCT não se estende aos empregados das fundações públicas de direito privado, aplicando-se tão somente aos servidores das pessoas jurídicas de direito público.\"\n\nAdemais, na ADI 4247, o STF entendeu que:\n\n\"ADVOGADO-GERAL DA UNIÃO – CONTROLE ABSTRATO DE CONSTITUCIONALIDADE. Cabe à Advocacia-Geral da União a defesa do ato normativo impugnado – artigo 103, § 3º, da Constituição Federal. FUNDAÇÃO – NATUREZA. A fundação, pouco importando a espécie de serviços a serem prestados, é pessoa jurídica de direito privado, sendo possível a criação mediante lei ordinária e a regência, pela Consolidação das Leis do Trabalho, da relação jurídica mantida com os prestadores de serviços.\" (ADI 4247, Relator(a): MARCO AURÉLIO, Tribunal Pleno, julgado em 04/11/2020, PROCESSO ELETRÔNICO DJe-042 DIVULG 05-03-2021 PUBLIC 08-03-2021)\n\nA ação se referia a leis do Estado do Rio de Janeiro que criaram fundações públicas de direito privado, para prestação de serviços à saúde sob regime celetista, conforme previsto na Lei Complementar Estadual nº 118/2017. Essa lei foi transcrita pela banca no enunciado, vejam:\n\n\"Art. 2º O Poder Executivo poderá instituir, mediante autorização legislativa específica, fundações públicas sem fins lucrativos com personalidade jurídica de direito privado, patrimônio e receitas próprias e autonomia gerencial orçamentária e financeira para o desempenho da atividade prevista no art. 1º desta Lei Complementar.\"\n\nComo vimos do julgado, o STF considerou tal lei constitucional. Assim, as alternativas A, C e E já poderiam ser desconsideradas.\n\nNo caso da alternativa B, o erro está em dizer que as fundações públicas de direito privado fazem jus à isenção das custas processuais, quando não fazem. Eles são restritos às entidades que seguem o regime público, o que não é o caso. Esse é o entendimento do STJ:\n\n\"5. No caso dos autos, a entidade fundacional é de direito privado, filantrópica e de utilidade pública, cuja criação se deu por lei municipal autorizativa de doação de bem imóvel público, não se aplicando à hipótese, portanto, os critérios utilizados pelo acórdão recorrido para o arbitramento dos honorários advocatícios, nem mesmo a isenção de custas processuais\" (REsp 1.409.199 / SC, j. 26/10/21).\n\nAdemais, também está errado dizer que as fundações não se submetem ao controle finalístico realizado pela administração direta. Toda entidade da administração indireta, seja de direito público, seja de direito privado, se submete à tutela ou supervisão ministerial, estando vinculadas ao ente central, que exerce referido controle.\n\nFinalmente, podemos concluir que apenas a alternativa D está correta. Como vimos, as fundações de direito privado integram a administração indireta, e de fato não fazem jus à isenção de custas. Se submetem ao controle financeiro e orçamentário do TC, conforme previsão expressa do art. 71, II da CF/88.\n\nGabarito: alternativa D.",
+              "id": 7
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – Câmara de Salvador - BA/2018",
+              "question": "Observe os conceitos trazidos pela doutrina de Direito Administrativo para as seguintes entidades que integram a Administração indireta: (A) Pessoa jurídica de direito público que desenvolve atividade típica de Estado, com liberdade para agir nos limites da lei específica que a criou; (B) Pessoa jurídica de direito privado, criada por autorização legal, sob a forma de sociedade anônima, cujo controle acionário pertença ao Poder Público, tendo por objetivo, como regra, a exploração de atividades gerais de caráter econômico e, em algumas ocasiões, a prestação de serviços públicos.\n\nAs definições expostas tratam, respectivamente, de:",
+              "options": [
+                "fundação pública e empresa pública;",
+                "sociedade de economia mista e empresa pública;",
+                "concessionária e empresa pública;",
+                "autarquia e sociedade de economia mista;",
+                "fundação pública e autarquia."
+              ],
+              "answer": 3,
+              "explanation": "(A) Pessoa jurídica de direito público que desenvolve atividade típica de Estado, com liberdade para agir nos limites da lei específica que a criou – nesse caso, estamos diante das autarquias, que são as únicas entidades administrativas que necessariamente devem ser de direito público.\n\n(B) Pessoa jurídica de direito privado, criada por autorização legal, sob a forma de sociedade anônima, cujo controle acionário pertença ao Poder Público, tendo por objetivo, como regra, a exploração de atividades gerais de caráter econômico e, em algumas ocasiões, a prestação de serviços públicos – esse é o conceito de sociedade de economia mista, que se caracteriza por ser uma entidade de direito privado, sempre constituída como sociedade anônima e que pode explorar atividade econômica ou prestar serviços públicos.\n\nLogo, o gabarito é a letra D.\n\nAgora, vamos analisar as outras alternativas:\n\na) a fundação pública é a entidade dotada de personalidade jurídica de direito privado, sem fins lucrativos, criada em virtude de autorização legislativa, para o desenvolvimento de atividades que não exijam execução por órgãos ou entidades de direito público, com autonomia administrativa, patrimônio próprio gerido pelos respectivos órgãos de direção, e funcionamento custeado por recursos da União e de outras fontes; já a empresa pública, em que pese seja de direito privado e seja criada mediante autorização legal, não precisam ser criadas necessariamente como SA e não admitem participação privada – ERRADA;\n\nb) no primeiro caso, não pode ser sociedade de economia mista, pois elas são de direito privado. O segundo caso não pode ser empresa pública, já que elas não precisam ser necessariamente uma sociedade anônima – ERRADA;\n\nc) as concessionárias são empresas privadas (não são, em regra, entidades administrativas – ERRADA;\n\ne) já vimos que o item 1 não pode ser uma fundação, pois elas nem sempre serão de direito público; já o item 2 não pode ser autarquia, já que elas são entidades de direito público – ERRADA.\n\nGabarito: alternativa D.",
+              "id": 8
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – Câmara de Salvador - BA/2018",
+              "question": "A Administração Pública Indireta decorre da descentralização de serviços e consiste na instituição, pelo Estado, por meio de lei, de uma pessoa jurídica a quem se atribui a titularidade e execução de determinado serviço público, como é o caso de uma:",
+              "options": [
+                "concessionária que presta serviço público essencial para um município;",
+                "fundação privada que tem por objeto a capacitação e a atualização de profissionais na área da educação;",
+                "empresa pública que tem personalidade jurídica de direito público;",
+                "Câmara Municipal que tem função precípua de produzir legislação em nível municipal;",
+                "sociedade de economia mista que tem personalidade jurídica de direito privado."
+              ],
+              "answer": 4,
+              "explanation": "A descentralização pode ocorrer por meio de outorga ou por delegação. No primeiro caso, ocorre a transferência da titularidade e da execução, uma vez que a descentralização dependerá de lei para criar ou autorizar a criação da entidade. Assim, quando são criadas entidades administrativas (autarquias, fundações, empresas públicas e sociedades de economia mista), ocorrerá a transferência da execução e da titularidade.\n\nNo segundo caso, a descentralização (por delegação) ocorre por meio de contrato ou ato administrativo, logo não haverá a transferência da titularidade, mas apenas da execução. Agora, vamos analisar as situações:\n\na) concessionárias e permissionárias de serviços públicos não integram a Administração Pública indireta. Além disso, no caso de descentralização por delegação, ocorre apenas a transferência da execução e não da titularidade – ERRADA;\n\nb) se a fundação é privada (ou seja, criada por particulares), não há descentralização por serviços nem transferência da titularidade – ERRADA;\n\nc) empresa pública tem personalidade jurídica de direito privado – ERRADA;\n\nd) Câmara Municipal é um órgão, logo não é criada via descentralização, mas por desconcentração – ERRADA;\n\ne) correta! Na descentralização por serviços, há a criação de entidades administrativas que integram a administração indireta, tal como as sociedades de economia mista, que têm personalidade jurídica de direito privado – CORRETA.\n\nGabarito: alternativa E.",
+              "id": 9
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – SEFIN RO/2018",
+              "question": "João, advogado de um grande escritório, foi incumbido de identificar a natureza jurídica de determinado ente da Administração Pública indireta. Após amplas pesquisas, constatou que a lei autorizou a instituição desse ente, cujo capital somente pode pertencer ao ente federativo instituidor e a outras pessoas jurídicas de direito público interno, bem como a entidades da Administração indireta. À luz da ordem jurídica brasileira, constitucional e infraconstitucional, é correto afirmar que esse ente tem a natureza jurídica de",
+              "options": [
+                "autarquia.",
+                "sociedade de economia mista.",
+                "fundação pública.",
+                "empresa pública.",
+                "sociedade de mera participação do Estado."
+              ],
+              "answer": 3,
+              "explanation": "a) as autarquias são criadas diretamente pela lei (e não autorizadas) – ERRADA;\n\nb) as sociedades de economia mista admitem capital público e privado, mas a maioria do capital com direito a voto é público – ERRADA;\n\nc) a fundação pública é definida como a personificação de um patrimônio ao qual é atribuída uma finalidade específica não lucrativa, de cunho social. É criada por iniciativa do Poder Público, a partir de patrimônio público, e pressupõem a edição de lei específica (para criar ou autorizar) – ERRADA;\n\nd) alternativa correta. A empresa pública deverá possuir um capital totalmente público. Lembrando que, nesse caso, poderemos ter capital do ente instituidor, somado ao capital de outros entes políticos ou ainda de entidades administrativas – CORRETA.\n\ne) nesse caso, há apenas a participação do Estado na composição do capital, logo também há a presença de capital privado – ERRADA.\n\nGabarito: alternativa D.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u3l3",
+          "title": "Terceira Lição",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "FGV – SEFIN RO/2018",
+              "question": "Assinale a opção que apresenta as entidades que, segundo o texto constitucional, compõem a administração indireta.",
+              "options": [
+                "Autarquias, empresas públicas, ministérios e tribunais de contas.",
+                "Fundações públicas, empresas públicas, ministério público e tribunais de justiça.",
+                "Sociedades de economia mista, fundações públicas e ministério público.",
+                "Autarquias, empresas públicas, fundações públicas e sociedades de economia mista.",
+                "Sociedades de economia mista, autarquias, agências reguladoras e tribunais de contas."
+              ],
+              "answer": 0,
+              "explanation": "Questão muito tranquila. Devemos observar que a administração indireta é composta por autarquias, empresas públicas, fundações públicas e sociedades de economia mista. Portanto, a alternativa correta é a letra ‘d’.\n\nNas demais alternativas, sempre teremos pelo menos um órgão da Administração Direta, vejamos quais:\n\na) ministérios e tribunais de contas – ERRADA;\n\nb) ministério público e tribunais de justiça – ERRADA;\n\nc) ministério público – ERRADA;\n\ne) os tribunais de contas estão na Administração Direta. Além disso, a opção mencionou as agências reguladoras, que, de fato, integram a Administração Indireta, constituindo uma espécie de autarquia – ERRADA.\n\nGabarito: alternativa D.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – SEPOG RO/2017",
+              "question": "Determinado professor defendeu a tese de que seria injurídico qualquer tratamento diferenciado em relação ao regime de contratação de bens, obras e serviços a ser seguido pelas sociedades de economia mista e empresas públicas, independentemente da atividade desempenhada. Afinal, tanto os entes que prestam serviço público como aqueles que exploram atividade econômica de produção ou comercialização de bens ou de prestação de serviços de natureza privada devem submeter-se às mesmas normas que recaem sobre a Administração Pública em geral. À luz da narrativa acima e da sistemática constitucional, a tese do professor, em relação à sistemática de contratação a ser observada por sociedades de economia mista e empresas públicas, está",
+              "options": [
+                "totalmente correta.",
+                "parcialmente correta, pois sociedades de economia mista e empresas públicas que exploram atividade econômica devem ter regras de contratação diferenciadas.",
+                "parcialmente correta, pois sociedades de economia mista e empresas públicas que prestam serviço público devem ter regras de contratação diferenciadas.",
+                "totalmente incorreta, pois as sociedades de economia mista e as empresas públicas, independentemente da atividade desempenhada, devem ter regras de contratação diferenciadas.",
+                "parcialmente correta, pois apenas as sociedades de economia mista, qualquer que seja a atividade desempenhada, devem ter regras de contratação diferenciadas."
+              ],
+              "answer": 1,
+              "explanation": "As empresas públicas e as sociedades de economia mista podem ser instituídas para duas finalidades: (i) explorar atividade econômica; ou (ii) prestar serviços públicos.\n\nAdemais, a CF dispõe que as empresas públicas e as sociedades de economia mista que exploram atividade econômica devem atuar com predomínio das regras de direito privado, porquanto o art. 173, § 1º, II, da CF, estabelece que o estatuto dessas entidades se sujeita ao regime jurídico próprio das empresas privadas. Com efeito, para essas entidades, deveria ser estabelecido um regime diferenciado de licitações públicas. Note: analisando apenas o art. 173 da Constituição Federal, o regime especial de licitação seria estabelecido apenas para as EP e SEM que explorem atividade econômico, não se aplicando, consequentemente, àquelas que prestam serviços públicos.\n\nAssim, a tese do professor estaria parcialmente correta, uma vez que as sociedades de economia mista e empresas públicas que exploram atividade econômica devem ter regras de contratação diferenciadas. Por isso, o gabarito é a letra B.\n\nNo entanto, temos que fazer uma ressalva. É que, na prática, foi estabelecido um regime jurídico especial tanto para as EP e SEM que exploram atividade econômica quanto para às que prestam serviços públicos. Estamos falando da Lei 13.303/2016, que se aplica aos dois tipos de entidades.\n\nAssim, em provas, temos que lembrar que, em tese, o regime jurídico seria apenas para as que exploram atividade econômica (caso da questão), mas que na prática o regime foi instituído para as entidades que atuam em qualquer dos dois tipos de atividades.\n\nGabarito: alternativa B.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – SEPOG RO/2017",
+              "question": "Segundo a Constituição da República, a Administração Pública Indireta compreende as categorias de entidades dotadas de personalidade jurídica própria, listadas a seguir, à exceção de uma. Assinale-a.",
+              "options": [
+                "Autarquias.",
+                "Empresas Públicas.",
+                "Sociedades de Economia Mista.",
+                "Fundações Públicas.",
+                "Tribunais de Contas."
+              ],
+              "answer": 4,
+              "explanation": "Com a exceção da alternativa E, todas as entidades acima possuem personalidade jurídica própria, pois fazem parte da administração indireta ou descentralizada. Já o Tribunal de Contas é um órgão independente, integrante da Administração Direta.\n\nGabarito: alternativa E.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TRT 12/2017",
+              "question": "Em relação ao regime jurídico das empresas estatais, de acordo com o ordenamento jurídico e a doutrina de Direito Administrativo, as empresas públicas e as sociedades de economia mista:",
+              "options": [
+                "integram a Administração Indireta, ostentando personalidade jurídica de direito público, e são criadas com a finalidade de prestar serviços públicos ou exploração de determinadas atividades econômicas de interesse da sociedade;",
+                "têm seus empregados regidos pela Consolidação das Leis do Trabalho, com vínculo empregatício por meio de relação contratual de emprego, mas se submetem a algumas restrições aplicáveis aos servidores públicos em geral;",
+                "remuneram seus empregados com vencimentos, proventos, pensões ou outra espécie remuneratória, incluídas as vantagens pessoais ou de qualquer outra natureza, que não podem exceder, em qualquer caso, o subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal;",
+                "têm seu pessoal contratado mediante prévio concurso público de provas ou de provas e títulos, mas não se aplica a vedação constitucional de acumulação de cargos e empregos públicos a seus agentes;",
+                "concedem a estabilidade constitucional a seus empregados aprovados mediante concurso público após três anos de efetivo exercício, que somente poderão perder o emprego em virtude de sentença judicial transitada em julgado ou processo administrativo em que lhe seja assegurada ampla defesa."
+              ],
+              "answer": 1,
+              "explanation": "A) as empresas estatais dividem-se em empresas públicas e sociedades de economia mista. As duas são entidades administrativas, integram a administração indireta, possuem personalidade jurídica de direito privado, têm sua criação autorizada em lei e podem ser criadas para explorar atividade econômica ou prestar serviços públicos – ERRADA;\n\nb) o regime de pessoal das empresas estatais é o da Consolidação das Leis do Trabalho, formado por meio de vínculo contratual. Logo, os agentes dessa entidade, em regra, ocupam emprego público. Todavia, ainda que seja um regime de direito privado, aplicam-se algumas restrições de direito público, como a vedação à acumulação remunerada de cargos, empregos e funções; a aplicação do teto constitucional para as empresas estatais dependentes; etc. – CORRETA;\n\nc) se a empresa estatal não receber recursos do ente instituidor para pagamento de pessoal e custeio em geral não lhe será aplicável o teto constitucional remuneratório (CF, art. 37, § 9º). Logo, a alternativa não poderia ter generalizado – ERRADA;\n\nd) a primeira parte da assertiva está correta, porém é vedada a acumulação remunerada de cargos públicos, exceto nas hipóteses previstas expressamente na Constituição (CF, art. 37, XVI e XVII) – ERRADA;\n\ne) os empregados públicos não fazem jus à estabilidade constitucional – ERRADA.\n\nGabarito: alternativa B.",
+              "id": 4
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – COMPESA/2016",
+              "question": "A respeito do regime jurídico das sociedades de economia mista que explorem atividade econômica, assinale a afirmativa incorreta.",
+              "options": [
+                "As sociedades de economia mista não poderão gozar de privilégios fiscais não extensivos às do setor privado.",
+                "As sociedades de economia mista se sujeitarão ao regime jurídico próprio das empresas privadas, inclusive quanto aos direitos trabalhistas.",
+                "As sociedades de economia mista deverão realizar licitação para compras e alienações.",
+                "Os mandatos, a avaliação de desempenho e a responsabilidade dos administradores serão disciplinados exclusivamente pelo ato constitutivo da sociedade de economia mista.",
+                "A criação de subsidiária de sociedades de economia mista que explorem atividade econômica depende de autorização legislativa."
+              ],
+              "answer": 3,
+              "explanation": "Essa questão pode ser respondida a partir das previsões constitucionais relativas às empresas estatais. Vamos analisar cada alternativa:\n\na) isso mesmo. Esse é o exato teor do art. 173, §1º da Constituição Federal – CORRETA;\n\nb) de acordo com o art. 173, §1º, II, a lei estabelecerá o estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias que explorem atividade econômica de produção ou comercialização de bens ou de prestação de serviços, dispondo sobre sua sujeição ao regime jurídico próprio das empresas privadas, inclusive quanto aos direitos e obrigações civis, comerciais, trabalhistas e tributários – CORRETA;\n\nc) no mesmo sentido exposto na alternativa anterior, o art. 173, §1º, III diz que as empresas estatais se sujeitam a licitação para contratação de obras, serviços, compras e alienações, observados os princípios da administração pública – CORRETA;\n\nd) os mandatos, a avaliação de desempenho e a responsabilidade dos administradores serão disciplinados por lei, na forma do art. 173, §1º, I da CF/88 – ERRADA;\n\ne) depende de autorização legislativa, em cada caso, a criação de subsidiárias das autarquias, empresas públicas, de sociedade de economia mista e de fundação, assim como a participação de qualquer delas em empresa privada, na forma do art. 37, XX da CF/88 – CORRETA.\n\nGabarito: alternativa D.",
+              "id": 5
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – IBGE/2016",
+              "question": "Em matéria de Controle da Administração Pública, é correto afirmar que sobre uma fundação pública federal com personalidade jurídica de direito público:",
+              "options": [
+                "incide o controle externo do Poder Judiciário, mediante a atuação do Tribunal de Contas da União;",
+                "incide o controle externo por parte do Ministério a que estiver vinculada, por meio da supervisão ministerial;",
+                "incide o controle interno por parte do Ministério a que estiver vinculada e do Tribunal de Contas da União;",
+                "não incide o controle externo do Poder Legislativo, mas é controlada pelo Poder Judiciário no aspecto da legalidade;",
+                "não incide qualquer tipo de controle externo, seja por sua autonomia, seja pelo princípio da separação dos poderes."
+              ],
+              "answer": 0,
+              "explanation": "Entre as entidades administrativas e a Administração Direta, ocorre o chamado controle finalístico, também chamado de supervisão ministerial, como menciona a alternativa B, nosso gabarito. Além do controle da administração direta, as pessoas jurídicas da administração indireta, como as fundações públicas, realizam o controle sobre os seus próprios atos – controle interno – e também estão submetidos a ações de órgãos estranhos à sua estrutura - controle externo. Assim, essas pessoas jurídicas se submetem à fiscalização contábil, financeira e orçamentária dos Tribunais de Contas; às ações do Ministério Público; e ao controle de legalidade do Poder Judiciário.\n\nGabarito: alternativa B.",
+              "id": 6
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – Prefeitura de Cuiabá - MT/2016",
+              "question": "Gustavo, Prefeito do Município X, após lei autorizativa específica, edita decreto criando Sociedade de Economia Mista para prestação de serviço público de saneamento básico. Posteriormente, mesmo sem nova lei autorizativa específica, Gustavo cria empresa subsidiária da referida Sociedade de Economia Mista. A esse respeito, assinale V para a afirmativa verdadeira e F para a falsa.\n\n( ) Após a criação da Sociedade de Economia Mista, somente nova lei específica pode autorizar a criação de subsidiária da estatal, em respeito ao princípio da reserva legal.\n\n( ) Os empregados contratados pela subsidiária da Sociedade de Economia Mista são regidos pela Consolidação das Leis do Trabalho-CLT – não estando sujeitos às regras constitucionais de vedação à acumulação de empregos.\n\n( ) Por prestar serviço público e, portanto, estar sujeita aos princípios da especialidade e do controle com a Administração Direta, não será possível a criação da subsidiária.\n\nAs afirmativas são, respectivamente,",
+              "options": [
+                "F, F e V.",
+                "F, F e F.",
+                "V, F e V.",
+                "V, F e F.",
+                "V, V e F."
+              ],
+              "answer": 1,
+              "explanation": "- Após a criação da Sociedade de Economia Mista, somente nova lei específica pode autorizar a criação de subsidiária da estatal, em respeito ao princípio da reserva legal – na verdade, basta que haja autorização legislativa (e não uma nova lei específica), na forma do art. 37, XX, da CF/88, que diz que depende de autorização legislativa, em cada caso, a criação de subsidiárias das entidades mencionadas no inciso anterior, assim como a participação de qualquer delas em empresa privada – FALSA;\n\n- Os empregados contratados pela subsidiária da Sociedade de Economia Mista são regidos pela Consolidação das Leis do Trabalho – CLT – não estando sujeitos às regras constitucionais de vedação à acumulação de empregos- a proibição de acumular estende-se a empregos e funções e abrange autarquias, fundações, empresas públicas, sociedades de economia mista, suas subsidiárias, e sociedades controladas, direta ou indiretamente, pelo poder público, conforme previsão expressa do art. 37, XVII da CF/88 – FALSA;\n\n- Por prestar serviço público e, portanto, estar sujeita aos princípios da especialidade e do controle com a Administração Direta, não será possível a criação da subsidiária – a criação de subsidiárias é possível sim, dependendo de autorização legislativa, em cada caso, conforme art. 37, XX da CF/88 – FALSA. Portanto, todas as alternativas são falsas, sendo a alternativa B o nosso gabarito.\n\nGabarito: alternativa B.",
+              "id": 7
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TJ PI/2015",
+              "question": "Entidade 1) Pessoa jurídica de direito público, integrante da Administração Indireta, criada por lei específica para desempenhar funções que, despidas de caráter econômico, sejam próprias e típicas do Estado; Entidade 2) Pessoa jurídica de direito privado, integrante da Administração Indireta do Estado, criada por autorização legal, sob qualquer forma jurídica adequada a sua natureza, para que o Governo exerça atividades gerais de caráter econômico ou, em certas situações, execute a prestação de serviços públicos. As entidades acima conceituadas são, respectivamente:",
+              "options": [
+                "fundação pública e autarquia;",
+                "empresa pública e sociedade de economia mista;",
+                "sociedade de economia mista e autarquia;",
+                "fundação pública e concessionária;",
+                "autarquia e empresa pública."
+              ],
+              "answer": 4,
+              "explanation": "O conceito dado às entidades da Administração Indireta podem ser encontrados no DL 200/67, que dispõe sobre a organização da Administração Federal, e ainda, na lei 13.303/16, que dispõe sobre o estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias, no âmbito da União, dos Estados, do Distrito Federal e dos Municípios. Com base nessa legislação, temos que:\n\n• Autarquia: serviço autônomo, criado por lei, com personalidade jurídica, patrimônio e receita próprios, para executar atividades típicas da Administração Pública, que requeiram, para seu melhor funcionamento, gestão administrativa e financeira descentralizada;\n\n• Fundação Pública: a entidade dotada de personalidade jurídica de direito privado, sem fins lucrativos, criada em virtude de autorização legislativa, para o desenvolvimento de atividades que não exijam execução por órgãos ou entidades de direito público, com autonomia administrativa, patrimônio próprio gerido pelos respectivos órgãos de direção, e funcionamento custeado por recursos da União e de outras fontes;\n\n• Empresa pública: é a entidade dotada de personalidade jurídica de direito privado, com criação autorizada por lei e com patrimônio próprio, cujo capital social é integralmente detido pela União, pelos Estados, pelo Distrito Federal ou pelos Municípios;\n\n• Sociedade de economia mista: é a entidade dotada de personalidade jurídica de direito privado, com criação autorizada por lei, sob a forma de sociedade anônima, cujas ações com direito a voto pertençam em sua maioria à União, aos Estados, ao Distrito Federal, aos Municípios ou a entidade da administração indireta.\n\nPortanto, as entidades 1 e 2 mencionadas no enunciado são, respectivamente, autarquia e empresa pública, como traz a alternativa E.\n\nGabarito: alternativa E.",
+              "id": 8
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TJ PI/2015",
+              "question": "De acordo com a doutrina de Direito Administrativo, sociedade de economia mista pode ser conceituada como entidade integrante da Administração:",
+              "options": [
+                "direta, com personalidade jurídica de direito público, criada por lei específica para desempenhar funções que, despidas de caráter econômico, sejam próprias e típicas do Estado, especialmente para a prestação de serviços públicos essenciais de responsabilidade do Poder Público;",
+                "direta, com personalidade jurídica de direito público, criada por autorização legal, sob qualquer forma jurídica adequada a sua natureza, para que o Governo exerça atividades gerais de caráter econômico;",
+                "indireta, com personalidade jurídica de direito privado, criada mediante lei específica, sob a forma de sociedade por cotas de responsabilidade limitada ou sociedade anônima, cujo controle acionário pertença ao Poder Público, tendo por objetivo exclusivamente a exploração de atividades gerais de caráter econômico;",
+                "indireta, com personalidade jurídica de direito público, criada por autorização legal, sob a forma de sociedade por cotas de responsabilidade limitada, cujo controle acionário pertença ao Poder Público, tendo por objetivo exclusivamente a exploração de atividades gerais de caráter econômico;",
+                "indireta, com personalidade jurídica de direito privado, criada por autorização legal, sob a forma de sociedade anônima, cujo controle acionário pertença ao Poder Público, tendo por objetivo, como regra, a exploração de atividades gerais de caráter econômico e, em algumas ocasiões, a prestação de serviços públicos."
+              ],
+              "answer": 4,
+              "explanation": "Autarquias, fundações, empresas públicas e sociedades de economia mista compõem a chamada Administração Indireta. Na forma do art. 4º da lei 13.303/16, “Sociedade de economia mista é a entidade dotada de personalidade jurídica de direito privado, com criação autorizada por lei, sob a forma de sociedade anônima, cujas ações com direito a voto pertençam em sua maioria à União, aos Estados, ao Distrito Federal, aos Municípios ou a entidade da administração indireta”. Podem tanto explorar atividade econômica quanto prestar serviços públicos, conforme menciona a alternativa E, que é o nosso gabarito.\n\nGabarito: alternativa E.",
+              "id": 9
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – CODEMIG/2015",
+              "question": "Segundo a legislação brasileira, a empresa estatal integra a administração pública indireta e pode ser classificada como empresa pública ou sociedade de economia mista, que podem ser exemplificadas, respectivamente, por:",
+              "options": [
+                "Banco do Brasil e BNDES;",
+                "Casa da Moeda e Caixa Econômica Federal;",
+                "Empresa Brasileira de Correios e Telégrafos, e Eletrobras;",
+                "Embrapa e Valec;",
+                "Petrobras e Telebras."
+              ],
+              "answer": 2,
+              "explanation": "O enunciado quer, na ordem, uma empresa pública e uma sociedade de economia mista. Na alternativa A, temos o Banco do Brasil (sociedade de economia mista) e o BNDES (empresa pública); na alternativa B, temos a Casa da Moeda e a Caixa Econômica Federal, ambas empresas públicas; na alternativa D, ambas também são empresas públicas; na alternativa E, ambas são sociedades de economia mista. Assim, nos resta a alternativa C, em que temos os Correios como empresa pública, e a Eletrobrás, como sociedade de economia mista.\n\nGabarito: alternativa C.",
+              "id": 10
             }
           ]
         }
