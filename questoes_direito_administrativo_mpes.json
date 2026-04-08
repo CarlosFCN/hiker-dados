@@ -2,7 +2,7 @@
   "id": "direito_administrativo_mpes",
   "title": "Direito Administrativo MPES",
   "acronym": "DADM",
-  "version": "070420261328",
+  "version": "080420260103",
   "units": [
     {
       "id": "1",
@@ -3692,6 +3692,215 @@
               "answer": 2,
               "explanation": "O enunciado quer, na ordem, uma empresa pública e uma sociedade de economia mista. Na alternativa A, temos o Banco do Brasil (sociedade de economia mista) e o BNDES (empresa pública); na alternativa B, temos a Casa da Moeda e a Caixa Econômica Federal, ambas empresas públicas; na alternativa D, ambas também são empresas públicas; na alternativa E, ambas são sociedades de economia mista. Assim, nos resta a alternativa C, em que temos os Correios como empresa pública, e a Eletrobrás, como sociedade de economia mista.\n\nGabarito: alternativa C.",
               "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u3l4",
+          "title": "Quarta Lição",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "FGV – Prefeitura de Niterói - RJ/2015",
+              "question": "A Constituição Federal, ao estabelecer as disposições gerais afetas à administração pública, fez menção às sociedades de economia mista e às fundações. É correto afirmar que:",
+              "options": [
+                "as sociedades de economia mista integram a administração indireta;",
+                "as sociedades de economia mista somente podem ser criadas por decreto;",
+                "apenas as fundações integram a administração direta;",
+                "as fundações somente podem surgir a partir de licitação;",
+                "as sociedades de economia mista e as fundações integram a administração direta."
+              ],
+              "answer": 0,
+              "explanation": "A Constituição Federal de 1988 prevê em seu art. 37, XIX que somente por lei específica poderá ser criada autarquia e autorizada a instituição de empresa pública, de sociedade de economia mista e de fundação, cabendo à lei complementar, neste último caso, definir as áreas de sua atuação. Essas entidades integram a chamada administração indireta, sendo fruto da descentralização administrativa. Portanto, a única alternativa que reflete essas características é alternativa A, nosso gabarito.\n\nGabarito: alternativa A.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – PGE RO/2015",
+              "question": "De acordo com a doutrina de Direito Administrativo, são pessoas jurídicas de direito privado, integrantes da Administração Indireta do Estado, criadas por autorização legal:",
+              "options": [
+                "as autarquias e as fundações públicas;",
+                "as empresas públicas e as sociedades de economia mista;",
+                "as autarquias e as fundações privadas;",
+                "as fundações autárquicas e as sociedades de economia mista;",
+                "as autarquias e as empresas públicas."
+              ],
+              "answer": 1,
+              "explanation": "As autarquias são entidades da administração indireta criadas diretamente pela lei, assim como as fundações públicas de direito público; por outro lado, as sociedades de economia mista, empresas públicas e fundações públicas de direito privado tem sua criação autorizada pela lei, e a efetiva criação da entidade se dará em momento posterior, com o registro de seus atos constitutivos no Cartório competente. Portanto, a alternativa B é a correta, pois as empresas públicas e sociedades de economia mista são, de fato, pessoas jurídicas de direito privado, integrantes da Administração Indireta do Estado, criadas por autorização legal, como diz o enunciado.\n\nGabarito: alternativa B.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – SSP AM/2015",
+              "question": "Integra a Administração Pública Direta e exerce, de forma centralizada, atividade administrativa do Estado, uma:",
+              "options": [
+                "autarquia, que presta serviço público de guarda municipal para proteção de bens, serviços e instalações municipais;",
+                "fundação pública, que presta serviço público de segurança e inteligência de pessoas e bens, no âmbito do Estado;",
+                "empresa pública, que presta serviço relacionado à atividade econômica e o lucro é repassado ao poder público;",
+                "delegacia de polícia civil, que presta serviço público de apuração de infrações penais;",
+                "empresa concessionária de serviço, que presta serviço de transporte público coletivo intermunicipal."
+              ],
+              "answer": 3,
+              "explanation": "Autarquias, fundações, empresas públicas e empresas concessionárias originam-se da chamada descentralização administrativa. Como o enunciado pede a resposta em relação a desconcentração, facilmente por eliminação chegaríamos ao gabarito, alternativa D. As delegacias de polícia são, portanto, consideradas órgãos sem personalidade jurídica, frutos da desconcentração exercida do âmbito da Administração Direta.\n\nGabarito: alternativa D.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – MPE MS/2013",
+              "question": "A União, desejando realizar a exploração de uma atividade econômica, resolve criar uma sociedade de economia mista. Com relação às sociedades de economia mista, assinale a afirmativa correta.",
+              "options": [
+                "A sociedade de economia mista deve ser criada por lei.",
+                "A União deve possuir ao menos metade de seu capital social.",
+                "A sociedade de economia mista deve seguir todas as regras trabalhistas da iniciativa privada.",
+                "O cargo de presidente de sociedade de economia mista é privativo de brasileiro nato.",
+                "A sociedade de economia mista não precisa realizar licitação em hipótese alguma."
+              ],
+              "answer": 2,
+              "explanation": "A) a criação das sociedades de economia mista é autorizada em lei, porém a sua criação só é efetivada com registro do ato constitutivo no cartório competente – ERRADA;\n\nb) as sociedades de economia mista admitem a conjugação de recursos públicos e privados. No entanto, o controle acionário deve pertencer ao ente instituidor, ou seja, a entidade criadora deve possuir mais de 50% do capital social (mais da metade) – ERRADA;\n\nc) as empresas estatais (e suas subsidiárias) que atuarem na exploração de atividade econômica devem se sujeitar ao regime próprio das empresas privadas, inclusive no que se refere às obrigações civis, comerciais, trabalhistas e tributárias – CORRETA;\n\nd) para responder a essa questão é preciso conhecer um pouco da Constituição. Em seu art. 12º, § 3º, estabelece que são privativos a brasileiros natos os cargos de Presidente e Vice-Presidente da República; de Presidente da Câmara dos Deputados; de Presidente do Senado Federal; de Ministro do Supremo Tribunal Federal; da carreira diplomática; de oficial das Forças Armadas; e de Ministro de Estado da Defesa. Logo, não consta neste rol o cargo de presidente de sociedade de economia mista – ERRADA;\n\ne) as SEMs, no desempenho de suas atividades meio, precisam realizar licitações. Ademais, a Lei 8.666/1993 – Lei de Licitações e Contratos, traz em seu artigo 1º o seguinte texto:\n\n\"Subordinam-se ao regime desta Lei, além dos órgãos da administração direta, os fundos especiais, as autarquias, as fundações públicas, as empresas públicas, as sociedades de economia mista e demais entidades controladas direta ou indiretamente pela União, Estados, Distrito Federal e Municípios.\"\n\nDessa forma, errada também essa alternativa.\n\nGabarito: alternativa C.",
+              "id": 4
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – SUDENE PE/2013",
+              "question": "As entidades da administração pública podem ser criadas e subordinadas ao regime jurídico de direito público ou ao regime jurídico de direito privado. No entanto mesmo quando sujeitas ao regime jurídico de direito privado se subordinam a certas regras impostas a toda a administração. Tendo em vista essas peculiaridades, assinale a afirmativa correta.",
+              "options": [
+                "As entidades da administração pública que se constituem como empresas públicas são criadas diretamente por meio de lei.",
+                "Apenas as autarquias sujeitas ao regime jurídico de direito público necessitam de lei autorizando sua criação.",
+                "As autarquias entidades de direito público são criadas por lei, enquanto as empresas públicas e as sociedades de economia mista tem sua criação autorizada em lei.",
+                "A lei não cria diretamente nenhuma entidade, apenas autoriza a sua criação.",
+                "As empresas públicas e as sociedades de economia mista, pessoas jurídicas de direito privado integrantes da Administração Pública, podem ser criadas independentemente de autorização em lei."
+              ],
+              "answer": 2,
+              "explanation": "As empresas públicas, as sociedades de economia mista e as fundações públicas de direito privado têm sua criação autorizada por lei. Dessa forma, somente com o registro do ato constitutivo no órgão competente é que elas serão efetivamente criadas (adquirem personalidade jurídica própria).\n\nDessa forma, o erro da alternativa A é afirmar que as empresas públicas são criadas por lei, sendo que são apenas autorizadas por lei. A alternativa B, por consequência, está errada por dizer que as autarquias são as únicas que necessitam de autorização legal para criação, quando, na verdade, são as EPs, as SEMs e as funções públicas de direito privado que necessitam de autorização legal para a criação. Por outro lado, as autarquias e fundações públicas de direito público são efetivamente criadas pela lei. Daí o erro da opção D.\n\nA alternativa E, por sua vez, está errada, pois a criação dessas entidades, como já vimos, depende de autorização legal. Por fim, a nossa alternativa correta é a letra C.\n\nGabarito: alternativa C.",
+              "id": 5
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – INEA RJ/2013",
+              "question": "A definição de “pessoa jurídica de direito privado com capital exclusivo do governo tendo por finalidade a exploração de atividade econômica” refere‐se à",
+              "options": [
+                "autarquia corporativa.",
+                "empresa de economia mista.",
+                "empresa pública.",
+                "autarquia institucional.",
+                "fundação privada."
+              ],
+              "answer": 2,
+              "explanation": "Vamos começar retirando das nossas alternativas as entidades administrativas que não tem como finalidade a exploração de atividade econômica – letra A, D e E.\n\nAgora, nos sobram as empresas de economia mista e as empresas públicas, sendo que as SEMs admitem a participação de capital público e de capital privado, enquanto as EPs só admitem capital público.\n\nGabarito: alternativa C.",
+              "id": 6
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – MPE MS/2013",
+              "question": "Com relação às Sociedades de Economia Mista Federais, analise os itens a seguir. I. São pessoas jurídicas de direito privado. II. Possuem foro privilegiado na Justiça Federal. III. Gozam de isenção dos impostos federais, mas não dos Estaduais e Municipais. Assinale:",
+              "options": [
+                "se somente o item I estiver correto.",
+                "se Somente o item II estiver correto.",
+                "se Somente o item III estiver correto.",
+                "se somente os itens I e II estiverem corretos.",
+                "se todos os itens estiverem corretos."
+              ],
+              "answer": 0,
+              "explanation": "I – as SEMs são pessoas jurídicas de direito privado, integrantes da Administração Indireta do Estado – CORRETA;\n\nII – as ações das sociedades de economia mista (de qualquer ente da Federação), em regra, serão julgadas na Justiça Estadual (comum). No entanto, quando a União intervém na condição de assistente ou oponente, as causas envolvendo as sociedades de economia mista serão deslocadas para a Justiça Federal – ERRADA;\n\nIII – as empresas públicas e as sociedades de economia mista, em regra, não possuem a imunidade tributária recíproca. Por isso que a questão está errada. No entanto, ressaltamos que o posicionamento do STF está evoluindo para atribuir a imunidade tributária às empresas públicas e às sociedades de economia mista (e suas subsidiárias) prestadoras de serviços públicos – ERRADA.\n\nAssim, a alternativa correta é a A (se somente o item I estiver correto).\n\nGabarito: alternativa A.",
+              "id": 7
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – BADESC/2010",
+              "question": "No direito brasileiro, existem duas diferenças fundamentais entre as sociedades de economia mista e as empresas públicas. Assinale a alternativa que explicita essas diferenças.",
+              "options": [
+                "composição do capital e forma jurídica.",
+                "personalidade jurídica e forma de extinção.",
+                "forma jurídica e controle estatal.",
+                "forma de criação e personalidade jurídica.",
+                "controle estatal e composição do capital."
+              ],
+              "answer": 0,
+              "explanation": "Em nossa aula indicamos três diferenças entre as empresas públicas e as sociedades de economia mista. No entanto, uma delas só ocorre no âmbito federal. Por isso que a questão fala em “duas diferenças fundamentais”.\n\n\nForma Jurídica\n\nEmpresa Pública: Qualquer forma admitida pelo ordenamento jurídico (civil, comercial, S/A, etc.) ou até mesmo formas inéditas (somente para a União).\n\nSociedade de Economia Mista: Somente na forma de sociedade anônima (S/A). \n\n\nComposição do capital\n\nEmpresa Pública: Capital totalmente público.\n\nSociedade de Economia Mista: Admite capital público e privado, mas a maioria do capital com direito a voto é público.\n\n\nForo processual (somente para as entidades federais)\n\nEmpresa Pública: Com algumas exceções, as causas em que as empresas públicas federais forem interessadas tramitam na Justiça Federal.\n\nSociedade de Economia Mista: Portanto, a forma jurídica e a composição do capital são as diferenças fundamentais das EPs e SEMs.\n\nGabarito: alternativa A.",
+              "id": 8
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – AL MA/2013",
+              "question": "A administração indireta é composta por várias pessoas jurídicas, dentre essas pessoas jurídicas encontram‐se as empresas públicas. A respeito das empresas públicas, assinale a afirmativa correta.",
+              "options": [
+                "Poderão assumir qualquer forma em direito admitida com exceção da forma de sociedade anônima pois necessariamente o capital da empresa pública deve ser totalmente público.",
+                "Estão subordinadas hierarquicamente ao ente criador.",
+                "Poderão ser pluripessoais.",
+                "Desenvolverão atividades econômicas sem realizar licitações ou concursos públicos.",
+                "Estão sujeitas ao regime jurídico de direito público por serem pessoas jurídicas de direito público."
+              ],
+              "answer": 2,
+              "explanation": "A) as empresas públicas podem ser formadas sob qualquer forma admitida em direito, inclusive como sociedades anônimas – ERRADA;\n\nb) são vinculadas à administração direta, sem sofrer subordinação, ou seja, sem controle hierárquico – ERRADA;\n\nc) podem ser unipessoais (quando a entidade instituidora possui a integralidade de seu capital) ou pluripessoais (quando possui capital dominante do ente instituidor associados aos recursos de outras pessoas administrativas) – CORRETA;\n\nd) as empresas públicas devem realizar licitação, para escolha das pessoas com quem irão firmar contratos, e se obrigam a realizar concurso para escolha de seus empregados públicos – ERRADA;\n\ne) possuem personalidade jurídica de direito privado, estando sujeitas ao regime jurídico híbrido (aplicação simultânea de regras de direito público e de direito privado, conforme o caso) – ERRADA.\n\nGabarito: alternativa C.",
+              "id": 9
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – AP/2010",
+              "question": "Em relação às entidades da Administração Pública Indireta, é correto afirmar que:",
+              "options": [
+                "as sociedades de economia mista são pessoas jurídicas de direito privado, criadas por autorização legal e se apresentam, dentre outras, sob a forma de sociedade anônima.",
+                "os bens que integram o patrimônio de todas as empresas públicas têm a qualificação de bens públicos.",
+                "as fundações públicas não se destinam às atividades relativas a assistência social e atividades culturais.",
+                "os empregados de empresas públicas e sociedades de economia mista podem acumular seus empregos com cargos ou funções públicas da Administração Direta.",
+                "as autarquias podem celebrar contratos de natureza privada, que serão regulados pelo direito privado."
+              ],
+              "answer": 4,
+              "explanation": "a) as SEMs são pessoas jurídicas de direito privado, criadas por autorização em lei específica e sempre sob a forma de sociedades anônimas. Assim, o “dentre outras” tornou o item errado – ERRADA;\n\nb) os bens das sociedades de economia mista e das empresas públicas são considerados bens privados e, portanto, não possuem os atributos dos bens públicos. No entanto, quando essas empresas públicas prestam serviços públicos, os bens afetados diretamente à prestação do serviço público gozam dos mesmos atributos dos bens públicos – ERRADA;\n\nc) a Constituição Federal estabelece que caberá à lei complementar dispor sobre a área de atuação das fundações públicas (art. 37, XIX). Todavia, até o presente momento a mencionada lei não foi editada. Assim, é necessário recorrer à doutrina, que estabelece como áreas de atuação das fundações públicas o desempenho de atividades de interesse social, como assistência médica e hospitalar, educação e ensino, pesquisa científica, assistência social, atividades culturais, entre outras. Logo, as fundações podem se destinar às atividades relativas a assistência social e atividades culturais – ERRADA;\n\nd) vejamos o que estabelece a Constituição Federal sobre a acumulação de cargos:\n\n\"Art. 37. [...] XVI - é vedada a acumulação remunerada de cargos públicos, exceto, quando houver compatibilidade de horários, observado em qualquer caso o disposto no inciso XI: a) a de dois cargos de professor; b) a de um cargo de professor com outro técnico ou científico; c) a de dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas; XVII - a proibição de acumular estende-se a empregos e funções e abrange autarquias, fundações, empresas públicas, sociedades de economia mista, suas subsidiárias, e sociedades controladas, direta ou indiretamente, pelo poder público;\"\n\nLogo, é possível perceber que a vedação à acumulação de cargos alcança também os empregados de empresas públicas e sociedades de economia mista – ERRADA;\n\ne) perfeito. As autarquias são entidades de direito público, sendo reguladas pelo direito público. Contudo, em algumas hipóteses, da mesma forma como na administração direta, as autarquias realizarão atos e contratos de direito privado, sendo então regidas pelo direito privado. São exemplos de contratos de natureza privada os de locação de imóveis e veículos – CORRETA.\n\nGabarito: alternativa E.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u3l5",
+          "title": "Quinta Lição",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "FGV – SEFAZ RJ/2011",
+              "question": "Em relação ao regime jurídico das empresas públicas federais, é correto afirmar que\n\n",
+              "options": [
+                "são pessoas jurídicas de direito público, integram a administração descentralizada federal e gozam de todas as prerrogativas processuais aplicáveis à fazenda pública.",
+                "são pessoas jurídicas de direito público, integram a administração direta federal e, quando prestadoras de serviços públicos, seus bens são impenhoráveis.",
+                "são pessoas jurídicas de direito privado, integram a administração indireta federal e se submetem ao controle do Tribunal de Contas da União.",
+                "são pessoas jurídicas de direito privado, integram a administração central federal e somente podem ser criadas por lei, adotando a forma de sociedade anônima.",
+                "são pessoas jurídicas de direito privado, integram a administração hierárquica federal e, quando exploradoras de atividade econômica, estão dispensadas da observância de procedimento licitatório."
+              ],
+              "answer": 2,
+              "explanation": "Antigamente, existia o entendimento de que as empresas públicas e as sociedades de economia mista exploradoras de atividade econômica não se submetiam ao controle do Tribunal de Contas da União. No entanto, em 2005, o STF mudou esse entendimento, concluindo que os tribunais de contas possuem competência para fiscalizar as empresas estatais exploradoras de atividade econômica. Nesse sentido, vejamos a ementa do MS 25.092/DF:\n\n\"EMENTA: CONSTITUCIONAL. ADMINISTRATIVO. TRIBUNAL DE CONTAS. SOCIEDADE DE ECONOMIA MISTA: FISCALIZAÇÃO PELO TRIBUNAL DE CONTAS. ADVOGADO EMPREGADO DA EMPRESA QUE DEIXA DE APRESENTAR APELAÇÃO EM QUESTÃO RUMOROSA. I. - Ao Tribunal de Contas da União compete julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos da administração direta e indireta, incluídas as fundações e sociedades instituídas e mantidas pelo poder público federal, e as contas daqueles que derem causa a perda, extravio ou outra irregularidade de que resulte prejuízo ao erário (CF, art. 71, II; Lei 8.443, de 1992, art. 1º, I). II. - As empresas públicas e as sociedades de economia mista, integrantes da administração indireta, estão sujeitas à fiscalização do Tribunal de Contas, não obstante os seus servidores estarem sujeitos ao regime celetista. III. - Numa ação promovida contra a CHESF, o responsável pelo seu acompanhamento em juízo deixa de apelar. O argumento de que a não-interposição do recurso ocorreu em virtude de não ter havido adequada comunicação da publicação da sentença constitui matéria de fato dependente de dilação probatória, o que não é possível no processo do mandado de segurança, que pressupõe fatos incontroversos. IV. - Mandado de segurança indeferido. (STF, MS 25.092/DF, Relator Min. CARLOS VELLOSO, Tribunal Pleno, julgamento em 10/11/2005, publicação no DJ 17/3/2006, p. 6)\"\n\nDessa forma, podemos concluir que as empresas públicas federais são pessoas jurídicas de direito privado, integram a administração indireta federal e se submetem ao controle do Tribunal de Contas da União (opção C – correta).\n\nA alternativa A está errada, pois são as autarquias e as fundações públicas que gozam de todas as prerrogativas da fazenda pública. A opção B está errada, pois as empresas públicas são pessoas jurídicas de direito privado, que integram a Administração Indireta. Além disso, só serão impenhoráveis os bens afetados à prestação dos serviços públicos. A alternativa D também possui erros, pois as EPs federais integram a administração descentralizada (indireta), sua criação é autorizada em lei e elas podem adotar qualquer forma admitida em direito, inclusive sociedade anônima. Por fim, os erros na opção E são: elas não integram a administração hierárquica (não há hierarquia entre as administrações direta e indireta); e só estão dispensadas da licitação no exercício da atividade fim da empresa.\n\nDeste modo, correta a alternativa C.\n\nGabarito: alternativa C.",
+              "id": 1
+            },
+            {
+              "type": "question",
+              "header": "FGV – SEN/2008 – adaptada",
+              "statement": "As fundações governamentais de direito público não estão abrangidas pela prerrogativa da imunidade tributária, relativa aos impostos sobre a renda, o patrimônio e os serviços federais, estaduais e municipais, vinculados a suas finalidades essenciais.",
+              "correctOption": "E",
+              "explanation": "A imunidade tributária se aplica às fundações públicas de direito público e de direito privado, por força do art. 150, §2º, da CF, pois a vedação de instituir impostos sobre patrimônio, renda ou serviços, uns dos outros, é extensiva às “fundações instituídas e mantidas pelo Poder Público”.\n\nGabarito: errado.",
+              "id": 2
+            },
+            {
+              "type": "question",
+              "header": "FGV – SEN/2008 – adaptada",
+              "statement": "Tendo em vista a necessidade do controle finalístico da instituição, as fundações governamentais de direito público submetem-se ao velamento por parte do Ministério Público, como o exige o Código Civil.",
+              "correctOption": "E",
+              "explanation": "De acordo com o Código Civil, o Ministério Público do Estado “velará pelas fundações” (art. 66) exercendo sobre elas um controle finalístico. Contudo, esse entendimento não alcança as fundações públicas, uma vez que o controle finalístico já é exercido pela Administração Direita. Alguns autores afirmam que o controle é extensível às fundações públicas de direito privado.\n\nDe qualquer forma, quanto às fundações públicas de direito público, o entendimento é pacífico na doutrina, ou seja, o Ministério Público não deve velar por essas entidades, motivo pelo qual o item está errado.\n\nGabarito: errado.",
+              "id": 3
+            },
+            {
+              "type": "question",
+              "header": "FGV – SEN/2008 – adaptada",
+              "statement": "Fundações governamentais não podem assumir a forma de entidade autárquica.",
+              "correctOption": "E",
+              "explanation": "As fundações públicas de direito público submetem-se ao mesmo regime jurídico das autarquias. É exatamente por isso que alguns doutrinadores chamam as fundações públicas de direito público de fundações autárquicas ou autarquias fundacionais. Por esse ponto, a questão está errada.\n\nGabarito: errado.",
+              "id": 4
+            },
+            {
+              "type": "question",
+              "header": "FGV – SEAD AP/2010 – adaptada",
+              "statement": "As fundações públicas podem desempenhar atividades relativas à assistência médica e hospitalar e não estão submetidas à Lei Federal 8666/93.",
+              "correctOption": "E",
+              "explanation": "A primeira parte da assertiva está correta. Isso porque comumente se destinam às fundações públicas as seguintes atividades: assistência social; assistência médica e hospitalar; educação e ensino; pesquisa; e atividades culturais. Todavia, a Lei 8.666/1993 aplica-se integralmente às fundações públicas, independentemente da natureza jurídica da entidade. Daí o erro da questão.\n\nGabarito: errado.",
+              "id": 5
             }
           ]
         }
