@@ -2,7 +2,7 @@
   "id": "direito_administrativo_mpes",
   "title": "Direito Administrativo MPES",
   "acronym": "DADM",
-  "version": "150420262254",
+  "version": "200420262205",
   "units": [
     {
       "id": "1",
@@ -1186,7 +1186,7 @@
                 "o Governador do Estado pratica o ato de nomeação de pessoa não concursada para cargo em comissão, com exercício de função de assessoramento parlamentar."
               ],
               "answer": 3,
-              "explanation": "A assertiva correta é a letra ‘d’, considerando que a Administração Pública tem o poder de rever os seus próprios atos, revogando os inconvenientes e inoportunos e anulando os ilegais. Trata-se da aplicação do princípio da autotutela. Contudo, vamos aproveitar para aprender com a questão, na medida em que explicamos as outras assertivas:\n\na) trata-se do poder disciplinar, que consiste na possibilidade de a Administração aplicar punições aos agentes públicos que cometam infrações funcionais. Trata--se de poder interno, não permanente e discricionário – ERRADA;\n\nb) trata-se do princípio da publicidade que impõe à Administração atuar de forma plena e transparente, amparado, inclusive, pela Lei de Acesso à Informação – Lei 12.527, de 18/11/2011 – ERRADA;\n\nc) como foi atendimento a uma ordem judicial, não podemos afirmar que houve a incidência da autotutela – ERRADA;\n\ne) a nomeação para cargo em comissão possui previsão na Constituição. Não há que se falar em um princípio específico para tratar do tema (a depender da contextualização, poderíamos ter diferentes princípios). De qualquer forma, isso não corresponde ao princípio da autotutela. Vale lembrar que se o cargo for para o Poder Legislativo, também não seria de competência do Governador fazer a nomeação, já que a competência seria de autoridade daquele Poder – ERRADA.\n\nGabarito: alternativa D.",
+              "explanation": "A assertiva correta é a letra ‘d’, considerando que a Administração Pública tem o poder de rever os seus próprios atos, revogando os inconvenientes e inoportunos e anulando os ilegais. Trata-se da aplicação do princípio da autotutela. Contudo, vamos aproveitar para aprender com a questão, na medida em que explicamos as outras assertivas:\n\na) trata-se do poder disciplinar, que consiste na possibilidade de a Administração aplicar punições aos agentes públicos que cometam infrações funcionais. Trata-se de poder interno, não permanente e discricionário – ERRADA;\n\nb) trata-se do princípio da publicidade que impõe à Administração atuar de forma plena e transparente, amparado, inclusive, pela Lei de Acesso à Informação – Lei 12.527, de 18/11/2011 – ERRADA;\n\nc) como foi atendimento a uma ordem judicial, não podemos afirmar que houve a incidência da autotutela – ERRADA;\n\ne) a nomeação para cargo em comissão possui previsão na Constituição. Não há que se falar em um princípio específico para tratar do tema (a depender da contextualização, poderíamos ter diferentes princípios). De qualquer forma, isso não corresponde ao princípio da autotutela. Vale lembrar que se o cargo for para o Poder Legislativo, também não seria de competência do Governador fazer a nomeação, já que a competência seria de autoridade daquele Poder – ERRADA.\n\nGabarito: alternativa D.",
               "id": 6
             },
             {
@@ -1287,7 +1287,7 @@
             {
               "type": "multiple_choice",
               "header": "(FGV – Prefeitura de Niterói/2015)",
-              "question": "Prefeito Municipal, no exercício da função e utilizando verba pública, determinou a confecção e distribuição de milhares de panfletos, às vésperas do dia dos pais, com os seguintes dizeres: “O Prefeito Fulano, na qualidade de melhor administrador público do país e verdadeiro pai para seus administrados, deseja feliz dia dos pais a todos. Nas próximas eleições, continuem me prestigiando com o seu voto!”. Essa conduta do agente político feriu, frontal e mais diretamente, os seguintes princípios administrativos expressos no art. 37, caput, da Constituição Federal: a)  b)  c)  d)  e) ",
+              "question": "Prefeito Municipal, no exercício da função e utilizando verba pública, determinou a confecção e distribuição de milhares de panfletos, às vésperas do dia dos pais, com os seguintes dizeres: “O Prefeito Fulano, na qualidade de melhor administrador público do país e verdadeiro pai para seus administrados, deseja feliz dia dos pais a todos. Nas próximas eleições, continuem me prestigiando com o seu voto!”. Essa conduta do agente político feriu, frontal e mais diretamente, os seguintes princípios administrativos expressos no art. 37, caput, da Constituição Federal:",
               "options": [
                 "probidade e pessoalidade;",
                 "indisponibilidade e legalidade;",
@@ -2791,7 +2791,7 @@
             {
               "type": "multiple_choice",
               "header": "(FGV – Prefeitura de Salvador - BA/2017)",
-              "question": "O Governador do Estado “X” encaminhou à Assembleia Legislativa projeto de lei prevendo a criação de dois órgãos públicos: o primeiro, a Superintendência de Serviços Públicos, pertencente à estrutura da Secretaria de Estado de Governo; e o segundo, a Subsecretaria de Assuntos Turísticos, pertencente à Secretaria de Estado de Desenvolvimento Regional. A criação dos dois órgãos é exemplo de a)  b)  c)  d)  e) ",
+              "question": "O Governador do Estado “X” encaminhou à Assembleia Legislativa projeto de lei prevendo a criação de dois órgãos públicos: o primeiro, a Superintendência de Serviços Públicos, pertencente à estrutura da Secretaria de Estado de Governo; e o segundo, a Subsecretaria de Assuntos Turísticos, pertencente à Secretaria de Estado de Desenvolvimento Regional. A criação dos dois órgãos é exemplo de",
               "options": [
                 "descentralização administrativa.",
                 "permissão de serviços públicos.",
@@ -3051,7 +3051,7 @@
             },
             {
               "type": "multiple_choice",
-              "header": "88. (FGV – MPE MS/2013)",
+              "header": "(FGV – MPE MS/2013)",
               "question": "Acerca do conceito de descentralização da Administração Pública, analise as afirmativas a seguir.\n\nI. Ocorre a descentralização quando a Administração Pública transfere a execução de determinada atividade para outra pessoa jurídica, pertencente ou não à administração pública.\nII. A descentralização para pessoa jurídica de direito público pertencente à própria Administração terá que ser realizada sempre por lei.\nIII. É possível que a Administração Pública delegue, por meio de contrato de concessão, serviços públicos que lhe são afetados.\n\nAssinale:",
               "options": [
                 "se somente a afirmativa I estiver correta.",
@@ -3060,7 +3060,7 @@
                 "se somente as afirmativas I e III estiverem corretas.",
                 "se todas as afirmativas estiverem corretas."
               ],
-              "answer": 0,
+              "answer": 4,
               "explanation": "I – já vimos que a descentralização é a distribuição de competências de uma para outra pessoa, física ou jurídica. Ela se classifica como política (envolve a distribuição de competências aos Estados-membros e aos municípios) e administrativa (ocorre quando o Estado não executa o serviço por meio de sua Administração direta) – CORRETA;\n\nII – nesse caso falamos da descentralização por outorga, por serviços, técnica ou funcional que ocorre quando o Estado cria uma entidade com personalidade jurídica própria e a ela transfere a titularidade e a execução de determinado serviço público. Esse tipo de descentralização dá origem à Administração indireta (autarquias, fundações públicas, sociedades de economia mista e empresas públicas), pressupondo a elaboração de lei para criação ou autorização da criação da entidade – CORRETA.\n\nIII – trata-se da descentralização por delegação ou colaboração. Esse tipo de descentralização dá origem aos delegatários de serviço público por meio de concessão, permissão ou autorização – CORRETA.\n\nGabarito: alternativa E.",
               "id": 8
             },
@@ -3081,7 +3081,7 @@
             },
             {
               "type": "multiple_choice",
-              "header": "90. (FGV – FBN/2013)",
+              "header": "(FGV – FBN/2013)",
               "question": "A Administração Indireta é o conjunto de entidades personalizadas, vinculadas normalmente a um órgão da Administração Direta. Com relação aos órgãos que compõem a Administração Indireta, analise os itens a seguir. I. Autarquias, Fundações Públicas, Empresas Públicas e Sociedades de Economia Mista, II. Secretarias Executivas, Consultorias Jurídicas e Secretaria de Controle Interno, III. Secretarias Especificas, Departamentos, Coordenações e Divisões. Assinale: ",
               "options": [
                 "se todos os itens estiverem corretos.",
