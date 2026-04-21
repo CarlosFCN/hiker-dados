@@ -2,7 +2,7 @@
   "id": "direito_administrativo_mpes",
   "title": "Direito Administrativo MPES",
   "acronym": "DADM",
-  "version": "200420262205",
+  "version": "210420261242",
   "units": [
     {
       "id": "1",
@@ -3325,7 +3325,7 @@
             {
               "type": "multiple_choice",
               "header": "(FGV – TCE-RR / 2025)",
-              "question": "O conselho de administração da sociedade de economia mista X, que integra a administração pública indireta do Município Sigma, deliberou que seria positiva para as suas",
+              "question": "O conselho de administração da sociedade de economia mista X, que integra a administração pública indireta do Município Sigma, deliberou que seria positiva para as suas operações a criação de uma subsidiária, sob a forma de sociedade anônima. Ao tomar conhecimento dessa deliberação, o secretário municipal responsável pela supervisão da sociedade de economia mista concluiu corretamente que a referida criação",
               "options": [
                 "é vedada.",
                 "é realizada por lei.",
