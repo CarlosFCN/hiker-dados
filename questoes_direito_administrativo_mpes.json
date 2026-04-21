@@ -2,7 +2,7 @@
   "id": "direito_administrativo_mpes",
   "title": "Direito Administrativo MPES",
   "acronym": "DADM",
-  "version": "210420261522",
+  "version": "210420261554",
   "units": [
     {
       "id": "1",
@@ -3629,7 +3629,7 @@
                 "não incide o controle externo do Poder Legislativo, mas é controlada pelo Poder Judiciário no aspecto da legalidade;",
                 "não incide qualquer tipo de controle externo, seja por sua autonomia, seja pelo princípio da separação dos poderes."
               ],
-              "answer": 0,
+              "answer": 1,
               "explanation": "Entre as entidades administrativas e a Administração Direta, ocorre o chamado controle finalístico, também chamado de supervisão ministerial, como menciona a alternativa B, nosso gabarito. Além do controle da administração direta, as pessoas jurídicas da administração indireta, como as fundações públicas, realizam o controle sobre os seus próprios atos – controle interno – e também estão submetidos a ações de órgãos estranhos à sua estrutura - controle externo. Assim, essas pessoas jurídicas se submetem à fiscalização contábil, financeira e orçamentária dos Tribunais de Contas; às ações do Ministério Público; e ao controle de legalidade do Poder Judiciário.\n\nGabarito: alternativa B.",
               "id": 6
             },
