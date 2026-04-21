@@ -2,7 +2,7 @@
   "id": "direito_administrativo_mpes",
   "title": "Direito Administrativo MPES",
   "acronym": "DADM",
-  "version": "210420261242",
+  "version": "210420261522",
   "units": [
     {
       "id": "1",
@@ -3554,7 +3554,7 @@
                 "Autarquias, empresas públicas, fundações públicas e sociedades de economia mista.",
                 "Sociedades de economia mista, autarquias, agências reguladoras e tribunais de contas."
               ],
-              "answer": 0,
+              "answer": 3,
               "explanation": "Questão muito tranquila. Devemos observar que a administração indireta é composta por autarquias, empresas públicas, fundações públicas e sociedades de economia mista. Portanto, a alternativa correta é a letra ‘d’.\n\nNas demais alternativas, sempre teremos pelo menos um órgão da Administração Direta, vejamos quais:\n\na) ministérios e tribunais de contas – ERRADA;\n\nb) ministério público e tribunais de justiça – ERRADA;\n\nc) ministério público – ERRADA;\n\ne) os tribunais de contas estão na Administração Direta. Além disso, a opção mencionou as agências reguladoras, que, de fato, integram a Administração Indireta, constituindo uma espécie de autarquia – ERRADA.\n\nGabarito: alternativa D.",
               "id": 1
             },
