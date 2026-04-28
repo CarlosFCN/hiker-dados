@@ -2,7 +2,7 @@
   "id": "direito_administrativo_mpes",
   "title": "Direito Administrativo MPES",
   "acronym": "DADM",
-  "version": "210420261554",
+  "version": "270420262336",
   "units": [
     {
       "id": "1",
@@ -4373,7 +4373,7 @@
                 "de gestão, que é praticado pelo agente público com a prévia e não vinculante oitiva do servidor interessado, devendo prevalecer o interesse público;",
                 "de polícia, que restringe direitos individuais do servidor público de escolher sua lotação, em prol do interesse público, devendo o ato ser revisto anualmente."
               ],
-              "answer": 4,
+              "answer": 2,
               "explanation": "quanto ao grau de liberdade do agente, os atos podem ser vinculados ou discricionários. Apenas com base nessa classificação, já podemos eliminar as alternativas B, D e E. A letra B, versa sobre a classificação quanto à formação (simples, composto e complexo). A letra D trata da classificação quanto às prerrogativas (de império, de gestão e de expediente). E a letra E trata dos poderes administrativos. Os atos vinculados são aqueles praticados sem margem de liberdade de decisão, uma vez que a lei determinou o único comportamento possível a ser obrigatoriamente adotado é sempre aquele em que se configure a situação objetiva prevista na lei, definindo todos os elementos de formação. Por outro lado, os atos discricionários são aqueles em que a lei não define todos os elementos, deixando margem de liberdade para a autoridade valorar os motivos e definir o objeto do ato. O ato que define a lotação de um servidor pode ser considerado um ato discricionário, pois vai depender de fatores de conveniência ou oportunidade para a Administração, que precisa ter certa liberdade para decidir onde aquela mão de obra será mais bem aproveitada. Assim, nosso gabarito está na alternativa C.\n\nGabarito: alternativa C.",
               "id": 10
             }
