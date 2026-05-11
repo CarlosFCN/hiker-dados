@@ -2,7 +2,7 @@
   "id": "direito_administrativo_mpes",
   "title": "Direito Administrativo MPES",
   "acronym": "DADM",
-  "version": "270420262336",
+  "version": "110520261548",
   "units": [
     {
       "id": "1",
@@ -5331,6 +5331,688 @@
               "answer": 0,
               "explanation": "a) a anulação ou invalidação dos atos administrativos é um poder-dever da Administração, que pode ser feita diretamente, por meio de seu poder de autotutela. Ademais, a ilegalidade e sua consequente invalidação pode ser reconhecida de ofício pela Administração ou mediante provocação. Logo, a opção A está correta. Para complementar, cumpre frisar que o Poder Judiciário também pode invalidar um ato administrativo, porém deve ser provocado pelo administrado através da devida ação judicial – CORRETA;\nb) os efeitos ex nunc (a partir do momento) se referem a efeitos que não retroagem. Porém, por ocorrer na presença de ilegalidade, os efeitos da anulação vão desde a origem do ato, ou seja, possuem característica ex tunc (retroativos) – ERRADA;\nc) a convalidação do ato poderá ocorrer sempre que for possível corrigir, regularizar ou sanar os defeitos de um ato – com efeito ex tunc. Portanto, a convalidação deve ocorrer sobre os atos que possuem vícios sanáveis. Além disso, para a ocorrência da convalidação, esta não poderá acarretar lesão ao interesse público e causar prejuízo a terceiros. Outra característica da convalidação é a decisão discricionária acerca da conveniência e oportunidade de convalidar o ato (no lugar de anulá-lo) – ERRADA;\nd) como vimos na alternativa A, tanto a Administração quanto o Poder Judiciário podem declarar a nulidade do ato – ERRADA;\ne) a revogação é a supressão de um ato administrativo válido e discricionário por motivo de interesse público superveniente, que o tornou inconveniente ou inoportuno e onde não ocorre ilegalidade. Em virtude disso, seus efeitos são ex nunc, não retroagem. Já a anulação é a invalidação de um ato devido à ilegalidade, possuindo efeitos ex tunc (retroativos). Portanto, os efeitos da anulação e da revogação são diferentes – ERRADA.\n\nGabarito: alternativa A.",
               "id": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "LEI 14.133 PARTE 1",
+      "color": "bg-blue-500",
+      "lessons": [
+        {
+          "id": "u5l1",
+          "title": "Lição 1",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "FGV/CNU/Bloco Temático 5: Administração/2025",
+              "question": "A Lei de Licitações e Contratos Administrativos tem sofrido alterações ao longo dos anos. A última alteração foi por intermédio da Lei nº 14.133/2021. Se, nas legislações anteriores, a ênfase estava na fase da licitação, na atual legislação, o destaque é dado para:",
+              "options": [
+                "a execução do contrato, pois é nessa fase que os problemas aparecem;",
+                "a habilitação dos licitantes, pois isso assegura a contratação de empresas que apresentam preços menores;",
+                "a qualificação técnica, pela importância da equipe técnica nas contratações;",
+                "o planejamento da licitação, pela inclusão de diversos instrumentos que precedem a fase de licitação;",
+                "o julgamento das propostas, pois é o momento em que é definido o critério de seleção do vencedor."
+              ],
+              "answer": 3,
+              "explanation": "A antiga Lei de Licitações (Lei 8.666/1993) focava no controle de processos, uma vez que surgiu na época que a maior preocupação da sociedade era o combate à corrupção e desvios. Hoje, a sociedade também se preocupa com resultados. Afinal, não adianta a contratação não ter desvios, mas também não atender às necessidades da população. Assim, a partir do diagnóstico de que os problemas nas contratações normalmente ocorrem por falta de planejamento, a nova Lei de Licitações deu ênfase ao planejamento e à governança das contratações públicas. A legislação definiu documentos de planejamento, como o estudo técnico preliminar – ETP, que é definido como o “documento constitutivo da primeira etapa do planejamento de uma contratação” (art. 6º, XX); o plano de contratações anual (PCA), a matriz de alocação de riscos (art. 6º, XXVII), entre outros. Dessa forma, o gabarito é a letra D. A letra A está errada, pois a execução do contrato já era abordada na antiga legislação. O erro das letras B e C, por sua vez, são que a habilitação e a qualificação técnica, em si, não asseguram contratação com preços menores nem são novidades. Na verdade, o excesso de habilitação pode restringir a competição e aumentar os preços. Ademais, a antiga lei já abordava com detalhes a habilitação e a qualificação técnica. Por fim, o critério de seleção tem que ser definido no planejamento, enquanto se elabora o edital (erro da letra\nE).\n\nGabarito: alternativa D.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/CNU/Bloco Temático 5: Administração/2025",
+              "question": "Com o objetivo de abastecer as repartições públicas federais localizadas no Estado Alfa com novas e modernas cadeiras, de forma a prestigiar a saúde no trabalho dos servidores públicos, a administração pública federal pretende publicar edital de licitação para a aquisição de milhares dos referidos bens comuns. Registre-se que a contratação está avaliada em dois milhões de reais e que se adotará, como critério de julgamento, o menor preço. Ademais, os objetos a serem contratados possuem padrões de desempenho e qualidade que podem ser objetivamente definidos pelo edital, por meio de especificações usuais de mercado. Nesse cenário, considerando as disposições da Lei nº 14.133/2021, é correto afirmar que:",
+              "options": [
+                "não há margem de escolha por parte da administração pública federal, pois a Lei de Licitações e Contratos Administrativos exige a adoção da concorrência, como modalidade licitatória, para contratos avaliados em valor igual ou superior a um milhão de reais;",
+                "muito embora, como regra, se adote, para a aquisição de bens comuns, a modalidade licitatória da concorrência, poderá a Administração Pública federal, de forma fundamentada, empregar o concurso como modalidade de licitação;",
+                "por se tratar de edital de licitação visando à aquisição de milhares de cadeiras, bens comuns, cujo critério de julgamento será o de menor preço, a administração pública federal deverá adotar o pregão como modalidade licitatória;",
+                "como se está diante de vultosa contratação, avaliada em dois milhões de reais, a administração pública federal deverá adotar o diálogo competitivo como modalidade licitatória;",
+                "caberá à administração pública federal, a partir de critérios de conveniência e oportunidade, definir, entre o pregão e o concurso, a modalidade licitatória."
+              ],
+              "answer": 2,
+              "explanation": "Segundo a Lei de Licitações: Art. 6º [...] XLI - pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns, cujo critério de julgamento poderá ser o de menor preço ou o de maior desconto; Dessa forma, a modalidade de licitação será obrigatoriamente o pregão, pois cadeiras são objetos comuns. As demais opções gozam de diversos erros. Primeiro que concorrência, diálogo competitivo e concurso não se aplicam à aquisição de objetos comuns. Segundo porque nenhuma modalidade é definida em razão do valor. Por fim, não existe discricionariedade (conveniência e oportunidade) na escolha da modalidade para objeto comum, pois a Lei 14.133/2021 determina que o pregão é obrigatório para objetos dessa natureza.\n\nGabarito: alternativa C.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – DPE-RO / 2025",
+              "question": "A Lei 14.133/2021 dispõe sobre licitação e contratação para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios. Um tipo de contratação que não está subordinado ao regime desta lei é a referente aos contratos de",
+              "options": [
+                "locação.",
+                "compra por encomenda.",
+                "concessão do uso de bens públicos.",
+                "operações de crédito interno ou externo.",
+                "alienação e concessão de direito real de uso de bens."
+              ],
+              "answer": 4,
+              "explanation": "A aplicação da Lei 14.133/2021 é prevista em seu art. 2º. Por outro lado, o art. 3º prevê as hipóteses que não se subordinam ao regime da Lei. Vejamos, então, como as opções desta questão se relacionam aos artigos: Art. 2º Esta Lei aplica-se a: I - alienação e concessão de direito real de uso de bens; (opção\nE) II - compra, inclusive por encomenda; (opção\nB) III - locação; (opção\nA) IV - concessão e permissão de uso de bens públicos; (opção\nC) V - prestação de serviços, inclusive os técnico-profissionais especializados; VI - obras e serviços de arquitetura e engenharia; VII - contratações de tecnologia da informação e de comunicação. Por outro lado, o art. 3º aborda os casos em que a Lei 14.133/2021 não se aplica: Art. 3º Não se subordinam ao regime desta Lei: I - contratos que tenham por objeto operação de crédito, interno ou externo (opção\nD), e gestão de dívida pública, incluídas as contratações de agente financeiro e a concessão de garantia relacionadas a esses contratos; II - contratações sujeitas a normas previstas em legislação própria. Logo, o gabarito está na letra D.\n\nGabarito: alternativa D.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – DPE-RO / 2025",
+              "question": "A Nova Lei de Licitações, dentre outras alterações substanciais, incorporou novos princípios que orientam a atuação da Administração Pública nas contratações, reforçando valores como legalidade, eficiência e governança. Um princípio, expressamente previsto na Nova Lei de Licitações, é o",
+              "options": [
+                "Princípio da direção.",
+                "Princípio da igualdade.",
+                "Princípio da diversidade.",
+                "Princípio da ética.",
+                "Princípio da irretroatividade."
+              ],
+              "answer": 1,
+              "explanation": "A Lei 14.133/2021 prevê, em seu art. 5º, que em sua aplicação devem ser observados os seguintes princípios: Art. 5º Na aplicação desta Lei, serão observados os princípios da legalidade, da impessoalidade, da moralidade, da publicidade, da eficiência, do interesse público, da probidade administrativa, da igualdade, do planejamento, da transparência, da eficácia, da segregação de funções, da motivação, da vinculação ao edital, do julgamento objetivo, da segurança jurídica, da razoabilidade, da competitividade, da proporcionalidade, da celeridade, da economicidade e do desenvolvimento nacional sustentável. Lembre-se do nosso mnemônico: JoVeM, SEMPRE LICITE Com Planejamento Pro PaÍS Desenvolver Sustentavelmente Julgamento objetivo; Vinculação ao edital; Motivação; Segregação de funções; Economicidade; Moralidade; Publicidade; Razoabilidade; Eficiência; Legalidade; Impessoalidade; Celeridade; Igualdade; Transparência; Eficácia; Competitividade; Planejamento; Probidade administrativa; Probidade administrativa; Interesse público; Segurança jurídica; Desenvolvimento sustentável. A questão menciona, na opção B, o princípio da igualdade. Por outro lado, direção, diversidade, ética e irretroatividade não são princípios das licitações públicas.\n\nGabarito: alternativa B.",
+              "id": 4
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – MPE-RJ / 2025",
+              "question": "O diálogo competitivo é a modalidade de licitação para contratação de obras, serviços e compras em que a Administração Pública realiza diálogos com licitantes previamente selecionados mediante critérios objetivos, com o intuito de desenvolver uma ou mais alternativas capazes de atender às suas necessidades, devendo os licitantes apresentar proposta final após o encerramento dos diálogos. De acordo com a narrativa e considerando as disposições da Lei nº 14.133/2021, analise as afirmativas a seguir. I. A Administração apresentará, por ocasião da divulgação do edital em sítio eletrônico oficial, suas necessidades e as exigências já definidas e estabelecerá prazo mínimo de vinte e cinco dias úteis para manifestação de interesse na participação da licitação. II. O diálogo competitivo será conduzido por comissão de contratação composta de pelo menos cinco servidores efetivos ou empregados públicos pertencentes aos quadros permanentes da Administração, vedada, salvo em caso de fundada e excepcional necessidade, a contratação de profissionais para assessoramento técnico da comissão. III. A fase de diálogo poderá ser mantida até que a Administração, em decisão fundamentada, identifique a solução ou as soluções que atendam às suas necessidades. Na modalidade diálogo competitivo, está correto o que se afirma em",
+              "options": [
+                "I, apenas. ==4baedc==",
+                "II, apenas.",
+                "III, apenas.",
+                "I e III, apenas.",
+                "I, II e III."
+              ],
+              "answer": 3,
+              "explanation": "Verdadeiro: I. A Administração apresentará, por ocasião da divulgação do edital em sítio eletrônico oficial, suas necessidades e as exigências já definidas e estabelecerá prazo mínimo de vinte e cinco dias úteis para manifestação de interesse na participação da licitação. Essa é a uma das disposições a ser observada no diálogo competitivo, conforme previsão da Lei 14.133/2021, art. 32, § 1º, I. Falso: II. O diálogo competitivo será conduzido por comissão de contratação composta de pelo menos cinco servidores efetivos ou empregados públicos pertencentes aos quadros permanentes da Administração, vedada, salvo em caso de fundada e excepcional necessidade, a contratação de profissionais para assessoramento técnico da comissão. Há, na afirmativa II, dois erros. Primeiro: a comissão que conduzirá o diálogo competitivo é composta de pelo menos três servidores efetivos ou empregados públicos pertencentes aos quadros permanentes da Administração. Segundo: é admitida a contratação de profissionais para assessoramento técnico da comissão. Não há previsão legal de que essa contratação seja fundada em excepcional necessidade. Verdadeiro: III. A fase de diálogo poderá ser mantida até que a Administração, em decisão fundamentada, identifique a solução ou as soluções que atendam às suas necessidades. Essa é outra das disposições aplicáveis ao diálogo competitivo. Dessa vez, trata-se de previsão do art. 32, § 1º, V. Logo, está correto o que se afirma em I e III.\n\nGabarito: alternativa D.",
+              "id": 5
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TRT 24 (MS",
+              "question": "/ 2025) O Governador do Estado Alfa solicitou à Procuradoria a elaboração de parecer visando à futura celebração de contrato administrativo para a aquisição de diversos bens que serão distribuídos à rede estadual de ensino. Dessa forma, em momento posterior, o documento foi apresentado ao Chefe do Poder Executivo, abordando, entre outras temáticas, os objetivos da licitação. Sobre os objetivos do processo licitatório, considerando as disposições da Lei nº 14.133/2021, analise as afirmativas a seguir. I. Assegurar a seleção da proposta apta a gerar o resultado de contratação mais vantajoso para a Administração Pública, sem considerar o ciclo de vida do objeto. II. Evitar contratações com sobrepreço ou com preços manifestamente inexequíveis e superfaturamento na execução dos contratos. III. Incentivar a implementação de políticas de equidade entre homens e mulheres no ambiente de trabalho. Está correto o que se afirma em",
+              "options": [
+                "I, apenas.",
+                "II, apenas.",
+                "III, apenas.",
+                "I e II, apenas.",
+                "II e III, apenas."
+              ],
+              "answer": 1,
+              "explanation": "Os objetivos do processo licitatório são previstos no art. 11 da Lei 14.133/2021: Art. 11. O processo licitatório tem por objetivos: I - assegurar a seleção da proposta apta a gerar o resultado de contratação mais vantajoso para a Administração Pública, inclusive no que se refere ao ciclo de vida do objeto; (afirmativa I é falsa) II - assegurar tratamento isonômico entre os licitantes, bem como a justa competição; III - evitar contratações com sobrepreço ou com preços manifestamente inexequíveis e superfaturamento na execução dos contratos; (afirmativa II é verdadeira) IV - incentivar a inovação e o desenvolvimento nacional sustentável. (afirmativa III é falsa) [...] Logo, está correto apenas o que se afirma em II.\n\nGabarito: alternativa B.",
+              "id": 6
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TJ-SE / 2025",
+              "question": "\"A Prefeitura de Aracaju suspendeu, pelo prazo de 60 dias, os pagamentos de obrigações relativas a despesas de exercícios anteriores de contratação para aquisição ou locação de bens, produtos ou serviços de terceiros. Exceto despesas com serviços de fornecimento de água e energia elétrica. O texto foi publicado no Diário Oficial da última sexta-feira (10). O decreto de número 7.973 cita ainda a necessidade de reduzir os gastos com a máquina pública e assegurar a integridade dos procedimentos contábeis e a eficácia dos controles na execução orçamentária e financeira do município.\" (Prefeitura de Aracaju suspende pagamento de despesas de exercícios anteriores por 60 dias. 13/01/2025. Disponível em g1.globo.com) De acordo com a Lei Federal nº 14.133/2021, há sobrepreço quando ocorre(m):",
+              "options": [
+                "medição de quantidades superiores às efetivamente executadas ou fornecidas;",
+                "orçamento de preço para licitação ou contratado em valor expressivamente superior aos preços referenciais de mercado;",
+                "deficiência na execução de obras e de serviços de engenharia que resulte em diminuição da sua qualidade, vida útil ou segurança;",
+                "alterações no orçamento de obras e de serviços de engenharia que causem desequilíbrio econômicofinanceiro do contrato em favor do contratado;",
+                "alterações de cláusulas financeiras que gerem reajuste irregular de preços."
+              ],
+              "answer": 4,
+              "explanation": "de acordo com a Lei 14.133/2021, art. 6º, LVI, sobrepreço é o preço orçado para licitação ou contratado em valor expressivamente superior aos preços referenciais de mercado. Logo, o gabarito está na opção B. As demais ocorrências, trazidas nas demais alternativas, relacionam-se ao superfaturamento, conceituado no art. 6º, LVII.\n\nGabarito: alternativa B.",
+              "id": 7
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – Prefeitura de Canaã dos Carajás - PA / 2025",
+              "question": "A Lei de Licitações e Contratos Administrativos (Lei nº 14.133/2021) e suas alterações, estabelece normas gerais de licitação e contratação para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios. Caberá à autoridade máxima do órgão ou da entidade, ou a quem as normas de organização administrativa indicarem, promover gestão por competências e designar agentes públicos para o desempenho das funções essenciais à execução desta Lei que preencham alguns requisitos. A respeito desses requisitos, avalie as afirmativas a seguir. I. Deve ser servidor efetivo da Administração Pública. II. Deve ter atribuições relacionadas a licitações e contratos ou possuam formação compatível ou qualificação atestada por certificação profissional emitida por escola de governo criada e mantida pelo poder público. III. Não pode ser cônjuge ou companheiro de licitantes ou contratados habituais da Administração, nem tenham com eles vínculo de parentesco, colateral ou por afinidade, até o terceiro grau, ou de natureza técnica, comercial, econômica, financeira, trabalhista e civil. Está correto o que se afirma em",
+              "options": [
+                "I, apenas.",
+                "I e II, apenas.",
+                "I e III, apenas.",
+                "II e III, apenas.",
+                "I, II e III."
+              ],
+              "answer": 3,
+              "explanation": "Esta questão se atém os requisitos para agentes públicos com desempenho das funções essenciais à execução da Lei 14.133/2021. Esses requisitos são previstos no art. 7º. Falso: I. Deve ser servidor efetivo da Administração Pública. Segundo o inciso I, o requisito é ser preferencialmente servidor efetivo ou empregado público dos quadros permanentes da Administração Pública. Verdadeiro: II. Deve ter atribuições relacionadas a licitações e contratos ou possuam formação compatível ou qualificação atestada por certificação profissional emitida por escola de governo criada e mantida pelo poder público. Trata-se do requisito previsto no inciso II. Verdadeiro: III. Não pode ser cônjuge ou companheiro de licitantes ou contratados habituais da Administração, nem tenham com eles vínculo de parentesco, colateral ou por afinidade, até o terceiro grau, ou de natureza técnica, comercial, econômica, financeira, trabalhista e civil. Aqui, a banca reproduziu corretamente o requisito (vedação) do inciso III. Logo, os itens II e III estão certos.\n\nGabarito: alternativa D.",
+              "id": 8
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – Prefeitura de Canaã dos Carajás - PA / 2025",
+              "question": "Uma entidade escolhe a modalidade de pregão para adquirir um bem. Em relação a essa modalidade, assinale a afirmativa correta.",
+              "options": [
+                "O critério de julgamento pode ser o de menor preço ou o de maior desconto.",
+                "É aplicado às contratações de serviços técnicos especializados de natureza predominantemente intelectual.",
+                "O vencedor deverá ceder à Administração Pública os direitos patrimoniais relativos ao projeto e autorizar sua execução.",
+                "As regras e condições deverão indicar a qualificação exigida dos participantes e as diretrizes e formas de apresentação do trabalho.",
+                "Não deve ser adotado, quando o objeto possuir padrões de desempenho e qualidade que possam ser objetivamente definidos pelo edital."
+              ],
+              "answer": 0,
+              "explanation": "a) Certa: o menor preço ou o maior desconto são os critérios aplicáveis à modalidade pregão (Lei 14.133/2021, art. 6º, XLI).\nb) Errada: o pregão é aplicado (obrigatoriamente, inclusive) para aquisição de bens e serviços comuns.\nc) e\nd) Erradas: é na modalidade concurso que, quando destinada à elaboração de projeto, o vencedor deverá ceder à Administração todos os direitos patrimoniais (art. 30, parágrafo único). Também nessa modalidade observará regras e condições previstas em edital, que indicará a qualificação exigida dos participantes (art. 30, I) e as diretrizes e formas de apresentação do trabalho (art. 30, II).\ne) Errada: os bens e serviços comuns são aqueles cujos padrões de desempenho e qualidade podem ser objetivamente definidos pelo edital (art. 6º, XIII). Para a aquisição desses bens e serviços, deve-se obrigatoriamente adotar o pregão (art. 6º, XLI). Logo, a assertiva está errada.\n\nGabarito: alternativa A.",
+              "id": 9
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TCE-RR / 2025",
+              "question": "A modalidade de licitação que é utilizada para escolha de trabalho técnico, científico ou artístico, cujo critério de julgamento será o de melhor técnica ou conteúdo artístico, e para concessão de prêmio ou remuneração ao vencedor, é denominada de",
+              "options": [
+                "leilão.",
+                "pregão.",
+                "concurso.",
+                "concorrência.",
+                "diálogo competitivo."
+              ],
+              "answer": 2,
+              "explanation": "A definição apresentada corresponde ao concurso (art. 6º, XXXIX). Portanto, a resposta certa está na opção C. Vamos aproveitar para relembrar o conceito das demais modalidades:\na) Errada: o leilão é a modalidade de licitação para alienação de bens imóveis ou de bens móveis inservíveis ou legalmente apreendidos a quem oferecer o maior lance (art. 6º, XL). Lembre-se sempre de que o leilão e o maior lance formam o segundo maior caso de amor da história dos concursos públicos!\nb) Errada: o pregão é a modalidade de licitação obrigatória para aquisição de bens e serviços comuns, cujo critério de julgamento poderá ser o de menor preço ou o de maior desconto (art. 6º, XLI).\nd) Errada: a concorrência é a modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia, cujo critério de julgamento poderá ser (i) menor preço; (ii) melhor técnica ou conteúdo artístico; (iii) técnica e preço; (iv) maior retorno econômico, ou (v) maior desconto (art. 6º, XXXVIII).\ne) Errada: o diálogo competitivo é a modalidade de licitação para contratação de obras, serviços e compras em que a Administração Pública realiza diálogos com licitantes previamente selecionados mediante critérios objetivos, com o intuito de desenvolver uma ou mais alternativas capazes de atender às suas necessidades, devendo os licitantes apresentar proposta final após o encerramento dos diálogos (art. 6º, XLII).\n\nGabarito: alternativa C.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u5l2",
+          "title": "Lição 2",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TCE-RR / 2025",
+              "question": "A contratação de bens, serviços ou obras pela Administração Pública deve ser realizada de forma a garantir a transparência, a competitividade e o uso adequado dos recursos públicos. Para assegurar esses princípios, foram criadas normas específicas, como a Nova Lei de Licitações (Lei nº 14.133/2021). De acordo com o disposto nessa lei, é prevista como modalidade para a aquisição de bens e serviços comuns, sempre que o objeto possuir padrões de desempenho e qualidade que possam ser objetivamente definidos pelo edital, por meio de especificações usuais de mercado, aquela conhecida como",
+              "options": [
+                "diálogo competitivo.",
+                "concorrência.",
+                "tomada de preços.",
+                "leilão.",
+                "pregão."
+              ],
+              "answer": 4,
+              "explanation": "A modalidade de aquisição obrigatória para bens e serviços comuns, conforme previsão da Lei 14.133/2021, art. 6º, XLI, é o pregão. Ademais, os bens e serviços comuns são mesmo aqueles que possuem padrões de desempenho e qualidade que possam ser objetivamente definidos pelo edital, por meio de especificações usuais de mercado (art. 6º, XIII). Logo, a resposta certa está na opção E. Estas são as demais modalidades da questão e a que se indicam:\na) Errada: o diálogo competitivo é a modalidade de licitação para contratação de obras, serviços e compras em que a Administração Pública realiza diálogos com licitantes previamente selecionados mediante critérios objetivos, com o intuito de desenvolver uma ou mais alternativas capazes de atender às suas necessidades, devendo os licitantes apresentar proposta final após o encerramento dos diálogos (art. 6º, XLII).\nb) Errada: a concorrência é a modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia, cujo critério de julgamento poderá ser (i) menor preço; (ii) melhor técnica ou conteúdo artístico; (iii) técnica e preço; (iv) maior retorno econômico, ou (v) maior desconto (art. 6º, XXXVIII).\nc) Errada: a tomada de preços é uma modalidade da antiga Lei de Licitações. Já não existe na Lei 14.133/2021.\nd) Errada: o leilão é a modalidade de licitação para alienação de bens imóveis ou de bens móveis inservíveis ou legalmente apreendidos a quem oferecer o maior lance (art. 6º, XL).\n\nGabarito: alternativa E.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – DPE-RO / 2025",
+              "question": "A respeito do Processo Licitatório, é correto o que se apresenta em:",
+              "options": [
+                "A cotação somente poderá ser feita em moeda nacional.",
+                "A documentação deverá estar na forma correta, sob pena da proposta ser desclassificada.",
+                "A documentação entregue à administração responsável pelo processo deverá ter firma reconhecida.",
+                "A identificação e assinatura por meio digital por pessoa física ou jurídica em meio eletrônico é permitida.",
+                "Não são permitidos planos de contratação anual."
+              ],
+              "answer": 3,
+              "explanation": "a) Errada: em regra, as cotações terão como expressão a moeda corrente nacional. No entanto, de acordo com a Lei 14.133/2021, art. 52, § 1º, em licitações internacionais há possibilidade de cotação em moeda estrangeira.\nb) Errada: nas licitações, vigora o princípio do formalismo moderado. Nesse sentido, segundo o art. 12, III, o desatendimento de exigências meramente formais que não comprometam a aferição da qualificação do licitante ou a compreensão do conteúdo de sua proposta não importará seu afastamento da licitação ou a invalidação do processo. Logo, não se associa um erro de forma à imediata desclassificação da proposta.\nc) Errada: por força do art. 12, V, o reconhecimento de firma somente será exigido quando houver dúvida de autenticidade, salvo imposição legal.\nd) Certa: há previsão legal para que seja permitida a identificação e assinatura digital por pessoa física ou jurídica em meio eletrônico, mediante certificado digital emitido em âmbito da Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil) (art. 12, § 2º).\ne) Errada: os órgãos responsáveis pelo planejamento de cada ente federativo poderão elaborar plano de contratações anual, com o objetivo de racionalizar as contratações, garantir o alinhamento com o seu planejamento estratégico e subsidiar a elaboração das respectivas leis orçamentárias (art. 12, VII).\n\nGabarito: alternativa D.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TRT 24 (MS",
+              "question": "/ 2025) Segundo as definições da Lei nº 14.133/2021, que trata da contratação de obras e serviços de engenharia, o termo entidade é aplicado para designar",
+              "options": [
+                "atividade de interesse da Administração.",
+                "agente público dotado de poder de decisão.",
+                "pessoa jurídica responsável pela contratação.",
+                "unidade de atuação dotada de personalidade jurídica.",
+                "pessoa física ou jurídica que participar do processo licitatório."
+              ],
+              "answer": 3,
+              "explanation": "De acordo com a Lei 14.133/2021, art. 6º, II, considera-se entidade a unidade de atuação dotada de personalidade jurídica. Logo, a resposta certa está na opção D. Vamos aproveitar para revisar os demais conceitos:\na) Errada: considera-se serviço a atividade ou conjunto de atividades destinadas a obter determinada utilidade, intelectual ou material, de interesse da Administração (art. 6º, XI).\nb) Errada: o agente público dotado de poder de decisão é a autoridade (art. 6º, VI).\nc) Errada: pessoa jurídica integrante da Administração Pública responsável pela contratação é a contratante (art. 6º, VII).\ne) Errada: a pessoa física ou jurídica, ou consórcio de pessoas jurídicas, que participa ou manifesta a intenção de participar de processo licitatório é o licitante (art. 6º, IX).\n\nGabarito: alternativa D.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TRT 24 (MS",
+              "question": "/ 2025) Um servidor público de nível superior, ao participar da elaboração de um edital para contratação de serviços terceirizados, incluiu exigências técnicas que favoreciam uma empresa específica para a qual já havia trabalhado anteriormente. Além disso, ele evitou divulgar amplamente o processo licitatório, alegando que isso reduziria a burocracia e aceleraria a contratação. Com base nos princípios da Administração e na ética profissional, assinale a afirmativa correta.",
+              "options": [
+                "A omissão na divulgação do processo é aceitável se houvesse intenção de beneficiar o interesse público.",
+                "A conduta do servidor atendeu ao princípio da eficiência, ao buscar acelerar o processo de contratação.",
+                "O comportamento do servidor foi legítimo, pois a escolha de fornecedores é uma questão técnica e pessoal.",
+                "A inclusão de exigências específicas no edital foi válida, desde que o servidor tenha experiência prévia no setor.",
+                "A conduta violou os princípios da impessoalidade, moralidade e publicidade, comprometendo a ética no serviço público."
+              ],
+              "answer": 4,
+              "explanation": "a) Errada,\ne) Certa: a omissão na divulgação do processo não é aceitável. Independentemente da intenção de beneficiar o interesse público, a omissão fere imediatamente os princípios da publicidade e da transparência, os quais aplicam-se às licitações (Lei 14.133/2021, art. 5º). No caso da questão, violam-se ainda outros princípios aplicáveis, como o da impessoalidade, da moralidade, da probidade administrativa e da igualdade. Ademais, como houve a intenção de favorecer uma empresa específica, a conduta também viola os padrões éticos.\nb) Errada: a “redução da burocracia”, como vista na questão, não atende ao princípio da eficiência. A burocracia que se impõe pela Lei visa ao atendimento dos princípios previstos no texto legal. Esses princípios são tão importantes quanto o princípio da eficiência. O atendimento ao princípio da eficiência não ocorre em detrimento do atendimento de outros princípios. Logo, a assertiva está errada.\nc) Errada: o comportamento do servidor foi ilegítimo. A escolha de fornecedores é uma questão técnica, mas impessoal. Nesse sentido, um dos princípios que se aplicam à Lei, conforme previsão do art. 5º, é o da impessoalidade.\nd) Errada: independentemente da experiência prévia do servidor no setor, a inclusão das exigências que favoreciam uma empresa específica não foi válida, devido ao que se explica nas assertivas anteriores.\n\nGabarito: alternativa E.",
+              "id": 4
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – MPU / 2025",
+              "question": "Uma autarquia federal pretende contratar uma empresa para realizar serviços de manutenção e inspeção em equipamentos mecânicos industriais, especificando, em edital, critérios usualmente aplicados no mercado, que permitem a definição objetiva dos padrões de qualidade e de desempenho a serem atingidos. Considerando a Lei nº 14.133/2021, que estabelece as normas para licitações e contratos administrativos, a modalidade de licitação mais adequada para essa contratação, levando em conta que se trata de um serviço comum de engenharia, é:",
+              "options": [
+                "o leilão;",
+                "o pregão;",
+                "o concurso;",
+                "a concorrência;",
+                "o diálogo competitivo."
+              ],
+              "answer": 3,
+              "explanation": "o serviço comum de engenharia, conforme definição da Lei 14.133/2021, art. 6º, XXI, “a”, é todo serviço de engenharia que tem por objeto ações, objetivamente padronizáveis em termos de desempenho e qualidade, de manutenção, de adequação e de adaptação de bens móveis e imóveis, com preservação das características originais dos bens. Por sua vez, o serviço comum é aquele cujos padrões de desempenho e qualidade podem ser objetivamente definidos pelo edital, por meio de especificações usuais de mercado (art. 6º, XIII). A Lei de Licitações exige (modalidade obrigatória) a utilização do pregão, quando se tratar de bens e serviços comuns (art. 6º, XLI; c/c art. 29, caput). Todavia, no caso de serviços comuns de engenharia, caberia a adoção tanto do pregão como da concorrência (art. 6º, XXXVIII). Logo, o gabarito da questão poderia ser tanto a letra B como D. Portanto, a banca deveria ter anulado a questão. Não obstante esta observação, no plano concreto, a modalidade mais adequada para a situação seria de fato o pregão, em razão da definição objetiva do objeto. O TCU também entende (isso desde antes da Nova Lei de Licitações) que o pregão é a modalidade que pode ser aplicada nas licitações de serviços comuns de engenharia (Súmula TCU 257). Contudo, apesar da ressalva, o item merecia anulação diante da literalidade da Lei 14.133/2021.\n\nGabarito: alternativa B.",
+              "id": 5
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – Prefeitura de Canaã dos Carajás - PA / 2025",
+              "question": "Sobre as modalidades de licitação, previstas na Lei de Licitações e Contratos Administrativos (Lei nº 14.133/2021), assinale a afirmativa correta.",
+              "options": [
+                "A concorrência se destina à contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia, cujo critério de julgamento poderá ser o de menor preço ou o de maior desconto.",
+                "O concurso é a modalidade de licitação para escolha de trabalho técnico, científico ou artístico, cujo critério de julgamento será o de melhor técnica ou conteúdo artístico, e para concessão de prêmio ou remuneração ao vencedor, que passará a ter direitos patrimoniais relativos ao projeto.",
+                "O pregão é obrigatório para aquisição de bens e serviços comuns, cujo critério de julgamento poderá ser o de menor preço ou o de maior desconto.",
+                "O leilão é a modalidade de licitação para alienação de bens imóveis ou de bens móveis inservíveis ou legalmente apreendidos a quem oferecer o maior lance, desde que tenha registro cadastral prévio para acesso a edital e anexos.",
+                "No diálogo competitivo, uma comissão de contratação composta de pelo menos 2 (dois) servidores efetivos da Administração Pública, realiza diálogos com licitantes previamente selecionados mediante critérios objetivos, com o intuito de desenvolver uma ou mais alternativas capazes de atender às suas necessidades, devendo os licitantes apresentar proposta final após o encerramento dos diálogos."
+              ],
+              "answer": 2,
+              "explanation": "a) Errada: sim, a concorrência se destina à contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia. No entanto, segundo a Lei 14.133/2021, art. 6º, XXXVIII, os critérios de julgamento na concorrência podem ser: (i) menor preço; (ii) melhor técnica ou conteúdo artístico; (iii) técnica e preço, (iv) maior retorno econômico e (v) maior desconto. Em outras palavras, a concorrência admite todos os critérios, exceto o maior lance. A questão, em si, não está errada. Ela estaria se afirmasse que a concorrência somente admite aqueles dois critérios. No caso, a banca considerou o item como incompleto e, por isso, deu o erro (apesar de a afirmação em si não estar falsa).\nb) Errada: o único erro da assertiva está no final, já que nos concursos destinados à elaboração de projeto, o vencedor deverá ceder à Administração todos os direitos patrimoniais relativos ao projeto (art. 30, parágrafo único).\nc) Certa: conforme previsão do art. 6º, XLI, o pregão é obrigatório quando se licitam bens ou serviços comuns. Seu critério de julgamento será menor preço ou maior desconto.\nd) Errada: o leilão é a modalidade de licitação para alienação de bens imóveis ou de bens móveis inservíveis ou legalmente apreendidos a quem oferecer o maior lance (art. 6º, XL). O erro está no final da assertiva: não se exigirá registro cadastral prévio nem fase de habilitação no leilão (art. 31, parágrafo 4º).\ne) Errada: a comissão de licitação que conduz o diálogo competitivo será formada por no mínimo três servidores efetivos ou empregados públicos do quadro permanente (art. 32, XI). As demais informações estão corretas.\n\nGabarito: alternativa C.",
+              "id": 6
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV - MPU / 2025",
+              "question": "Melquisedeque, técnico do Ministério Público da União, foi nomeado agente de contratação para a licitação de novos drones para as operações investigativas do órgão. Nessa situação, Melquisedeque deverá garantir a publicidade:",
+              "options": [
+                "do orçamento estimado da contratação e das demais informações necessárias para a elaboração das propostas;",
+                "da minuta de contrato, dos termos de referência, do anteprojeto e dos projetos;",
+                "do conteúdo das propostas, até a respectiva abertura;",
+                "dos dados pessoais tratados no curso da licitação, independentemente do consentimento dos seus titulares;",
+                "do preço estimado ou do máximo aceitável, salvo quando adotado o critério de julgamento por maior desconto."
+              ],
+              "answer": 1,
+              "explanation": "A Lei de Licitações determina que: Art. 24. Desde que justificado, o orçamento estimado da contratação poderá ter caráter sigiloso, sem prejuízo da divulgação do detalhamento dos quantitativos e das demais informações necessárias para a elaboração das propostas, e, nesse caso: I - o sigilo não prevalecerá para os órgãos de controle interno e externo; II - (VETADO). Parágrafo único. Na hipótese de licitação em que for adotado o critério de julgamento por maior desconto, o preço estimado ou o máximo aceitável constará do edital da licitação. Agora, vamos avaliar as opções:\na) Errado: como o orçamento poderá ficar sob sigilo, nem sempre será obrigatória a sua divulgação.\nb) Certo: a Lei 14.133/2021 determina que: Art. 25 [...] § 3º Todos os elementos do edital, incluídos minuta de contrato, termos de referência, anteprojeto, projetos e outros anexos, deverão ser divulgados em sítio eletrônico oficial na mesma data de divulgação do edital, sem necessidade de registro ou de identificação para acesso. Portanto, incluídos minuta de contrato, termos de referência, anteprojeto, projetos serão divulgados. Pode-se questionar que a situação da questão é de um bem comum (drones). Logo, não existe “anteprojeto” nem “projetos”. Haverá apenas o termo de referência. Todavia, esse tipo de questão é julgado pelo dispositivo legal, de forma genérica. Sendo assim, este seria o único gabarito viável.\nc) Errado: a Lei de Licitações dispõe que: Art. 13. Os atos praticados no processo licitatório são públicos, ressalvadas as hipóteses de informações cujo sigilo seja imprescindível à segurança da sociedade e do Estado, na forma da lei. Parágrafo único. A publicidade será diferida: I - quanto ao conteúdo das propostas, até a respectiva abertura; II - quanto ao orçamento da Administração, nos termos do art. 24 desta Lei. Assim, o conteúdo das propostas deve ficar sob sigilo até a data da abertura.\nd) Errado: os dados pessoais, a priori, não devem ser divulgados, aplicando-se as regras da LGPD.\ne) Errado: o preço estimado ou o máximo aceitável deverá ser divulgado quando adotado o critério de julgamento por maior desconto (art. 24, parágrafo único). Assim, o “salvo”, torna o item errado.\n\nGabarito: alternativa B.",
+              "id": 7
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TCE PI/2025",
+              "question": "Ismar Viana destaca que é necessário “...afastar das atividades de controle o agente a quem é atribuído o mister de executar outras funções, tendo em vista que, no regular exercício da função de controle, quem controla não deve executar, quem executa não deve controlar.” (2019, p.12) O princípio da atividade de controle da Administração Pública a que se refere o autor é o",
+              "options": [
+                "da probidade.",
+                "da objetividade.",
+                "da impessoalidade.",
+                "da segregação de funções.",
+                "do ceticismo profissional."
+              ],
+              "answer": 3,
+              "explanation": "a segregação de funções refere-se à separação clara entre as atividades de autorização, execução e controle no âmbito da gestão administrativa. Assim, podemos notar que a segregação de funções está em consonância com o trecho apresentado no enunciado, pois “quem controla não deve executar, quem executa não deve controlar”. Esse princípio é previsto na Lei de Licitações, que dispõe que: Art. 7º [...] § 1º A autoridade referida no caput deste artigo deverá observar o princípio da segregação de funções, vedada a designação do mesmo agente público para atuação simultânea em funções mais suscetíveis a riscos, de modo a reduzir a possibilidade de ocultação de erros e de ocorrência de fraudes na respectiva contratação. Logo, o gabarito é a letra D. Vejamos as demais alternativas.\na) Errado. O princípio da probidade refere-se à moralidade e à honestidade no comportamento dos agentes públicos, abrangendo condutas éticas e legais no desempenho da função pública.\nb) Errado. O princípio da objetividade está relacionado à imparcialidade e à adoção de critérios técnicos e objetivos na tomada de decisões administrativas.\nc) Errado. O princípio da impessoalidade refere-se à ideia de que a Administração Pública deve atuar de forma objetiva, sem privilégios ou perseguições pessoais, buscando o interesse público.\ne) Errado. O ceticismo profissional é um conceito relacionado ao campo da auditoria, especialmente previsto nas normas de auditoria. Ele se refere à postura de dúvida crítica e à avaliação contínua da suficiência e adequação das evidências obtidas.\n\nGabarito: alternativa D.",
+              "id": 8
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / TJ-MT / 2024",
+              "question": "O Tribunal de Justiça do Estado Alfa pretende adquirir, mediante licitação, milhares de rolos de papel higiênico, com o objetivo de os distribuir para todos os cartórios e gabinetes dos juízos em âmbito estadual. Em síntese, busca-se a aquisição de bens comuns, sendo certo que será adotado, na licitação, o critério de julgamento do menor preço. Nesse cenário, considerando as disposições da Lei nº 14.133/2021, é correto afirmar que o Tribunal de Justiça do Estado Alfa adotará a seguinte modalidade de licitação:",
+              "options": [
+                "diálogo competitivo.",
+                "credenciamento.",
+                "pré-qualificação.",
+                "pregão.",
+                "leilão."
+              ],
+              "answer": 3,
+              "explanation": "em se tratando de aquisição de bens e serviços comuns, a modalidade de licitação obrigatória é o pregão (Lei 14.133/2021, art. 6º, XLI). Os rolos de papel higiênico são exemplos de bens comuns, uma vez que possuem padrões de desempenho e qualidade podem ser objetivamente definidos pelo edital, por meio de especificações usuais de mercado. Logo, temos a resposta na opção D.\n\nGabarito: D.",
+              "id": 9
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / TJ-MT / 2024",
+              "question": "Após analisar as disposições da Lei nº 14.133/2021, Graziela observou que a mencionada norma expressamente indica situações em que seus ditames são aplicáveis, bem como aponta outras que a ela não se subordinam. Nesse contexto, Graziela verificou que, das hipóteses elencadas abaixo, a que não se subordina ao regime da lei em questão é o contrato",
+              "options": [
+                "de locação.",
+                "de compra, inclusive, por encomenda.",
+                "de concessão de uso de bem público.",
+                "que tenha por objeto operação de crédito.",
+                "de prestação de serviços, inclusive os técnico-profissionais especializados."
+              ],
+              "answer": 3,
+              "explanation": "O regime da Lei de Licitações não se aplica à hipótese de seu art. 3º: Art. 3º Não se subordinam ao regime desta Lei: I - contratos que tenham por objeto operação de crédito, interno ou externo, e gestão de dívida pública, incluídas as contratações de agente financeiro e a concessão de garantia relacionadas a esses contratos; II - contratações sujeitas a normas previstas em legislação própria. Logo, o contrato que tenha como objeto uma operação de crédito não se subordina ao regime da Lei 14.133/2021. Em todas as outras assertivas são mencionados contratos que se subordinam ao regime da referida lei, na forma do art. 2º da Lei de Licitações: Art. 2º Esta Lei aplica-se a: [...] II - compra, inclusive por encomenda; III - locação; IV - concessão e permissão de uso de bens públicos; V - prestação de serviços, inclusive os técnico-profissionais especializados; [...].\n\nGabarito: D.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u5l3",
+          "title": "Lição 3",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "FGV / TJ-RR / 2024",
+              "question": "Suponha que o órgão competente de certo Tribunal de Justiça almeje realizar a aquisição de material de escritório e papelaria, que são considerados bens comuns, para o regular funcionamento de suas atividades, bem como visa a escolher um trabalho técnico de arquitetura para a construção de uma nova sede. Nesse contexto, à luz do disposto na Lei nº 14.133/2021, é correto afirmar que, para as mencionadas contratações, deverão ser utilizadas, respectivamente, as seguintes modalidades de licitação:",
+              "options": [
+                "concorrência e pregão.",
+                "pregão e leilão.",
+                "leilão e diálogo competitivo.",
+                "pregão e concurso.",
+                "leilão e concurso."
+              ],
+              "answer": 3,
+              "explanation": "Segundo a Lei de Licitações, art. 6º, XLI, o pregão é a modalidade de licitação obrigatória para a aquisição de bens e serviços comuns. A qualidade “comum” do bem ou do serviço é aquela em que “os padrões de desempenho e qualidade podem ser objetivamente definidos pelo edital, por meio de especificações usuais de mercado” (art. 6º, XIII). Logo, o material de escritório e papelaria é considerado um bem comum. Por outro lado, o concurso é a “modalidade de licitação para escolha de trabalho técnico, científico ou artístico, cujo critério de julgamento será o de melhor técnica ou conteúdo artístico, e para concessão de prêmio ou remuneração ao vencedor” (art. 6º, XXXIX). Como mesmo diz o enunciado, o trabalho de arquitetura é um trabalho técnico. Logo, as modalidades são respectivamente pregão e concurso.\n\nGabarito: D.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / TJ-RR / 2024",
+              "question": "A nova lei de licitações (Lei nº 14.133/21) instituiu uma nova modalidade de licitação denominada",
+              "options": [
+                "pregão.",
+                "tomada de preços.",
+                "leilão.",
+                "cotação prévia.",
+                "diálogo competitivo."
+              ],
+              "answer": 4,
+              "explanation": "A Lei 14.133/2021 dispõe sobre modalidades de licitação que já existiam em normas legais anteriores. A exceção fica por conta do diálogo competitivo, que visa à contratação de obras, serviços e compras em que a administração pública realiza diálogos com licitantes previamente selecionados mediante critérios objetivos, com o intuito de desenvolver uma ou mais alternativas capazes de atender às suas necessidades, devendo os licitantes apresentar proposta final após o encerramento dos diálogos (art. 6º, XLII). Ademais, o diálogo competitivo tem o objetivo de contratar um objeto que exija inovação ou adaptação das soluções existentes (art. 32, I). Logo, a resposta está na opção E. A cotação prévia não é uma modalidade. As demais alternativas da questão têm modalidades préexistentes, sendo que a tomada de preços, que existia na antiga Lei, não consta na Nova Lei de Licitações.\n\nGabarito: E.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / ENAM / 2024",
+              "question": "O Município Alfa decidiu realizar a contratação de sistemas de segurança cibernética por meio da modalidade de diálogo competitivo. Após a realização do estudo técnico preliminar (ETP), a equipe de planejamento identificou diversas soluções com padrões de desempenho e qualidade já consolidados no mercado, todas satisfatórias à necessidade pública. O Termo de Referência (TR) detalhou a solução identificada no ETP, daí seguindo a elaboração do edital e da minuta do contrato. Após a publicação do edital de diálogo competitivo, um interessado na licitação ajuizou demanda judicial questionando a legalidade do procedimento sob o argumento de que essa modalidade licitatória foi utilizada de forma indevida, contrariando a Lei nº 14.133/2021. Diante desse cenário, analise as afirmativas a seguir. I. O Município pode optar pelo diálogo competitivo sempre que quiser discutir com os fornecedores as melhores condições contratuais, mesmo que já tenha identificado as soluções consolidadas no mercado. II. Uma vez que ETP e TR identificaram que o objeto possui padrões de desempenho e qualidade que podem ser objetivamente definidos no edital, por meio das especificações usuais do mercado, o pregão se torna a modalidade de licitação obrigatória, conforme o Art. 29 da Lei nº 14.133/2021. III. O diálogo competitivo é uma modalidade de licitação de caráter restrito que não se aplica à contratação de bens e serviços comuns. Está correto o que se afirma em",
+              "options": [
+                "I, apenas.",
+                "I e II, apenas.",
+                "I e III, apenas.",
+                "II e III, apenas.",
+                "I, II e III."
+              ],
+              "answer": 3,
+              "explanation": "Falso: I. O Município pode optar pelo diálogo competitivo sempre que quiser discutir com os fornecedores as melhores condições contratuais, mesmo que já tenha identificado as soluções consolidadas no mercado. O diálogo competitivo não se destina à mera discussão com fornecedores sobre condições contratuais. Ademais, não cabe o diálogo competitivo se o Município já identificou as soluções consolidadas no mercado. Lembre-se: o diálogo competitivo é uma modalidade destinada a casos muito específicos, em que as condições do objeto envolvam (i) inovação tecnológica ou técnica, (ii) impossibilidade de a Administração ter sua necessidade satisfeita sem a adaptação de soluções disponíveis no mercado e (iii) impossibilidade de as especificações técnicas serem definidas com precisão suficiente pela Administração (Lei de Licitações, art. 32, I). Além disso, trata-se de casos em que a Administração verifique a necessidade de identificar alternativas, definindo (i) a solução técnica mais adequada, (ii) os requisitos técnicos aptos a concretizar a solução já definida e (iii) a estrutura jurídica ou financeira do contrato (Lei 14.133/2021, art. 32, II). Verdadeiro: II. Uma vez que ETP e TR identificaram que o objeto possui padrões de desempenho e qualidade que podem ser objetivamente definidos no edital, por meio das especificações usuais do mercado, o pregão se torna a modalidade de licitação obrigatória, conforme o Art. 29 da Lei nº 14.133/2021. De fato, o art. 29 cria uma obrigação ao uso do pregão quando o objeto possui padrões de desempenho e qualidade que possam ser objetivamente definidos pelo edital, por meio de especificações usuais de mercado. Verdadeiro: III. O diálogo competitivo é uma modalidade de licitação de caráter restrito que não se aplica à contratação de bens e serviços comuns. Como vimos, o diálogo competitivo não é uma modalidade corriqueira. O art. 32 enumera os requisitos, definindo que a adoção do diálogo competitivo será “restrita” aos casos ali enumerados. Logo, não se aplica à contratação de bens e serviços comuns. Assim, apenas o que se afirma em II e III está correto.\n\nGabarito: D.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Caraguatatuba - SP / 2024",
+              "question": "Conforme a Lei nº 14.123/2021, o processo licitatório tem por objetivos",
+              "options": [
+                "incentivar a inovação e o desenvolvimento nacional sustentável.",
+                "descrever a necessidade da contratação fundamentada em estudo técnico preliminar que caracterize o interesse público envolvido.",
+                "elaborar o edital de licitação.",
+                "analisar os riscos que possam comprometer o sucesso da licitação e a boa execução contratual.",
+                "definir as condições de execução e pagamento, das garantias exigidas e ofertadas e das condições de recebimento."
+              ],
+              "answer": 0,
+              "explanation": "O processo licitatório tem por objetivos (art. 11):\na) assegurar a seleção da proposta apta a gerar o resultado de contratação mais vantajoso para a Administração Pública, inclusive no que se refere ao ciclo de vida do objeto;\nb) assegurar tratamento isonômico entre os licitantes, bem como a justa competição;\nc) evitar contratações com sobrepreço ou com preços manifestamente inexequíveis e superfaturamento na execução dos contratos;\nd) incentivar a inovação e o desenvolvimento nacional sustentável (letra A – correta). As demais assertivas não são objetivos, mas sim quesitos listados nos incisos do art. 18, que visam à abordagem de todas as considerações técnicas, mercadológicas e de gestão que podem interferir na contratação.\n\nGabarito: A.",
+              "id": 4
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Caraguatatuba - SP / 2024",
+              "question": "De acordo com a Lei no 14.133/21, assinale a opção que indica, corretamente, um dos objetivos do processo licitatório.",
+              "options": [
+                "Garantir a transparência contábil.",
+                "Proporcionar um rodízio entre as organizações.",
+                "Assegurar o predomínio de contratações nacionais.",
+                "Evitar o aumento da desigualdade social entre as regiões do país.",
+                "Incentivar a inovação e o desenvolvimento nacional sustentável."
+              ],
+              "answer": 4,
+              "explanation": "Os objetivos do processo licitatório são previstos no art. 11 da Lei de Licitações: Art. 11. O processo licitatório tem por objetivos: I - assegurar a seleção da proposta apta a gerar o resultado de contratação mais vantajoso para a Administração Pública, inclusive no que se refere ao ciclo de vida do objeto; II - assegurar tratamento isonômico entre os licitantes, bem como a justa competição; III - evitar contratações com sobrepreço ou com preços manifestamente inexequíveis e superfaturamento na execução dos contratos; IV - incentivar a inovação e o desenvolvimento nacional sustentável. Logo, a opção E tem a resposta certa. As demais assertivas são invenções da banca.\n\nGabarito: E.",
+              "id": 5
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Caraguatatuba - SP / 2024",
+              "question": "Uma das modalidades de licitação, de acordo com a Lei nº 14.133/2021, é o diálogo competitivo. Essa modalidade é restrita a contratações em que a Administração vise a contratar objeto que envolva, entre outras, a seguinte condição:",
+              "options": [
+                "inovação tecnológica ou técnica.",
+                "materiais que só podem ser fornecidos por produtor, empresa ou representante comercial exclusivos.",
+                "serviço de profissional do setor artístico, que é consagrado pela crítica especializada ou pela opinião pública.",
+                "aquisição ou locação de imóvel cujas características de instalações e de localização tornem necessária sua escolha.",
+                "serviços técnicos especializados de natureza predominantemente intelectual com profissionais ou empresas de notória especialização."
+              ],
+              "answer": 0,
+              "explanation": "A inovação tecnológica ou técnica é uma das condições do objeto que a Administração vise a contratar em decorrência da modalidade diálogo competitivo. A Lei também dispõe como requisito para adoção do diálogo competitivo (i) a impossibilidade de o órgão ou entidade ter sua necessidade satisfeita sem a adaptação de soluções disponíveis no mercado e (ii) a impossibilidade de as especificações técnicas serem definidas com precisão suficiente pela Administração. Logo, a resposta certa está na opção A. As demais opções trazem hipóteses de inexigibilidade de licitação, nos termos do art. 74 da L14133.\n\nGabarito: A.",
+              "id": 6
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Caraguatatuba - SP / 2024",
+              "question": "A autoridade competente do Município de Caraguatatuba precisa indicar servidor de seus quadros para o exercício da atribuição de fiscal do contrato, para o que foi cogitado o nome de Clemente, em razão de ele já atuar como agente da contratação, ponderando-se, contudo, os riscos envolvidos no exercício simultâneo de tais atividades. Acerca dessa situação hipotética, considerando os princípios elencados na Lei nº 14.133/2021, é correto afirmar que a indicação de Clemente",
+              "options": [
+                "não é viável, diante do princípio da segregação das funções.",
+                "é viável, em decorrência do princípio da efetividade.",
+                "não é viável, em razão do princípio da competividade.",
+                "é viável, à luz do princípio da economicidade.",
+                "não é viável, considerando o princípio da proteção da confiança."
+              ],
+              "answer": 0,
+              "explanation": "Por força da Lei de Licitações, art. 7º, §1º, deve ser observado o princípio da segregação de funções, segundo o qual é “vedada a designação do mesmo agente público para atuação simultânea em funções mais suscetíveis a riscos, de modo a reduzir a possibilidade de ocultação de erros e de ocorrência de fraudes na respectiva contratação”. Em que pese as atividades de agente de contratação (anterior à celebração do contrato) e de fiscal de contrato (posterior à celebração) não serem simultâneas, a atuação de Clemente em ambas as funções poderia incorrer em ocultação de erros ou mesmo propiciar fraudes. Logo, diante do princípio da segregação de funções, a indicação de Clemente para fiscal de contrato não é viável, conforme a opção A.\n\nGabarito: A.",
+              "id": 7
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Macaé - RJ / 2024",
+              "question": "O Município de Macaé publicou edital de licitação, com a finalidade de celebrar posterior contrato administrativo, cujo objeto envolverá serviços comuns e especiais de engenharia. Registre-se que, na licitação, será adotado o critério de julgamento do maior desconto. Considerando as disposições da Lei nº 14.133/2021, o Município de Macaé deverá",
+              "options": [
+                "combinar o diálogo competitivo e a concorrência, as quais serão adotadas, em conjunto, como modalidades de licitação.",
+                "combinar o diálogo competitivo e o pregão, os quais serão adotadas, em conjunto, como modalidades de licitação.",
+                "combinar o pregão e a concorrência, as quais serão adotadas, em conjunto, como modalidades de licitação.",
+                "adotar o diálogo competitivo como modalidade de licitação.",
+                "adotar a concorrência como modalidade de licitação."
+              ],
+              "answer": 4,
+              "explanation": "a),\nb) e\nc) Erradas: é vedada a combinação de modalidades de licitação, por força da Lei de Licitações, art. 28, §2º. Logo, estas três opções estão incorretas.\nd) Errada: o diálogo competitivo é uma modalidade para casos muito específicos. Portanto, devido às suas restrições, ela não é cabível quando objeto simplesmente envolve “serviços comuns e especiais de engenharia”, sem detalhamentos.\ne) Certa: a concorrência é a modalidade de licitação para serviços comuns e especiais de engenharia (art. 6º, XXXVIII). Cabe ressaltar que, por força do art. 29, parágrafo único, também caberia o pregão.\n\nGabarito: E.",
+              "id": 8
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Macaé - RJ / 2024",
+              "question": "A Lei nº 14.133, de 1º de abril de 2021, conhecida como a Nova Lei de Licitações e Contratos Administrativos, estabelece normas gerais sobre licitações e contratos no âmbito da Administração Pública no Brasil. Ela substitui as legislações anteriores, como a Lei nº 8.666/1993, a Lei do Pregão (Lei nº 10.520/2002) e o Regime Diferenciado de Contratações (Lei nº 12.462/2011), unificando e modernizando as regras para a contratação de bens e serviços pelo setor público. Assinale a alternativa que apresenta uma inovação trazida pela nova legislação.",
+              "options": [
+                "Diálogo competitivo, uma modalidade de licitação voltada para contratações em que a Administração não possui definições completas e necessita de uma fase de diálogo com os licitantes para obter soluções técnicas.",
+                "Eliminação do pregão eletrônico como modalidade de licitação, mantendo apenas o pregão presencial.",
+                "Extinção da necessidade de justificativa para a contratação de serviços especializados, facilitando a contratação direta sem licitação.",
+                "Unificação de todos os tipos de licitação em uma única modalidade, simplificando o processo licitatório para qualquer tipo de contratação.",
+                "Permissão da contratação direta em todos os casos, sem necessidade de licitação, desde que haja urgência na execução do contrato."
+              ],
+              "answer": 0,
+              "explanation": "a) Certa: o diálogo competitivo é uma inovação trazida pela Lei 14.133/2021. Entre outras minúcias, tratase de modalidade voltada para casos em que a Administração não possui definições completas e, assim, promove uma fase de diálogo com licitantes para identificar soluções para o problema.\nb) Errada: o pregão eletrônico foi mantido na Lei 14.133/2021.\nc) Errada: a contratação de meros “serviços especializados” não é uma hipótese de contratação direta na nova legislação. Fora que toda contratação depende de justificação (art. 18, I).\nd) Errada: os “tipos de licitação” da antiga legislação referiam-se ao que atualmente se chama de critérios de julgamento. De qualquer forma, não há uma única modalidade na Lei 14.133/2021, mas sim cinco: pregão, concorrência, concurso, leilão e diálogo competitivo.\ne) Errada: a urgência na execução do contrato não é, por si só, uma hipótese para contratação direta ne permite que “todos os casos” sejam assim contratados. O art. 75, VIII, prevê a contratação direta em caso de urgência, mas fixa uma série de requisitos e prazos.\n\nGabarito: A.",
+              "id": 9
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Vitória - ES / 2024",
+              "question": "De acordo com a Lei Federal nº 14.133/2021, acerca das características do uso da modalidade de licitação denominada pregão, assinale V para afirmativa verdadeira e F para falsa. ( ) Não se aplica o tipo maior desconto. ( ) Poderá ser adotada para serviços comuns de engenharia. ( ) Poderá ser adotada para locações imobiliárias. ( ) Se aplica aos serviços técnicos especializados. As afirmativas são, respectivamente,",
+              "options": [
+                "F – V – F – F.",
+                "V – V – F – F.",
+                "V – V – F – V.",
+                "F – F – V – F.",
+                "F – V – F – V."
+              ],
+              "answer": 0,
+              "explanation": "(Falso): Não se aplica o tipo maior desconto. De acordo com a Lei de Licitações, art. 6º, XLI, o critério de julgamento por maior desconto é um dos que se aplica ao pregão. O outro é o menor preço. (Verdadeiro): Poderá ser adotada para serviços comuns de engenharia. Os serviços comuns de engenharia admitem tanto o pregão (de acordo com a exceção prevista no parágrafo único do art. 29) quanto a concorrência (de acordo com o art. 6º, XXXVIII). (Falso): Poderá ser adotada para locações imobiliárias. O pregão é a modalidade para aquisição de bens e serviços comuns. Logo, com essa definição já saberíamos que ele não é adotado para locações imobiliárias. Contudo, para não restar dúvida, o Decreto 10.024/2019 expressamente prevê que o pregão, na forma eletrônica, não se aplica a locações imobiliárias. (Falso): Se aplica aos serviços técnicos especializados. Como vimos, o pregão se aplica a serviços comuns, não aos técnicos especializados (art. 29, parágrafo único).\n\nGabarito: A.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u5l4",
+          "title": "Lição 4",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Caraguatatuba - SP / 2024",
+              "question": "Em um procedimento licitatório, o princípio da adjudicação compulsória estabelece que a Administração Pública",
+              "options": [
+                "deve simplificar procedimentos de rigorismos excessivos e de formalidades desnecessárias, de forma a não retardar os procedimentos da licitação.",
+                "deve observar, nas suas decisões, critérios objetivos previamente estabelecidos, afastando a discricionariedade e o subjetivismo na condução dos procedimentos da licitação.",
+                "não pode realizar o que não está previsto no ato convocatório, devendo, portanto, observar as normas e condições já estabelecidas.",
+                "deve realizar procedimento formal ao adquirir bens e contratar serviços e obras, com participação de todos os interessados.",
+                "não pode abrir nova licitação, ou contratação de outrem, enquanto válida a realizada anteriormente."
+              ],
+              "answer": 4,
+              "explanation": "O princípio da adjudicação compulsória é um dos princípios implícitos (ou correlatos) da Lei de Licitações. Por conta desse princípio, a Administração é impedida de atribuir o objeto da licitação a um terceiro que não tenha sido o legítimo vencedor. A doutrina também defende que não é possível a abertura de um novo procedimento licitatório para o mesmo objeto enquanto válido o certame anterior. Logo, a opção E é a correta. Estes são os erros das outras opções:\na) Errada: a simplificação de procedimentos e de formalidades corresponde a outro procedimento implícito da Lei, o do formalismo procedimental (ou formalismo moderado).\nb) Errada: a observância, nas decisões, de critérios objetivos previamente estabelecidos, afastando a discricionariedade e o subjetivismo pode ser relacionada aos princípios da impessoalidade e do julgamento objetivo.\nc) Errada: quando realiza apenas o que está no ato convocatório, observando normas e condições préestabelecidas, a Administração cumpre o princípio da vinculação ao edital. Com efeito, a licitação também deve seguir o devido processo legal, uma vez que constitui direito dos interessados a observância das regras da Lei de Licitações e do instrumento convocatório.\nd) Errada: ao possibilitar a participação de todos os interessados por meio de um procedimento formal, cumprem-se os princípios da igualdade e da competitividade.\n\nGabarito: E.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Macaé - RJ / 2024",
+              "question": "O Município de Macaé publicou edital de licitação para a aquisição de bens móveis necessários ao funcionamento da máquina pública. Nesse contexto, considerado o valor do futuro contrato administrativo, diversas pessoas naturais e jurídicas demonstraram interesse em participar do referido processo licitatório. Veja-se: I. Jonas, três anos antes da divulgação do edital, foi condenado judicialmente, com trânsito em julgado, por contratação de adolescentes nos casos vedados pela legislação trabalhista. II. João, dois anos antes da divulgação do edital, foi condenado judicialmente, com trânsito em julgado, por exploração de trabalho infantil. III. Luiz é primo, parente colateral de quarto grau do agente público que desempenha função na licitação. IV. Caio mantém vínculo de natureza comercial com o agente público que desempenha função na licitação. V. As sociedades Alfa e Beta, coligadas nos termos da lei, concorrendo entre si. Considerando a Lei nº 14.133/2021, assinale a opção que indica quem poderá participar da licitação.",
+              "options": [
+                "As sociedades Alfa e Beta.",
+                "Jonas.",
+                "João.",
+                "Caio.",
+                "Luiz."
+              ],
+              "answer": 4,
+              "explanation": "O art. 14 da Lei de Licitações diz que não poderão disputar licitação ou participar da execução de contrato, direta ou indiretamente: IV - aquele que mantenha vínculo de natureza técnica, comercial, econômica, financeira, trabalhista ou civil com dirigente do órgão ou entidade contratante ou com agente público que desempenhe função na licitação ou atue na fiscalização ou na gestão do contrato, ou que deles seja cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, devendo essa proibição constar expressamente do edital de licitação; V - empresas controladoras, controladas ou coligadas, nos termos da Lei nº 6.404, de 15 de dezembro de 1976, concorrendo entre si; VI - pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à divulgação do edital, tenha sido condenada judicialmente, com trânsito em julgado, por exploração de trabalho infantil, por submissão de trabalhadores a condições análogas às de escravo ou por contratação de adolescentes nos casos vedados pela legislação trabalhista. Jonas (I) e João (II) foram condenados judicialmente com trânsito em julgado pela hipótese do art. 14, VI. Caio (IV) mantém vínculo de natureza comercial com o agente público que desempenha função na licitação, situação prevista no art. 14, IV. As sociedades Alfa e Beta (V), enquanto coligadas e concorrendo entre si, correspondem à hipótese do art. 14, V. Logo, nenhuma dessas pessoas físicas ou jurídicas pode disputar licitação ou participar da execução de contrato. Luiz (III), por sua vez, sendo parente de quarto grau (primo) de um agente público que desempenha função na licitação, pode participar do certame, pois a vedação vai até o terceiro grau. Assim, a resposta certa está na opção E.\n\nGabarito: E.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Caraguatatuba - SP / 2024",
+              "question": "Na licitação para contratação de serviço para fiscalização, supervisão e gerenciamento de uma obra, estimou-se o valor da contratação em R$400.000,00. Nesse caso, o julgamento dessa licitação poderá ser feito por",
+              "options": [
+                "menor preço.",
+                "melhor técnica.",
+                "maior desconto.",
+                "menor relação custo / benefício.",
+                "maior retorno econômico."
+              ],
+              "answer": 1,
+              "explanation": "Segundo a Lei de Licitações: Art. 37 [...] § 2º Ressalvados os casos de inexigibilidade de licitação, na licitação para contratação dos serviços técnicos especializados de natureza predominantemente intelectual previstos nas alíneas “a”, “d” e “h” do inciso XVIII do caput do art. 6º desta Lei cujo valor estimado da contratação seja superior a R$ 300.000,00 (trezentos mil reais), o julgamento será por: I – melhor técnica; ou II – técnica e preço, na proporção de 70% (setenta por cento) de valoração da proposta técnica. Os dispositivos mencionados tratam dos seguintes serviços:\na) estudos técnicos, planejamentos, projetos básicos e projetos executivos;\nd) fiscalização, supervisão e gerenciamento de obras e serviços; h) controles de qualidade e tecnológico, análises, testes e ensaios de campo e laboratoriais, instrumentação e monitoramento de parâmetros específicos de obras e do meio ambiente e demais serviços de engenharia que se enquadrem na definição deste inciso; Portanto, como a questão falou de licitação, não se trata de inexigibilidade. Além disso, o objeto é a “fiscalização, supervisão e gerenciamento de uma obra” cujo valor é de R$ 400 mil. Portanto, todas as três exigências do art. 37, § 2º, foram observadas, exigindo-se que a licitação seja por: (i) melhor técnica; ou (ii) técnica e preço, na proporção de 70% (setenta por cento) de valoração da proposta técnica. Assim, dentre as alternativas, só caberia a letra B (melhor técnica). Lembrando que o valor citado é atualizado anualmente (vide tabela na abertura da nossa aula).\n\nGabarito: B.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Macaé - RJ / 2024",
+              "question": "A sociedade empresária XYZ Ltda, após regular processo licitatório, foi contratada pelo Município X. No entanto, após seis meses de execução da avença, o fiscal do contrato verificou que a esposa de um professor da rede municipal de educação do Município X constava do quadro societário da sociedade empresária XYZ Ltda. O referido professor exerceu suas funções exclusivamente na regência de aulas no ensino fundamental. Sobre a situação narrada, assinale a afirmativa correta.",
+              "options": [
+                "O contrato é irregular, pois a Lei nº 14.133 veda a participação da licitação ou que firmem contratos administrativos, aqueles que sejam cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau de servidor público municipal.",
+                "O contrato é regular, pois esse impedimento não se aplica às pessoas ligadas — por matrimônio ou parentesco, afim ou consanguíneo, até o terceiro grau, inclusive, ou por adoção — a servidores municipais não ocupantes de cargo em comissão ou função de confiança.",
+                "É nulo de pleno direito, por violar o princípio da vedação ao nepotismo — norma municipal que proíbe a celebração de contratos do município com agentes públicos municipais e respectivos parentes, até o terceiro grau.",
+                "É anulável, tendo em vista que o impedimento de contratar com agentes públicos ou pessoas a eles vinculadas é imperativo de moralidade e impessoalidade.",
+                "É revogável, em vista do risco de influência sobre a conduta dos responsáveis pela licitação ou pela execução do contrato, a justificar uma espécie de suspeição."
+              ],
+              "answer": 1,
+              "explanation": "Segundo o STF: É constitucional o ato normativo municipal, editado no exercício de competência legislativa suplementar, que proíba a participação em licitação ou a contratação: (a) de agentes eletivos; (b) de ocupantes de cargo em comissão ou função de confiança; (c) de cônjuge companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, de qualquer destes; e (d) dos demais servidores públicos municipais. RE 910.552/MG (tema 1001), julgamento finalizado em 4.7.2023. Por outro lado, a vedação não alcança os parentes de servidores públicos que não ocupam cargo em comissão ou função de confiança: 6. Recurso parcialmente provido, para dar interpretação conforme ao art. 96 da Lei Orgânica do Município de Francisco Sá, de modo a excluir a proibição de contratação de pessoas ligadas, por matrimônio ou parentesco, afim ou consanguíneo, até o terceiro grau inclusive, ou por adoção, a servidores municipais que não ocupem cargo em comissão ou função de confiança. RE 910.552/MG (tema 1001), julgamento finalizado em 4.7.2023. Em resumo a vedação:\na) aplica-se a: (i) agentes eletivos; (ii) ocupantes de cargo em comissão ou função de confiança; (iii) cônjuge companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, de agentes eletivos e ocupantes de cargo em comissão ou função de confiança; e (d) (iv) demais servidores públicos municipais.\nb) não se aplica a: (i) parentes de servidores que não ocupem cargo em comissão ou função de confiança. Logo, como o contrato foi firmado com uma empresa da “esposa de um professor da rede municipal de educação do Município X”, não existe vedação. Logo, o contrato foi regular, na forma da letra B. Todas as demais opções, por conseguinte, estão incorretas.\n\nGabarito: B.",
+              "id": 4
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – CGE PB/2024",
+              "question": "Sob o fundamento de atender às peculiaridades locais, o Estado Alfa, após o devido processo legislativo, fez editar uma lei que dispõe sobre licitação e contratação. À luz da orientação do Supremo Tribunal Federal, tal norma poderia versar sobre:",
+              "options": [
+                "hipóteses de contratação direta mediante introdução de novas situações de licitação dispensável;",
+                "obrigatoriedade de aquisição de percentual mínimo de bens e serviços definidos em sistema de registro de preços;",
+                "possibilidade de os órgãos de segurança pública estadual alienarem armas de fogo a seus integrantes, por meio de venda direta;",
+                "requisitos de habilitação dos licitantes, tais como a exigência para a apresentação de certidão negativa de violação ao direito dos consumidores;",
+                "vedação de participação em licitação e contratação de cônjuge, companheiro e parente consanguíneo até o terceiro grau do governador e do vice-governador e de ocupantes de cargo em comissão ou função de confiança."
+              ],
+              "answer": 4,
+              "explanation": "essa questão é extremamente aprofundada, mas serve para entender o alcanço da expressão “normas gerais de licitações e contratos”. A competência para dispor sobre normas gerais de licitações e contratos é da União, nos termos do art. 22, XXVII, e do art. 37, XXI, da CF/88. A competência trata apenas das “normas gerais”. Por isso, os estados, DF e municípios podem dispor sobre normas específicas, independentemente da delegação prevista no art. 22, parágrafo único da CF. Nesse caso, a única exigência é que os estados, o DF e os municípios observem o disposto nas normas gerais da União. Mas o que seriam normas específicas, suplementares? Essa pergunta é respondida em diversas jurisprudências do STF, e a questão tratou, em cada alternativa, de um desses julgados do Supremo. Vamos analisar cada uma:\na) Errado. O STF entende que é vedada aos demais entes federados a criação de hipóteses de dispensa de licitação diversas das previstas na legislação federal, julgando inconstitucionais leis municipais nesse sentido”. (STF, Ag Reg no Recurso Extraordinário nº 1.419.333)\nb) Errado. Segundo o STF, “ao se determinar que o poder público adquira o mínimo de 65% (sessenta e cinco por cento) dos bens e serviços definidos em sistema de registro de preços, na Lei estadual se invadiu a competência privativa da União para estabelecer normas gerais sobre licitação e contratação, em todas as modalidades, para as administrações públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios, prevista no inc. XXVII do art. 22 da Constituição da República”. (ADI 4748/PR)\nc) Errado. A jurisprudência do STF se firmou no sentido de que os arts. 21, VI, e 22, XXI, da Constituição atribuem competência privativa à União para legislar sobre material bélico, em razão da predominância de interesse nacional. Os arts. 22, XXVII, e 37, XXI, CF atribuem à União competência privativa para editar normas gerais sobre licitações e contratos, e exigem prévio procedimento licitatório como requisito necessário para a contratação de obras, serviços, compras e alienações pela Administração Pública. Nesse sentido, foi fixada a seguinte tese de julgamento: “É inconstitucional a lei estadual que autoriza a seus órgãos de segurança pública a alienação de armas de fogo a seus integrantes, por meio de venda direta”. (ADI 7004)\nd) Errado. Segundo o STF, “somente a lei federal poderá, em âmbito geral, estabelecer desequiparações entre os concorrentes e assim restringir o direito de participar de licitações em condições de igualdade. Ao direito estadual (ou municipal) somente será legítimo inovar neste particular se tiver como objetivo estabelecer condições específicas, nomeadamente quando relacionadas a uma classe de objetos a serem contratados ou a peculiares circunstâncias de interesse local. Ao inserir a Certidão de Violação aos Direitos do Consumidor no rol de documentos exigidos para a habilitação, o legislador estadual se arvorou na condição de intérprete primeiro do direito constitucional de acesso a licitações e criou uma presunção legal, de sentido e alcance amplíssimos, segundo a qual a existência de registros desabonadores nos cadastros públicos de proteção do consumidor é motivo suficiente para justificar o impedimento de contratar com a Administração local. Ao dispor nesse sentido, a Lei Estadual 3.041/05 se dissociou dos termos gerais do ordenamento nacional de licitações e contratos, e, com isso, usurpou a competência privativa da União de dispor sobre normas gerais na matéria (art. 22, XXVII, da CF)”. (ADI 3.735)\ne) Certo. Entende o STF que lei municipal pode proibir a administração pública de realizar contratos com parentes até o terceiro grau de agentes públicos eletivos ou em cargos de comissão, firmando a seguinte tese de Repercussão Geral: “É constitucional o ato normativo municipal, editado no exercício de competência legislativa suplementar, que proíba a participação em licitação ou a contratação: (a) de agentes eletivos; (b) de ocupantes de cargo em comissão ou função de confiança; (c) de cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, de qualquer destes; e (d) dos demais servidores públicos municipais”. (RE 423560) Porém, cabe uma observação: a vedação, no que se refere aos parentes, aplica-se somente aos parentes dos agentes citados nas letras “a” e “b”. Se, por outro lado, uma pessoa for parente de um servidor municipal que NÃO exerce cargo em comissão, função de confiança ou mandato eletivo, tal pessoa não estará impedida de ser contratada pelo poder público.\n\nGabarito: alternativa E.",
+              "id": 5
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – DNIT/2024",
+              "question": "A Lei nº 14.133/2021, conhecida como Nova Lei de Licitações e Contratos Administrativos, representa uma significativa atualização no cenário das contratações públicas no Brasil. Com relação à Nova Lei de Licitações e Contratos Administrativo, analise os itens a seguir. I. Esta Lei aplica-se à alienação e concessão de direito real de uso de bens. II. Esta Lei aplica-se à gestão de dívida pública. III. Caberá à autoridade máxima da entidade promover gestão por competências e designar agentes públicos para o desempenho das funções essenciais à execução desta Lei. Está correto o que se afirma em",
+              "options": [
+                "I, II e III.",
+                "I e II, apenas.",
+                "I e III, apenas.",
+                "II e III, apenas.",
+                "III, apenas."
+              ],
+              "answer": 2,
+              "explanation": "Item I: Certo. A Lei de Licitações se aplica aos objetos descritos no art. 2º, o que alcança a “I - alienação e concessão de direito real de uso de bens”. Item II: Errado. Não se subordinam ao regime da L14133 (art. 3º): (i) contratos que tenham por objeto operação de crédito, interno ou externo, e gestão de dívida pública, incluídas as contratações de agente financeiro e a concessão de garantia relacionadas a esses contratos; (ii) contratações sujeitas a normas previstas em legislação própria. Item III: Certo. O art. 7º dispõe que: “Caberá à autoridade máxima do órgão ou da entidade, ou a quem as normas de organização administrativa indicarem, promover gestão por competências e designar agentes públicos para o desempenho das funções essenciais à execução desta Lei [...]”.\n\nGabarito: alternativa C.",
+              "id": 6
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – FHEMIG/2023",
+              "question": "A licitação promovida por qualquer Administração Pública Direta e Indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios deverá obedecer, entre outros, aos princípios da",
+              "options": [
+                "legalidade, da pessoalidade e da moralidade.",
+                "legalidade, da publicidade e da eficiência.",
+                "moralidade, da discrição e da eficiência.",
+                "moralidade, da publicidade e da credibilidade.",
+                "publicidade, da credibilidade e da eficiência."
+              ],
+              "answer": 1,
+              "explanation": "os princípios licitatórios estão previstos no art. 5° da Lei n° 14.133/2021: Art. 5º Na aplicação desta Lei, serão observados os princípios da legalidade, da impessoalidade, da moralidade, da publicidade, da eficiência, do interesse público, da probidade administrativa, da igualdade, do planejamento, da transparência, da eficácia, da segregação de funções, da motivação, da vinculação ao edital, do julgamento objetivo, da segurança jurídica, da razoabilidade, da competitividade, da proporcionalidade, da celeridade, da economicidade e do desenvolvimento nacional sustentável, assim como as disposições do Decreto-Lei nº 4.657, de 4 de setembro de 1942 (Lei de Introdução às Normas do Direito Brasileiro). “Pessoalidade” não é um princípio (o certo é a impessoalidade). E discrição e credibilidade não são princípios da licitação pública. Note ainda que são repetidos os princípios do art. 37 da CF/88, que também poderia ser utilizado para responder à questão (legalidade, impessoalidade, moralidade, publicidade e eficiência). Assim, com base nesses dispositivos, chegamos ao nosso gabarito, letra B.\n\nGabarito: alternativa B.",
+              "id": 7
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – Funsaúde - CE/2021",
+              "question": "A Lei nº 14.133/2021, trata de licitações e contratos administrativos. Essa lei aplica-se aos seguintes casos, à exceção de um. Assinale-o.",
+              "options": [
+                "Concessão e permissão de uso de bens públicos.",
+                "Contratos de operação de crédito, interno ou externo.",
+                "Prestação de serviços, inclusive os técnico-profissionais especializados.",
+                "Obras e serviços de arquitetura e engenharia.",
+                "Contratações de tecnologia da informação e de comunicação."
+              ],
+              "answer": 1,
+              "explanation": "nos termos do art. 2°, a Lei n° 14.133/21 aplica-se a: I – alienação e concessão de direito real de uso de bens; II – compra, inclusive por encomenda; III – locação; IV – concessão e permissão de uso de bens públicos; V – prestação de serviços, inclusive os técnico-profissionais especializados; VI – obras e serviços de arquitetura e engenharia; VII – contratações de tecnologia da informação e de comunicação. Além disso, o art. 3° diz expressamente que não se subordinam ao regime da lei: I – contratos que tenham por objeto operação de crédito, interno ou externo, e gestão de dívida pública, incluídas as contratações de agente financeiro e a concessão de garantia relacionadas a esses contratos; II – contratações sujeitas a normas previstas em legislação própria. Com base nesses dispositivos, podemos concluir que a lei se aplica a todas as alternativas, exceto à alternativa B.\n\nGabarito: alternativa B.",
+              "id": 8
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – PCE RJ/2022",
+              "question": "O procedimento licitatório deve observar os princípios expressos e implícitos da administração pública, assim como aqueles específicos previstos na Lei de Licitações. Nesse contexto, de acordo com a Lei nº 14.133/2021, são exemplos de princípios aplicáveis de forma direta às licitações o:",
+              "options": [
+                "da continuidade e o do julgamento subjetivo;",
+                "da vinculação ao edital e o da concentração de funções;",
+                "do julgamento subjetivo e o da vinculação ao edital;",
+                "da vinculação ao instrumento convocatório e o da ausência de motivação;",
+                "da segregação de funções e o do desenvolvimento nacional sustentável."
+              ],
+              "answer": 4,
+              "explanation": "os princípios expressos da licitação estão previstos no art. 5°, que assim dispõe: Art. 5º Na aplicação desta Lei, serão observados os princípios da legalidade, da impessoalidade, da moralidade, da publicidade, da eficiência, do interesse público, da probidade administrativa, da igualdade, do planejamento, da transparência, da eficácia, da segregação de funções, da motivação, da vinculação ao edital, do julgamento objetivo, da segurança jurídica, da razoabilidade, da competitividade, da proporcionalidade, da celeridade, da economicidade e do desenvolvimento nacional sustentável, assim como as disposições do Decreto-Lei nº 4.657, de 4 de setembro de 1942 (Lei de Introdução às Normas do Direito Brasileiro). Lembre-se do nosso famoso mnemônico: JOVEM, SEMPRE LICITE Com Planejamento Pro PaÍS Desenvolver Sustentavelmente. Assim, dos princípios listados na questão, apenas a alternativa E está de acordo com a previsão legal. E você nem precisava “decorar” os princípios, pois todas as opções incorretas apresentam erros claros. O julgamento deve ser OBJETIVO; as funções devem ser SEGREGADAS; e a MOTIVAÇÃO deve estar presente.\n\nGabarito: alternativa E.",
+              "id": 9
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – Funsaúde - CE/2021",
+              "question": "Assinale a opção que indica o princípio da licitação que visa a assegurar, a qualquer interessado, participar ou fiscalizar um processo licitatório.",
+              "options": [
+                "Princípio da Publicidade.",
+                "Princípio da Impessoalidade.",
+                "Princípio da Legalidade.",
+                "Princípio da Igualdade.",
+                "Princípio da Probidade."
+              ],
+              "answer": 0,
+              "explanation": "a) o princípio da publicidade tem o objetivo de assegurar a transparência na licitação. Nesses termos, a Lei de Licitações dispõe que “os atos praticados no processo licitatório são públicos, ressalvadas as hipóteses de informações cujo sigilo seja imprescindível à segurança da sociedade e do Estado” (art. 13). Há ainda as hipóteses de diferimento (propostas e orçamento). Assim, por meio da transparência, permite-se a qualquer interessado a possibilidade de participação e de fiscalização dos atos da licitação, exatamente como narra o enunciado – CORRETA;\nb) o princípio da impessoalidade representa a ideia de que toda a atuação da administração deverá buscar atender ao interesse público (princípio da finalidade), tratando os licitantes em igualdade de condições, analisando as propostas a partir de critérios objetivos previamente definidos, sem privilegiar alguém por critérios meramente pessoais – ERRADA;\nc) pelo princípio da legalidade, a administração deverá seguir as regras definidas em lei, somente sendo lícito ao agente fazer o que a lei autoriza ou determina – ERRADA;\nd) o princípio da igualdade, que também pode ser chamado de princípio da isonomia, veda o estabelecimento de discriminações, favorecimentos ou exigências indevidas, uma vez que deve permitir que os licitantes concorram em igualdade de condições – ERRADA;\ne) pelo princípio da probidade, que se relaciona com o da moralidade, o comportamento da administração não deve ser apenas lícito, mas também se basear na moral, nos bons costumes, nas regras de boa administração, nos princípios da justiça e de equidade, na ideia comum de honestidade – ERRADA.\n\nGabarito: alternativa A.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u5l5",
+          "title": "Lição 5",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TCE AM/2021",
+              "question": "Os procedimentos licitatórios devem observar os princípios expressos e implícitos da Administração Pública. Além disso, a nova Lei de Licitações (Lei nº 14.133/2021) trouxe princípios que devem ser aplicados de forma direta às licitações públicas, como o princípio:",
+              "options": [
+                "da segregação de funções, com a separação das competências e das atividades de cada servidor ao longo do procedimento licitatório e de suas fases, para evitar equívocos, fraudes e utilização irregular de verba pública;",
+                "da vinculação ao edital, que estabelece normas que obrigam os interessados em participar da licitação, mas não a Administração Pública, que tem discricionariedade para alterar o edital, a qualquer tempo;",
+                "do julgamento objetivo, devendo a Administração contratante julgar e escolher o vencedor de acordo com o critério previsto no edital, que não pode, em qualquer hipótese, indicar modelo ou marca;",
+                "da vedação ao sigilo da proposta, segundo o qual todas as propostas feitas pelos interessados devem ser imediatamente publicadas, sob pena de nulidade do certame e realização de nova licitação;",
+                "do planejamento, que estabelece que os procedimentos licitatórios devem estar compatíveis com o planejamento estratégico do órgão contratante e ser previamente autorizados pelos órgãos de controle interno e externo."
+              ],
+              "answer": 0,
+              "explanation": "a) de fato, a Lei de Licitações dispõe que a autoridade máxima do órgão ou da entidade ou outra com esta função deverá observar o princípio da segregação de funções, que significa que é vedada a designação do mesmo agente público para atuação simultânea em funções mais suscetíveis a riscos, de modo a reduzir a possibilidade de ocultação de erros e de ocorrência de fraudes na respectiva contratação (art. 7°, §1°) – CORRETA;\nb) o edital é a lei interna da licitação, sendo que o processo licitatório deverá ser conduzido conforme as regras previamente definidas no edital da licitação, que devem ser seguidas tanto pela Administração quanto pelos licitantes – ERRADA;\nc) pelo princípio do julgamento objetivo, a administração deverá analisar a proposta de forma objetiva, por meio de critérios de julgamento constantes no edital de licitação, restringindo ou eliminando a subjetividade, afastando preferências ou escolhas meramente pessoais dos responsáveis pelo julgamento das propostas. Excepcionalmente, contudo, no caso de licitação que envolva o fornecimento de bens, a Administração poderá indicar uma ou mais marcas ou modelos. De forma resumida, a L14133 admite a indicação de marca ou modelo por (art. 41, I): (i) necessidade de padronização; (ii) para manter a compatibilidade com plataformas e padrões já adotados; (iii) quando uma marca ou modelo forem os únicos capazes de atender às necessidades do contratante; (iv) para auxiliar na descrição do objeto – ERRADA;\nd) o princípio do sigilo das propostas diz que, no caso do conteúdo das propostas, a publicação somente poderá ser realizada após a abertura das propostas. Nesse caso, a publicidade é diferida, quanto ao conteúdo das propostas, até a sua respectiva abertura, nos termos do art. 13, parágrafo único, I – ERRADA;\ne) as licitações e contratações deverão ser devidamente planejadas, mas não há necessidade de prévia autorização pelos órgãos de controle interno ou externo – ERRADA.\n\nGabarito: alternativa A.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – PCE RJ/2021",
+              "question": "A Secretaria de Polícia Civil do Estado do Rio de Janeiro (Sepol) deseja realizar a contratação de sociedade empresária para a aquisição de computadores para propósitos específicos com sistema de segurança de dados, a fim de serem utilizados em atividades de planejamento e inteligência policial. O objeto contratual envolve inovação tecnológica ou técnica; impossibilidade de a Sepol ter sua necessidade satisfeita sem a adaptação de soluções disponíveis no mercado; e impossibilidade de as especificações técnicas serem definidas com precisão suficiente pela Sepol. Ademais, a Polícia Civil verificou a necessidade de definir e identificar os meios e as alternativas que possam satisfazer suas necessidades, com destaque para a solução técnica mais adequada, os requisitos técnicos aptos a concretizar a solução já definida e a estrutura jurídica ou financeira do contrato. Diante das especificidades narradas, consoante dispõe a Lei nº 14.133/2021, a contratação pretendida ocorrerá mediante:",
+              "options": [
+                "inexigibilidade de licitação, por expressa previsão legal, e o contratado deverá comprovar previamente que os preços estão em conformidade com os praticados em contratações semelhantes de objetos de mesma natureza;",
+                "dispensa de licitação, por expressa previsão legal, e o contratado deverá comprovar previamente que os preços estão em conformidade com os praticados em contratações semelhantes de objetos de mesma natureza;",
+                "prévia licitação, na modalidade diálogo competitivo, com o intuito de desenvolver uma ou mais alternativas capazes de atender às necessidades da Sepol, devendo os licitantes apresentar proposta final após o encerramento dos diálogos;",
+                "prévia licitação, na modalidade pregão, pois o objeto do contrato possui padrões de desempenho e qualidade que podem e devem ser objetivamente definidos pelo edital, por meio de especificações usuais de mercado;",
+                "prévia licitação, na modalidade leilão, que exigirá registro cadastral prévio, não terá fase de habilitação e deverá ser homologada assim que concluída a fase de lances, superada a fase recursal."
+              ],
+              "answer": 2,
+              "explanation": "a) a lei não traz a situação narrada no enunciado como hipótese de inexigibilidade de licitação – ERRADA;\nb) não há expressa previsão legal quanto à dispensa para o caso narrado no enunciado – ERRADA;\nc) o diálogo competitivo é justamente a modalidade de licitação para compras (além de obras ou serviços) em que a administração possui o intuito de desenvolver uma ou mais alternativas capazes de atender às suas necessidades, devendo os licitantes apresentar proposta final após o encerramento dos diálogos (art. 6°, XLII). Além disso, essa modalidade visa a contratar objeto que envolva as seguintes condições: inovação tecnológica ou técnica; impossibilidade de o órgão ou entidade ter sua necessidade satisfeita sem a adaptação de soluções disponíveis no mercado; e impossibilidade de as especificações técnicas serem definidas com precisão suficiente pela administração (art. 32, I). É exatamente o caso do enunciado – CORRETA;\nd) o caso não se encaixa nos requisitos necessários para a realização de um pregão (aquisição de bens e serviços comuns, cujo critério de julgamento poderá ser o de menor preço ou o de maior desconto). Ademais, perceba que a própria questão fala em “impossibilidade de as especificações técnicas serem definidas com precisão suficiente”, logo não se trata de bem ou serviço comum – ERRADA;\ne) o leilão é modalidade para alienação de bens imóveis ou móveis inservíveis, o que não possui nenhuma relação com o enunciado – ERRADA.\n\nGabarito: alternativa C.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TCE AM/2021",
+              "question": "Em relação aos tipos de licitação, que se vinculam aos critérios de julgamento da licitação, a nova Lei de Licitações (Lei Federal nº 14.133/2021) estabelece que o julgamento por:",
+              "options": [
+                "maior desconto terá como referência o preço parcial para cada espécie de bens ou serviços fixada no edital de licitação, e o desconto não será obrigatoriamente estendido aos eventuais termos aditivos, exceto se houver acordo entre as partes contratantes;",
+                "melhor técnica ou conteúdo artístico considerará as propostas técnicas ou produções artísticas disponíveis no mercado, e o edital deverá definir o prêmio ou a remuneração que será atribuída aos vencedores, considerando os princípios da legalidade e da economicidade;",
+                "maior retorno econômico, utilizado exclusivamente para a celebração de contrato de eficiência, considerará a maior economia para a Administração, e a remuneração deverá ser fixada em percentual que incidirá de forma proporcional à economia efetivamente obtida na execução do contrato;",
+                "técnica e preço considerará a maior pontuação obtida a partir da ponderação, segundo fatores objetivos previstos no edital, das notas atribuídas aos aspectos de técnica e de preço da proposta, sendo que o requisito de preço deverá ter valoração de, ao menos, o dobro do de técnica;",
+                "menor preço considerará o menor dispêndio para a Administração, atendidos os parâmetros mínimos de qualidade existentes no mercado, e os custos indiretos, relacionados com as despesas de manutenção e impacto ambiental do objeto licitado, não poderão ser considerados para a definição do menor dispêndio."
+              ],
+              "answer": 2,
+              "explanation": "a) a previsão legal é de que o julgamento por maior desconto terá como referência o preço global fixado no edital de licitação, e o desconto será estendido aos eventuais termos aditivos (art. 34, § 2°) – ERRADA;\nb) o julgamento por melhor técnica ou conteúdo artístico considerará exclusivamente as propostas técnicas ou artísticas apresentadas pelos licitantes (e não produções artísticas do mercado), e o edital deverá definir o prêmio ou a remuneração que será atribuída aos vencedores (art. 35) – ERRADA;\nc) nos termos do art. 39, o julgamento por maior retorno econômico, utilizado exclusivamente para a celebração de contrato de eficiência, considerará a maior economia para a Administração, e a remuneração deverá ser fixada em percentual que incidirá de forma proporcional à economia efetivamente obtida na execução do contrato – CORRETA;\nd) o art. 36 dispõe que o julgamento por técnica e preço considerará a maior pontuação obtida a partir da ponderação, segundo fatores objetivos previstos no edital, das notas atribuídas aos aspectos de técnica e de preço da proposta. Contudo, nos termos do § 2° do mesmo artigo, no julgamento por técnica e preço, deverão ser avaliadas e ponderadas as propostas técnicas e, em seguida, as propostas de preço apresentadas pelos licitantes, na proporção máxima de 70% (setenta por cento) de valoração para a proposta técnica. Não existe, por outro lado, um percentual máximo de ponderação em favor do preço. De qualquer forma, a proporção citada na questão não consta na legislação – ERRADA;\ne) o julgamento por menor preço considerará o menor dispêndio para a Administração, atendidos os parâmetros mínimos de qualidade definidos no edital de licitação. Ao contrário do que diz a assertiva, os custos indiretos poderão ser considerados para a definição do menor dispêndio, sempre que objetivamente mensuráveis, conforme disposto em regulamento (art. 34, §1 °). Por exemplo, na compra de um veículo, a Administração poderá considerar os valores das revisões como custos indiretos do produto – ERRADA.\n\nGabarito: alternativa C.",
+              "id": 3
             }
           ]
         }
