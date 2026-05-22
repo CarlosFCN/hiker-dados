@@ -2,7 +2,7 @@
   "id": "direito_administrativo_mpes",
   "title": "Direito Administrativo MPES",
   "acronym": "DADM",
-  "version": "120520261144",
+  "version": "220520261211",
   "units": [
     {
       "id": "1",
@@ -6013,6 +6013,1181 @@
               "answer": 2,
               "explanation": "a) a previsão legal é de que o julgamento por maior desconto terá como referência o preço global fixado no edital de licitação, e o desconto será estendido aos eventuais termos aditivos (art. 34, § 2°) – ERRADA;\nb) o julgamento por melhor técnica ou conteúdo artístico considerará exclusivamente as propostas técnicas ou artísticas apresentadas pelos licitantes (e não produções artísticas do mercado), e o edital deverá definir o prêmio ou a remuneração que será atribuída aos vencedores (art. 35) – ERRADA;\nc) nos termos do art. 39, o julgamento por maior retorno econômico, utilizado exclusivamente para a celebração de contrato de eficiência, considerará a maior economia para a Administração, e a remuneração deverá ser fixada em percentual que incidirá de forma proporcional à economia efetivamente obtida na execução do contrato – CORRETA;\nd) o art. 36 dispõe que o julgamento por técnica e preço considerará a maior pontuação obtida a partir da ponderação, segundo fatores objetivos previstos no edital, das notas atribuídas aos aspectos de técnica e de preço da proposta. Contudo, nos termos do § 2° do mesmo artigo, no julgamento por técnica e preço, deverão ser avaliadas e ponderadas as propostas técnicas e, em seguida, as propostas de preço apresentadas pelos licitantes, na proporção máxima de 70% (setenta por cento) de valoração para a proposta técnica. Não existe, por outro lado, um percentual máximo de ponderação em favor do preço. De qualquer forma, a proporção citada na questão não consta na legislação – ERRADA;\ne) o julgamento por menor preço considerará o menor dispêndio para a Administração, atendidos os parâmetros mínimos de qualidade definidos no edital de licitação. Ao contrário do que diz a assertiva, os custos indiretos poderão ser considerados para a definição do menor dispêndio, sempre que objetivamente mensuráveis, conforme disposto em regulamento (art. 34, §1 °). Por exemplo, na compra de um veículo, a Administração poderá considerar os valores das revisões como custos indiretos do produto – ERRADA.\n\nGabarito: alternativa C.",
               "id": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "LEI 14.133/2021 PARTE 2",
+      "color": "bg-slate-500",
+      "lessons": [
+        {
+          "id": "u6l1",
+          "title": "Lição 1",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "FGV/CNU/Bloco Temático 5: Administração/2025",
+              "question": "Em razão da forte seca que atinge estados do nordeste do Brasil, a administração pública federal anteviu a necessidade de proceder à contratação de entidades privadas sem fins lucrativos para a implementação de cisternas, garantindo o acesso à água para consumo humano e produção de alimentos, a fim de beneficiar as famílias rurais de baixa renda atingidas pelo evento natural. Nesse cenário, considerando as disposições da Lei nº 14.133/2021, é correto afirmar que:",
+              "options": [
+                "a contratação exige a observância ao processo licitatório, salvo se restar demonstrado, de forma objetiva, que o tempo de duração da licitação poderá acarretar, em razão da seca, riscos irreparáveis para a saúde e para a alimentação das famílias rurais de baixa renda;",
+                "a licitação, em razão da seca, é inexigível, sendo certo que o extrato decorrente do contrato deverá ser divulgado e mantido à disposição do público em sítio eletrônico oficial;",
+                "a hipótese de licitação, nesse caso, é inexigível, motivo pelo qual a Administração Pública federal poderá proceder à contratação direta, sem prévia licitação;",
+                "a contratação direta é admissível, sem prévio processo licitatório, por estar configurada a hipótese de licitação dispensável;",
+                "a Administração Pública federal deverá realizar o processo licitatório, não sendo hipótese de licitação dispensável ou inexigível."
+              ],
+              "answer": 3,
+              "explanation": "De acordo com a Lei 14.133/2021: Art. 75. É dispensável a licitação: [...] XVII - para contratação de entidades privadas sem fins lucrativos para a implementação de cisternas ou outras tecnologias sociais de acesso à água para consumo humano e produção de alimentos, a fim de beneficiar as famílias rurais de baixa renda atingidas pela seca ou pela falta regular de água; e Assim, trata-se de contratação direta, por meio de licitação dispensável, que permite a não realização do processo licitatório. Sendo assim, o gabarito é a letra D. Por esse mesmo fundamento, a letra E está errada. A opção A está errada, já que a licitação não é obrigatória no caso enunciado (pois é caso de licitação dispensável). Ademais, os requisitos citados na alternativa não constam na legislação. As letras B e C estão incorretas, já que não é caso de licitação inexigível. Esta ocorre quando houver inviabilidade de competição.\n\nGabarito: alternativa D.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV - MPU / 2025",
+              "question": "O Ministério Público da União deseja contratar profissionais para compor a comissão de avaliação de critérios de técnica, mas, no caso em tela, não se trata de profissionais técnicos de notória especialização. Nos termos da Lei nº 14.133/2021, a mencionada contratação deve ocorrer mediante:",
+              "options": [
+                "inexigibilidade de licitação, diante da natureza do serviço a ser prestado;",
+                "inexigibilidade de licitação, diante de expressa previsão legal;",
+                "dispensa de licitação, diante da natureza do serviço a ser prestado;",
+                "dispensa de licitação, diante de expressa previsão legal;",
+                "licitação, na modalidade legalmente compatível."
+              ],
+              "answer": 4,
+              "explanation": "s: Segundo a Lei 14.133/2021, a licitação é dispensável \"para contratação de profissionais para compor a comissão de avaliação de critérios de técnica, quando se tratar de profissional técnico de notória especialização\" (art. 75, XIII). Como não se trata de profissional de notória especialização, não caberia o enquadramento nesse caso de dispensa. Assim, as letras C e D estão incorretas. O art. 74, por sua vez, prevê a inexigibilidade para contratação de serviços técnicos especializados de natureza predominantemente intelectual com profissionais ou empresas de notória especialização, vedada a inexigibilidade para serviços de publicidade e divulgação (art. 74, III). A situação também não se adequa ao caso, diante da falta da notória especialização. Logo, as letras A e B estão erradas. Dessa forma, como não é caso de contratação direta (dispensa ou inexigibilidade), a situação exigirá licitação, aplicando-se a modalidade legalmente compatível. A Lei não fixa a modalidade expressamente, pois precisaríamos de outras informações. De qualquer forma, a letra E é o gabarito!\n\nGabarito: E.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – MPU / 2025",
+              "question": "Determinado órgão da Administração Pública promoveu licitação para a contratação de serviços de engenharia, com vistas à reforma de sua sede. Na etapa de julgamento, duas propostas foram idênticas conforme os critérios previstos em edital. Dentre os critérios de desempate entre duas ou mais propostas adotados peta Lei Federal no 14.133/2021, é correto apontar.",
+              "options": [
+                "o desenvolvimento pelo licitante de programa de integridade, conforme orientações dos órgãos de controle;",
+                "a contratação, pelo licitante, de mulheres vítimas de violência doméstica;",
+                "a utilização, pelo licitante, de bens reciclados, recicláveis ou biodegradáveis;",
+                "a contratação, pelo licitante, de oriundos ou egressos do sistema prisional;",
+                "a utilização, pelo licitante, de bens manufaturados e serviços originários de Estados Partes do Mercado Comum do Sul (Mercosul)."
+              ],
+              "answer": 0,
+              "explanation": "s: Em caso de empate entre duas ou mais propostas, serão utilizados os seguintes critérios de desempate, nesta ordem (art. 60): I - disputa final, hipótese em que os licitantes empatados poderão apresentar nova proposta em ato contínuo à classificação; II - avaliação do desempenho contratual prévio dos licitantes, para a qual deverão preferencialmente ser utilizados registros cadastrais para efeito de atesto de cumprimento de obrigações previstos nesta Lei; III - desenvolvimento pelo licitante de ações de equidade entre homens e mulheres no ambiente de trabalho, conforme regulamento; IV - desenvolvimento pelo licitante de programa de integridade, conforme orientações dos órgãos de controle. Assim, somente a letra A prevê um critério de desempate previsto na Lei de Licitações. As letras B e D abordam situações em que o edital poderá prever a utilização mínima de mão de obra que seja constituída por determinadas situações: Art. 25 [...] § 9º O edital poderá, na forma disposta em regulamento, exigir que percentual mínimo da mão de obra responsável pela execução do objeto da contratação seja constituído por: I - mulheres vítimas de violência doméstica; II - oriundos ou egressos do sistema prisional. Logo, ainda que as hipóteses constem na Lei de Licitações, não abordam caso de desempate. Já as letras C e E disciplinam situações de aplicação da margem de preferência: Art. 26. No processo de licitação, poderá ser estabelecida margem de preferência para: I - bens manufaturados e serviços nacionais que atendam a normas técnicas brasileiras; II - bens reciclados, recicláveis ou biodegradáveis, conforme regulamento.\n\nGabarito: A.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – CGM Cuiabá MT/2025",
+              "question": "As situações a seguir elencadas, em relação às quais existem diversos fornecedores e viabilidade de competição, foram submetidas à apreciação para fins de aferir a possibilidade de realização de uma contratação direta: I. Contratação que mantenha todas as condições definidas em edital de licitação realizada há menos de 1 (um) ano, considerando que naquela licitação não foram apresentadas propostas válidas. II. Contratação que tenha por objeto aquisição de medicamentos destinados exclusivamente ao tratamento de doenças raras definidas pelo Ministério da Saúde. III. Contratação que tenha por objeto bens ou serviços produzidos ou prestados no País que envolvam, cumulativamente, alta complexidade tecnológica e defesa nacional. Nesse cenário, assinale a alternativa que indica corretamente as situações que são consideradas de inexigibilidade de licitação nos termos da Lei nº 14.133/2021.",
+              "options": [
+                "Todas as situações descritas.",
+                "Apena a situação descrita em I.",
+                "Apenas a situação descrita em III.",
+                "Apenas nas situações descritas em II e III.",
+                "Nenhuma das situações descritas."
+              ],
+              "answer": 4,
+              "explanation": "a licitação é inexigível quando for inviável a competição (art. 74, caput, da NLLC). Por sua vez, a licitação dispensável acontece quando, apesar de ser possível haver competição, a lei permite à Administração Pública decidir se promoverá, ou não, a competição, devendo ser respeitados os dispositivos legalmente aplicáveis. Observe que o enunciado expressamente informou que a competição era viável. Portanto, sem ler os itens você já sabe que nenhum deles corresponde à inexigibilidade de licitação (letra\nE). Dito isso, todos os itens a seguir abordam hipóteses de dispensa de licitação: I – Errada: Inexigibilidade de licitação está prevista para casos em que não há viabilidade de competição. Isso ocorre, principalmente, nas hipóteses elencadas no art. 74, caput, que incluem situações de exclusividade, notória especialização, singularidade de objeto e outras. O caso que estamos analisando trata-se, na verdade, de situação em que a licitação é dispensável (art. 75, III, “a”). II – Errada. A questão apresenta uma das hipóteses de dispensa de licitação, conforma o art. 75, inciso IV, alínea \"f\", da NLLC. III – Errada. A contratação de bens ou serviços produzidos ou prestados no País que envolvam alta complexidade tecnológica e defesa nacional é uma hipótese de dispensa de licitação, conforme o art. 75, inciso IV, alínea \"f\" da NLLC.\n\nGabarito: alternativa E.",
+              "id": 4
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TCE PI/2025",
+              "question": "O Governo do Estado do Piauí pretende realizar, no exercício financeiro de 2025, tratativas para adquirir, entre outros, os bens e serviços listados a seguir. I. Aquisição de software inovador de inteligência artificial com funcionalidades adaptadas, específica e individualmente, para cada tipo de trabalho executado por suas Secretarias de Estado, a serem definidas e identificados durante o processo licitatório. II. Registro formal de preços de notebooks de última geração a serem licitados quando da implementação do software de inteligência artificial. III. Chamamento público de profissionais interessados na prestação de serviço de TI e manutenção de equipamentos informáticos, em regime de contratação simultânea e padronizada. No que tange à Lei de Licitações (Lei nº 14.133/2021), os instrumentos jurídicos a serem adotados pela administração do Estado do Piauí para a aquisição dos bens e serviços supramencionados (segundo a ordem apresentada) são, respectivamente,",
+              "options": [
+                "concurso, pregão e diálogo competitivo.",
+                "pré-qualificação, credenciamento e diálogo competitivo.",
+                "diálogo competitivo, sistema de registro de preços e pregão.",
+                "credenciamento, diálogo competitivo e sistema de registro de preços.",
+                "diálogo competitivo, sistema de registro de preços e credenciamento."
+              ],
+              "answer": 4,
+              "explanation": "vamos abordar cada um dos bens ou serviços listados. I) O diálogo competitivo é uma modalidade de licitação excepcional destinada a contratações em que a administração pública precisa resolver problemas complexos ou desenvolver soluções inovadoras. Ele é aplicável quando: (i) o objeto da licitação envolve inovação tecnológica ou técnica; (ii) não há soluções prontas no mercado que satisfaçam as necessidades da administração; (iii) não é possível definir especificações técnicas com precisão suficiente no edital. No caso, o enunciado prevê a contratação de objeto inovador, com funcionalidades adaptadas e que serão definidas e identificadas durante o processo licitatório. Essas são características do diálogo competitivo. II) O sistema de registro de preços (SRP) é um procedimento para realizar o registro formal de preços relativos à prestação de serviços, obras, e aquisição e locação de bens para contratações futuras. Seu objetivo é permitir que a administração pública realize uma única licitação, com contratações fracionadas conforme a necessidade, sem a obrigatoriedade de firmar contratos de imediato. A própria questão afirma que será realizado o “registro formal de preços”. III) O credenciamento é um processo administrativo não competitivo no qual a administração pública realiza um chamamento público para convocar interessados que atendam aos requisitos previamente estabelecidos. Ele pode ser realizado nas hipóteses em que a contratação: (a) for paralela e não excludente, sendo viável e vantajosa para a administração a realização de contratações simultâneas em condições padronizadas; (b) for realizada com a seleção a critério de terceiros, situação em que a seleção do contratado credenciado está a cargo do beneficiário direto da prestação; ou (c) for realizada em mercados fluidos, situação em que a flutuação constante do valor da prestação e das condições de contratação inviabiliza a seleção de agentes por meio de processo de licitação costumeiro. Nesse sentido, verificamos que a contratação de profissionais de TI e manutenção de equipamentos informáticos atende à possibilidade de contratar múltiplos interessados simultaneamente, desde que preencham os requisitos estabelecidos no edital de chamamento. Todos os credenciados poderão prestar os serviços de forma paralela, sem exclusão mútua.\n\nGabarito: alternativa E. ==4baedc==",
+              "id": 5
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Niterói - RJ / 2024",
+              "question": "A autarquia municipal Alfa, após os devidos estudos que indicaram a existência de interesse público devidamente justificado e a necessária avaliação, decidiu alienar determinado bem imóvel que não mais é utilizado pela entidade. Sobre o caso em tela, de acordo com a Lei nº 14.133/2021, assinale a afirmativa correta.",
+              "options": [
+                "A autorização legislativa é necessária e a licitação, na modalidade leilão, para alienação do bem.",
+                "A autorização legislativa é necessária e a licitação, na modalidade concorrência, para alienação do bem.",
+                "A autorização legislativa não é necessária e dependerá de licitação para alienação do bem, haja vista que tais exigências se aplicam apenas à Administração Direta.",
+                "A licitação, por se tratar de entidade da Administração Indireta, não é necessária, mas depende de autorização legislativa, na modalidade compatível com a natureza do negócio jurídico.",
+                "A autorização legislativa para alienação do bem não é necessária, por se tratar de entidade da Administração Indireta, mas depende de licitação, na modalidade compatível com o valor do imóvel."
+              ],
+              "answer": 0,
+              "explanation": "A alienação de bens imóveis da Administração Pública, inclusive os de autarquias e fundações públicas, dependerá de (Lei de Licitações, art. 76, caput e inciso I): (i) existência de interesse público devidamente justificado, (ii) avaliação do bem, (iii) em regra, autorização legislativa e (iv) licitação na modalidade leilão, salvo os casos de licitação dispensada . Logo, a resposta está na opção A. A letra B está errada, pois não cabe a concorrência. A letra C está errada, pois a exigência também alcança as autarquias e fundações públicas. O erro na letra D é que também se exige licitação, exceto nos casos de licitação dispensada. Por fim, a letra E tem dois erros: a necessidade de autorização legislativa e a modalidade de licitação, que é o leilão, independentemente do valor.\n\nGabarito: A.",
+              "id": 6
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Niterói - RJ / 2024",
+              "question": "O Município de Niterói pretende realizar contratação que tem por objeto a aquisição de medicamentos destinados exclusivamente ao tratamento de doenças raras definidas pelo Ministério da Saúde. Nos termos da Lei nº 14.133/2021, o Município",
+              "options": [
+                "poderá promover a contratação, mediante dispensa de licitação.",
+                "poderá promover a contratação, mediante inexigibilidade de licitação.",
+                "deverá necessariamente promover licitação compatível com a natureza da contratação.",
+                "não poderá realizar a compra, diante de expressa vedação legal, por se tratar de tratamento a doenças raras.",
+                "deverá necessariamente promover licitação, a ser definida em razão do valor estimado da contratação."
+              ],
+              "answer": 0,
+              "explanation": "A aquisição de medicamentos destinados exclusivamente ao tratamento de doenças raras definidas pelo Ministério da Saúde é um dos objetos passíveis de licitação dispensável, por força do art. 75, IV, “m” da Lei de Licitações. Logo, o Município de Niterói poderá promover a contratação mediante dispensa de licitação, como vemos na opção A. A letra B está errada, pois não é caso de inexigibilidade (a competição é viável). As letras C e E estão erradas, pois a licitação não é obrigatória nesse caso e nenhuma modalidade é definida pelo valor estimado do contrato. Por fim, a letra D é errada, pois não há vedação legal para esse tipo de contratação.\n\nGabarito: A.",
+              "id": 7
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / TJ-RR / 2024",
+              "question": "O Art. 37, XXI, da CRFB/88 estabelece que, ressalvadas as hipóteses previstas em lei, as contratações públicas serão precedidas de procedimento licitatório. Considerando as disposições acerca da mencionada ressalva, que dá ensejo à chamada contratação direta, à luz do disposto na Lei nº 14.133/2021, é correto afirmar que",
+              "options": [
+                "apenas pode ser admitida a contratação direta nas hipóteses em que haja a inviabilidade de competição, ou seja, quando a licitação for dispensável, cujo rol previsto na norma em comento é taxativo.",
+                "nos casos em que há viabilidade de competição, que ensejam a designada inexigibilidade de licitação, o rol previsto na norma em comento é meramente exemplificativo.",
+                "envolvendo ou não a viabilidade de competição, é taxativo o rol atinente às situações que envolvem a contratação direta, ensejando, respectivamente, a licitação inexigível e a dispensável.",
+                "não se pode considerar taxativo o rol que envolve as situações de inviabilidade de competição, considerando que outras situações podem envolver tal pressuposto lógico, para fins de se admitir a contratação direta por inexigibilidade.",
+                "tendo em vista que lei prevê a contratação direta nas hipóteses em que a licitação é dispensável ou inexigível, independentemente a viabilidade ou não de competição, o rol das situações elencadas não pode ser considerado taxativo em nenhuma das duas hipóteses."
+              ],
+              "answer": 3,
+              "explanation": "Em que pese a contratação precedida por licitação ser a regra, em certas exceções a contratação ocorre de forma direta, ou seja, sem licitação. Nesse sentido, a contratação direta é um gênero, do qual são espécies a inexigibilidade e a dispensa de licitação, de acordo com o art. 72, caput da Lei de Licitações. Por sua vez, a dispensa de licitação divide-se nas espécies licitação dispensável e licitação dispensada. A inexigibilidade corresponde a situações em que a realização de um processo competitivo é inviável. A Lei 14.133/2021, em seu art. 74, traz alguns exemplos de inviabilidade de competição, como quando só existe um fornecedor para determinado produto. Na licitação dispensável (art. 75), há uma autorização do legislador para que a Administração faça a dispensa. Assim, a decisão da autoridade é discricionária, escolhendo entre licitar ou não licitar. Trata-se de casos variados, que envolvem desde as pessoas que prestarão o objeto até o valor da licitação. Diferentemente, na licitação dispensada (art. 76, I) a Administração não pode licitar. O rol de hipóteses legais é taxativo para ambas as espécies de dispensa de licitação. Vamos às assertivas:\na) Errada: as hipóteses de licitação dispensável não correspondem à inviabilidade de competição, mas sim a casos em que ou há discricionariedade entre licitar ou não licitar (licitação dispensável), ou há decisão vinculada em não licitar (licitação dispensada). Nesses casos, o rol previsto na Lei de Licitações é taxativo. Ademais, a inviabilidade de competição corresponde à inexigibilidade de licitação, que tem rol legal exemplificativo.\nb) Errada: a inexigibilidade corresponde à inviabilidade de competição.\nc) Errada: a palavra “respectivamente” liga a licitação inexigível à viabilidade de competição e liga a licitação dispensável à não viabilidade. Como vimos, o verdadeiro é o contrário disso. Ademais, não é taxativo todo o rol de hipóteses da contratação direta, pois as hipóteses de inexigibilidade são exemplificativas.\nd) Certa: de fato, pode haver situações não previstas pela lei em que ocorra a inviabilidade de competição, pressuposto da inexigibilidade. Portanto, o rol de inexigibilidade é exemplificativo.\ne) Errada: o rol de hipóteses da licitação dispensável é taxativo, enquanto o rol da inexigibilidade é exemplificativo. Logo, o rol de uma das situações elencadas é taxativo.\nGabarito: D.",
+              "id": 8
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / TJ-RR / 2024",
+              "question": "Após explicar a distinção entre as modalidades de contratação direta, na forma da Lei nº 14.133/2021, delimitando as particularidades de (I) licitação inexigível e de (II) licitação dispensável, Brenda foi instada a exemplificar cada uma das mencionadas situações. Nesse cenário, Brenda, apontou corretamente como exemplos, respectivamente,",
+              "options": [
+                "(I) contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública; (II) a aquisição ou locação de imóvel cujas características de instalações e de localização tornem necessária sua escolha.",
+                "(I) contratação que tenha por objeto a aquisição de medicamentos destinados exclusivamente ao tratamento de doenças raras definidas pelo Ministério da Saúde; (II) contratação nos casos de guerra, estado de defesa, estado de sítio, intervenção federal ou de grave perturbação da ordem.",
+                "(I) contratação que mantenha todas as condições definidas em edital de licitação realizada há menos de 1 (um) ano, quando a licitação for deserta ou fracassada; (II) contratação de serviços técnicos especializados de natureza predominantemente intelectual com profissionais ou empresas de notória especialização, incluindo os serviços de publicidade e divulgação.",
+                "(I) contratação de objetos que devam ou possam ser contratados por meio de credenciamento; (II) contratação de associação de pessoas com deficiência, sem fins lucrativos e de comprovada idoneidade, por órgão ou entidade da Administração Pública, para a prestação de serviços, desde que o preço contratado seja compatível com o praticado no mercado e os serviços contratados sejam prestados exclusivamente por pessoas com deficiência.",
+                "(I) contratação para a aquisição, por pessoa jurídica de direito público interno, de bens produzidos ou serviços prestados por órgão ou entidade que integrem a Administração Pública e que tenham sido criados para esse fim específico, desde que o preço contratado seja compatível com o praticado no mercado; (II) contratação de profissionais para compor a comissão de avaliação de critérios de técnica, quando se tratar de profissional técnico de notória especialização."
+              ],
+              "answer": 3,
+              "explanation": "A licitação dispensável e a inexigível são espécies de contratação direta, que é uma exceção à regra de licitar. A inexigibilidade de licitação corresponde a situações em que não há viabilidade de competição. Nesse sentido, o rol de hipóteses da Lei de Licitações (art. 74) é exemplificativo. Por outro lado, a licitação dispensável é uma faculdade concedida pelo legislador para que a Administração opte por licitar ou não licitar. Logo, suas hipóteses (art. 75) são taxativas. Vamos às assertivas, em busca daquela que traga respectivamente uma hipótese de licitação inexigível e de licitação dispensável:\na) Errada: (I) licitação inexigível – art. 74, II e (II) licitação inexigível – art. 74, V.\nb) Errada: (I) licitação dispensável – art. 75, IV, “m” e (II) licitação dispensável – art. 75, VII.\nc) Errada: (I) licitação dispensável – art. 75, III, “a” e “b”. O caso (II) não é de inexigibilidade, pois inclui serviços de publicidade e licitação, os quais não podem ser contratados pela inexigibilidade do art. 74, III.\nd) Certa: (I) licitação inexigível – art. 74, IV e (I) licitação dispensável – art. 75, XIV.\ne) Errada: (I) licitação dispensável – art. 75, XVI e (II) licitação dispensável – art. 75, XIII. Gabarito: D.",
+              "id": 9
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Caraguatatuba - SP / 2024",
+              "question": "De acordo com a Lei nº 14.133/2021, a licitação é dispensável para contratação que mantenha todas as condições definidas em edital de licitação realizada há menos de um ano, quando se verificar que naquela licitação",
+              "options": [
+                "não surgiram licitantes interessados ou não foram apresentadas propostas válidas.",
+                "não houve necessidade de a União intervir no domínio econômico para regular preços.",
+                "as propostas apresentadas consignaram preços substancialmente inferiores aos praticados no mercado.",
+                "o objeto da contratação era a aquisição de medicamentos de uso regular destinados ao tratamento de doenças populares.",
+                "o objeto da contratação era o abastecimento ou suprimento de efetivos militares em estada constante e de longa duração em portos ou aeroportos."
+              ],
+              "answer": 0,
+              "explanation": "a) Certa: trata-se da hipótese para licitação dispensável prevista pela Lei de Licitações em seu art. 75, III, “a”. São os casos de licitação deserta (sem interessados) e fracassada (sem propostas válidas).\nb) Errada: é hipótese de licitação dispensável quando há necessidade de intervenção no domínio econômico para regular preços (art. 75, X). Ademais, além desse erro, a licitação dispensável correspondente ao referido inciso não envolve um lapso temporal a partir de licitação anterior, conforme mencionado no enunciado.\nc) Errada: quando uma licitação foi realizada há menos de um ano e as propostas apresentadas consignaram preços manifestamente superiores aos praticados no mercado, a licitação é dispensável (art. 75, III, “b”).\nd) Errada: a aquisição de medicamentos de uso regular destinados ao tratamento de doenças raras é objeto de licitação dispensável (art. 75, IV, “m”).\ne) Errada: de acordo com o art. 75, IV, “i”, cabe a licitação dispensável para contratação que tenha por objeto o abastecimento ou suprimento de efetivos militares em estada eventual e de curta duração em portos ou aeroportos. Gabarito: A.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u6l2",
+          "title": "Lição 2",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Caraguatatuba - SP / 2024",
+              "question": "Em relação aos procedimentos auxiliares das licitações e das contratações, a Administração poderá solicitar à iniciativa privada, mediante procedimento aberto de manifestação de interesse a ser iniciado com a publicação de edital de chamamento público, a propositura e a realização de estudos, investigações, levantamentos e projetos de soluções inovadoras que contribuam com questões de relevância pública, na forma de regulamento. A realização, pela iniciativa privada, de estudos, investigações, levantamentos e projetos em decorrência do procedimento de manifestação de interesse, de acordo com a Lei nº 14.133/2021,",
+              "options": [
+                "obrigará o poder público a realizar licitação.",
+                "agilizará o prazo para a realização da licitação.",
+                "atribuirá ao realizador direito de preferência no processo licitatório.",
+                "implicará, por si só, direito a ressarcimento de valores envolvidos em sua elaboração.",
+                "será remunerada somente pelo vencedor da licitação, vedada, em qualquer hipótese, a cobrança de valores do poder público."
+              ],
+              "answer": 4,
+              "explanation": "A Lei de Licitações, em seu art. 81, § 2º, prevê algumas vedações que cercam o procedimento de manifestação de interesse. Três assertivas desta questão violam essas vedações:\na) Errada: a realização, pela iniciativa privada, de estudos, investigações, levantamentos e projetos em decorrência do procedimento de manifestação de interesse não obrigará o poder público a realizar licitação (§2º, II).\nb) Errada: como vimos, o procedimento de manifestação de interesse sequer vincula a realização de um procedimento licitatório.\nc) Errada: não será atribuído direito de preferência ao realizador dos estudos, investigações, levantamentos e projetos (§2º, I).\nd) Errada: a realização dos estudos, investigações, levantamentos e projetos não implicará, por si só, direito a ressarcimento de valores envolvidos em sua elaboração (§2º, III).\ne) Certa: de fato, no âmbito do procedimento de manifestação de interesse, a realização de estudos, investigações, levantamentos e projetos é remunerada somente pelo vencedor da licitação, vedada, em qualquer hipótese, a cobrança de valores do poder público (§2º, IV). Gabarito: E.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Caraguatatuba - SP / 2024",
+              "question": "Segundo a Lei 14.133/2021, após a apresentação das propostas e lances, as fases seguintes de um processo de licitação são, nesta ordem:",
+              "options": [
+                "julgamento, habilitação, recursos e homologação",
+                "julgamento, recursos, habilitação e homologação",
+                "habilitação, julgamento, recursos e homologação",
+                "habilitação, recursos, homologação e julgamento",
+                "Habilitação, julgamento, homologação e recursos"
+              ],
+              "answer": 0,
+              "explanation": "O processo de licitação observará as seguintes fases, em sequência (art. 17):\na) preparatória;\nb) de divulgação do edital de licitação;\nc) de apresentação de propostas e lances, quando for o caso;\nd) de julgamento;\ne) de habilitação; f) recursal; g) de homologação. Assim, em regra, após o julgamento das propostas e lances, há a fase de habilitação, sucedida pela fase de recursos. Por fim, ocorre a homologação do processo licitatório. Assim, a resposta correta está na opção A. Contudo, pode a fase de habilitação preceder a fase de julgamento, mediante ato motivado decidindo por essa inversão. No entanto, a questão não entrou em detalhes. Logo, foi cobrada a sequência usual das fases do processo licitatório. Gabarito: A.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Macaé - RJ / 2024",
+              "question": "A Prefeitura de Macaé pretende celebrar contrato administrativo para a prestação de serviços de manutenção de veículos automotores, ao custo de R$140.000,00 (cento e quarenta mil reais). Sobre essa licitação, considerando as disposições da Lei nº 14.133/2021, assinale a afirmativa correta.",
+              "options": [
+                "É dispensável, por se tratar de contratação que tem por objeto a prestação de serviços de manutenção de veículos automotores, em valor inferior a R$150.000,00 (cento e cinquenta mil reais).",
+                "É inexigível, por se tratar de contratação que tem por objeto a prestação de serviços de manutenção de veículos automotores, em valor inferior a R$150.000,00 (cento e cinquenta mil reais).",
+                "É dispensada, por se tratar de contratação que tem por objeto a prestação de serviços de manutenção de veículos automotores, em valor inferior a R$150.000,00 (cento e cinquenta mil reais).",
+                "Deverá ser realizada, pois o valor da contratação supera o limite, previsto na legislação, que autoriza o afastamento do processo licitatório.",
+                "Deverá ser realizada, pois não há previsão legal expressa de afastamento do processo licitatório com base no valor da contratação."
+              ],
+              "answer": 3,
+              "explanation": "Por força da Lei de Licitações, art. 75, I, a contratação de manutenção de veículos automotores que envolva valores inferiores a R$ 100.000,00 é objeto de licitação dispensável. O referido valor já foi atualizado, por meio de sucessivos decretos (vide tabela na abertura desta aula). De qualquer forma, a referência, no enunciado, é superior a esse limite. Logo, a licitação deverá ser realizada, conforme nos diz a opção D. Repare que mesmo sem lembrar do valor mencionado, a contratação de manutenção de veículos automotores, se licitada, corresponderia a um processo licitatório passível de competição e sem relação a imóveis. Nesse sentido, não há que se falar em inexigibilidade nem em licitação dispensada, o que permitiria eliminar as opções B e C. Gabarito: D.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Macaé - RJ / 2024",
+              "question": "Atenção: Para a resolução da próxima questão, considere: • IIA – The Institute of Internal Auditors (Instituto dos Auditores Internos) • EFS -Entidade de Fiscalização Superior Assinale a opção que indica a denominação do procedimento técnico-administrativo usado para selecionar previamente licitantes que reúnam condições de habilitação para participar de futura licitação ou de licitação vinculada a programas de obras ou de serviços objetivamente definidos.",
+              "options": [
+                "Registro de Preços.",
+                "Pré-qualificação.",
+                "Credenciamento.",
+                "Registro Cadastral.",
+                "Procedimento de Manifestação de Interesse."
+              ],
+              "answer": 1,
+              "explanation": "a) Errada: o registro de preços é o “conjunto de procedimentos para realização, mediante contratação direta ou licitação nas modalidades pregão ou concorrência, de registro formal de preços relativos a prestação de serviços, a obras e a aquisição e locação de bens para contratações futuras” (Lei de Licitações, art. 6º, XLV). Trata-se de procedimento auxiliar que visa a registrar preços e respectivos fornecedores, possibilitando contratações fracionadas, conforme a necessidade da Administração. Logo, no registro de preços o foco não está simplesmente nas condições de habilitação, mas sim nos preços.\nb) Certa: o conceito do enunciado corresponde à pré-qualificação. Assim, esse procedimento auxiliar é “prévio à licitação, convocado por meio de edital, destinado à análise das condições de habilitação, total ou parcial, dos interessados ou do objeto” (art. 6º, XLIV). A pré-qualificação não se confunde com a fase de habilitação em uma licitação, porque a primeira fica permanentemente aberta para a inscrição de um número indeterminado de interessados, enquanto a segunda ocorre em um momento específico, dentro do procedimento licitatório, destinando-se apenas aos respectivos licitantes.\nc) Errada: o credenciamento é um procedimento auxiliar por meio do qual o interessado que atenda a requisitos necessários é credenciado a prestar um determinado serviço, o qual ocorre sem competição entre os envolvidos. Nesse sentido, o credenciamento é uma das hipóteses de inexigibilidade de licitação. Logo, não se confunde com o conceito do enunciado, que é voltado à habilitação para licitações.\nd) Errada: o registro cadastral é um sistema unificado disponível no Portal Nacional de Contratações Públicas (PNCP). Trata-se de procedimento auxiliar que tem como vantagem o registro das informações dos fornecedores, possibilitando inclusive a realização de licitação restrita a cadastrados. Perceba que o intuito do registro cadastral é reunir informações, diferentemente da pré-qualificação, que se volta às condições de habilitação.\ne) Errada: o procedimento de manifestação de interesse tem o objetivo de solicitar à iniciativa privada “a propositura e a realização de estudos, investigações, levantamentos e projetos de soluções inovadoras que contribuam com questões de relevância pública, na forma de regulamento” (art. 81, caput). A grande vantagem desse procedimento auxiliar é que não é a Administração quem paga pelo material produzido, mas sim o vencedor de eventual licitação embasada naquele trabalho técnico. Logo, não se confunde o procedimento de manifestação de interesse com a seleção de licitantes mencionada no enunciado. Gabarito: B.",
+              "id": 4
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – CGM Cuiabá MT/2025",
+              "question": "Ao analisar as disposições da Lei nº 14.133/2021 que versam sobre as cláusulas que devem constar do edital de licitação para registro de preços, Rosalina verificou corretamente que tal instrumento convocatório deverá dispor sobre",
+              "options": [
+                "as especificações da licitação, sendo vedado indicar a quantidade máxima de cada item que poderá adquirida;",
+                "as hipóteses de cancelamento da ata de registro de preços e suas consequências;",
+                "o critério de julgamento da licitação que será de melhor técnica ou conteúdo artístico ou de menor preço;",
+                "a impossibilidade de prever preços diferentes quando o objeto for realizado ou entregue em locais diferentes;",
+                "a possibilidade de participação do órgão ou entidade em várias atas de registro de preços com o mesmo objeto no prazo de validade daquela de que já tiver participado."
+              ],
+              "answer": 1,
+              "explanation": "conforme o inciso XLV do art. 6º, o sistema de registro de preços envolve “um conjunto de procedimentos para realização, mediante contratação direta ou licitação nas modalidades pregão ou concorrência, de registro formal de preços relativos a (i) prestação de serviços, a (ii) obras e a (iii) aquisição e locação de bens para contratações futuras”. Com isso em mente, vamos à análise de cada um dos itens.\na) Errado. De acordo com o art. 82, inciso I, da Lei nº 14.133/2021, o edital de licitação para registro de preços deve dispor sobre as especificidades da licitação e de seu objeto, inclusive a quantidade máxima de cada item que poderá ser adquirida.\nb) Correto. De acordo com o art. 82, inciso IX, da Lei nº 14.133/2021, o edital de licitação para registro de preços deve dispor sobre as hipóteses de cancelamento da ata de registro de preços e suas consequências.\nc) Errado. Conforme o art. 82, inciso V, da Lei nº 14.133/2021, o critério de julgamento para o registro de preços será o de (i) menor preço ou (ii) maior desconto sobre tabela de preços praticada no mercado. O critério de melhor técnica ou conteúdo artístico não se aplica ao sistema de registro de preços.\nd) Errado. Segundo o art. 82, inciso III, alínea \"a\", é permitida a previsão de preços diferentes no edital quando o objeto for realizado ou entregue em locais distintos. Assim, é possível de prever preços diferentes, desde que isso esteja devidamente justificado no processo.\ne) Errado. O art. 82, inciso VIII, veda a participação de um órgão ou entidade em mais de uma ata de registro de preços com o mesmo objeto no prazo de validade da ata já existente, salvo em casos excepcionais, como quando a ata tiver registrado quantitativo inferior ao máximo previsto no edital.\n\nGabarito: alternativa B.",
+              "id": 5
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – CAGE RS/2025",
+              "question": "O Estado do Rio Grande do Sul, em observância às formalidades legais, publicou edital de licitação, visando à celebração de determinado contrato administrativo. Registre-se que o edital prevê que, no momento de apresentação das propostas, haja a comprovação do recolhimento de quantia a título de garantia de proposta, como requisito de pré-habilitação. De acordo com a narrativa e considerando as disposições da Lei nº 14.133/2021, avalie as afirmativas a seguir. I. A garantia de proposta será devolvida aos licitantes no prazo de cinco dias úteis, contado da assinatura do contrato ou da data em que for declarada fracassada a licitação. II. Implicará execução do valor integral da garantia de proposta a recusa em assinar o contrato ou a não apresentação dos documentos para a contratação. III. A garantia de proposta não poderá ser superior a 5% do valor estimado para a contratação. Nesse cenário, está correto o que se afirma em",
+              "options": [
+                "I, apenas.",
+                "II, apenas.",
+                "III, apenas.",
+                "II e III, apenas.",
+                "I, II e III."
+              ],
+              "answer": 1,
+              "explanation": "vejamos cada uma das afirmações. I - Errada. A garantia de proposta é uma exigência legal prevista para assegurar a seriedade do licitante e evitar descumprimento das obrigações relacionadas à celebração do contrato. Pensando nisso, a NLLC, no art. 58, § 2º, dispõe que a garantia de proposta será devolvida aos licitantes no prazo de 10 (dez) dias úteis, contado da assinatura do contrato ou da data em que for declarada fracassada a licitação. Logo, não são cinco dias úteis, conforme afirmado. II - Correta. A execução da garantia ocorre como “penalidade” ao licitante que descumpre suas responsabilidades, especialmente após ser declarado vencedor do certame. É nesse sentido que, nos termos do art. 58, § 3º da Lei nº 14.133/2021, a recusa em assinar o contrato ou a não apresentação dos documentos para a contratação implicará a execução do valor integral da garantia de proposta. III - Errada. Nos termos do art. 58, §1º, da NLLC, a garantia de proposta não poderá ser superior a um por cento do valor estimado para a contratação, de modo a evitar excessos que possam restringir a competitividade. Não confunda com a garantia contratual ou de execução, pois esta sim tem o limite de até 5%, podendo ser ainda maior em situações específicas (art. 98).\n\nGabarito: alternativa B.",
+              "id": 6
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – CGM Cuiabá MT/2025",
+              "question": "Em decorrência de uma situação fática em que foi necessário explicar as fases do procedimento licitatório, à luz do disposto na Lei nº 14.133/2021, especificamente em relação à fase de habilitação, Yanna asseverou corretamente que",
+              "options": [
+                "a fase de habilitação será necessariamente posterior à fase de julgamento, de modo que, em qualquer caso, será exigida apenas a apresentação dos documentos de habilitação jurídica e técnica apenas do licitante vencedor.",
+                "na análise dos documentos de habilitação, a comissão de licitação não poderá sanar eventuais erros ou falhas, mesmo que não alterem a substância e validade jurídica dos documentos, devendo necessariamente inabilitar o licitante.",
+                "a habilitação fiscal, social e trabalhista visa a demonstrar a capacidade de o licitante exercer direitos e assumir obrigações, sendo certo que a documentação a ser apresentada por ele limita-se à comprovação de existência jurídica da pessoa e, quando cabível, de autorização para o exercício da atividade a ser contratada.",
+                "após a entrega dos documentos para habilitação, não será permitida a substituição ou a apresentação de novos documentos, salvo em situações excepcionais, em sede de diligência, tais como para atualização de documentos cuja validade tenha expirado após a data de recebimento das propostas.",
+                "a habilitação econômico-financeira deve ser comprovada de forma objetiva, por coeficientes e índices econômicos previstos no edital, que poderá criar índices e valores para a avaliação de situação econômicofinanceira suficiente para o cumprimento das obrigações decorrentes da licitação, ainda que não sejam usualmente adotados."
+              ],
+              "answer": 3,
+              "explanation": "de acordo com o art. 64 da Lei nº 14.133/2021, após a entrega dos documentos para habilitação, não é permitida a substituição ou apresentação de novos documentos, salvo em situações excepcionais previstas na lei. Essas exceções ocorrem exclusivamente em sede de diligência, para: (i) complementação de informações sobre documentos já apresentados, quando necessário para apurar fatos existentes à época da abertura do certame; ou (ii) atualização de documentos cuja validade tenha expirado após a data de recebimento das propostas. Sendo assim, percebemos que a afirmação de Yanna está correta, pois contempla o disposto na legislação. Logo, o gabarito é a letra D. Vamos responder os demais itens.\na) Errado. Conforme o art. 63, II, da Lei nº 14.133/2021, a fase de habilitação não é necessariamente posterior à fase de julgamento. A lei prevê dois modelos possíveis para a licitação: (i) habilitação posterior ao julgamento (regra), em que os documentos de habilitação são exigidos apenas do licitante vencedor; ou (ii) habilitação anterior ao julgamento (exceção), em que todos os licitantes apresentam os documentos de habilitação antes da análise das propostas. Esta segunda opção depende de justificativa e constará no edital de licitação. Portanto, não é correto afirmar que a habilitação será sempre posterior ao julgamento.\nb) Errado. Nos termos do art. 64, §1º, da Lei nº 14.133/2021, a comissão de licitação pode sanar erros ou falhas nos documentos de habilitação, desde que essas atitudes: (i) não alterem a substância dos documentos apresentados; (ii) não comprometam a validade jurídica dos documentos; e (iii) sejam fundamentadas em despacho registrado e acessível a todos os interessados.\nc) Errado. A habilitação fiscal, social e trabalhista tem como finalidade verificar a regularidade do licitante por meio dos seguintes requisitos (art. 68): (i) inscrição no CPF ou CNPJ; (ii) regularidade com as fazendas públicas (federal, estadual e/ou municipal); (iii) regularidade relativa à Seguridade Social, FGTS e Justiça do Trabalho; e (iv) regularidade no que tange ao trabalho de menores de 18 anos. Por outro lado, é a habilitação jurídica que tem o objetivo principal demonstrar a capacidade jurídica do licitante para exercer direitos e assumir obrigações (art. 66).\ne) Errado. A habilitação econômico-financeira, conforme o art. 69 da Lei nº 14.133/2021, deve ser comprovada de forma objetiva, utilizando coeficientes e índices econômicos previamente estabelecidos no edital. Contudo, a lei veda expressamente a criação de índices e valores que não sejam usualmente adotados (art. 69, § 5º).\n\nGabarito: alternativa D.",
+              "id": 7
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Niterói - RJ / 2024",
+              "question": "Em tema de licitações, de acordo com a Lei nº 14.133/2021, o planejamento de compras deverá considerar a expectativa de consumo anual e, entre outros, deverá observar",
+              "options": [
+                "o processamento por meio de sistema de registro de preços, quando pertinente.",
+                "as condições de aquisição e pagamento que não sejam semelhantes às do setor privado.",
+                "as condições de guarda e armazenamento mais econômicas, ainda que permitam a deterioração do material.",
+                "o atendimento ao princípio da vedação ao parcelamento, ainda que seja tecnicamente viável e economicamente vantajoso.",
+                "a determinação de unidades e quantidades a serem adquiridas em função de consumo e utilização prováveis, cuja estimativa será obtida, sempre que possível, mediante adequadas técnicas quantitativas, vedado o fornecimento contínuo."
+              ],
+              "answer": 0,
+              "explanation": "O art. 40 da Lei de Licitações dispõe sobre o planejamento de compras: Art. 40. O planejamento de compras deverá considerar a expectativa de consumo anual e observar o seguinte: I - condições de aquisição e pagamento semelhantes às do setor privado (erro da letra\nB); II - processamento por meio de sistema de registro de preços, quando pertinente (acerto da letra\nA); III - determinação de unidades e quantidades a serem adquiridas em função de consumo e utilização prováveis, cuja estimativa será obtida, sempre que possível, mediante adequadas técnicas quantitativas, admitido o fornecimento contínuo (erro da letra\nE); IV - condições de guarda e armazenamento que não permitam a deterioração do material (erro da letra\nC); V - atendimento aos princípios:\na) da padronização, considerada a compatibilidade de especificações estéticas, técnicas ou de desempenho;\nb) do parcelamento, quando for tecnicamente viável e economicamente vantajoso (erro da letra\nD);\nc) da responsabilidade fiscal, mediante a comparação da despesa estimada com a prevista no orçamento. Logo, a opção A é a única que vai ao encontro do art. 40. Gabarito: A.",
+              "id": 8
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Caraguatatuba - SP / 2024",
+              "question": "Segundo a Lei nº 14.133/2021, a forma de contratação da execução da obra ou do serviço por um preço certo e total é denominada formalmente de",
+              "options": [
+                "contratação por concorrência.",
+                "contratação por convite.",
+                "empreitada por tarefa.",
+                "empreitada por preço global.",
+                "empreitada por preço unitário."
+              ],
+              "answer": 3,
+              "explanation": "A modalidade da licitação é um conceito diferente dos regimes de execução. Aquela corresponde à definição do procedimento da licitação, enquanto este corresponde às formas pelas quais a Administração pode contratar a execução indireta de obras e serviços de engenharia. Dito isso, vamos às assertivas:\na) Errada: a concorrência é uma modalidade de licitação. No entanto, o enunciado requer uma “forma de contratação da execução de uma obra ou serviço”. Logo, estamos procurando por um regime de execução.\nb) Errada: o convite era uma modalidade que existia na Lei 8.666/1993 e não permaneceu na Lei 14.133/2021.\nc) Errada: a empreitada por tarefa é um dos regimes de execução. Contudo, a contratação por tarefa é destinada a “pequenos trabalhos por preço certo, com ou sem fornecimento de materiais” (Lei 14.133/2021, art. 6º, XXXI).\nd) Certa: isso mesmo, a empreitada por preço global é o regime em que a contratação da execução da obra ou do serviço ocorre por preço certo e total (art. 6º, XXIX).\ne) Errada: de acordo com o art. 6º, XXVIII, a empreitada por preço unitário é a “contratação da execução da obra ou do serviço por preço certo de unidades determinadas”. Logo, é um regime que não corresponde a uma contratação por um preço certo e total. Gabarito: D.",
+              "id": 9
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Caraguatatuba - SP / 2024",
+              "question": "De acordo com a Lei nº 14.133/21, um contrato para a realização de uma obra cujo objetivo é proporcionar economia ao contratante, remunerando o contratado com base em um percentual da economia gerada, é denominado contrato de",
+              "options": [
+                "preço unitário.",
+                "preço global.",
+                "eficiência.",
+                "empreitada.",
+                "tarefa."
+              ],
+              "answer": 2,
+              "explanation": "O contrato de eficiência é aquele “cujo objeto é a prestação de serviços, que pode incluir a realização de obras e o fornecimento de bens, com o objetivo de proporcionar economia ao contratante, na forma de redução de despesas correntes, remunerado o contratado com base em percentual da economia gerada” (Lei de Licitações, art. 6º, LIII). Logo, a resposta certa é a opção C. As demais alternativas trazem regimes de execução indireta de obras. Gabarito: C.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u6l3",
+          "title": "Lição 3",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Caraguatatuba - SP / 2024",
+              "question": "Lucíola é servidora pública estável ocupante de cargo efetivo de advogada em órgão do Município Alfa, que exerce atribuição de assessoramento jurídico no âmbito das licitações e contratações realizadas pela edilidade. À luz do disposto na Lei nº 14.133/2021, no exercício da mencionada atribuição é correto afirmar que Lucíola",
+              "options": [
+                "deve redigir parecer, após a publicação do edital, em linguagem clara e objetiva, considerando, apenas, os pressupostos de direito necessários para a análise jurídica.",
+                "integra a primeira linha de defesa, no âmbito das práticas contínuas e permanentes de gestão de riscos e de controle preventivo das contratações públicas.",
+                "não pode auxiliar os órgãos competentes na instituição de modelos de minutas de editais e de contratos padronizados, que são vedados pela norma em questão.",
+                "deve apreciar o processo licitatório conforme critérios objetivos prévios de atribuição de prioridade, ao elaborar o parecer jurídico, ao final da fase preparatória.",
+                "deve realizar o controle prévio nas licitações e contratações diretas a serem efetuadas pela Administração Municipal, não sendo exigível tal atuação em relação à adesão a atas de registro de preços."
+              ],
+              "answer": 3,
+              "explanation": "a) Errada: o parecer deve considerar na análise jurídica não apenas os pressupostos de direito, mas também os pressupostos de fato (Lei de Licitações, art. 53, §1º, II). Os pressupostos de direito dizem respeito ao que consta na legislação, enquanto os pressupostos de fato tratam das circunstâncias do caso concreto (o que aconteceu). Ademais, o parecer é redigido ao final da fase preparatória (art. 53, caput), ou seja, antes da publicação do edital.\nb) Errada: as unidades de assessoramento jurídico e de controle interno, tal como aquela de Lucíola, compõem a segunda linha de defesa (art. 169, II). Indo além: a primeira linha de defesa é integrada por servidores e empregados públicos, agentes de licitação e autoridades que atuam na estrutura de governança do órgão ou entidade (art. 169, I). A terceira linha de defesa é integrada pelo órgão central de controle interno da Administração e pelo tribunal de contas (art. 169, III).\nc) Errada: os órgãos (ou unidades) de assessoramento jurídico auxiliarão órgãos com competências regulamentares relativas às atividades de administração de materiais, de obras e serviços e de licitações e contratos a instituir modelos de minutas de editais e de contratos padronizados (art. 19, III).\nd) Certa: isso mesmo. De acordo com o art. 53, § 1º, I, na elaboração do parecer jurídico, o órgão de assessoramento deverá apreciar o processo licitatório conforme critérios objetivos prévios de atribuição de prioridade. Ademais, como vimos, a redação do parecer acontece ao final da fase preparatória.\ne) Errada: tanto nas contratações diretas quanto nas adesões a atas de registro de preços deve o órgão de assessoramento realizar o controle prévio (art. 53, § 4º). Gabarito: D.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Macaé - RJ / 2024",
+              "question": "Atenção: Para a resolução da próxima questão, considere: • IIA – The Institute of Internal Auditors (Instituto dos Auditores Internos) • EFS -Entidade de Fiscalização Superior O Município Alfa realizou licitação para efetuar o registro de preços em objeto para o qual o referido ente não tinha registro de demandas anteriores. Por ser a primeira licitação para o referido objeto, o edital e licitação não indicou o volume total a ser adquirido. Nessa situação, a referida contratação",
+              "options": [
+                "é ilegal, pois não se admite o registro de preços sem indicação do volume total a ser adquirido.",
+                "admite a participação de outro órgão ou entidade na ata.",
+                "admite a contratação com indicação limitada a unidade de contratação somente no caso de aquisição de gêneros alimentícios perecíveis.",
+                "é considerada erro grosseiro, podendo resultar na responsabilização pessoal do agente público responsável.",
+                "é admitida nessa situação, desde que indicado o valor máximo da despesa a ser realizada."
+              ],
+              "answer": 4,
+              "explanation": "a) Errada: a contratação mencionada no enunciado não é ilegal, mas sim legal. Nesse sentido, em algumas situações é permitido o registro de preços com indicação limitada a unidades de contratação, sem indicação do volume total a ser adquirido. Nesse sentido, estabelece a Lei de Licitações que: § 3º É permitido registro de preços com indicação limitada a unidades de contratação, sem indicação do total a ser adquirido, apenas nas seguintes situações: I - quando for a primeira licitação para o objeto e o órgão ou entidade não tiver registro de demandas anteriores; II - no caso de alimento perecível; III - no caso em que o serviço estiver integrado ao fornecimento de bens. Assim, a hipótese do enunciado é contemplada na Lei de Licitações.\nb) Errada: por força do art. 82, §4º, é vedada a participação de outro órgão ou entidade na ata do registro de preços em que não foi indicado o volume total a ser adquirido.\nc) Errada: o caso de gêneros alimentícios perecíveis é um dos que admite a contratação com indicação limitada a unidades de contratação (ou seja, sem o volume total a ser adquirido), conforme prevê o art. 82, §3º, II. Contudo, há também outras situações, como quando o serviço estiver integrado ao fornecimento de bens (art. 82, §3º, III), bem como quando ocorrer a situação mencionada no enunciado.\nd) Errada: a referida contratação é legal. Logo, não se trata de erro grosseiro.\ne) Certa: de fato, a contratação referida no enunciado, sem indicação do volume total, é admitida, como vimos. No entanto, nesse caso existe a obrigação de indicar o valor máximo da despesa (art. 82, §4º). Gabarito: E.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Macaé - RJ / 2024",
+              "question": "O Município de Macaé publicou edital de licitação, com o objetivo de celebrar contrato administrativo para a prestação de serviços de engenharia. Desta forma, integrantes da sociedade empresária XYZ, interessados em participar do referido processo licitatório, passaram a analisar, nas nuances, o edital. Constatou-se que serão objeto de desclassificação, no julgamento, as propostas que: i) contiverem vícios insanáveis; ii) não obedecerem às especificações técnicas pormenorizadas no edital; iii) apresentarem preços inexequíveis ou permanecerem acima do orçamento estimado para a contratação; iv) não tiverem sua exequibilidade demonstrada, quando exigido pela Administração; v) apresentarem desconformidade com quaisquer outras exigências do edital, desde que insanável. Nesse cenário, considerando as disposições da Lei no 14.133/2021, assinale a afirmativa incorreta.",
+              "options": [
+                "No caso de obras e serviços de engenharia, para efeito de avaliação da exequibilidade e de sobrepreço, serão considerados o preço global, os quantitativos e os preços unitários tidos como relevantes, observado o critério de aceitabilidade de preços a ser fixado no edital.",
+                "Nas contratações de obras e serviços de engenharia, será exigida garantia adicional do licitante vencedor cuja proposta for inferior a oitenta e cinco por cento do valor orçado pela Administração, equivalente à diferença entre este último e o valor da proposta, sem prejuízo das demais garantias exigíveis.",
+                "No caso de obras e serviços de engenharia, serão consideradas inexequíveis as propostas cujos valores forem inferiores a setenta e cinco por cento do valor orçado pela Administração.",
+                "A Administração poderá realizar diligências para aferir a exequibilidade das propostas ou exigir dos licitantes que ela seja demonstrada.",
+                "A verificação da conformidade das propostas deverá abranger, ao menos, as três propostas mais bem classificadas."
+              ],
+              "answer": 4,
+              "explanation": "De acordo com a Lei de Licitações, art. 59, §1º, a verificação da conformidade das propostas poderá ser feita exclusivamente em relação à proposta mais bem classificada. Logo, não é necessário abranger as três mais bem classificadas, como informa a opção E, que está incorreta. As demais assertivas estão em conformidade com a Lei de Licitações: § 2º A Administração poderá realizar diligências para aferir a exequibilidade das propostas ou exigir dos licitantes que ela seja demonstrada, conforme disposto no inciso IV do caput deste artigo. § 3º No caso de obras e serviços de engenharia e arquitetura, para efeito de avaliação da exequibilidade e de sobrepreço, serão considerados o preço global, os quantitativos e os preços unitários tidos como relevantes, observado o critério de aceitabilidade de preços unitário e global a ser fixado no edital, conforme as especificidades do mercado correspondente. § 4º No caso de obras e serviços de engenharia, serão consideradas inexequíveis as propostas cujos valores forem inferiores a 75% (setenta e cinco por cento) do valor orçado pela Administração. § 5º Nas contratações de obras e serviços de engenharia, será exigida garantia adicional do licitante vencedor cuja proposta for inferior a 85% (oitenta e cinco por cento) do valor orçado pela Administração, equivalente à diferença entre este último e o valor da proposta, sem prejuízo das demais garantias exigíveis de acordo com esta Lei.\na) Certa: art. 59, §3º.\nb) Certa: art. 59, §5º\nc) Certa: art. 59, §4º.\nd) Certa: art. 59, §2º.\n\nGabarito: E.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Niterói - RJ / 2024",
+              "question": "Ana Cláudia, auditora de controle externo do Tribunal de Contas do Estado (TCE), foi designada para fiscalizar um contrato celebrado entre a Secretaria Estadual de Saúde e uma empresa privada de fornecimento de insumos médicos, no valor de R$ 10 milhões, incluindo a avaliação da conformidade do procedimento licitatório (mesmo sendo emergencial), a legalidade dos valores praticados (com foco no sobrepreço), e a execução contratual. A auditoria foi motivada por denúncias de sobrepreço e possíveis irregularidades no processo licitatório. O contrato foi firmado em caráter emergencial, dispensando licitação regular, com base na Lei nº 14.133/2021 e em normas estaduais emergenciais devido à pandemia de Covid-19. Sobre as medidas que a auditora Ana Cláudia deve tomar, analise as afirmativas a seguir. I. Deve verificar se a dispensa de licitação seguiu os requisitos legais previstos na Lei nº 14.133/2021 e as normas estaduais de emergência. II. Deve comparar os preços praticados no contrato com o preço das últimas contratações realizadas pela Secretaria Estadual de Saúde, usando cotações atualizadas de insumos médicos similares. III. Deve examinar se os insumos médicos foram entregues conforme especificado no contrato, analisando notas fiscais, comprovantes de entrega e relatórios de recebimento da Secretaria de Saúde. Está correto o que se afirma em",
+              "options": [
+                "II, apenas.",
+                "I e II, apenas.",
+                "I e III, apenas.",
+                "II e III, apenas.",
+                "I, II e III."
+              ],
+              "answer": 2,
+              "explanation": "Verdadeiro: I. Deve verificar se a dispensa de licitação seguiu os requisitos legais previstos na Lei nº 14.133/2021 e as normas estaduais de emergência. A dispensa de licitação tem requisitos previstos na Lei 14.133/2021, art. 72, os quais devem ser observados mesmo em contratação emergencial. Na situação hipotética desta questão, ainda havia as normas estaduais de emergência. Nesse caso, como a L14133 trata de normas gerais, seria possível aos estados e municípios complementarem a legislação federal. Falso: II. Deve comparar os preços praticados no contrato com o preço das últimas contratações realizadas pela Secretaria Estadual de Saúde, usando cotações atualizadas de insumos médicos similares. Não há na Lei 14.133/2021 previsão de comparação entre preços praticados no contrato direto e preços de contratações anteriores da Administração. Afinal, os preços praticados em uma contratação direta são estimados na forma do art. 23, que dispõe que: Art. 23. O valor previamente estimado da contratação deverá ser compatível com os valores praticados pelo mercado, considerados os preços constantes de bancos de dados públicos e as quantidades a serem contratadas, observadas a potencial economia de escala e as peculiaridades do local de execução do objeto. Ademais, em emergências, os preços costumam ser diferentes dos preços das contratações regulares. Portanto, não faz sentido a comparação citada na questão. Verdadeiro: III. Deve examinar se os insumos médicos foram entregues conforme especificado no contrato, analisando notas fiscais, comprovantes de entrega e relatórios de recebimento da Secretaria de Saúde. A assertiva menciona documentos que são objeto da fiscalização do contrato, os quais embasam também o controle pelos órgãos responsáveis. Logo, estão corretas as assertivas I e III. Gabarito: C.",
+              "id": 4
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / TJ-RR / 2024",
+              "question": "Considerando conceitos básicos de contratações de TI, analise as afirmativas. I. Em sequência, segundo a Lei nº 14.133/2021, o processo licitatório deverá seguir as seguintes fases: preparatória; de divulgação do edital de licitação; de cadastramento; de apresentação de propostas e lances, quando for o caso; de julgamento; recursal; de habilitação; e de homologação. II. Segundo a IN 67/2021 da SEGES/ME, no caso de procedimento de contratação restar fracassado, o órgão poderá, dentre outras ações, valer-se, para a contratação, de proposta obtida na pesquisa de preços que serviu de base ao procedimento, se houver, privilegiando-se os menores preços, sempre que possível, e desde que atendidas às condições de habilitação exigidas. III. Segundo a Lei nº 14.133/2021, o processo de padronização deverá conter: parecer técnico sobre o produto, considerados especificações técnicas e estéticas, desempenho, análise de contratações anteriores, custo e condições de manutenção e garantia; despacho motivado do responsável técnico pela contratação, com a adoção do padrão; e síntese da justificativa e descrição sucinta do padrão definido, divulgadas em sítio eletrônico oficial. Está correto o que se afirma em",
+              "options": [
+                "I, apenas.",
+                "II, apenas.",
+                "III, apenas.",
+                "I e II, apenas.",
+                "I e III, apenas."
+              ],
+              "answer": 1,
+              "explanation": "Falso: I. Em sequência, segundo a Lei nº 14.133/2021, o processo licitatório deverá seguir as seguintes fases: preparatória; de divulgação do edital de licitação; de cadastramento; de apresentação de propostas e lances, quando for o caso; de julgamento; recursal; de habilitação; e de homologação. De acordo com a Lei de Licitações, art. 17, a sequência de fases é: (i) preparatória; (ii) de divulgação do edital de licitação; (iii) de apresentação de propostas e lances, quando for o caso; (iv) de julgamento; (v) de habilitação; (vi) recursal; (vii) de homologação. Logo, não há uma fase de cadastramento. A afirmativa erra ainda ao inverter as fases recursal e de habilitação. Mediante ato motivado, a fase de habilitação poderia preceder à de apresentação de propostas e lances (§1º), mas isso não muda o erro da afirmativa I. Verdadeiro: II. Segundo a IN 67/2021 da SEGES/ME, no caso de procedimento de contratação restar fracassado, o órgão poderá, dentre outras ações, valer-se, para a contratação, de proposta obtida na pesquisa de preços que serviu de base ao procedimento, se houver, privilegiando-se os menores preços, sempre que possível, e desde que atendidas às condições de habilitação exigidas. A assertiva reproduz corretamente o art. 22, III da referida instrução normativa. Não é um tema desta aula, mas mantivemos a questão para aproveitar as outras afirmativas. Lembrando que licitação fracassada ocorre quando não houve proposta válida ou quando os preços praticados forem manifestamente superiores aos de mercado. Nesse caso, a contratação poderá ocorrer por dispensa de licitação, no prazo de até um ano após a licitação fracassada, desde que mantidas as condições originais. Falso: III. Segundo a Lei nº 14.133/2021, o processo de padronização deverá conter: parecer técnico sobre o produto, considerados especificações técnicas e estéticas, desempenho, análise de contratações anteriores, custo e condições de manutenção e garantia; despacho motivado do responsável técnico pela contratação, com a adoção do padrão; e síntese da justificativa e descrição sucinta do padrão definido, divulgadas em sítio eletrônico oficial. Esta assertiva sorrateiramente substituiu o despacho motivado da autoridade superior, previsto na Lei de Licitações, art. 43, II, por um inexistente despacho motivado do responsável técnico pela contratação. Dito isso, apenas a assertiva II está correta. Gabarito: B.",
+              "id": 5
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Caraguatatuba - SP / 2024",
+              "question": "Em um contrato administrativo para execução de uma obra pública, há diferentes regimes de contratação de terceiros para executar o objeto. O regime de contratação em que o contratado é responsável por elaborar e desenvolver os projetos básico e executivo, executar obras e serviços de engenharia, fornecer bens ou prestar serviços especiais e realizar montagem, teste, pré-operação e as demais operações necessárias e suficientes para a entrega final do objeto é conhecido como regime de contratação",
+              "options": [
+                "integrada.",
+                "semi-integrada.",
+                "por preço global.",
+                "por preço unitário.",
+                "por tarefa."
+              ],
+              "answer": 0,
+              "explanation": "Entre os regimes de execução indireta, a característica principal do regime de contratação integrada é a elaboração e desenvolvimento, pelo contratado, tanto do projeto básico quanto do projeto executivo da obra ou do serviço. Logo, a resposta certa é a opção A. Vejamos os demais conceitos: XXXIII – contratação semi-integrada: regime de contratação de obras e serviços de engenharia em que o contratado é responsável por elaborar e desenvolver o projeto executivo, executar obras e serviços de engenharia, fornecer bens ou prestar serviços especiais e realizar montagem, teste, pré-operação e as demais operações necessárias e suficientes para a entrega final do objeto; XXIX – empreitada por preço global: contratação da execução da obra ou do serviço por preço certo e total; XXVIII – empreitada por preço unitário: contratação da execução da obra ou do serviço por preço certo de unidades determinadas; XXXI – contratação por tarefa: regime de contratação de mão de obra para pequenos trabalhos por preço certo, com ou sem fornecimento de materiais; Gabarito: A.",
+              "id": 6
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Caraguatatuba - SP / 2024",
+              "question": "O regime de contratação de obras e serviços de engenharia em que o contratado é responsável por elaborar e desenvolver o projeto executivo, executar obras e serviços de engenharia, fornecer bens ou prestar serviços especiais e realizar montagem, teste, pré-operação e as demais operações necessárias e suficientes para a entrega final do objeto é denominada contratação",
+              "options": [
+                "integrada.",
+                "semi-integrada.",
+                "por tarefa.",
+                "por preço unitário.",
+                "por preço global."
+              ],
+              "answer": 1,
+              "explanation": "No regime de contratação integrada, o contratado desenvolve tanto o projeto básico quanto o projeto executivo da obra ou do serviço. Por outro lado, no regime de contratação semi-integrada, o contratado se encarrega do desenvolvimento do projeto executivo, mas não do projeto básico. Assim, a resposta é a opção B. Nesse caso, o projeto básico será pré-existente em relação à contratação. Ele pode ter sido desenvolvido, por exemplo, por meios próprios da Administração, ou ter sido objeto de uma contratação anterior. Gabarito: B.",
+              "id": 7
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Macaé - RJ / 2024",
+              "question": "A fundação estatal de direito público XYZ, qualificada, em observância às formalidades legais, como agência executiva, pretende celebrar contrato administrativo, avaliado em R$ 150.000,00 (cento e cinquenta mil reais) para a realização de obras e serviços de engenharia em sua sede, localizada no Município de Macaé. De acordo com a narrativa e considerando as disposições da Lei nº 14.133/2021, analise as afirmativas a seguir. I. Caso seja constatada fraude em eventual contratação direta firmada pela fundação estatal de direito público XYZ, o contratado e o agente público responsável responderão subsidiariamente pelo dano causado ao erário, sem prejuízo de outras sanções legais cabíveis. II. Celebrada a contratação direta, esta será preferencialmente paga por meio de cartão de pagamento, cujo extrato deverá ser divulgado e mantido à disposição do público no Portal Nacional de Contratações Públicas (PNCP). III. A licitação, no caso apresentado, é dispensável, autorizando-se a contratação direta por parte da fundação estatal de direito público XYZ. Está correto o que se afirma em",
+              "options": [
+                "I, apenas.",
+                "I e II, apenas.",
+                "I e III, apenas.",
+                "II e III, apenas.",
+                "I, II e III."
+              ],
+              "answer": 3,
+              "explanation": "Falso: I. Caso seja constatada fraude em eventual contratação direta firmada pela fundação estatal de direito público XYZ, o contratado e o agente público responsável responderão subsidiariamente pelo dano causado ao erário, sem prejuízo de outras sanções legais cabíveis. Em caso de fraude (bem como de dolo ou erro grosseiro) em contratação direta, respondem solidariamente o agente público e o contratado (Lei de Licitações, art. 73). Verdadeiro: II. Celebrada a contratação direta, esta será preferencialmente paga por meio de cartão de pagamento, cujo extrato deverá ser divulgado e mantido à disposição do público no Portal Nacional de Contratações Públicas (PNCP). As contratações diretas decorrentes de licitação dispensável por motivo de valor (hipóteses dos incisos I e II do art. 75) devem ser preferencialmente pagas por meio de cartão de pagamento (§ 4º do mesmo artigo). Com efeito, o contrato está dentro do limite da dispensa em razão do valor, conforme vamos explicar adiante. Assim, presumindo que houve a contratação por dispensa, o pagamento será realizado preferencialmente por cartão de pagamento. Verdadeiro: III. A licitação, no caso apresentado, é dispensável, autorizando-se a contratação direta por parte da fundação estatal de direito público XYZ. Quando se trata de uma fundação ou autarquia qualificada como agência executiva, os valores para a licitação dispensável por motivo de valor para compras, obras e serviços são dobrados em relação àqueles dos incisos I e II do art. 75, por força do §2º do mesmo artigo. Mesmo considerando apenas os valores originais da Lei 14.133/2021 (os quais desde então foram sucessivamente atualizados), para a agência executiva seria possível uma licitação dispensável de obras e serviços de engenharia de até R$ 200.000,00. Logo, a obra do enunciado, de R$ 150.000,00, é mesmo objeto de licitação dispensável. Dito isso, estão corretas as afirmativas II e III. Gabarito: D.",
+              "id": 8
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Macaé - RJ / 2024",
+              "question": "O município X contratou a sociedade empresária Q. Lote Ltda, por dispensa de licitação, para prestação de serviços de manutenção de veículos automotores de propriedade do município. As contratações foram realizadas com fundamento no disposto no Art. 75, inciso I, da Nova Lei de Licitações e Contratações. Foram firmados, ao longo do exercício de 2024, doze contratos com aquela finalidade tendo por objeto a prestação dos serviços respectivos a diferentes Unidades Gestoras integrantes da Administração Direta Municipal. Cada contrato foi firmado com o valor aproximado de R$11.000 (onze mil reais). Na situação hipotética, os fatos narrados",
+              "options": [
+                "configuram fracionamento ilegal da despesa e podem resultar em responsabilização dos agentes públicos a quem a lei atribuir a responsabilidade pela prática daqueles atos.",
+                "configuram parcelamento ilegal da despesa e podem resultar em responsabilização do agente público competente.",
+                "configuram improbidade administrativa, tendo em vista que o dolo do agente público na prática dos atos ilegítimos é tácito.",
+                "configuram medida dolosa e erro grosseiro do administrador público que, nos termos da LINDB, deverá responder pessoalmente por eventuais danos gerados ao erário.",
+                "demonstram a regularidade da conduta do agente público, tendo em vista que o somatório das despesas realizadas não ultrapassa o limite estabelecido para contratação direta."
+              ],
+              "answer": 0,
+              "explanation": "Vamos comentar a questão, mas no final deixaremos uma ressalva! No caso de manutenção de veículos automotores, pode ser objeto de dispensa de licitação a contratação de até R$ 100 mil (art. 75, I) (valores originais). Nesse caso, a aferição do valor observa, por força dos incisos do art. 75, §1º, o somatório do que for dispendido: (i) no exercício financeiro; (ii) pela respectiva unidade gestora; (iii) considerando objetos de mesma natureza. Temos objetos de mesma natureza, mas o enunciado explicitamente informa que as unidades gestoras são diferentes. Neste primeiro momento, vamos desconsiderar isso. Somando os valores, vamos chegar a 11k x 12 = R$ 132.000,00. Portanto, o valor total extrapolou o limite legal de R$ 100 mil. Essa medida é denominada fracionamento ilegal da despesa, que ocorre quando uma mesma despesa é dividida em unidades menores, para artificialmente ser enquadrada em dispensa de licitação. Cabe observar que, somente no caso de serviços de manutenção de veículos automotores de propriedade do órgão ou entidade contratante, não haverá o “somatório” dos valores, quando a despesa for de até R$ 8.000,00 (art. 75, § 7º). Em outras palavras, se cada despesa fosse de até R$ 8 mil, o órgão poderia efetuar sucessivas contratações, sem que isso implicasse em fracionamento ilegal da despesa. Em resumo, nos termos da letra A, a contratação configurou fracionamento ilegal da despesa, podendo resultar em responsabilização dos agentes públicos envolvidos. Porém, nem tudo são flores, rs! O enunciado cometeu um pequeno erro. Como os serviços foram prestados a “diferentes Unidades Gestoras”, em tese, não haveria o somatório entre elas. Assim, cada unidade teria a sua dispensa. Talvez, a banca quis dizer que quem fez a contratação foi o município, e não as unidades (que só receberam a prestação). Ainda assim, isso prejudicou a análise da questão. Por fim, a letra B fala em “parcelamento ilegal”. O parcelamento, na verdade, é um princípio das compras (art. 40, V, “b”), cujo objetivo é aumentar a competitividade, devendo ser adotado sempre “tecnicamente viável e economicamente vantajoso”. Por exemplo: se um órgão precisa adquirir uniformes escolares, pode ser melhor “parcelar” o objeto em pequenas unidades, permitindo que mais fornecedores sejam capazes de atender ao pedido, aumentando a competição. Vejamos as outras opções:\nc) Errada: não dá para entender o que a questão quer dizer com “dolo tácito”. De qualquer forma, não houve demonstração de dolo com fim ilícito, nos termos da Lei de Improbidade.\nd) Errada: também não dá para enquadrar a hipótese em erro grosseiro, já que o próprio sentido de unidade gestora já poderia tornar a situação confusa.\ne) Errada: o somatório (se fosse o caso) extrapolou o limite legal. Gabarito: A.",
+              "id": 9
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – CGE PB/2024",
+              "question": "Imagine que o Estado da Paraíba almeje realizar a contratação de uma obra, pelo regime delimitado como aquele em que o contratado é responsável por elaborar e desenvolver o projeto executivo, executar obras e serviços de engenharia, fornecer bens ou prestar serviços especiais e realizar montagem, teste, pré-operação e as demais operações necessárias e suficientes para a entrega final do objeto. À luz do disposto na Lei nº 14.133/2021, tal definição corresponde a uma:",
+              "options": [
+                "empreitada integral;",
+                "contratação integrada;",
+                "contratação por tarefa;",
+                "empreitada por preço total;",
+                "contratação semi-integrada."
+              ],
+              "answer": 4,
+              "explanation": "a) Errado. A empreitada integral compreende a contratação de empreendimento em sua integralidade, compreendida a totalidade das etapas de obras, serviços e instalações necessárias, sob inteira responsabilidade do contratado até sua entrega ao contratante em condições de entrada em operação, com características adequadas às finalidades para as quais foi contratado e atendidos os requisitos técnicos e legais para sua utilização com segurança estrutural e operacional (art. 6°, XXX).\nb) Errado. A contratação integrada é o regime de contratação de obras e serviços de engenharia em que o contratado é responsável por elaborar e desenvolver os projetos básico e executivo, executar obras e serviços de engenharia, fornecer bens ou prestar serviços especiais e realizar montagem, teste, préoperação e as demais operações necessárias e suficientes para a entrega final do objeto (art. 6°, XXXII).\nc) Errado. A contratação por tarefa é o regime de contratação de mão de obra para pequenos trabalhos por preço certo, com ou sem fornecimento de materiais (art. 6°, XXXI).\nd) Errado. A empreitada por preço global ocorre quando se dá a contratação da execução da obra ou do serviço por preço certo e total (art. 6°, XXIX).\ne) Certo. A contratação semi-integrada é o regime de contratação de obras e serviços de engenharia em que o contratado é responsável por elaborar e desenvolver o projeto executivo, executar obras e serviços de engenharia, fornecer bens ou prestar serviços especiais e realizar montagem, teste, pré-operação e as demais operações necessárias e suficientes para a entrega final do objeto (art. 6°, XXXIII). Assim, a diferença da semi-integrada para a integrada é que esta última abrange também o projeto básico.\n\nGabarito: alternativa E.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u6l4",
+          "title": "Lição 4",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "FGV – CVM/2024",
+              "question": "De acordo com a nova Lei de Licitações e Contratos Administrativos, os órgãos e entidades da Administração Pública deverão utilizar o sistema de registro cadastral unificado, disponível no Portal Nacional de Contratações Públicas (PNCP), para efeito de cadastro unificado de licitantes. Considerando as disposições da Lei nº 14.133/2021 sobre o registro cadastral, procedimento auxiliar das licitações e contratações, é correto afirmar que:",
+              "options": [
+                "o sistema de registro cadastral unificado será público e deverá ser amplamente divulgado e estar permanentemente aberto aos interessados, e será obrigatória a realização de chamamento público pela Internet, no mínimo semestralmente, para atualização dos registros existentes e para ingresso de novos interessados;",
+                "a administração não poderá, como regra, realizar licitação restrita a fornecedores cadastrados, salvo em casos excepcionais, devidamente fundamentados, desde que atendidos os critérios, as condições e os limites estabelecidos em regulamento;",
+                "o registro de inscrito que deixar de satisfazer exigências determinadas na Lei nº 14.133/2021 (nova Lei de Licitações e Contratos Administrativos) ou por regulamento a qualquer tempo poderá ser alterado, suspenso ou cancelado;",
+                "certificado, renovável automática e anualmente, será fornecido ao inscrito no cadastro, salvo manifestação em sentido contrário do interessado;",
+                "o órgão ou entidade licitante poderá exigir registro cadastral complementar para acesso a edital e anexos."
+              ],
+              "answer": 2,
+              "explanation": "a) Errada. O chamamento deve ser no mínimo anual (art. 87, § 1º).\nb) Errada. A Administração poderá realizar licitação restrita a fornecedores cadastrados, atendidos os critérios, as condições e os limites estabelecidos em regulamento, bem como a ampla publicidade dos procedimentos para o cadastramento (art. 87, § 3º).\nc) Certa. Segundo a Lei de Licitações: “§ 5º A qualquer tempo poderá ser alterado, suspenso ou cancelado o registro de inscrito que deixar de satisfazer exigências determinadas por esta Lei ou por regulamento” (art. 88, § 5º)\nd) Errada. O certificado é renovável sempre que atualizar o registro (art. 88, § 2º), ou seja, a renovação não é “automática”.\ne) Errada. É proibida a exigência, pelo órgão ou entidade licitante, de registro cadastral complementar para acesso a edital e anexos (art. 87, § 2º).\n\nGabarito: alternativa C.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – CGE PB/2024",
+              "question": "Daiane, servidora pública ocupante de cargo efetivo do Estado da Paraíba, exerce a atribuição de agente da contratação. Ao ser questionada sobre a sequência de fases que rege o rito procedimental comum da concorrência e do pregão, no âmbito da Lei nº 14.133/2021, ela respondeu corretamente o seguinte:",
+              "options": [
+                "de divulgação do edital de licitação; preparatória; de julgamento; de apresentação de propostas e lances, quando for o caso; de habilitação; de homologação;",
+                "preparatória; de divulgação do edital de licitação; de habilitação; de julgamento; de apresentação de propostas e lances, quando for o caso; recursal; de homologação;",
+                "preparatória; de divulgação do edital de licitação; de habilitação; recursal; de apresentação de propostas e lances, quando for o caso; de julgamento; de homologação;",
+                "preparatória; de divulgação do edital de licitação; de apresentação de propostas e lances, quando for o caso; de julgamento; de habilitação; recursal; de homologação;",
+                "de divulgação do edital de licitação; preparatória; de habilitação; recursal; de apresentação de propostas e lances, quando for o caso; de julgamento; recursal; de homologação."
+              ],
+              "answer": 3,
+              "explanation": "o rito procedimental comum está previsto no art. 17 da Lei de Licitações, e assim dispõe: Art. 17. O processo de licitação observará as seguintes fases, em sequência: I – preparatória; II – de divulgação do edital de licitação; III – de apresentação de propostas e lances, quando for o caso; IV – de julgamento; V – de habilitação; VI – recursal; VII – de homologação. Portanto, a alternativa que traz a sequência correta é a letra D.\n\nGabarito: alternativa D.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – DNIT/2024",
+              "question": "A pré-qualificação é um procedimento cujo objetivo é selecionar previamente licitantes que reúnam condições de habilitação para participar de futura licitação. Acerca desse assunto, assinale a opção correta quanto ao seu prazo máximo de validade.",
+              "options": [
+                "30 (trinta) dias, podendo ser atualizada a qualquer tempo.",
+                "1 (um) ano, não podendo ser atualizada a qualquer tempo.",
+                "1 (um) ano, podendo ser atualizada a qualquer tempo.",
+                "6 (seis) meses, podendo ser atualizada a qualquer tempo.",
+                "6 (seis) meses, não podendo ser atualizada a qualquer tempo."
+              ],
+              "answer": 2,
+              "explanation": "A pré-qualificação é o procedimento técnico-administrativo para selecionar previamente (art. 80): I - licitantes que reúnam condições de habilitação para participar de futura licitação ou de licitação vinculada a programas de obras ou de serviços objetivamente definidos; II - bens que atendam às exigências técnicas ou de qualidade estabelecidas pela Administração. Logo, a pré-qualificação é uma base de dados com informações de licitantes, bens e serviços que atendam previamente a requisitos para futuras contratações. Quanto ao prazo, a pré-qualificação terá validade (art. 80, § 8º): I - de 1 (um) ano, no máximo, e poderá ser atualizada a qualquer tempo; II - não superior ao prazo de validade dos documentos apresentados pelos interessados. Assim, a letra C é o gabarito, pois reflete corretamente o prazo e a possibilidade de atualização.\n\nGabarito: alternativa C.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – DNIT/2024",
+              "question": "De acordo com a Lei nº 14.133/2021, na apresentação das propostas e lances, a administração pública poderá utilizar alguns modos de disputa. Quanto ao modo de disputa aberto, assinale a opção que aponta o critério de julgamento que não poderá ser utilizado.",
+              "options": [
+                "Técnica e preço.",
+                "Maior desconto.",
+                "Maior lance.",
+                "Menor preço.",
+                "Maior retorno econômico"
+              ],
+              "answer": 0,
+              "explanation": "A Lei de Licitações apresenta dois modos de disputa (art. 56): I - aberto, hipótese em que os licitantes apresentarão suas propostas por meio de lances públicos e sucessivos, crescentes ou decrescentes; II - fechado, hipótese em que as propostas permanecerão em sigilo até a data e hora designadas para sua divulgação. Assim, o modo aberto é típico da apresentação de lances, como ocorre no pregão (lances decrescentes) e no leilão (lances crescentes). Por outro lado, no modo fechado, as propostas não podem ser alteradas após a sua apresentação. Logo, o licitante já tem que apresentar, de uma só vez, a sua melhor proposta. Quando houver a utilização isolada do modo de disputa fechado será vedada quando adotados os critérios de julgamento de menor preço ou de maior desconto (art. 56, § 1º). Por outro lado, a utilização do modo de disputa aberto será vedada quando adotado o critério de julgamento de técnica e preço (art. 56, § 2º). Portanto, o gabarito é a letra A.\n\nGabarito: alternativa A.",
+              "id": 4
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – DNIT/2024",
+              "question": "No planejamento de compras, o princípio do parcelamento poderá ser adotado quando for tecnicamente viável e economicamente vantajoso. A aplicação desse princípio nas compras públicas deve ser considerada quando",
+              "options": [
+                "o processo de padronização levar a fornecedor exclusivo.",
+                "a divisão do objeto em lotes for viável.",
+                "a economia de escala recomendar a compra do item do mesmo fornecedor.",
+                "o objeto a ser contratado configurar sistema único e integrado.",
+                "a escolha de marca levar a fornecedor exclusivo."
+              ],
+              "answer": 1,
+              "explanation": "As compras devem atender aos princípios: (a) da padronização, considerada a compatibilidade de especificações estéticas, técnicas ou de desempenho; (b) do parcelamento, quando for tecnicamente viável e economicamente vantajoso; (c) da responsabilidade fiscal, mediante a comparação da despesa estimada com a prevista no orçamento. O parcelamento tem o objetivo de ampliar a competição. Por exemplo: imagine uma grande compra de computadores no Poder Executivo federal. Se a licitação for em lote único, talvez poucos fornecedores possam atender ao pedido, diminuindo a competitividade. Agora, se o objeto for parcelado em lotes, fornecedores menores também poderão concorrer. Agora, vamos analisar o art. 40, §§ 2º e 3º, que respondem a questão: Art. 40 [...] § 2º Na aplicação do princípio do parcelamento, referente às compras, deverão ser considerados: I - a viabilidade da divisão do objeto em lotes; II - o aproveitamento das peculiaridades do mercado local, com vistas à economicidade, sempre que possível, desde que atendidos os parâmetros de qualidade; e III - o dever de buscar a ampliação da competição e de evitar a concentração de mercado. § 3º O parcelamento não será adotado quando: I - a economia de escala, a redução de custos de gestão de contratos ou a maior vantagem na contratação recomendar a compra do item do mesmo fornecedor; II - o objeto a ser contratado configurar sistema único e integrado e houver a possibilidade de risco ao conjunto do objeto pretendido; III - o processo de padronização ou de escolha de marca levar a fornecedor exclusivo. Logo, o gabarito é a letra B, pois deve ser viável a divisão em lotes. Por outro lado, o parcelamento não será adotado se: o processo de padronização ou de escolha de marca levar a fornecedor exclusivo (letras A e\nE); se a economia de escala recomendar a compra do item do mesmo fornecedor (letra\nC); ou se o objeto a ser contratado configurar sistema único e integrado e houver a possibilidade de risco ao conjunto do objeto pretendido (letra\nD).\n\nGabarito: alternativa B.",
+              "id": 5
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – DNIT/2024",
+              "question": "Acerca dos regimes de execução previstos na Lei nº 14.133/2021, aquele em que o contratado, após o fornecimento do objeto, fica responsável por sua operação e/ou manutenção por um período determinado denomina-se",
+              "options": [
+                "empreitada por preço global.",
+                "contratação por tarefa.",
+                "contratação integrada.",
+                "contratação semi-integrada.",
+                "fornecimento e prestação de serviço associado."
+              ],
+              "answer": 4,
+              "explanation": "Segundo a Lei de Licitações: Art. 6º [...] XXXIV - fornecimento e prestação de serviço associado: regime de contratação em que, além do fornecimento do objeto, o contratado responsabiliza-se por sua operação, manutenção ou ambas, por tempo determinado; Dessa forma, o regime de fornecimento e prestação de serviços é realizado em duas etapas: na primeira, a empresa fornece algum bem; na segunda, a empresa presta um serviço associado a esse bem. Como exemplo, poderíamos citar a compra de um veículo (fornecimento) associada à manutenção durante o prazo de garantia (serviço). Logo, o gabarito é a letra E. Vejamos as demais opções (vamos citar diretamente os conceitos do art. 6º da Lei 14.133/2021:\na) Errada: “XXIX - empreitada por preço global: contratação da execução da obra ou do serviço por preço certo e total”;\nb) Errada: “XXXI - contratação por tarefa: regime de contratação de mão de obra para pequenos trabalhos por preço certo, com ou sem fornecimento de materiais”;\nc) Errada: “XXXII - contratação integrada: regime de contratação de obras e serviços de engenharia em que o contratado é responsável por elaborar e desenvolver os projetos básico e executivo, executar obras e serviços de engenharia, fornecer bens ou prestar serviços especiais e realizar montagem, teste, préoperação e as demais operações necessárias e suficientes para a entrega final do objeto”;\nd) Errada: “XXXIII - contratação semi-integrada: regime de contratação de obras e serviços de engenharia em que o contratado é responsável por elaborar e desenvolver o projeto executivo, executar obras e serviços de engenharia, fornecer bens ou prestar serviços especiais e realizar montagem, teste, préoperação e as demais operações necessárias e suficientes para a entrega final do objeto”;\n\nGabarito: alternativa E.",
+              "id": 6
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – Receita Federal/2023",
+              "question": "A nova lei de licitações estabelece que licitação internacional é aquela processada em território nacional, na qual é admitida a participação de licitantes estrangeiros, ou licitação na qual o objeto contratual pode ou deve ser executado no todo ou em parte em território estrangeiro. Como se sabe, nas licitações de âmbito internacional, o edital deverá ajustar-se às diretrizes da política monetária e do comércio exterior e atender às exigências dos órgãos competentes. Neste contexto, em matéria de licitações internacionais, de acordo com a Lei n° 14.133/2021, é correto afirmar que",
+              "options": [
+                "os gravames incidentes sobre os preços constarão do edital e serão definidos a partir de estimativas ou médias dos tributos.",
+                "o edital não admitirá qualquer previsão de margem de preferência para bens produzidos no País e serviços nacionais que atendam às normas técnicas brasileiras.",
+                "o pagamento feito ao licitante brasileiro contratado em virtude de licitação internacional será efetuado em dólar.",
+                "o edital poderá prever condições de habilitação, classificação e julgamento que constituam barreiras de acesso ao licitante estrangeiro.",
+                "quando for permitido ao licitante estrangeiro cotar preço em moeda estrangeira, o licitante brasileiro não poderá fazê-lo, pois os valores, os preços e os custos utilizados terão como expressão monetária a moeda corrente nacional."
+              ],
+              "answer": 0,
+              "explanation": "a) essa é a exata previsão do art. 52, § 4º: os gravames incidentes sobre os preços constarão do edital e serão definidos a partir de estimativas ou médias dos tributos – CORRETA;\nb) é sim admitida a previsão de margem de preferência para bens produzidos no País e serviços nacionais que atendam às normas técnicas brasileiras, nos termos do art. 52, § 6º - ERRADA;\nc) a previsão legal (art. 52, § 2º) é de que o pagamento feito ao licitante brasileiro eventualmente contratado em virtude de licitação em que se tenha cotado os preços em moeda estrangeira,será efetuado em moeda corrente nacional. Dizendo de outra forma, ainda que o licitante brasileiro opte por cotar preço em moeda estrangeira, caso ele seja contratado, o pagamento ocorrerá (ao brasileiro) em moeda corrente nacional – ERRADA;\nd) o edital não poderá prever condições de habilitação, classificação e julgamento que constituam barreiras de acesso ao licitante estrangeiro (art. 52, § 6º) – ERRADA;\ne) em atendimento ao princípio da isonomia, quando for permitido ao licitante estrangeiro cotar preço em moeda estrangeira, o licitante brasileiro igualmente poderá fazê-lo (art. 52, § 1º) – ERRADA.\n\nGabarito: alternativa A.",
+              "id": 7
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – Receita Federal/2023",
+              "question": "Suponha que recentemente tenha sido divulgada notícia no Portal Nacional de Contratações Públicas - PNCP informando que o catálogo eletrônico de padronização apresentou o primeiro item padronizado para a contratação de órgãos públicos, a saber: água mineral natural sem gás, mediante a disponibilização dos documentos modelo da fase preparatória, inclusive, o termo de referência. Diante desta situação hipotética, à luz do disposto na Lei nº 14.133/2021, é correto afirmar que",
+              "options": [
+                "o aludido catálogo não tem previsão expressa na nova lei geral de licitações, mas é prática louvável com vistas a implementar a eficiência da Administração.",
+                "o catálogo não deveria divulgar documentos padronizados, pois a utilização de modelos é vedada pela nova lei geral de licitações.",
+                "a especificação do produto necessária para o termo de referência para as compras da Administração não pode constar de tal catálogo eletrônico de padronização.",
+                "os Estados e Municípios não podem se utilizar do catálogo eletrônico de padronização divulgado.",
+                "caso a Administração decida não utilizar o mencionado catálogo, deverá justificar tal decisão por escrito."
+              ],
+              "answer": 4,
+              "explanation": "a) a lei prevê sim a utilização de catálogos eletrônicos, nos termos do art. 19, II, que diz que os órgãos da Administração deverão criar catálogo eletrônico de padronização de compras, serviços e obras, admitida a adoção do catálogo do Poder Executivo federal por todos os entes federativos – ERRADA;\nb) a lei autoriza a utilização de modelos padronizados, dizendo que os órgãos da Administração com competências regulamentares relativas às atividades de administração de materiais, de obras e serviços e de licitações e contratos deverão – instituir, com auxílio dos órgãos de assessoramento jurídico e de controle interno, modelos de minutas de editais, de termos de referência, de contratos padronizados e de outros documentos, admitida a adoção das minutas do Poder Executivo federal por todos os entes federativos (art. 19, IV) – ERRADA;\nc) o catálogo eletrônico pode ser utilizado em termos de referência, pois um dos seus objetivos é justamente o de facilitar a descrição do objeto em futuras licitações – ERRADA;\nd) o catálogo eletrônico de padronização do Poder Executivo federal poderá ser adotado pelos demais entes da Federação – ERRADA;\ne) o catálogo é a regra. A não utilização do catálogo eletrônico de padronização ou dos modelos de minutas deverá ser justificada por escrito e anexada ao respectivo processo licitatório (art. 19, § 2º) – CORRETA.\n\nGabarito: alternativa E.",
+              "id": 8
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – Receita Federal/2023",
+              "question": "Com vistas a melhor atender ao interesse público, verificou-se a necessidade de que a sede de certa unidade de atendimento da Receita Federal seja instalada em determinado imóvel, de propriedade de Cristiane, cujas características de instalação e de localização tornam necessária sua escolha, tal como demonstram estudos específicos acerca do tema. Considerando o disposto na Lei nº 14.133/2021, é correto afirmar que",
+              "options": [
+                "a situação caracteriza hipótese de inexigibilidade de licitação para a locação do bem de Cristiane, que deve ser devidamente instruída nos termos da lei.",
+                "a Administração pode alugar o bem de Cristiane mediante prévia justificação e licitação na modalidade pregão.",
+                "é possível a locação do bem de Cristiane mediante dispensa de licitação, devidamente instruída nos termos da lei.",
+                "a lei não admite que a Administração seja locatária de bem imóvel, de modo que o bem de Cristiane deve ser necessariamente desapropriado.",
+                "a locação do bem de Cristiane depende de prévia justificação e deve ser precedida de licitação na modalidade concorrência."
+              ],
+              "answer": 0,
+              "explanation": "a) o art. 74, V da NLLC diz que é inexigível a licitação quando inviável a competição, em especial nos casos de aquisição ou locação de imóvel cujas características de instalações e de localização tornem necessária sua escolha. É exatamente o caso do enunciado – CORRETA;\nb) o pregão é modalidade para aquisição de bens e serviços considerados comuns e não engloba a locação de imóveis – ERRADA;\nc) não se trata de hipótese de dispensa de licitação, mas sim de inexigibilidade – ERRADA;\nd) a Administração pode sim ser locatária de bens móveis ou imóveis, não sendo necessária a realização de desapropriações – ERRADA;\ne) a Lei não define a modalidade para locação de bens, mas, como vimos, nesse caso temos uma hipótese de inexigibilidade de licitação, que ocorre quando há inviabilidade de competição, ou seja, não é possível realizar um procedimento competitivo em virtude das condições da situação – ERRADA.\n\nGabarito: alternativa A.",
+              "id": 9
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – Sefaz AM/2022",
+              "question": "De acordo com o texto da nova Lei de Licitações (Lei nº 14.133/2021), é dispensável a licitação para",
+              "options": [
+                "objetos que devam ou possam ser contratados por meio de credenciamento.",
+                "aquisição ou locação de imóvel cujas características de instalações e de localização tornem necessária sua escolha.",
+                "aquisição de materiais, de equipamentos ou de gêneros ou contratação de serviços que só possam ser fornecidos por produtor, empresa ou representante comercial exclusivos.",
+                "contratação de profissional do setor artístico, diretamente ou por meio de empresário exclusivo, desde que consagrado pela crítica especializada ou pela opinião pública.",
+                "contratação de profissionais para compor a comissão de avaliação de critérios de técnica, quando se tratar de profissional técnico de notória especialização."
+              ],
+              "answer": 4,
+              "explanation": "a) o credenciamento é hipótese de inexigibilidade de licitação, nos termos do art. 74, IV – ERRADA;\nb) essa também é hipótese de inexigibilidade de licitação, conforme art. 74, V. Na antiga Lei de Licitações, esse caso versava sobre licitação dispensável, mas houve a “mudança de enquadramento” na nova legislação – ERRADA;\nc) no caso de fornecedor exclusivo, a licitação é inexigível, como previsto no art. 74, I – ERRADA;\nd) a contratação de artistas é hipótese de licitação inexigível, nos termos do art. 74, II. No caso, o artista deve ser consagrado pela crítica especializada ou pela opinião pública e a contratação deverá ocorrer diretamente com o artista ou por meio de empresário exclusivo – ERRADA;\ne) essa foi uma pegadinha da banca. Ainda que se trate de profissional de “notória especialização”, este é um caso de dispensa de licitação, e não de inexigibilidade. Nesse sentido, o art. 75, XIII, diz que é dispensável a licitação “para contratação de profissionais para compor a comissão de avaliação de critérios de técnica, quando se tratar de profissional técnico de notória especialização”. Assim, o item está certo – CORRETA.\n\nGabarito: alternativa E.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u6l5",
+          "title": "Lição 5",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "FGV – CGU/2022",
+              "question": "No ano de 2022, a União, por meio do Ministério do Meio Ambiente, pretende celebrar contrato administrativo, cujo objeto é a prestação de serviços técnicos especializados de natureza predominantemente intelectual de controles de qualidade e tecnológico, análises, testes e ensaios de campo e laboratoriais, instrumentação e monitoramento de parâmetros específicos de obras e do meio ambiente, com determinada sociedade empresária de notória especialização, conforme especificações constantes no processo administrativo. De acordo com a nova Lei de Licitações (Lei nº 14.133/2021), a contratação em tela ocorrerá mediante:",
+              "options": [
+                "prévia e indispensável licitação, cuja modalidade será definida a partir do valor estimado do contrato;",
+                "prévia e indispensável licitação, cuja modalidade será o diálogo competitivo, pela natureza do objeto do contrato;",
+                "prévia e indispensável licitação, cuja modalidade será a concorrência, por expressa determinação legal;",
+                "dispensa de licitação, por expressa previsão e com as cautelas legais;",
+                "inexigibilidade de licitação, por expressa previsão e com as cautelas legais."
+              ],
+              "answer": 4,
+              "explanation": "de acordo com a Lei 14.133/2021, Art. 74. É inexigível a licitação quando inviável a competição, em especial nos casos de: [...] III - contratação dos seguintes serviços técnicos especializados de natureza predominantemente intelectual com profissionais ou empresas de notória especialização, vedada a inexigibilidade para serviços de publicidade e divulgação: [...] h) controles de qualidade e tecnológico, análises, testes e ensaios de campo e laboratoriais, instrumentação e monitoramento de parâmetros específicos de obras e do meio ambiente e demais serviços de engenharia que se enquadrem no disposto neste inciso; Logo, trata-se de hipótese de inexigibilidade de licitação, que consta expressamente no art. 74, III, “h”, da Nova Lei de Licitações. Com efeito, podemos eliminar as letras A, B e C, uma vez que a licitação não se aplica no caso, em virtude da inviabilidade de competição. A letra D também está errada, já que a hipótese de contratação direta não se enquadra nos casos de dispensa de licitação.\n\nGabarito: alternativa E.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – Técnico/CGU/2022",
+              "question": "A União, por meio do Ministério da Saúde, pretende realizar contratação em que haja transferência de tecnologia de produtos estratégicos para o Sistema Único de Saúde (SUS), conforme elencados em ato da direção nacional do SUS, inclusive por ocasião da aquisição desses produtos durante as etapas de absorção tecnológica, e em valores compatíveis com aqueles definidos no instrumento firmado para a transferência de tecnologia. Após instauração de processo administrativo, o Ministério da Saúde concluiu que o valor estimado da contratação é de R$ 800.000,00. Levando em conta a adoção do regime jurídico da nova Lei de Licitações (Lei nº 14.133/2021), a contratação em tela:",
+              "options": [
+                "pode ser feita mediante inexigibilidade de licitação, por expressa previsão legal, com as cautelas procedimentais previstas nas normas de regência;",
+                "pode ser feita mediante dispensa de licitação, por expressa previsão legal, com as cautelas procedimentais previstas nas normas de regência;",
+                "deve ser feita mediante prévia e indispensável licitação, na modalidade concorrência ou pregão, em razão do valor estimado da contratação;",
+                "deve ser feita mediante prévia e indispensável licitação, na modalidade diálogo competitivo, em razão da natureza do objeto da contratação;",
+                "deve ser feita mediante prévia e indispensável licitação, na modalidade concorrência, com adoção do critério de julgamento de técnica e preço, por expressa previsão legal."
+              ],
+              "answer": 1,
+              "explanation": "de acordo com a Lei 14.133/2021, a licitação é dispensável (art. 75, XII): XII - para contratação em que houver transferência de tecnologia de produtos estratégicos para o Sistema Único de Saúde (SUS), conforme elencados em ato da direção nacional do SUS, inclusive por ocasião da aquisição desses produtos durante as etapas de absorção tecnológica, e em valores compatíveis com aqueles definidos no instrumento firmado para a transferência de tecnologia; Devemos lembrar ainda que a legislação prevê outras formalidades, como as previstas no art. 72. Portanto, realmente a licitação é dispensável, por expressa previsão legal, com as cautelas procedimentais previstas na legislação. Assim, o gabarito é a letra B. A letra A está errada, pois afirma que se trata de inexigibilidade de licitação, que somente se aplica no caso de inviabilidade de competição. As letras C, D e E estão erradas, pois afirmam que a licitação é indispensável, mas isso não é verdade, uma vez que, sendo dispensável, a autoridade tem a faculdade de licitar ou não. Adicionalmente, a letra C também é errada, pois o valor estimado não é mais fator para definir modalidade. A letra D não apresenta os requisitos para utilização do diálogo competitivo, na forma do art. 32 da NLLC. Por fim, não há informações na questão para dizer que haveria necessidade de se adotar a concorrência por técnica e preço.\n\nGabarito: alternativa B.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – SSP AM/2022",
+              "question": "O Estado Alfa pretende celebrar contrato administrativo que tem por objeto coleta, processamento e comercialização de resíduos sólidos urbanos recicláveis ou reutilizáveis, em áreas com sistema de coleta seletiva de lixo, realizados por associações ou cooperativas formadas exclusivamente de pessoas físicas de baixa renda reconhecidas pelo poder público como catadores de materiais recicláveis, com o uso de equipamentos compatíveis com as normas técnicas, ambientais e de saúde pública. No caso em tela, de acordo com a nova Lei de Licitações (Lei nº 14.133/21), a contratação",
+              "options": [
+                "poderá ser feita mediante inexigibilidade de licitação, por expressa previsão legal.",
+                "deverá ser feita mediante prévia licitação, na modalidade pregão, pela natureza dos serviços a serem contratados.",
+                "poderá ser feita mediante dispensa de licitação, por expressa previsão legal.",
+                "deverá ser feita mediante prévia licitação, na modalidade diálogo competitivo, pela natureza dos serviços a serem contratados.",
+                "deverá ser feita mediante prévia licitação, na modalidade concorrência, pela natureza dos serviços a serem contratados."
+              ],
+              "answer": 2,
+              "explanation": "a coleta, processamento e comercialização de resíduos sólidos urbanos recicláveis ou reutilizáveis, em áreas com sistema de coleta seletiva de lixo, realizados por associações ou cooperativas formadas exclusivamente de pessoas físicas de baixa renda reconhecidas pelo poder público como catadores de materiais recicláveis, com o uso de equipamentos compatíveis com as normas técnicas, ambientais e de saúde pública é hipótese de licitação dispensável, nos termos do art. 75, IV, ‘j’. Portanto, não há necessidade de prévia licitação. Reforçando: a licitação até seria cabível, mas não é obrigatória. Logo, as letras B, D e E estão incorretas, principalmente por causa do “deverá”. Ademais, não se trata de hipótese de inexigibilidade, mas sim de dispensa. Assim, está correta somente a alternativa C.\n\nGabarito: alternativa C.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – PCE RJ/2022",
+              "question": "Em fevereiro de 2022, a Polícia Civil do Estado Alfa instaurou processo administrativo com vistas à contratação de serviços técnicos especializados de natureza predominantemente intelectual a serem prestados por determinada sociedade empresária de notória especialização, para fins de treinamento e aperfeiçoamento de seu pessoal, visando ao aprimoramento funcional dos servidores na área de inteligência policial. Sabe-se que o valor estimado da contratação é de R$ 800.000,00. De acordo com a nova Lei de Licitações (Lei nº 14.133/2021), a contratação em tela ocorrerá mediante:",
+              "options": [
+                "dispensa de licitação, por expressa previsão legal;",
+                "prévia licitação, na modalidade concorrência;",
+                "inexigibilidade de licitação, por expressa previsão legal;",
+                "prévia licitação, na modalidade pregão;",
+                "prévia licitação, na modalidade diálogo competitivo."
+              ],
+              "answer": 2,
+              "explanation": "o treinamento e aperfeiçoamento de pessoal é considerado pela NLLC um serviço técnico especializado de natureza predominantemente intelectual. Ademais, se prestado por profissionais ou empresas de notória especialização, o serviço poderá ser contratado por inexigibilidade de licitação, conforme expressa previsão legal constante do art. 74, III, ‘f’. Assim, o gabarito é a letra C. Ademais, não é hipótese de dispensa (letra\nA) e nem há necessidade de prévia licitação (letras B, D e\nE), estando correta apenas a alternativa C.\n\nGabarito: alternativa C.",
+              "id": 4
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TJ RO/2021",
+              "question": "O Tribunal de Justiça do Estado de Rondônia, em outubro de 2021, com vistas a fomentar a capacitação e a qualificação de seus servidores, pretende contratar determinada sociedade empresária de notória especialização para prestação de serviços técnicos especializados de natureza predominantemente intelectual de treinamento e aperfeiçoamento de pessoal. O valor estimado da contratação é de quinhentos mil reais e atende ao princípio da economicidade. De acordo com a Lei nº 14.133/2021, a contratação almejada deve ocorrer mediante:",
+              "options": [
+                "dispensa de licitação, por expressa previsão legal;",
+                "inexigibilidade de licitação, por expressa previsão legal;",
+                "processo licitatório obrigatório, na modalidade pregão, pela natureza do serviço a ser contratado;",
+                "processo licitatório obrigatório, na modalidade leilão, pelo valor do contrato a ser firmado;",
+                "processo licitatório obrigatório, na modalidade concorrência, pelo valor do contrato a ser firmado."
+              ],
+              "answer": 1,
+              "explanation": "a contratação de serviços técnicos especializados de natureza predominantemente intelectual com profissionais ou empresas de notória especialização, que inclui os serviços de treinamento e aperfeiçoamento de pessoal, é hipótese de inexigibilidade de licitação, nos termos do art. 75, III, ‘f’. Assim, podemos eliminar as alternativas A (não é dispensa) e C, D e E (a licitação não é cabível, por inviabilidade de competição), chegando ao nosso gabarito, alternativa B.\n\nGabarito: alternativa B.",
+              "id": 5
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – Funsaúde CE/2021",
+              "question": "Segundo a Lei nº 14.133/2021, é dispensável a licitação",
+              "options": [
+                "para compra pública de medicamentos destinados exclusivamente ao tratamento de doenças raras definidas pelo Ministério da Saúde.",
+                "para transferência de tecnologia de produtos estratégicos para o SUS, conforme elencados em ato da direção nacional, estadual ou municipal do SUS.",
+                "para aquisição, por qualquer pessoa jurídica ou física, de insumos estratégicos para a saúde produzidos por fundação que, regimental ou estatutariamente, tenha por finalidade apoiar órgão da Administração Pública direta.",
+                "para contratação que envolva valores inferiores a um milhão de reais, no caso de obras e serviços de engenharia ou de serviços de manutenção de ambulâncias.",
+                "para abastecimento de insumos de saúde para efetivos militares em estada de qualquer duração em portos, aeroportos ou localidades diferentes de suas sedes."
+              ],
+              "answer": 0,
+              "explanation": "a) isso mesmo. A licitação que tenha por objeto a aquisição de medicamentos destinados exclusivamente ao tratamento de doenças raras definidas pelo Ministério da Saúde é dispensável, nos termos do art. 75, IV, ‘m’ – CORRETA;\nb) nos termos do art. 75, XII, a licitação é dispensável para contratação em que houver transferência de tecnologia de produtos estratégicos para o Sistema Único de Saúde (SUS), conforme elencados em ato da direção nacional do SUS (e não estadual ou municipal) – ERRADA;\nc) a licitação é dispensável para aquisição, por pessoa jurídica de direito público interno (e não qualquer pessoa jurídica ou física), de insumos estratégicos para a saúde produzidos por fundação que, regimental ou estatutariamente, tenha por finalidade apoiar órgão da Administração Pública direta (art. 75, XVI) – ERRADA;\nd) conforme art. 75, I a licitação é dispensável para contratação que envolva valores inferiores a R$ 100 mil, no caso de obras e serviços de engenharia ou de serviços de manutenção de veículos automotores (e não um milhão de reais) – ERRADA;\ne) a lei prevê a dispensa para o abastecimento ou suprimento de efetivos militares em estada eventual de curta duração (e não qualquer duração) em portos, aeroportos ou localidades diferentes de suas sedes, por motivo de movimentação operacional ou de adestramento (art. 75, IV, ‘i’) – ERRADA.\n\nGabarito: alternativa A.",
+              "id": 6
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – Sefaz ES/2021",
+              "question": "Com base na nova Lei de Licitação, o Estado Alfa pretende proceder à locação de determinado imóvel, cujas características de instalações e de localização tornam necessária sua escolha. Trata-se de imóvel exatamente ao lado da Secretaria Estadual de Fazenda, que abrigará novas instalações para os Auditores Fiscais da Receita Estadual. No bojo do processo administrativo, já foi observada regularmente a avaliação prévia do bem, do seu estado de conservação, dos custos de adaptações, pois imprescindíveis às necessidades de utilização, e do prazo de amortização dos investimentos. Com base na Lei nº 14.133/2021, a contratação pretendida enseja",
+              "options": [
+                "dispensa de licitação, mediante certificação da inexistência de imóveis públicos vagos e disponíveis que atendam ao objeto, justificativas que demonstrem a singularidade do imóvel a ser locado e economicidade do contrato, que deve estar de acordo com o preço de mercado.",
+                "inexigibilidade de licitação, mediante certificação da inexistência de imóveis públicos vagos e disponíveis que atendam ao objeto, e justificativas que demonstrem a singularidade do imóvel a ser locado pela Administração e que evidenciem vantagem para ela.",
+                "licitação frustrada, em razão da falta de outros imóveis que atendam ao objeto do contrato, sendo imprescindíveis justificativas que demonstrem a singularidade do imóvel a ser locado e economicidade do contrato, que deve estar de acordo com o preço de mercado.",
+                "realização de processo de licitação, na modalidade concorrência, em razão da natureza da contratação, independentemente do preço global do contrato, devendo ser observado o preço de mercado e as condições estruturais e funcionais do imóvel a ser locado.",
+                "realização de processo de licitação, na modalidade leilão, em razão da natureza da contratação, independentemente do preço global do contrato, devendo ser observado o preço de mercado e as condições estruturais e funcionais do imóvel a ser locado."
+              ],
+              "answer": 1,
+              "explanation": "a aquisição ou locação de imóvel cujas características de instalações e de localização tornem necessária sua escolha é hipótese de inexigibilidade de licitação, nos termos do art. 74, V. Com base nisso, já poderíamos eliminar todas as alternativas, e ficar com nosso gabarito, alternativa B. Lembrando que, nesse caso, para configurar a inexigibilidade, os seguintes requisitos devem ser observados (art. 74, § 5º): (i) avaliação prévia do bem, do seu estado de conservação, dos custos de adaptações, quando imprescindíveis às necessidades de utilização, e do prazo de amortização dos investimentos; (ii) certificação da inexistência de imóveis públicos vagos e disponíveis que atendam ao objeto; (iii) justificativas que demonstrem a singularidade do imóvel a ser comprado ou locado pela Administração e que evidenciem vantagem para ela. A letra A é uma pegadinha, pois na antiga legislação, de fato, era hipótese de dispensa. As letras D e E estão incorretas, pois a inexigibilidade inviabilizaria a realização de licitação. Ademais, o leilão somente serve para alienar bens (e não para locar ou adquirir). Por fim, o termo “licitação frustrada” trata de situações em que a licitação “não deu certo”, sendo comumente adotada para designar a licitação deserta (aquela em que não há interessados) ou fracassada (em que não há propostas válidas).\n\nGabarito: alternativa B.",
+              "id": 7
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – PC AM/2022",
+              "question": "Em fevereiro de 2022, a Polícia Civil do Estado Gama pretende realizar locação de imóvel para servir de depósito para bens que já foram periciados e aguardam determinação judicial quanto à sua destinação. Não se tratando de imóvel cujas características de instalações e de localização tornem necessária sua escolha, e levando em conta que será adotado o regime jurídico da nova Lei de Licitações (Lei nº 14.133/21), é correto afirmar que a contratação em tela deverá",
+              "options": [
+                "ocorrer mediante inexigibilidade de licitação, por expressa previsão legal.",
+                "ocorrer mediante dispensa de licitação, por expressa previsão legal.",
+                "ser precedida de licitação na modalidade leilão, de prévias avaliação do bem e autorização legislativa.",
+                "ser precedida de licitação e avaliação prévia do bem, do seu estado de conservação, dos custos de adaptações e do prazo de amortização dos investimentos necessários.",
+                "ser precedida de licitação na modalidade concorrência e dependerá de autorização legislativa e de avaliação prévia do bem, observado o princípio da economicidade."
+              ],
+              "answer": 3,
+              "explanation": "a) a questão deixa claro que o imóvel não possui características de instalações e de localização tornem necessária sua escolha. Esses seriam requisitos para que a licitação fosse inexigível, conforme exige 74, V, da Lei de Licitações: “V - aquisição ou locação de imóvel cujas características de instalações e de localização tornem necessária sua escolha”. Não estando presentes, não há hipótese de inexigibilidade – ERRADA;\nb) a locação de imóveis, em geral, não se enquadra nas hipóteses de dispensa previstas no art. 75 da L14133 – ERRADA;\nc) o leilão é modalidade para alienação de bens móveis ou imóveis, e não para locação. Por sinal, tome cuidado para não confundir os casos citados no enunciado! A questão está tratando da “locação de um imóvel”, e não da venda dos bens periciados que estão aguardando destinação por determinação judicial – ERRADA;\nd) quando não se tratar de hipótese de inexigibilidade, a locação de imóveis deverá ser precedida de licitação e avaliação prévia do bem, do seu estado de conservação, dos custos de adaptações e do prazo de amortização dos investimentos necessários, conforme previsão do art. 51 – CORRETA;\ne) a L14133 prevê a necessidade de licitação e avaliação prévias, mas não de autorização legislativa para a locação do bem. Ademais, a Nova Lei de Licitações não define, no art. 51, qual a modalidade deverá ser empregada nas locações – ERRADA.\n\nGabarito: alternativa D.",
+              "id": 8
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TJ RO/2021",
+              "question": "Diante da implantação do processo eletrônico, o Presidente do Tribunal de Justiça do Estado Alfa verificou que a circulação de pessoas e a ocupação das salas no fórum da Comarca Beta diminuiu vertiginosamente. Após estudos e planejamento estratégico, em outubro de 2021, o Tribunal concluiu que um dos blocos do citado fórum, consistente em edifício autônomo situado no imóvel ao lado do prédio principal, atualmente não está sendo utilizado e, por isso, deveria ser vendido. No caso em tela, de acordo com a Lei nº 14.133/2021, a alienação do mencionado bem imóvel, demonstrada a existência de interesse público devidamente justificado, será precedida de:",
+              "options": [
+                "avaliação, exigirá autorização do Tribunal de Contas e dependerá de licitação na modalidade concorrência;",
+                "estudo de viabilidade e economicidade da alienação e dependerá de autorização do Tribunal de Contas;",
+                "avaliação, exigirá autorização legislativa e dependerá de licitação na modalidade pregão;",
+                "avaliação, exigirá autorização legislativa e dependerá de licitação na modalidade leilão;",
+                "estudo de viabilidade e economicidade da alienação e dependerá de licitação na modalidade concorrência, sendo desnecessária autorização legislativa."
+              ],
+              "answer": 3,
+              "explanation": "o art. 76, I prevê que a alienação de bens da Administração Pública, subordinada à (i) existência de interesse público devidamente justificado, será precedida de (ii) avaliação e, tratando-se de bens imóveis, inclusive os pertencentes às autarquias e às fundações, exigirá: (iii) autorização legislativa e (iv) dependerá de licitação na modalidade leilão. Não há, então, previsão de autorização do Tribunal de Contas e nem de licitação nas modalidades pregão ou concorrência. A L14133 também não traz, expressamente, como requisito o estudo de “viabilidade” e de “economicidade” da alienação. Portanto, a única alternativa correta é a D.\n\nGabarito: alternativa D.",
+              "id": 9
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TCE AM/2021",
+              "question": "O Estado do Amazonas pretende alienar um prédio público que atualmente não está sendo utilizado. De acordo com a nova Lei de Licitações (Lei Federal nº 14.133/2021), a alienação pretendida está subordinada à existência de interesse público devidamente justificado, será precedida de avaliação e, via de regra:",
+              "options": [
+                "dependerá de autorização do Governador do Estado e poderá ser feita com inexigibilidade de licitação;",
+                "dependerá de autorização do Tribunal de Contas e poderá ser feita com dispensa de licitação;",
+                "dependerá de autorização do Tribunal de Contas e de licitação na modalidade concorrência;",
+                "exigirá autorização legislativa e dependerá de licitação na modalidade leilão;",
+                "exigirá autorização legislativa e dependerá de licitação na modalidade concorrência."
+              ],
+              "answer": 3,
+              "explanation": "a alienação de bens da administração pública depende dos seguintes requisitos:\na) no caso de bens imóveis: (i) existência de interesse público devidamente justificado; (ii) avaliação do bem; (iii) autorização legislativa (em regra); (iv) licitação, na modalidade leilão, exceto nos casos em que a licitação é dispensada.\nb) no caso de bens móveis: (i) existência de interesse público devidamente justificado; (ii) avaliação do bem; (iii) licitação, na modalidade leilão, exceto nos casos em que a licitação é dispensada. Portanto, não se exige autorização do Governador ou do Tribunal de Contas. O caso da questão também não trata de hipótese de inexigibilidade ou de licitação dispensável. Por fim, o art. 76 enumera casos de licitação dispensada para alienação de bens, mas a questão não trouxe uma das hipóteses legais para isso. Logo, está correta apenas a alternativa D.\n\nGabarito: alternativa D.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u6l6",
+          "title": "Lição 6",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TCU/2022",
+              "question": "Em novembro de 2021, o Ministério do Meio Ambiente realizou licitação para registro de preço para aquisição de quarenta carros. Após a seleção da proposta vencedora e registrada a ata no órgão licitante, o mencionado Ministério foi consultado pela autarquia federal Alfa, que manifestou interesse em contratar o licitante vencedor para a aquisição de dez carros, mediante sua adesão à ata de registro de preços. O caso em tela trata da chamada:",
+              "options": [
+                "licitação carona, em que é prescindível a anuência do Ministério do Meio Ambiente, e o licitante vencedor da ata de registro de preços está obrigado a celebrar o contrato com a autarquia federal Alfa;",
+                "licitação carona, em que é imprescindível a anuência do Ministério do Meio Ambiente e o licitante vencedor da ata de registro de preços não está obrigado a celebrar o contrato com a autarquia federal Alfa;",
+                "fragmentação de licitação, em que é imprescindível a anuência do Ministério do Meio Ambiente, e o licitante vencedor da ata de registro de preços está obrigado a celebrar o contrato com a autarquia federal Alfa;",
+                "fragmentação de licitação, em que é prescindível a anuência do Ministério do Meio Ambiente, e a autarquia federal Alfa deve realizar nova licitação, não podendo contratar licitante para fornecimento do mesmo objeto com valor acima do registrado na ata a que aderiu;",
+                "licitação carona, em que é prescindível a anuência do Ministério do Meio Ambiente, e a autarquia federal Alfa deve realizar nova licitação, não podendo contratar licitante para fornecimento do mesmo objeto com valor acima do registrado na ata a que aderiu."
+              ],
+              "answer": 1,
+              "explanation": "inicialmente, anota-se que a quantidade está dentro do limite da carona, uma vez que 10 unidades correspondem a 25% do registrado ao órgão gerenciador e a Nova Lei de Licitações admite a carona até o limite de 50% do registrado (L14133, art. 86, § 4º). Agora, vamos analisar as opções.\na) Errado. A expressão licitação carona não é tão usual, mas designa o procedimento de adesão, conhecido popularmente como carona. O órgão não participante (carona) precisa solicitar a anuência do órgão gerenciador e do vencedor da licitação.\nb) Certo. O art. 86 da Lei 14.133/2021 dispõe que “se não participarem do procedimento previsto no caput deste artigo, os órgãos e entidades poderão aderir à ata de registro de preços na condição de não participantes, observados os seguintes requisitos: [...] III - prévias consulta e aceitação do órgão ou entidade gerenciadora e do fornecedor”. Portanto, de fato, o vencedor da licitação não é obrigado a fornecer ao não participante. A obrigação é para fornecer ao gerenciador e aos participantes, sendo que o fornecimento aos caronas é facultativo.\nc) e\nd) Erradas. Não existe essa tal “fragmentação de licitação”.\ne) Errada. A anuência do Ministério do Meio Ambiente (gerenciador) é imprescindível. Ademais, uma vez que a autarquia faça a adesão da ata, não haverá necessidade de promover nova licitação. Além disso, nada impede que a autarquia promova a sua própria licitação, se assim o desejar (ao invés de usar a ata). Vale lembrar que a “a existência de preços registrados implicará compromisso de fornecimento nas condições estabelecidas, mas não obrigará a Administração a contratar, facultada a realização de licitação específica para a aquisição pretendida, desde que devidamente motivada” (L14133, art. 83).\n\nGabarito: alternativa B.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TJ AP/2022",
+              "question": "O Estado Alfa realizou o chamado, pela nova Lei de Licitação (Lei nº 14.133/2021), procedimento de credenciamento, na medida em que realizou um processo administrativo de chamamento público, convocando interessados em prestar determinados serviços para que, preenchidos os requisitos necessários, se credenciassem no órgão para executar o objeto quando convocados. Cumpridas todas as formalidades legais, na presente hipótese, de acordo com o citado diploma legal, em se tratando de caso de objeto que deva ser contratado por meio de credenciamento, a licitação é:",
+              "options": [
+                "inexigível, por expressa previsão legal;",
+                "dispensável, por expressa previsão legal;",
+                "obrigatória, na modalidade diálogo competitivo;",
+                "obrigatória, na modalidade pregão;",
+                "obrigatória, na modalidade leilão."
+              ],
+              "answer": 0,
+              "explanation": "o credenciamento é um processo administrativo de chamamento público em que a administração pública convoca interessados em prestar serviços ou fornecer bens para que, preenchidos os requisitos necessários, se credenciem no órgão ou na entidade para executar o objeto quando convocados (art. 6°, XLIII). Os objetos que devam ou possam ser contratados por meio de credenciamento podem ser contratados de forma direta, pois nesses casos a lei prevê que a licitação será inexigível (art. 75, IV). Isso acontece porque, no credenciamento, a Administração realizará a contratação de várias pessoas ao mesmo tempo, sem que haja competição entre eles. Por exemplo: na contratação de clínicas para realização de fisioterapia, a Administração poderá lançar um edital e credenciar todas as clínicas que tiverem interesse. Como todas as interessadas serão credenciadas, não haverá competição entre elas. Portanto, a licitação não é obrigatória (pois nem será cabível, em virtude da ausência de competição) e nem dispensável (por falta de previsão legal), estando correta apenas a alternativa A.\n\nGabarito: alternativa A.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – Sefaz AM/2022",
+              "question": "De acordo com a nova Lei de Licitações (Lei nº 14.133/2021), o planejamento de compras deverá considerar a expectativa de consumo anual e observar alguns requisitos, como o seguinte:",
+              "options": [
+                "condições de aquisição e pagamento semelhantes às do setor privado.",
+                "processamento sempre por meio de sistema de registro de preços.",
+                "condições de guarda e armazenamento que viabilizem o menor preço, ainda que tais condições permitam a deterioração do material.",
+                "economicidade, vedado o atendimento ao princípio do parcelamento, ainda que seja tecnicamente viável e economicamente vantajoso;",
+                "determinação de unidades e quantidades a serem adquiridas em função de consumo e utilização, tendo como referência o exercício anterior, com estimativa que será obtida mediante adequadas técnicas quantitativas, vedado o fornecimento contínuo."
+              ],
+              "answer": 0,
+              "explanation": "nos termos do art. 40, o planejamento de compras deverá considerar a expectativa de consumo anual e observar o seguinte: I – condições de aquisição e pagamento semelhantes às do setor privado [alternativa A – CORRETA]; II – processamento por meio de sistema de registro de preços, quando pertinente [alternativa B – ERRADA]; III – determinação de unidades e quantidades a serem adquiridas em função de consumo e utilização prováveis, cuja estimativa será obtida, sempre que possível, mediante adequadas técnicas quantitativas, admitido o fornecimento contínuo [alternativa E – ERRADA]; IV – condições de guarda e armazenamento que não permitam a deterioração do material [alternativa C – ERRADA]: V – atendimento aos princípios:\na) da padronização, considerada a compatibilidade de especificações estéticas, técnicas ou de desempenho;\nb) do parcelamento, quando for tecnicamente viável e economicamente vantajoso [alternativa D – ERRADA];\nc) da responsabilidade fiscal, mediante a comparação da despesa estimada com a prevista no orçamento. Portanto, analisando o texto da lei, apenas a alternativa A está de acordo com a previsão legal.\n\nGabarito: alternativa A.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – Sefaz AM/2022",
+              "question": "Em matéria de licitações, observe que, na execução indireta de obras e serviços, são admitidos alguns regimes, como: I. empreitada por preço unitário; II. empreitada por preço global; III. empreitada integral. De acordo com a nova Lei de Licitações (Lei nº 14.133/2021), assinale a opção que indica o(s) regime(s) compatível(is) com a execução indireta de obras e serviços de engenharia.",
+              "options": [
+                "I, apenas.",
+                "II, apenas.",
+                "III, apenas.",
+                "II e III, apenas.",
+                "I, II e III."
+              ],
+              "answer": 4,
+              "explanation": "conforme prevê o art. 46 da Lei, na execução indireta de obras e serviços de engenharia, são admitidos os seguintes regimes: empreitada por preço unitário; empreitada por preço global; empreitada integral; contratação por tarefa; contratação integrada; contratação semi-integrada; fornecimento e prestação de serviço associado. Assim, os três regimes apontados pela questão são admitidos na execução indireta, estando correta a alternativa E. As definições desses regimes constam no art. 6º da L14133, nos seguintes termos: XXVIII - empreitada por preço unitário: contratação da execução da obra ou do serviço por preço certo de unidades determinadas; XXIX - empreitada por preço global: contratação da execução da obra ou do serviço por preço certo e total; XXX - empreitada integral: contratação de empreendimento em sua integralidade, compreendida a totalidade das etapas de obras, serviços e instalações necessárias, sob inteira responsabilidade do contratado até sua entrega ao contratante em condições de entrada em operação, com características adequadas às finalidades para as quais foi contratado e atendidos os requisitos técnicos e legais para sua utilização com segurança estrutural e operacional;\n\nGabarito: alternativa E.",
+              "id": 4
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – MPE GO/2022",
+              "question": "Em dezembro de 2021, o Ministério Público do Estado Ômega está realizando licitação para aquisição de determinados bens. Ocorre que, durante o processo licitatório, houve empate entre duas propostas. Utilizando sucessivamente os critérios previstos na nova Lei de Licitações, o Ministério Público tentou o desempate por meio da disputa final, mas os licitantes empatados não apresentaram nova proposta em ato contínuo à classificação. Em seguida, tentou-se a avaliação do desempenho contratual prévio dos licitantes, porém manteve-se o empate. De acordo com a Lei nº 14.133/2021, o próximo critério que deverá ser utilizado pelo Ministério Público para o desempate é:",
+              "options": [
+                "o desenvolvimento pelo licitante de programa de integridade, conforme orientações dos órgãos de controle;",
+                "a priorização de sociedade empresária que invista em pesquisa e no desenvolvimento de tecnologia no país;",
+                "o desenvolvimento pelo licitante de ações de equidade entre homens e mulheres no ambiente de trabalho, conforme regulamento;",
+                "a priorização de sociedade empresária estabelecida no território do Estado Ômega e, frustrada tal tentativa, em Estado da mesma região do país;",
+                "a priorização de sociedade empresária que comprove a prática de mitigação, conforme a Política Nacional sobre Mudança do Clima."
+              ],
+              "answer": 2,
+              "explanation": "essa é daquelas questões de “pura decoreba”. Mas isso também faz parte (e muito) do mundo dos concursos. Os critérios de desempate estão previstos no art. 60 da Lei, que diz que, em caso de empate entre duas ou mais propostas, serão utilizados os seguintes critérios de desempate, nesta ordem: 1) disputa final, hipótese em que os licitantes empatados poderão apresentar nova proposta em ato contínuo à classificação; 2) avaliação do desempenho contratual prévio dos licitantes, para a qual deverão preferencialmente ser utilizados registros cadastrais para efeito de atesto de cumprimento de obrigações previstos nesta Lei; 3) desenvolvimento pelo licitante de ações de equidade entre homens e mulheres no ambiente de trabalho, conforme regulamento; 4) desenvolvimento pelo licitante de programa de integridade, conforme orientações dos órgãos de controle. Vimos no enunciado que o MP já utilizou os critérios 1 e 2. Então, o próximo passo seria avaliar sobre o desenvolvimento pelo licitante de ações de equidade entre homens e mulheres no ambiente de trabalho, conforme mencionado na alterativa C.\n\nDisputa final > Avaliacão contratual prévia > Ações de equidade entre H e M > Programa de integridade\n\nApós essas medidas, se não houver desempate, serão adotados os critérios de preferência, previstos no art. 60, § 1º: § 1º Em igualdade de condições, se não houver desempate, será assegurada preferência, sucessivamente, aos bens e serviços produzidos ou prestados por: I - empresas estabelecidas no território do Estado ou do Distrito Federal do órgão ou entidade da Administração Pública estadual ou distrital licitante ou, no caso de licitação realizada por órgão ou entidade de Município, no território do Estado em que este se localize; II - empresas brasileiras; III - empresas que invistam em pesquisa e no desenvolvimento de tecnologia no País; IV - empresas que comprovem a prática de mitigação, nos termos da Lei nº 12.187, de 29 de dezembro de 2009. Perceba que as demais opções inverteram a ordem ou misturaram critérios de desempate com os critérios de preferência.\n\nGabarito: alternativa C.",
+              "id": 5
+            }
+          ]
+        },
+        {
+          "id": "u6l7",
+          "title": "Lição 7",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "question": "Em relação à responsabilidade por contratação direta indevida, é correto afirmar que:",
+              "options": [
+                "pode decorrer de dolo, fraude ou erro grosseiro, não havendo responsabilização do agente público, mas somente do contratado;",
+                "o contratado responderá integralmente pelos danos causados ao erário, em qualquer caso;",
+                "o agente público responderá individualmente pelos danos causados ao erário;",
+                "o agente público responde pelos danos causados, com base na responsabilidade subsidiária;",
+                "o contratado e o agente público respondem solidariamente na hipótese de contratação direta indevida ocorrida com dolo, fraude ou erro grosseiro."
+              ],
+              "answer": 4,
+              "explanation": "quando a contratação direta for indevida, realizada com dolo, fraude ou erro grosseiro, o contratado e o agente público responsável responderão solidariamente pelo dano causado ao erário, sem prejuízo de outras sanções legais cabíveis.\n\nGabarito: alternativa E.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "question": "A licitação é dispensável:",
+              "options": [
+                "para obras e serviços de engenharia de valor até R$ 33 mil, desde que não se refiram a parcelas de uma mesma obra ou serviço ou ainda para obras e serviços da mesma natureza e no mesmo local que possam ser realizadas conjunta e concomitantemente;",
+                "para contratação que envolva valores superiores a R$ 50 mil reais, no caso de outros serviços e compras;",
+                "para contratação de serviços de manutenção de veículos automotores, em valores inferiores a R$ 100 mil;",
+                "para contratação de profissional do setor artístico;",
+                "para aquisição ou locação de imóvel cujas características de instalações e de localização tornem necessária sua escolha."
+              ],
+              "answer": 2,
+              "explanation": "a) essa era a previsão da legislação anterior. Atualmente, a lei estabeleceu que o valor deve ser inferior a R$ 100 mil (valores literais na lei de licitações, mas que são atualizados anualmente), no caso de obras e serviços de engenharia ou de serviços de manutenção de veículos automotores (art. 75, I) – ERRADA;\nb) a licitação é dispensável para contratação que envolva valores inferiores a R$ 50 mil, no caso de outros serviços e compras (art. 75, II) – ERRADA;\nc) essa é uma nova hipótese trazida pelo art. 75, I, da Lei n° 14.133/2021, instituindo a dispensa para serviços de manutenção de veículos automotores, em valores inferiores a R$ 100 mil – CORRETA;\nd) essa é hipótese de inexigibilidade, prevista no art. 74, II – ERRADA;\ne) essa era hipótese de dispensa, mas agora, na nova LLC, passou a ser de inexigibilidade (art. 74, V) – ERRADA.\n\nGabarito: alternativa C.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "question": "A contratação, por inexigibilidade, de serviços técnicos especializados, de natureza predominantemente intelectual, com profissionais ou empresas de notória especialização, pode ocorrer nas seguintes hipóteses, exceto:",
+              "options": [
+                "restauração de obras de arte e de bens de valor histórico;",
+                "serviços de publicidade e divulgação;",
+                "patrocínio ou defesa de causas judiciais ou administrativas;",
+                "fiscalização, supervisão ou gerenciamento de obras ou serviços;",
+                "estudos técnicos, planejamentos, projetos básicos ou projetos executivos."
+              ],
+              "answer": 1,
+              "explanation": "o art. 74, III, da Lei 14.133/2021 diz que é inexigível a licitação quando inviável a competição, em especial nos casos de contratação de serviços técnicos especializados de natureza predominantemente intelectual com profissionais ou empresas de notória especialização, vedada a inexigibilidade para serviços de publicidade e divulgação. Assim, encontramos nosso gabarito na alternativa B. Todas as demais alternativas são enquadradas no rol do inciso III como sendo serviços técnicos especializados.\n\nGabarito: alternativa B.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "question": "A respeito da inexigibilidade de licitação, marque a alternativa correta:",
+              "options": [
+                "quando os produtos desejados pela administração só puderem ser fornecidos por representante comercial exclusivo, será permitida a indicação de marcas específicas, como decorrência dessa exclusividade;",
+                "objetos que devam ou possam ser contratados por meio de credenciamento não podem ser contratados por inexigibilidade, mas sim por dispensa de licitação;",
+                "a exclusividade do empresário, nos casos de contratação de profissional do setor artístico, deve ser devidamente comprovada, demonstrando-se que a representação exclusiva abrange o país ou estado específico, vedada a exclusividade para representação restrita a um evento específico;",
+                "autoriza-se a subcontratação de profissionais, nos casos de contratação de serviços técnicos especializados de natureza predominantemente intelectual com profissionais de notória especialização;",
+                "a locação de imóveis por inexigibilidade independe da existência de imóveis públicos vagos e disponíveis que atendam ao objeto."
+              ],
+              "answer": 2,
+              "explanation": "a) nessas hipóteses, a administração deve apresentar documento idôneo capaz de comprovar que o objeto é fornecido ou prestado por representante comercial exclusivo, sendo vedada a preferência por marca específica (art. 74, § 1°, Lei n° 14.133/2021) – ERRADA;\nb) objetos que devam ou possam ser contratados por meio de credenciamento são sim contratados por inexigibilidade, nos termos do art. 74, IV da LLC – ERRADA;\nc) para contratação de artistas, considera-se empresário exclusivo a pessoa física ou jurídica que possua contrato, declaração, carta ou outro documento que ateste a exclusividade permanente e contínua de representação, no País ou em Estado específico, do profissional do setor artístico, afastada a possibilidade de contratação direta por inexigibilidade por meio de empresário com representação restrita a evento ou local específico (art. 74, § 2°, Lei n° 14.133/2021) – CORRETA;\nd) de acordo com o art. 74, § 4° da LLC, na contratação de serviços técnicos especializados de natureza predominantemente intelectual com profissionais de notória especialização, é vedada a subcontratação de empresas ou a atuação de profissionais distintos daqueles que tenham justificado a inexigibilidade (art. 74, § 4°, Lei n° 14.133/2021) – ERRADA;\ne) depende sim. Para aquisição ou locação de imóveis por inexigibilidade, cujas características de instalações e de localização tornem necessária sua escolha, devem ser observados alguns requisitos, entre os quais a certificação da inexistência de imóveis públicos vagos e disponíveis que atendam ao objeto (art. 74, § 5°, II da LLC) – ERRADA.\n\nGabarito: alternativa C.",
+              "id": 4
+            },
+            {
+              "type": "multiple_choice",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "question": "A Secretaria de Saúde de determinado estado da federação pretende alienar um imóvel de sua propriedade. Em consulta efetuada à assessoria jurídica do órgão, foram prestadas algumas informações sobre o procedimento para a alienação, previstos na Lei n° 14.133/2021. Assinale a única informação repassada que não condiz com o atual ordenamento jurídico:",
+              "options": [
+                "a licitação para alienação do imóvel poderá ser feita tanto por concorrência quanto por leilão;",
+                "a licitação será dispensada para a realização de dação em pagamento;",
+                "a alienação do bem dependerá de autorização legislativa, em regra;",
+                "a licitação deverá ser feita por leilão, adotando-se o critério de julgamento de maior lance;",
+                "caso o imóvel esteja ocupado, o licitante que se submeta a todas as regras do edital terá direito de preferência em sua aquisição."
+              ],
+              "answer": 0,
+              "explanation": "lembrem-se que estamos buscando a alternativa incorreta, a que não está de acordo com a Lei n° 14.133/2021. Vamos explicar cada uma:\na) a alienação de bens imóveis da administração exigirá autorização legislativa e dependerá de licitação na modalidade leilão, podendo ser dispensada em alguns casos (art. 76, I). A concorrência era admitida no regime anterior, mas agora a modalidade utilizada é somente o leilão – ERRADA;\nb) é dispensada a realização de licitação nos casos de dação em pagamento, nos termos do art. 76, I, ‘a’ – CORRETA;\nc) tratando-se de bens imóveis, inclusive os pertencentes às autarquias e às fundações, a alienação exigirá autorização legislativa (art. 76, I). Mas se o bem tiver sido adquirido por procedimento judicial ou recebido por dação em pagamento, a autorização legislativa é dispensada (art. 76, §1°) – CORRETA;\nd) certinho. A lei prevê apenas o leilão como modalidade para alienação de bens da administração, e essa modalidade somente se realiza pelo critério de maior lance – CORRETA;\ne) para a venda de bens imóveis, será concedido direito de preferência ao licitante que, submetendo-se a todas as regras do edital, comprove a ocupação do imóvel objeto da licitação (art. 77) – CORRETA.\n\nGabarito: alternativa A.",
+              "id": 5
+            },
+            {
+              "type": "multiple_choice",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "question": "O processo de licitação é composto por diversas fases. A fase preparatória do processo licitatório é caracterizada pelo planejamento. Sobre as fases da licitação, assinale a alternativa correta:",
+              "options": [
+                "a fase de julgamento deve, necessariamente, ser realizada antes da habilitação dos licitantes;",
+                "as licitações são realizadas na forma eletrônica, vedada a realização de atos presenciais, em qualquer caso;",
+                "os itens de consumo adquiridos para suprir demandas da administração devem ter qualidade comum, vedada a aquisição de artigos de luxo;",
+                "sempre que o valor estimado para uma licitação for superior a R$ 330 milhões, o processo licitatório será iniciado, obrigatoriamente, com uma audiência pública;",
+                "o valor previamente estimado da contratação deverá ser compatível com os valores praticados pelo mercado, independentemente das peculiaridades do local de execução do objeto."
+              ],
+              "answer": 2,
+              "explanation": "a) a habilitação poderá, mediante ato motivado com explicitação dos benefícios decorrentes, anteceder as fases de apresentação das propostas e julgamento, nos termos do art. 17, §1° da Lei n° 14.133/2021 – ERRADA;\nb) as licitações serão realizadas preferencialmente sob a forma eletrônica, admitida a utilização da forma presencial, desde que motivada, devendo a sessão pública ser registrada em ata e gravada em áudio e vídeo (art. 17, §2°) – ERRADA;\nc) os itens de consumo adquiridos para suprir as demandas das estruturas da Administração Pública deverão ser de qualidade comum, não superior à necessária para cumprir as finalidades às quais se destinam, vedada a aquisição de artigos de luxo (art. 20) – CORRETA;\nd) essa era a previsão legal anteriormente. Agora, a lei não estabelece nem a obrigatoriedade da audiência pública, e nem um valor de referência para isso. Assim, diz o art. 21 que a “Administração poderá convocar, com antecedência mínima de 8 (oito) dias úteis, audiência pública, presencial ou a distância, na forma eletrônica, sobre licitação que pretenda realizar, com disponibilização prévia de informações pertinentes, inclusive de estudo técnico preliminar e elementos do edital de licitação, e com possibilidade de manifestação de todos os interessados” – ERRADA;\ne) o valor previamente estimado da contratação deverá ser compatível com os valores praticados pelo mercado, considerados os preços constantes de bancos de dados públicos e as quantidades a serem contratadas, observadas a potencial economia de escala e as peculiaridades do local de execução do objeto (art. 23) – ERRADA.\n\nGabarito: alternativa C.",
+              "id": 6
+            },
+            {
+              "type": "multiple_choice",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "question": "São instrumentos auxiliares à licitação, previstos na Lei n° 14.133/2021:",
+              "options": [
+                "credenciamento, mantendo-se à disposição do público, em sítio eletrônico oficial, edital de chamamento de interessados, de modo a permitir o cadastramento permanente de novos interessados;",
+                "pré-qualificação, vedada a exigência de comprovação de qualidade quando se tratar de bens;",
+                "procedimento de manifestação de interesse, que outorga direito de preferência ao realizador de estudos e projetos prévios;",
+                "sistema de registro de preços, que vincula a administração à contratação dos bens registrados;",
+                "registro cadastral, com chamamento mensal obrigatório dos interessados para atualização dos seus cadastros."
+              ],
+              "answer": 0,
+              "explanation": "a) a administração deverá divulgar e manter à disposição do público, em sítio eletrônico oficial, edital de chamamento de interessados, de modo a permitir o cadastramento permanente de novos interessados (art. 79, parágrafo único, I) – CORRETA;\nb) na pré-qualificação, quando aberta a bens, poderá ser exigida a comprovação de qualidade (art. 80, §1°, II) – ERRADA;\nc) a realização, pela iniciativa privada, de estudos, investigações, levantamentos e projetos em decorrência do procedimento de manifestação de interesse não atribuirá ao realizador direito de preferência no processo licitatório (art. 81, §2°, I) – ERRADA;\nd) não vincula. Na forma do art. 83, a existência de preços registrados implicará compromisso de fornecimento nas condições estabelecidas, mas não obrigará a Administração a contratar, facultada a realização de licitação específica para a aquisição pretendida, desde que devidamente motivada – ERRADA;\ne) o sistema de registro cadastral unificado será público e deverá ser amplamente divulgado e estar permanentemente aberto aos interessados, e será obrigatória a realização de chamamento público pela internet, no mínimo anualmente, para atualização dos registros existentes e para ingresso de novos interessados (art. 87, §1°) – ERRADA.\n\nGabarito: alternativa A.",
+              "id": 7
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida – Inédita",
+              "statement": "O órgão de assessoramento jurídico de uma autarquia federal emitiu parecer ao final da fase preparatória de procedimento licitatório. Nesses casos, o parecer deve ser redigido em linguagem simples e compreensível, dispensada a exposição dos pressupostos de fato e de direito.",
+              "correctOption": "E",
+              "explanation": "Nada disso. Na elaboração do parecer jurídico, o órgão de assessoramento jurídico da Administração deverá redigir sua manifestação em linguagem simples e compreensível e de forma clara e objetiva, com apreciação de todos os elementos indispensáveis à contratação e com exposição dos pressupostos de fato e de direito levados em consideração na análise jurídica (art. 53, II). Gabarito: errado.",
+              "id": 8
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "Em uma licitação para alienação de um imóvel pertencente à administração, não se tratando de caso de dispensa, deverá ser adotada a modalidade leilão e o critério de maior lance, necessariamente.",
+              "correctOption": "C",
+              "explanation": "Exatamente. Não se esqueçam: para alienação de bens no regime da nova Lei de Licitações, a modalidade será sempre o leilão, exceto naqueles casos em que a licitação seja dispensada. Ademais, para o leilão, o único critério de julgamento cabível é o maior lance. Então, está correta a afirmativa. Gabarito: correto.",
+              "id": 9
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "A aquisição de computadores poderá ocorrer mediante dispensa de licitação, para a parcela dos bens dessa natureza adquiridos, no exercício financeiro, pela respectiva unidade gestora, em valor inferior a R$ 50 mil.",
+              "correctOption": "C",
+              "explanation": "Para contratação que envolva valores inferiores a R$ 50 mil, no caso de outros serviços e compras, a licitação também será dispensável (art. 75, II). Esse valor será definido pelo somatório das aquisições de bens de mesma natureza, durante o exercício financeiro. Com efeito, o art. 75, § 1º, dispõe que: § 1º Para fins de aferição dos valores que atendam aos limites referidos nos incisos I e II do caput deste artigo, deverão ser observados: I - o somatório do que for despendido no exercício financeiro pela respectiva unidade gestora; II - o somatório da despesa realizada com objetos de mesma natureza, entendidos como tais aqueles relativos a contratações no mesmo ramo de atividade. Gabarito: correto.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u6l8",
+          "title": "Lição 8",
+          "slides": [
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "“Compra” é a aquisição remunerada de bens para fornecimento de uma só vez ou parceladamente, que deverá ser feita de maneira planejada e atender, entre outros, ao princípio da padronização.",
+              "correctOption": "C",
+              "explanation": "Nos termos do art. 6°, X da NLLC, “compra é a aquisição remunerada de bens para fornecimento de uma só vez ou parceladamente”. As compras deverão ser planejadas pela administração, e esse planejamento deverá considerar a expectativa de consumo anual e observar o atendimento ao princípio da padronização, entre outros. Esse princípio considera, nas compras realizadas, a compatibilidade de especificações estéticas, técnicas ou de desempenho (art. 40, V, ‘a’). Gabarito: correto.",
+              "id": 1
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "A administração deve, com base na expectativa mensal de consumo, planejar as suas compras, devendo observar as condições de aquisição e pagamento semelhantes às do setor privado.",
+              "correctOption": "E",
+              "explanation": "O planejamento de compras deverá considerar a expectativa de consumo anual (e não mensal) e observar as condições de aquisição e pagamento semelhantes às do setor privado, conforme disposto no art. 40, I da NLLC. Gabarito: errado.",
+              "id": 2
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "O processo de padronização das compras realizadas pela administração deverá conter parecer técnico sobre o produto, despacho motivado da autoridade, bem como uma síntese da justificativa e descrição do padrão definido, vedada a utilização de processo efetivado em outro órgão ou entidade de qualquer nível federativo.",
+              "correctOption": "E",
+              "explanation": "Nos termos do art. 43 da Lei, o processo de padronização deverá conter: I – parecer técnico sobre o produto, considerados especificações técnicas e estéticas, desempenho, análise de contratações anteriores, custo e condições de manutenção e garantia; II – despacho motivado da autoridade superior, com a adoção do padrão; III – síntese da justificativa e descrição sucinta do padrão definido, divulgadas em sítio eletrônico oficial. Além disso, o §1° do mesmo artigo diz que é permitida a padronização com base em processo de outro órgão ou entidade de nível federativo igual ou superior ao do órgão adquirente. Gabarito: errado.",
+              "id": 3
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "A administração não poderá realizar compras de forma parcelada quando o processo de padronização ou de escolha de marca levar a fornecedor exclusivo.",
+              "correctOption": "C",
+              "explanation": "Nem sempre a administração vai poder comprar bens de forma parcelada. Nesse sentido, o art. 40, § 3°, dispõe que o parcelamento não será adotado, entre outras situações, quando o processo de padronização ou de escolha de marca levar a fornecedor exclusivo (inciso III). Gabarito: correto.",
+              "id": 4
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "É possível que, em suas compras, a administração vede a contratação de um produto ou marca específicos, especialmente quando restar comprovado que esses produtos já foram utilizados pela administração e não atenderam aos requisitos necessários ao atendimento da obrigação contratual.",
+              "correctOption": "C",
+              "explanation": "Isso é possível mesmo. A administração pode, excepcionalmente, vedar a contratação de marca ou produto, quando, mediante processo administrativo, restar comprovado que produtos adquiridos e utilizados anteriormente pela administração não atendem a requisitos indispensáveis ao pleno adimplemento da obrigação contratual (art. 41, III). Gabarito: correto.",
+              "id": 5
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "No caso de licitação para fornecimento de bens, a proof of concept, ou prova de conceito, consiste na realização de testes para comprovação de que o produto realmente funciona, ou seja, que o produto atende às condições de funcionamento exigidas para a satisfação da necessidade da administração, conforme especificado no edital da licitação.",
+              "correctOption": "C",
+              "explanation": "A prova de conceito do bem (chamada de proof of concept – POC) consiste na realização de testes para certificar que o produto realmente funciona conforme prometido pelo licitante. Por exemplo: a administração licita um respirador e exige a prova de conceito para que o licitante demonstre se os seus respiradores efetivamente funcionam. Gabarito: correto.",
+              "id": 6
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "A carta de solidariedade deverá necessariamente constar dos processos de licitação que envolvam o fornecimento de bens, visando a assegurar a execução do contrato, no caso de ser o licitante um revendedor ou distribuidor.",
+              "correctOption": "E",
+              "explanation": "Nos termos do art. 41, IV, no caso de licitação que envolva o fornecimento de bens, a Administração poderá excepcional e motivadamente, solicitar carta de solidariedade emitida pelo fabricante, que assegure a execução do contrato, no caso de licitante revendedor ou distribuidor. Então, não se trata de uma imposição, mas sim de uma situação excepcional, que pode ser adotada pela administração. A carta de solidariedade é um documento emitido pelo revendedor e pelo fabricante, estabelecendo a responsabilidade solidária (recíproca) sobre o bem a ser fornecido. Poderia ocorrer, por exemplo, com um fabricante de peças de computadores e a sua revendedora. Gabarito: errado.",
+              "id": 7
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "O termo de referência é o documento necessário para a contratação de bens e serviços com o objetivo de definir o objeto da licitação, sua natureza, os quantitativos, o prazo do contrato e, se for o caso, a possibilidade de sua prorrogação.",
+              "correctOption": "C",
+              "explanation": "O art. 6°, XXIII da Lei n° 14.133/2021 define o termo de referência como o documento necessário para a contratação de bens e serviços, que deve conter alguns parâmetros e elementos descritivos previstos na Lei, tal como a definição do objeto, incluídos sua natureza, os quantitativos, o prazo do contrato e, se for o caso, a possibilidade de sua prorrogação. Gabarito: correto.",
+              "id": 8
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "O termo de referência é o instrumento utilizado para definição do objeto da licitação e se aplica à contratação de bens e serviços, distinguindo-se, assim, do projeto básico, que define e dimensiona obras ou serviços contratados pela administração.",
+              "correctOption": "C",
+              "explanation": "O projeto básico, segundo a Nova Lei de Licitações, é o “conjunto de elementos necessários e suficientes, com nível de precisão adequado para definir e dimensionar a obra ou o serviço, ou o complexo de obras ou de serviços objeto da licitação (art. 6°, XXV). Já o termo de referência é o documento necessário para a contratação de bens e serviços (art. 6°, XXIII). Assim, tanto o termo de referência como o projeto básico se destinam a definir o objeto da licitação. Contudo, o termo de referência se aplica à contratação de bens ou serviços, ao passo que o projeto básico é utilizado para obras ou serviços. Gabarito: correto.",
+              "id": 9
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "As licitações de obras e serviços de engenharia devem respeitar as normas relativas à disposição final ambientalmente adequada dos resíduos sólidos gerados na execução do contrato, assim como a utilização de produtos, de equipamentos e de serviços que, comprovadamente, favoreçam a redução do consumo de energia e de recursos naturais.",
+              "correctOption": "C",
+              "explanation": "A NLLC traz essa preocupação com as condições ambientais na realização de obras e serviços de engenharia, determinando que as licitações para contratação desses objetos deve dar um fim adequado aos resíduos sólidos gerados, bem como priorizar a utilização de produtos, de equipamentos e de serviços que, comprovadamente, favoreçam a redução do consumo de energia e de recursos naturais (art. 45, I e III). Gabarito: correto.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u6l9",
+          "title": "Lição 9",
+          "slides": [
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "Na realização de obras e serviços de engenharia, a especificação do objeto poderá constar apenas de termo de referência ou projeto básico, dispensada a elaboração de projeto executivo, desde que o estudo técnico preliminar demonstre a desnecessidade deste último projeto.",
+              "correctOption": "C",
+              "explanation": "Em regra, o projeto executivo será obrigatório para a realização de obras e serviços de engenharia. Nesse sentido, o art. 46, §1° diz que é vedada a realização de obras e serviços de engenharia sem projeto executivo, ressalvada a hipótese prevista no § 3º do art. 18 desta Lei. O art. 18, §3°, por sua vez, apresenta uma exceção, ao dizer que, em se tratando de estudo técnico preliminar para contratação de obras e serviços comuns de engenharia, se demonstrada a inexistência de prejuízo para a aferição dos padrões de desempenho e qualidade almejados, a especificação do objeto poderá ser realizada apenas em termo de referência ou em projeto básico, dispensada a elaboração de projetos. Gabarito: correto.",
+              "id": 1
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "No regime de contratação integrada, a administração é responsável por elaborar e desenvolver os projetos básico e executivo, devendo, contudo, exigir da contratada a elaboração de anteprojeto, de acordo com metodologia previamente definida.",
+              "correctOption": "E",
+              "explanation": "A contratação integrada consiste em um regime de contratação de obras e serviços de engenharia em que o contratado é responsável por elaborar e desenvolver os projetos básico e executivo, executar obras e serviços de engenharia, fornecer bens ou prestar serviços especiais e realizar montagem, teste, pré-operação e as demais operações necessárias e suficientes para a entrega final do objeto (art. 6°, XXXII). Então, na verdade, os projetos básico e executivo são elaborados pelo contratado. Assim, a administração é dispensada da elaboração de projeto básico nos casos de contratação integrada (assim consta expressamente na NLLC), hipótese em que deverá ser elaborado anteprojeto de acordo com metodologia definida em ato do órgão competente (art. 46, §2°). Gabarito: errado.",
+              "id": 2
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "Na execução indireta de obras e serviços de engenharia, a execução de cada etapa será obrigatoriamente precedida da conclusão e da aprovação, pela autoridade competente, dos trabalhos relativos às etapas anteriores.",
+              "correctOption": "C",
+              "explanation": "Nos termos do art. 46, § 6°, a execução de cada etapa será obrigatoriamente precedida da conclusão e da aprovação, pela autoridade competente, dos trabalhos relativos às etapas anteriores, quando se tratar de execução de obras e serviços de engenharia. Gabarito: correto.",
+              "id": 3
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "As licitações de serviços em geral devem atender ao princípio da padronização e do parcelamento, quando este for tecnicamente viável e economicamente vantajoso, considerando-se o custo para a administração.",
+              "correctOption": "C",
+              "explanation": "O art. 47 da Lei n° 14.133/2021 estabelece que, nas licitações de serviços, devem ser atendidos os princípios: I – da padronização, considerada a compatibilidade de especificações estéticas, técnicas ou de desempenho; II – do parcelamento, quando for tecnicamente viável e economicamente vantajoso. Ademais, na aplicação do princípio do parcelamento, deverão ser considerados a responsabilidade técnica, o custo para a administração e o dever de buscar a ampliação da competição e de evitar a concentração de mercado (art. 47, § 1°). Gabarito: correto.",
+              "id": 4
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "Admite-se a terceirização da execução de atividades materiais acessórias, instrumentais ou complementares, desde que estabelecido vínculo de subordinação com o funcionário da empresa prestadora de serviço terceirizado.",
+              "correctOption": "E",
+              "explanation": "Nos termos do art. 48, III da NLLC, poderão ser objeto de execução por terceiros as atividades materiais acessórias, instrumentais ou complementares aos assuntos que constituam área de competência legal do órgão ou da entidade, vedado à administração ou a seus agentes, na contratação do serviço terceirizado, estabelecer vínculo de subordinação com funcionário de empresa prestadora de serviço terceirizado. Assim, na verdade, a administração não pode estabelecer relação de subordinação com os funcionários da terceirizada. Gabarito: errado.",
+              "id": 5
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "É vedada, nos contratos de terceirização, a contratação, pelo contratado, de parentes até o terceiro grau de dirigente do órgão ou entidade contratante ou de agente público que desempenhe função na licitação ou atue na fiscalização ou na gestão do contrato.",
+              "correctOption": "C",
+              "explanation": "Durante a vigência do contrato, é vedado ao contratado contratar cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, de dirigente do órgão ou entidade contratante ou de agente público que desempenhe função na licitação ou atue na fiscalização ou na gestão do contrato, devendo essa proibição constar expressamente do edital de licitação (art. 48, parágrafo único). Assim, a NLLC reforça os princípios da moralidade e da impessoalidade nas relações firmadas no âmbito da administração, ainda que mediante terceirização. Gabarito: correto.",
+              "id": 6
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "Desde que não implique perda da economia de escala, a administração poderá contratar mais de uma empresa para executar o mesmo serviço, mantendo o controle individualizado da execução do objeto relativamente a cada um dos contratados.",
+              "correctOption": "C",
+              "explanation": "Em alguns casos, a administração poderá, mediante justificativa expressa, contratar mais de uma empresa ou instituição para executar o mesmo serviço, desde que essa contratação não implique perda de economia de escala. Ademais, nessas hipóteses, a administração deverá manter o controle individualizado da execução do objeto contratual relativamente a cada um dos contratados (art. 49). Gabarito: correto.",
+              "id": 7
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "Exceto quando for inexigível a licitação, a locação de imóveis será precedida de licitação e avaliação prévia do bem.",
+              "correctOption": "C",
+              "explanation": "A locação de imóveis pode ser feita por inexigibilidade de licitação, quando características de instalações e de localização tornem necessária sua escolha (art. 74, V). Fora desses casos, a locação de imóvel depende de licitação, devendo ser precedida de avaliação prévia do bem, do seu estado de conservação, dos custos de adaptações e do prazo de amortização dos investimentos necessários, nos termos do art. 51 da NLLC. Gabarito: correto.",
+              "id": 8
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "Ainda que possa cotar os preços em moeda estrangeira, o pagamento ao licitante brasileiro necessariamente deverá ser efetuado em moeda corrente nacional.",
+              "correctOption": "C",
+              "explanation": "Nos termos do art. 52, § 1°, quando for permitido ao licitante estrangeiro cotar preço em moeda estrangeira, o licitante brasileiro igualmente poderá fazê-lo. Porém, nesses casos, o pagamento feito ao licitante brasileiro eventualmente contratado em virtude de licitação internacional será efetuado em moeda corrente nacional (§ 2°). Gabarito: correto.",
+              "id": 9
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "É vedado ao agente público designado para atuar na área de licitações e contratos estabelecer tratamento diferenciado de natureza comercial, legal, trabalhista, previdenciária ou qualquer outra entre empresas brasileiras e estrangeiras, exceto nas condições autorizadas na Lei de Licitações, como no estabelecimento de margem de preferência para bens produzidos no País e serviços nacionais que atendam às normas técnicas brasileiras.",
+              "correctOption": "C",
+              "explanation": "Em regra, é vedado sim ao agente público designado para atuar na área de licitações e contratos, estabelecer tratamento diferenciado de natureza comercial, legal, trabalhista, previdenciária ou qualquer outra entre empresas brasileiras e estrangeiras, inclusive no que se refere a moeda, modalidade e local de pagamento, mesmo quando envolvido financiamento de agência internacional, nos termos do art. 9°, II da NLLC. Nesse mesmo sentido, o art. 52, § 6° diz que, observados os termos da Lei, o edital não poderá prever condições de habilitação, classificação e julgamento que constituam barreiras de acesso ao licitante estrangeiro, admitindo-se, contudo, a previsão de margem de preferência para bens produzidos no País e serviços nacionais que atendam às normas técnicas brasileiras, na forma definida no art. 26 da Lei n° 14.133/2021. Então, excepcionalmente poderá existir diferença entre licitante brasileiro e estrangeiro, como no caso da margem de preferência. Gabarito: correto.",
+              "id": 10
             }
           ]
         }
