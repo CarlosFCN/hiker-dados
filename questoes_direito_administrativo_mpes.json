@@ -2,7 +2,7 @@
   "id": "direito_administrativo_mpes",
   "title": "Direito Administrativo MPES",
   "acronym": "DADM",
-  "version": "220520261211",
+  "version": "150620261154",
   "units": [
     {
       "id": "1",
@@ -7188,6 +7188,895 @@
               "correctOption": "C",
               "explanation": "Em regra, é vedado sim ao agente público designado para atuar na área de licitações e contratos, estabelecer tratamento diferenciado de natureza comercial, legal, trabalhista, previdenciária ou qualquer outra entre empresas brasileiras e estrangeiras, inclusive no que se refere a moeda, modalidade e local de pagamento, mesmo quando envolvido financiamento de agência internacional, nos termos do art. 9°, II da NLLC. Nesse mesmo sentido, o art. 52, § 6° diz que, observados os termos da Lei, o edital não poderá prever condições de habilitação, classificação e julgamento que constituam barreiras de acesso ao licitante estrangeiro, admitindo-se, contudo, a previsão de margem de preferência para bens produzidos no País e serviços nacionais que atendam às normas técnicas brasileiras, na forma definida no art. 26 da Lei n° 14.133/2021. Então, excepcionalmente poderá existir diferença entre licitante brasileiro e estrangeiro, como no caso da margem de preferência. Gabarito: correto.",
               "id": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "CONTRATOS ADMINISTRATIVOS",
+      "color": "bg-purple-500",
+      "lessons": [
+        {
+          "id": "u7l1",
+          "title": "Lição 1",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "FGV/CNU/Bloco Temático 5: Administração/2025",
+              "question": "O Município Alfa, que fica na região Norte do Brasil, contratou uma obra viária. Durante a execução do contrato, foi identificada uma ruína ancestral de povos originários, ocasionando a revisão do traçado previsto originalmente para a estrada e gerando impactos financeiros no contrato. O contratado solicitou equilíbrio econômico-financeiro, demonstrando os efeitos no valor contratado. Nesse caso, recomenda-se que o Município Alfa:",
+              "options": [
+                "não conceda o pleito, pois esse fato deveria estar previsto no orçamento do contratado;",
+                "conceda o pleito, pois se trata de fato imprevisível;",
+                "não conceda o pleito, remetendo a solicitação ao Tribunal de Contas do Município para a decisão;",
+                "conceda o equilíbrio, mas tenha o cuidado de remeter a solicitação à Câmara de Vereadores para manifestação;",
+                "não conceda o pleito, pois, ao firmar o contrato, o contratado assumiu esse risco."
+              ],
+              "answer": 1,
+              "explanation": "Os contratos administrativos, em regra, devem ser executados conforme pactuados inicialmente. Entretanto, situações excepcionais e imprevisíveis, que alterem as condições pactuadas, justificam a revisão do contrato. Essa é a aplicação da teoria da imprevisão. Nesse sentido, a Lei de Licitações dispõe que: Art. 124. Os contratos regidos por esta Lei poderão ser alterados, com as devidas justificativas, nos seguintes casos: II - por acordo entre as partes: [...]\nd) para restabelecer o equilíbrio econômicofinanceiro inicial do contrato em caso de força maior, caso fortuito ou fato do príncipe ou em decorrência de fatos imprevisíveis ou previsíveis de consequências incalculáveis, que inviabilizem a execução do contrato tal como pactuado, respeitada, em qualquer caso, a repartição objetiva de risco estabelecida no contrato. O caso da questão enquadra-se nas chamadas interferências imprevistas, que são ocorrências materiais, não cogitadas pelas partes na celebração do contrato, mas que surgem na sua execução de modo excepcional e surpreendente, dificultando ou onerando extraordinariamente o prosseguimento e a conclusão dos trabalhos. Dessa forma, a Administração deverá conceder o pedido, já que houve a demonstração do fato imprevisível, que decorreu de situação pré-existente, mas não conhecida no momento da assinatura do contrato. Logo, o gabarito é a letra B. Vejamos o erro nas demais opções:\na) Errada: o fato não era conhecido. Assim, não tinha como constar nos orçamentos;\nc) Errada: o Tribunal de Contas é um órgão de controle, mas não é o responsável por autorizar a concessão de revisão de contratos;\nd) Errada: não existe necessidade de remeter o pedido à Câmara de Vereadores;\ne) Errada: os riscos devem ser repartidos de forma objetiva, nos termos do art. 124, II, “d”, da Lei de Licitações. No caso, como se trata de situação excepcional, o contrato deveria ser revisto.\n\nGabarito: alternativa B.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – CGM Cuiabá MT/2025",
+              "question": "Acerca da penalidade de impedimento de licitar e contratar com a Administração Pública, nos termos da Lei nº 14.133/2021, é correto afirmar que tal sanção",
+              "options": [
+                "é a mais grave prevista na norma em comento, de modo que é a única que não pode ser cumulada com a multa, diferentemente das demais penalidades administrativas.",
+                "admite a reabilitação do licitante ou contratado, mediante o preenchimento cumulativo dos requisitos legais, dentre os quais, o transcurso do prazo mínimo de 1 (um) ano da aplicação da penalidade.",
+                "não poderá ser aplicada nas infrações em que o responsável deixar de entregar a documentação exigida, nem naquela em que ele não mantiver a proposta, salvo em decorrência de fato superveniente devidamente justificado.",
+                "impedirá o responsável de licitar ou contratar no âmbito da Administração Pública direta e indireta de todos os entes federativos, pelo prazo mínimo de 3 (três) anos e máximo de 6 (seis) anos.",
+                "quando aplicada por órgão do Poder Executivo, será de competência exclusiva de Ministro de Estado, de Secretário Estadual ou de Secretário Municipal e, quando aplicada por autarquia ou fundação, será de competência exclusiva da autoridade máxima da entidade."
+              ],
+              "answer": 1,
+              "explanation": "vamos analisar cada um dos itens.\na) Errado. Segundo o disposto no art. 156, § 5º, a penalidade mais grave é a declaração de inidoneidade para licitar ou contratar. Isso porque ela impede o responsável de licitar ou contratar no âmbito da Administração Pública direta e indireta de todos os entes federativos, pelo prazo mínimo de 3 (três) anos e máximo de 6 (seis) anos. A sanção de impedimento de licitar e contratar não é a mais grave prevista na Lei nº 14.133/2021, pois o prazo máximo é de 3 (três) anos e ela é restrita ao ente que aplicou a pena. Quanto à possibilidade de cumular, a pena de multa é a única capaz de acumular com outra. Assim, é possível impor (: (i) multa e advertência; (ii) multa e impedimento; ou (iii) multa e declaração de inidoneidade. Logo, é incorreto afirmar que a sanção de impedimento não pode ser cumulada com a multa.\nb) Correto. De acordo com o art. 163 da Lei nº 14.133/2021, é admitida a reabilitação do licitante ou contratado, desde que cumpridos os requisitos legais cumulativamente, quais sejam: (i) reparação integral do dano causado à Administração Pública; (ii) pagamento da multa; (iii) transcurso do prazo mínimo de 1 (um) ano da aplicação da penalidade, no caso de impedimento de licitar e contratar, ou de 3 (três) anos da aplicação da penalidade, no caso de declaração de inidoneidade; (iv) cumprimento das condições de reabilitação definidas no ato punitivo; e (v) análise jurídica prévia, com posicionamento conclusivo quanto ao cumprimento dos requisitos definidos neste artigo.\nc) Errado. À luz do art. 156, § 4º e, também, incisos IV e V do art. 155, a sanção de impedimento de licitar e contratar pode, sim, ser aplicada às infrações de (i) deixar de entregar a documentação exigida para o certame e (ii) não manter a proposta, salvo em decorrência de fato superveniente devidamente justificado.\nd) Errado. A penalidade de declaração de inidoneidade para licitar ou contratar é que pode durar por, no mínimo, 3 (três) anos e, no máximo, 6 (seis) anos\ne) Errado. A competência exclusiva de Ministro de Estado, Secretário Estadual ou Municipal e da autoridade máxima de autarquias ou fundações refere-se somente à aplicação da sanção de declaração de inidoneidade, conforme art. 156, § 6º, inciso I. Já a sanção de impedimento de licitar e contratar pode ser aplicada por outras autoridades administrativas competentes.\n\nGabarito: alternativa B.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – CGM Cuiabá MT/2025",
+              "question": "Considerando as impugnações previstas na Lei nº 14.133/2021, bem como as normas atinentes ao controle das licitações e contratações, assinale a opção correta.",
+              "options": [
+                "A impugnação do edital de licitação para solicitar esclarecimentos sobre seus termos somente pode ser realizada pelos licitantes habilitados, que são os únicos legitimados para tanto;",
+                "Os integrantes de todas as linhas de defesa têm o dever de prontamente invalidar as licitações e contratações que apresentem vício na sua realização, inclusive em relação às simples impropriedades formais;",
+                "A resposta à impugnação ou ao pedido de esclarecimento devidamente realizado, deve ser divulgada em sítio eletrônico oficial imediatamente após a data designada para a abertura do certame;",
+                "É vedado aos tribunais de contas suspender o procedimento licitatório, no âmbito do controle que por ele é exercido sobre as licitações e contratações, que integra a terceira linha de defesa;",
+                "Qualquer licitante, contratado ou pessoa física ou jurídica poderá representar aos órgãos de controle interno ou ao tribunal de contas competente contra irregularidades na aplicação da lei de licitações."
+              ],
+              "answer": 4,
+              "explanation": "de acordo com o artigo 174 da Lei nº 14.133/2021, qualquer licitante, contratado ou pessoa física ou jurídica pode representar aos órgãos de controle interno ou ao tribunal de contas competente contra irregularidades na aplicação da Lei de Licitações e Contratos. Assim, o gabarito da questão é a letra E. Vamos analisar os demais itens.\na) Errado. Nos termos do caput do art. 164, qualquer pessoa pode (i) impugnar o edital de licitação devido a alguma irregularidade na aplicação da NLLC ou (ii) solicitar esclarecimento sobre os seus termos. É importante notar que o pedido deverá ser protocolado até 3 (três) dias úteis antes da data de abertura do certame.\nb) Errado. As simples impropriedades formais não devem levar à invalidação imediata do processo, mas sim ao seu saneamento. De acordo com o art. 169, § 3º, inciso I, as impropriedades formais devem ser corrigidas, preferencialmente, mediante (i) aperfeiçoamento de controles preventivos e (ii) capacitação dos agentes responsáveis. Por outro lado, consoante o inciso II do mesmo dispositivo, as irregularidades graves que configurem dano à administração exigem a adoção de medidas mais rigorosas, como (i) apuração das infrações administrativas e (ii) envio de documentos ao Ministério Público para apuração de ilícitos da competência deste.\nc) Errado. Segundo o parágrafo único do art. 164, a resposta (i) à impugnação ou (ii) ao pedido de esclarecimento será divulgada em sítio eletrônico oficial no prazo de até três dias úteis, sendo limitado ao último dia útil anterior à data da abertura do certame.\nd) Errado. De acordo com o § 1º do art. 171 da Lei nº 14.133/2021, os tribunais de contas têm competência para suspender cautelarmente o processo licitatório no âmbito do controle exercido sobre as licitações e contratações públicas.\n\nGabarito: alternativa E.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TCE GO/2024",
+              "question": "A Lei nº 14.133/2021 define as funções dos Tribunais de Contas no contexto das normas que regem as licitações e contratos administrativos no Brasil. Assinale a opção que indica uma função dos Tribunais de Contas constante na Lei nº 14.133/2021.",
+              "options": [
+                "Julgar documentos relativos às licitações.",
+                "Promover gestão por competências.",
+                "Frustrar a competitividade em licitações com a participação de cooperativas.",
+                "Estabelecer tratamento igualitário entre empresas brasileiras e estrangeiras.",
+                "Promover congressos sobre contratações públicas."
+              ],
+              "answer": 4,
+              "explanation": "Segundo a Lei 14.133/2021, Art. 173. Os tribunais de contas deverão, por meio de suas escolas de contas, promover eventos de capacitação para os servidores efetivos e empregados públicos designados para o desempenho das funções essenciais à execução desta Lei, incluídos cursos presenciais e a distância, redes de aprendizagem, seminários e congressos sobre contratações públicas. Portanto, o Tribunal deve promover congressos sobre contratações públicas (letra\nE). Julgar os documentos relativos às licitações é uma prerrogativa do agente de contratação (art. 8º). Promover a gestão por competências é uma tarefa da autoridade máxima do órgão ou da entidade (art. 7º). Frustrar a competitividade é uma vedação da Lei de licitações (art. 9º, I, “a”). Por fim, estabelecer tratamento igualitário entre empresas nacionais ou estrangeiras é uma regra geral nas licitações (art. 9º, II).\n\nGabarito: alternativa E.",
+              "id": 4
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / TJ-RR / 2024 – adaptada",
+              "question": "No exercício de suas atribuições, Felício foi questionado acerca da existência de situações em que é assegurado ao contratado o direito à extinção do contrato, à luz do disposto na Lei nº 14.133/2021. Nesse cenário, Felício respondeu corretamente que",
+              "options": [
+                "não há previsão que assegure ao contratado o direito à extinção do contrato, tendo em vista o princípio da supremacia do interesse público.",
+                "qualquer alteração unilateral da avença enseja o direito à extinção do contrato para o contratado, tanto para mais, quanto para menos.",
+                "o atraso superior a 45 (quarenta e cinco) dias no pagamento das parcelas vencidas e devidas pela Administração, enseja o direito à extinção do contrato para o contratado.",
+                "as repetidas suspensões que totalizem 90 (noventa) dias úteis, independentemente da indenização pelas desmobilizações e mobilizações imprevistas, ensejam o direito à extinção do contrato para o contratado."
+              ],
+              "answer": 3,
+              "explanation": "a) Errada: a Lei de Licitações (art. 137, § 2º) prevê estas hipóteses em que o contratado tem direito à extinção do contrato: I - supressão, por parte da Administração, de obras, serviços ou compras que acarrete modificação do valor inicial do contrato além do limite permitido no art. 125 desta Lei; II - suspensão de execução do contrato, por ordem escrita da Administração, por prazo superior a 3 (três) meses; III - repetidas suspensões que totalizem 90 (noventa) dias úteis, independentemente do pagamento obrigatório de indenização pelas sucessivas e contratualmente imprevistas desmobilizações e mobilizações e outras previstas; IV - atraso superior a 2 (dois) meses, contado da emissão da nota fiscal, dos pagamentos ou de parcelas de pagamentos devidos pela Administração por despesas de obras, serviços ou fornecimentos; V - não liberação pela Administração, nos prazos contratuais, de área, local ou objeto, para execução de obra, serviço ou fornecimento, e de fontes de materiais naturais especificadas no projeto, inclusive devido a atraso ou descumprimento das obrigações atribuídas pelo contrato à Administração relacionadas a desapropriação, a desocupação de áreas públicas ou a licenciamento ambiental. Nesses casos, a falha é do poder público. Logo, a contratada poderá exigir a extinção do contrato.\nb) Errada: a alteração unilateral do contrato não enseja direito à extinção, se ocorrer dentro dos limites legais. Trata-se de cláusula exorbitante que decorre do princípio da supremacia do interesse público sobre o privado. Somente a supressão além dos limites dá ensejo ao direito à extinção do contrato.\nc) Errada: o atraso que daria direito à extinção do contrato é aquele superior a 2 meses contados a partir da emissão da nota fiscal. É a famosa “restrição à oposição da exceção do contrato não cumprido”.\nd) Certa: trata-se da hipótese do inciso III do art. 137, § 2º. Gabarito D.",
+              "id": 5
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Macaé - RJ / 2024",
+              "question": "Atenção: Para a resolução da próxima questão, considere: • IIA – The Institute of Internal Auditors (Instituto dos AuditoresInternos) • EFS -Entidade de Fiscalização Superior Sobre a duração dos contratos administrativos, nos termos da Lei nº 14.133/2021, analise as afirmativas a seguir. I. A duração dos contratos será a prevista em edital, e deverão ser observadas, no momento da contratação e a cada exercício financeiro, a disponibilidade de créditos orçamentários e a previsão no plano plurianual, quando ultrapassar 1 (um) exercício financeiro. II. A Administração poderá celebrar contratos com prazo de até 6 (seis) anos nas hipóteses de serviços e fornecimentos contínuos. III. Os contratos de serviços e fornecimentos contínuos poderão ser prorrogados sucessivamente, respeitada a vigência máxima decenal, desde que haja previsão em edital e que a autoridade competente ateste que as condições e os preços permanecem vantajosos para a Administração. Está correto o que se afirma em",
+              "options": [
+                "I, somente.",
+                "I e II, somente.",
+                "I e III, somente.",
+                "II e III, somente.",
+                "I, II e III."
+              ],
+              "answer": 2,
+              "explanation": "Verdadeiro: I. A duração dos contratos será a prevista em edital, e deverão ser observadas, no momento da contratação e a cada exercício financeiro, a disponibilidade de créditos orçamentários e a previsão no plano plurianual, quando ultrapassar 1 (um) exercício financeiro. A assertiva está em conformidade com o art. 105 da Lei de Licitações: Art. 105. A duração dos contratos regidos por esta Lei será a prevista em edital, e deverão ser observadas, no momento da contratação e a cada exercício financeiro, a disponibilidade de créditos orçamentários, bem como a previsão no plano plurianual, quando ultrapassar 1 (um) exercício financeiro. Falso: II. A Administração poderá celebrar contratos com prazo de até 6 (seis) anos nas hipóteses de serviços e fornecimentos contínuos. É de até cinco anos o prazo para contratos nas hipóteses de serviços e fornecimentos contínuos (art. 106, caput). Esse prazo requer cuidado, porque se trata de um período máximo para o prazo “inicial” do contrato. Pode haver prorrogação até o limite de dez anos (arts. 106 e 107). Verdadeiro: III. Os contratos de serviços e fornecimentos contínuos poderão ser prorrogados sucessivamente, respeitada a vigência máxima decenal, desde que haja previsão em edital e que a autoridade competente ateste que as condições e os preços permanecem vantajosos para a Administração. As prorrogações sucessivas dos contratos de serviços e fornecimentos contínuos podem levá-los a um prazo “total” máximo de dez anos (vigência máxima decenal), conforme o art. 107. Os requisitos são a previsão em edital e o ateste, pela autoridade competente, sobre a vantagem para a Administração: Art. 107. Os contratos de serviços e fornecimentos contínuos poderão ser prorrogados sucessivamente, respeitada a vigência máxima decenal, desde que haja previsão em edital e que a autoridade competente ateste que as condições e os preços permanecem vantajosos para a Administração, permitida a negociação com o contratado ou a extinção contratual sem ônus para qualquer das partes. Logo, as afirmativas I e III estão corretas. Gabarito C.",
+              "id": 6
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Macaé - RJ / 2024",
+              "question": "Sobre as prerrogativas da administração nos contratos regidos pela Lei nº 14.133/21, analise as afirmativas a seguir: I. As cláusulas econômico-financeiras e monetárias dos contratos poderão ser alteradas unilateralmente pela Administração. II. A Administração poderá ocupar provisoriamente bens móveis e imóveis e utilizar pessoal e serviços vinculados ao objeto do contrato nas hipóteses de risco à prestação de serviços essenciais. III. A administração poderá modificá-los, unilateralmente, para melhor adequação às finalidades de interesse público, hipótese em que as cláusulas econômico-financeiras do contrato deverão ser revistas para que se mantenha o equilíbrio contratual. Está correto o que se afirma em:",
+              "options": [
+                "II, somente.",
+                "I e II, somente.",
+                "I e III, somente.",
+                "II e III, somente.",
+                "I, II e III."
+              ],
+              "answer": 3,
+              "explanation": "Falso: I. As cláusulas econômico-financeiras e monetárias dos contratos poderão ser alteradas unilateralmente pela Administração. É necessária prévia concordância do contratado para que possam ser alteradas as cláusulas econômicofinanceiras e monetárias dos contratos (Lei de Licitações, art. 104, §1º): § 1º As cláusulas econômico-financeiras e monetárias dos contratos não poderão ser alteradas sem prévia concordância do contratado. § 2º Na hipótese prevista no inciso I do caput deste artigo, as cláusulas econômico-financeiras do contrato deverão ser revistas para que se mantenha o equilíbrio contratual. Logo, essas cláusulas não podem ser alteradas unilateralmente pela Administração. Verdadeiro: II. A Administração poderá ocupar provisoriamente bens móveis e imóveis e utilizar pessoal e serviços vinculados ao objeto do contrato nas hipóteses de risco à prestação de serviços essenciais. A afirmativa corresponde a um tipo de cláusula exorbitante, o qual é previsto no art. 104, V, “a”. Verdadeiro: III. A administração poderá modificá-los, unilateralmente, para melhor adequação às finalidades de interesse público, hipótese em que as cláusulas econômico-financeiras do contrato deverão ser revistas para que se mantenha o equilíbrio contratual. De fato, em caso de alteração unilateral do contrato pela Administração, é necessário rever as cláusulas econômico-financeiras para que se mantenha o equilíbrio contratual, por força do art. 104, § 2º. Nesse sentido, estão certas as afirmativas II e III. Gabarito D.",
+              "id": 7
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Macaé - RJ / 2024",
+              "question": "A Sociedade empresária K. Lote Ltda. foi contratada pela Secretaria de Infraestrutura do Município Y para prestação de serviços de engenharia. No curso da execução do pacto, a sociedade empresária contratada praticou atos que configuraram infrações puníveis com a penalidade de declaração de inidoneidade para licitar e contratar. Nessa situação, considerando as disposições da Lei nº 14.133/21, a declaração de inidoneidade",
+              "options": [
+                "somente poderá ser aplicada pelo Prefeito Municipal.",
+                "não poderá ser inferior a seis nem superior a oito anos.",
+                "será aplicada pelo Secretário Municipal de Infraestrutura.",
+                "poderá ser aplicada pelo fiscal do contrato, ouvidos o órgão de controle interno e a assessoria jurídica.",
+                "terá efeitos somente na administração direta e indireta do Município Y."
+              ],
+              "answer": 2,
+              "explanation": "Por força da Lei 14.133/2021, art. 156, § 6º, I, quando a sanção referente à declaração de inidoneidade para licitar e contratar for aplicada por órgão do Poder Executivo municipal, como é o caso desta questão, a competência exclusiva é do secretário municipal. Logo, está certa a opção C e estão erradas as opções A e D. Vejamos as demais assertivas:\nb) Errada: a declaração de inidoneidade para licitar e contratar tem prazo mínimo de três e prazo máximo de seis anos.\ne) Errada: os efeitos da declaração de inidoneidade alcançam a Administração direta e indireta de todos os entes federativos, não apenas daquele que aplicou a sanção. A tabela abaixo faz um resumo do assunto: Impedimento Declaração de inidoneidade Alcance No ente Federação Todos os entes Prazo Até 3 anos De 3 a 6 anos Competência Sem definição Competência exclusiva de: (i) ministros de Estado ou secretários estaduais ou municipais; (ii) autoridade máxima de autarquia ou fundação; ou (iii) equivalentes nos demais Poderes. Gabarito C.",
+              "id": 8
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Macaé - RJ / 2024",
+              "question": "O Município X contratou a sociedade empresária K. Lote Ltda. para prestação de serviços contínuos, com regime de dedicação exclusiva de mão-de-obra. Apesar de a fiscalização do contrato ter adotado todas as medidas previstas em sua esfera de competências no acompanhamento e fiscalização do pacto, a contratada descumpriu suas obrigações trabalhistas e previdenciárias junto aos órgãos competentes. Segundo a Lei nº 14.133/21, a responsabilidade deve ser atribuída",
+              "options": [
+                "à Administração, que responderá subsidiariamente pelos encargos trabalhistas.",
+                "à contratada, exclusivamente, que será responsável pelos encargos trabalhistas, previdenciários, fiscais e comerciais resultantes da execução do contrato.",
+                "à Administração, que responderá solidariamente pelos encargos previdenciários.",
+                "à Administração e à contratada, que responderão solidariamente pelos encargos previdenciários e trabalhistas.",
+                "à Administração e à contratada, que responderão solidariamente pelos danos causados à terceiros."
+              ],
+              "answer": 1,
+              "explanation": "Somente o contratado será responsável pelos encargos trabalhistas, previdenciários, fiscais e comerciais resultantes da execução do contrato (Lei 14.133, art. 121, caput). Contudo, exclusivamente nas contratações de serviços contínuos com regime de dedicação exclusiva de mão de obra, quando houver comprovada falha na fiscalização do cumprimento das obrigações do contratado, a Administração responderá: (i) solidariamente pelos encargos previdenciários; e (ii) subsidiariamente pelos encargos trabalhistas. No entanto, repare que não houve, no caso da questão, nenhuma falha na fiscalização. Logo, exclusivamente a contratada responderá pelos referidos encargos, bem como por todos os outros, conforme nos diz a opção B. A responsabilidade solidária (no caso dos encargos previdenciários) implica em uma resposta conjunta da Administração e do contratado. Por outro lado, a responsabilidade subsidiária (para os encargos trabalhistas) implica na possibilidade de a Administração ser acionada caso o contratado não tiver condições de arcar com suas obrigações. Gabarito B.",
+              "id": 9
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Macaé - RJ / 2024",
+              "question": "Acerca da execução e da fiscalização dos contratos administrativos, analise as afirmativas a seguir. I. A posse de novo prefeito no respectivo cargo pode justificar o retardamento dos serviços contratados, tendo em vista que a gestão que se inicia tem a obrigação de avaliar a necessidade de manutenção da avença. II. O fiscal do contrato anotará em registro próprio todas as ocorrências relacionadas à execução do contrato, determinando o que for necessário para a regularização das faltas ou dos defeitos observados. III. A empresa ou o profissional contratado para auxiliar o fiscal do contrato no exercício de suas funções assumirá responsabilidade civil objetiva pela veracidade e pela precisão das informações prestadas. Está correto o que se afirma em",
+              "options": [
+                "II, somente.",
+                "I e II, somente.",
+                "I e III, somente.",
+                "II e III somente.",
+                "I, II e III."
+              ],
+              "answer": 3,
+              "explanation": "Falso: I. A posse de novo prefeito no respectivo cargo pode justificar o retardamento dos serviços contratados, tendo em vista que a gestão que se inicia tem a obrigação de avaliar a necessidade de manutenção da avença. Não pode a Administração retardar imotivadamente a execução de obra ou de serviço, inclusive na hipótese de posse de novo chefe do Poder Executivo, conforme prevê a Lei de Licitações, art. 115, § 1º: Art. 115. [...] § 1º É proibido à Administração retardar imotivadamente a execução de obra ou serviço, ou de suas parcelas, inclusive na hipótese de posse do respectivo chefe do Poder Executivo ou de novo titular no órgão ou entidade contratante. Verdadeiro: II. O fiscal do contrato anotará em registro próprio todas as ocorrências relacionadas à execução do contrato, determinando o que for necessário para a regularização das faltas ou dos defeitos observados. Trata-se de correta reprodução do art. 117, §1º, em que há uma obrigação do fiscal de contrato: Art. 117 [...] § 1º O fiscal do contrato anotará em registro próprio todas as ocorrências relacionadas à execução do contrato, determinando o que for necessário para a regularização das faltas ou dos defeitos observados. Verdadeiro: III. A empresa ou o profissional contratado para auxiliar o fiscal do contrato no exercício de suas funções assumirá responsabilidade civil objetiva pela veracidade e pela precisão das informações prestadas. De fato, é objetiva, no exercício de suas funções, a responsabilidade civil da empresa ou profissional contratado para auxiliar o fiscal do contrato, por força do art. 117, §4º, I: Art. 117 [...] § 4º Na hipótese da contratação de terceiros prevista no caput deste artigo, deverão ser observadas as seguintes regras: I - a empresa ou o profissional contratado assumirá responsabilidade civil objetiva pela veracidade e pela precisão das informações prestadas, firmará termo de compromisso de confidencialidade e não poderá exercer atribuição própria e exclusiva de fiscal de contrato; II - a contratação de terceiros não eximirá de responsabilidade o fiscal do contrato, nos limites das informações recebidas do terceiro contratado. Logo, são verdadeiras as afirmativas II e III. Gabarito D.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u7l2",
+          "title": "Lição 2",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Macaé - RJ / 2024",
+              "question": "A sociedade empresária K. Lote Ltda. firmou contrato para prestação de serviços ao Município de Macaé após regular procedimento licitatório. No entanto, a Administração contratante praticou diversas irregularidades que impossibilitaram a execução do pacto pela sociedade empresária. Posteriormente, foi declarada a extinção judicial do contrato por culpa da Administração. Nessa situação, sobre os direitos da sociedade empresária K. Lote Ltda., analise os itens a seguir. I. Ressarcimento dos prejuízos regularmente comprovados que houver sofrido. II. Pagamentos devidos pela execução total do contrato. III. Pagamento dos custos de desmobilização. Está correto o que se afirma em",
+              "options": [
+                "I, somente.",
+                "I e II, somente.",
+                "I e III, somente.",
+                "II e III, somente.",
+                "I, II e III."
+              ],
+              "answer": 2,
+              "explanation": "Por força da Lei de Licitações, art. 138, §2º, somente os itens I e III correspondem corretamente a direitos do contratado quando a extinção do contrato decorrer de culpa exclusiva da Administração. Vejamos o que prevê a Lei de Licitações: Art. 138 [...] § 2º Quando a extinção decorrer de culpa exclusiva da Administração, o contratado será ressarcido pelos prejuízos regularmente comprovados (item I) que houver sofrido e terá direito a: I – devolução da garantia; II – pagamentos devidos pela execução do contrato até a data de extinção; III – pagamento do custo da desmobilização. (item III) O item II, contudo, está incorreto, pois a empresa não vai receber pelo total, mas apenas pela parcela executada até a extinção. Observação: a FGV deu a letra E como gabarito definitivo. Contudo, isso é um nítido erro da banca. Nesse caso excepcional, vamos desconsiderar o gabarito e marcar a opção correta como letra C, pois se trata de erro claro.\n\nGabarito: C.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Macaé - RJ / 2024",
+              "question": "As contratações públicas, nos termos da Lei nº 14.133/2021, deverão se submeter às práticas contínuas e permanentes de gestão de riscos e de controle preventivo, inclusive mediante a adoção de recursos de tecnologia da informação. Além de estarem subordinadas ao controle social, sujeitar-se-ão à",
+              "options": [
+                "primeira linha de defesa, integrada pelas unidades de assessoramento jurídico.",
+                "terceira linha de defesa, integrada pelo controle interno do próprio órgão ou entidade.",
+                "segunda linha de defesa, integrada pelo tribunal de contas.",
+                "primeira linha de defesa, integrada pelos agentes de licitação.",
+                "segunda linha de defesa, integrada pelos agentes de licitação e pelas unidades de assessoramento jurídico."
+              ],
+              "answer": 3,
+              "explanation": "As linhas de defesa a que se sujeitam as contratações públicas são previstas pelos incisos I, II e III do art. 169 da Lei de Licitações. Vamos às assertivas:\na) Errada: as unidades de assessoramento jurídico integram a segunda linha de defesa.\nb) Errada: as unidades de controle interno do próprio órgão ou entidade integram a segunda linha de defesa.\nc) Errada: o tribunal de contas integra a terceira linha de defesa.\nd) Certa: isso mesmo. Os agentes de licitação, bem como os servidores ou empregados públicos e autoridades que atuam na estrutura de governança do órgão ou entidade, integram a primeira linha de defesa.\ne) Errada: como vimos, os agentes de licitação integram a primeira linha de defesa, e as unidades de assessoramento jurídico integram a segunda linha. Gabarito D.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Macaé - RJ / 2024",
+              "question": "A sociedade empresária K. Lote Ltda. foi contratada pelo Município de Macaé para prestar serviços contínuos com dedicação exclusiva de mão de obra. No entanto, a ouvidoria do Município recebeu uma denúncia de que a contratada não estava recolhendo os encargos trabalhistas e previdenciários devidos. Posteriormente, verificou-se que o cumprimento dessas obrigações pela sociedade empresária não foi objeto de fiscalização pelo servidor designado como fiscal do pacto firmado entre aquela sociedade e o Município de Macaé. Considerando o disposto na situação hipotética, à luz das disposições da Lei nº 14.133/2021, analise as afirmativas a seguir. I. A Administração responderá subsidiariamente pelos encargos trabalhistas, independentemente de falha na fiscalização do cumprimento das obrigações do contratado. II. A Administração não poderá efetuar diretamente o pagamento das verbas trabalhistas devidas pelo contratado. III. A Administração responderá solidariamente pelos encargos previdenciários, se comprovada falha na fiscalização do cumprimento das obrigações do contratado. Está correto o que se afirma em",
+              "options": [
+                "I, apenas.",
+                "II, apenas.",
+                "III, apenas.",
+                "I e II, apenas.",
+                "II e III, apenas."
+              ],
+              "answer": 2,
+              "explanation": "Falso: I. A Administração responderá subsidiariamente pelos encargos trabalhistas, independentemente de falha na fiscalização do cumprimento das obrigações do contratado. Apenas nas contratações de serviços contínuos com regime de dedicação exclusiva de mão de obra, a Administração responderá solidariamente pelos encargos previdenciários e subsidiariamente pelos encargos trabalhistas se comprovada falha na fiscalização do cumprimento das obrigações do contratado (Lei de Licitações, art. 121, § 2º). Falso: II. A Administração não poderá efetuar diretamente o pagamento das verbas trabalhistas devidas pelo contratado. Por força do art. 121, §3º, IV, a Administração pode efetuar diretamente o pagamento das verbas trabalhistas em caso de inadimplemento. As verbas serão deduzidas do pagamento devido ao contratado. Verdadeiro: III. A Administração responderá solidariamente pelos encargos previdenciários, se comprovada falha na fiscalização do cumprimento das obrigações do contratado. Como vimos, essa é a previsão do art. 121, § 2º. Logo, apenas a afirmativa III está correta. Gabarito C.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Caraguatatuba - SP / 2024",
+              "question": "Para estabelecer seu objeto, o contrato administrativo se vale tanto de cláusulas obrigatórias quanto exorbitantes. Com o exposto na Lei nº 14.133/2021, assinale a opção que indica um exemplo de cláusula exorbitante em um contrato administrativo.",
+              "options": [
+                "Apresentação das garantias para assegurar a plena execução do contrato, inclusive as que forem oferecidas pelo contratado no caso de antecipação de valores a título de pagamento.",
+                "Modificação unilateral por parte da Administração para melhor adequação às finalidades de interesse público, respeitados os direitos do contratado.",
+                "Apresentação da legislação aplicável à execução do contrato, inclusive quanto aos casos omissos.",
+                "Apresentação do preço e das condições de pagamento, dos critérios, da data-base e da periodicidade do reajustamento de preços e dos critérios de atualização monetária entre a data do adimplemento das obrigações e a do efetivo pagamento.",
+                "Obrigação do contratado de manter, durante toda a execução do contrato, em compatibilidade com as obrigações por ele assumidas, todas as condições exigidas para a habilitação na licitação, ou para a qualificação, na contratação direta."
+              ],
+              "answer": 1,
+              "explanation": "Essa questão foi julgada pela literalidade da Lei de Licitações. Assim, a banca considerou como cláusula exorbitante somente as cláusulas do art. 104. Vale lembrar que, para a doutrina, a exigência de garantia também é uma cláusula exorbitante. Contudo, ela não consta literalmente no art. 104. Agora, vejamos as opções: São cláusulas necessárias, entre outras (art. 92): III – a legislação aplicável à execução do contrato, inclusive quanto aos casos omissos; (letra\nC) V – o preço e as condições de pagamento, os critérios, a data-base e a periodicidade do reajustamento de preços e os critérios de atualização monetária entre a data do adimplemento das obrigações e a do efetivo pagamento; (letra\nD) XII – as garantias oferecidas para assegurar sua plena execução, quando exigidas, inclusive as que forem oferecidas pelo contratado no caso de antecipação de valores a título de pagamento; (letra\nA) XVI – a obrigação do contratado de manter, durante toda a execução do contrato, em compatibilidade com as obrigações por ele assumidas, todas as condições exigidas para a habilitação na licitação, ou para a qualificação, na contratação direta; (letra\nE) Por fim, entre outras, representa prerrogativa (cláusula exorbitante) da Administração nos contratos administrativos (art. 104): I - modificá-los, unilateralmente, para melhor adequação às finalidades de interesse público, respeitados os direitos do contratado; (letra\nB) Gabarito B.",
+              "id": 4
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / TJ-PE / 2024",
+              "question": "“Quase mil obras públicas estaduais e municipais estão paralisadas em Pernambuco, segundo levantamento realizado pelo Tribunal de Contas do estado [...]. O orçamento dos contratos é de mais de R$ 5 bilhões, dos quais R$ 1,7 bilhão já pago [...] Mais de 1,4 mil contratos de 184 municípios foram identificados como parados e os entes públicos responsáveis receberam um ofício do TCE para que explicassem o motivo e as medidas adotadas para retomar as obras.” (Quase mil obras públicas municipais e estaduais estão paradas em Pernambuco, notícia publicada pela Agência Brasil). Sobre as medidas cabíveis para a hipótese de o contratado ensejar o retardamento da execução ou da entrega do objeto da licitação sem motivo justificado, é correto afirmar, à luz da Lei Federal nº 14.133/2021, que:",
+              "options": [
+                "a responsabilidade do contratado será atenuada caso comprovada a falha na fiscalização ou acompanhamento pelo contratante;",
+                "declarada a inidoneidade do contratado para licitar ou contratar, a sanção produzirá efeitos no âmbito da Administração Pública direta e indireta do ente federativo que a tiver aplicado;",
+                "declarada a inidoneidade do contratado para licitar ou contratar, a sanção produzirá efeitos no âmbito da Administração Pública direta e indireta de todos os entes federativos;",
+                "aplicado ao contratado o impedimento de licitar e contratar, a sanção produzirá efeitos no âmbito da Administração Pública direta e indireta de todos os entes federativos;",
+                "quando aplicado por órgão do Poder Executivo estadual, o impedimento de licitar e contratar será de competência exclusiva de secretário estadual."
+              ],
+              "answer": 2,
+              "explanation": "a) Errada: em regra, o contratado é responsável pela execução do objeto e pelos respectivos encargos. Assim, não há atenuação da responsabilidade, mesmo em caso de comprovada falha na fiscalização pelo contratante. Nesse sentido, dispõe a Lei de Licitações que: Art. 120. O contratado será responsável pelos danos causados diretamente à Administração ou a terceiros em razão da execução do contrato, e não excluirá nem reduzirá essa responsabilidade a fiscalização ou o acompanhamento pelo contratante. Logo, opção está errada!\nb) Errada e\nc) Certa: na Lei de Licitações, a declaração de inidoneidade para licitar e contratar (art. 156, IV) é a mais grave entre as sanções. Essa declaração impede o responsável de licitar ou contratar no âmbito da Administração Pública direta e indireta de todos os entes federativos, por um prazo mínimo de três anos e máximo de seis anos (art. 156, §5º).\nd) Errada: na Lei de Licitações, o impedimento de licitar e contratar (art. 156, III) é a sanção que impede o responsável de fazê-lo no âmbito da Administração Pública direta e indireta apenas no âmbito do ente federativo que tiver aplicado a sanção, pelo prazo máximo de três anos (art. 156, § 4º).\ne) Errada: é a declaração de inidoneidade para licitar ou contratar que, quando aplicada por órgão do Poder Executivo do Estado, é de competência exclusiva do Secretário estadual (art. 156, § 6º). Gabarito C.",
+              "id": 5
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Niterói - RJ / 2024",
+              "question": "João, Secretário de Meio Ambiente do Município Alfa, está em vias de celebrar contrato de pequena compra, no valor de cinco mil reais, mas, pelas peculiaridades do caso concreto, pretende fazê-lo de forma verbal. Para evitar problemas com os órgãos de controles interno e externo, João indagou à Procuradoria do Município sobre a viabilidade jurídica do pretendido contrato. Assinale a opção que indica, de acordo com a Lei nº 14.133/2021, a resposta recebida.",
+              "options": [
+                "A contratação é ilegal, por expressa vedação legislativa a qualquer contratação verbal.",
+                "A contratação é ilegal, por expressa vedação legislativa, exceto em casos de grave perturbação da ordem, situação de emergência ou calamidade pública.",
+                "A contratação é ilegal, por expressa vedação legislativa, exceto se houver formalização por escrito do contrato, de forma diferida, no prazo de trinta dias.",
+                "A contratação é legal, pois é nulo e de nenhum efeito o contrato verbal com a Administração, salvo o de pequenas compras, assim entendidos aqueles de valor não superior a cinco mil reais",
+                "A contratação é legal, pois é nulo e de nenhum efeito o contrato verbal com a Administração, salvo o de pequenas compras ou o de prestação de serviços de pronto pagamento, assim entendidos aqueles de valor não superior a dez mil reais."
+              ],
+              "answer": 4,
+              "explanation": "Por força do art. 95, §2º da Lei de Licitações, o contrato verbal em regra é nulo e de nenhum efeito. Contudo, é exceção à regra e, portanto, legal, o contrato verbal para pequenas compras ou prestação de serviços de pronto pagamento, assim entendidos aqueles de valor não superior a R$ 10.000,00 (dez mil reais) (lembre-se de que esse valor é atualizado anualmente). Logo, a resposta correta está na opção E. Gabarito E.",
+              "id": 6
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / TJ-RR / 2024",
+              "question": "Ao se deparar com um vício em um contrato administrativo, o agente público competente passou a analisar as normas constantes da Lei nº 14.133/2021 acerca da viabilidade/obrigatoriedade da declaração de nulidade, vindo a concluir corretamente que",
+              "options": [
+                "qualquer irregularidade na execução do contrato deve importar necessariamente no reconhecimento de sua nulidade, independentemente do interesse público envolvido ou da possibilidade de saneamento.",
+                "os defeitos no procedimento licitatório consideram-se automaticamente sanados com a formalização do contrato, não podendo ser reconhecidos durante a sua execução, em nenhuma hipótese.",
+                "para a declaração de nulidade basta que o vício no procedimento licitatório ou na execução do contrato sejam insanáveis, sendo vedada a análise do interesse público no âmbito da anulação.",
+                "constatado um vício insanável e, após a análise do interesse público envolvido para fins de anulação, a declaração de nulidade não pode operar efeitos retroativos.",
+                "a anulação de um contrato administrativo exige não só que a irregularidade constatada seja insanável, mas também que se verifique o interesse público envolvido para o seu reconhecimento."
+              ],
+              "answer": 4,
+              "explanation": "a) Errada: a Lei 14.133/2021, em seu art. 147, caput, dispõe que apenas irregularidades insanáveis do procedimento licitatório ou da execução contratual devem acarretar a decisão por suspender a execução do contrato ou sua respectiva declaração de nulidade, sempre caso haja interesse público. Logo, a declaração de nulidade não decorre de qualquer irregularidade na execução do contato, apenas das insanáveis e, mesmo assim, apenas quando houver interesse público. Se o vício for sanável, ele deverá ser convalidado.\nb) Errada: a formalização do contrato não saneia automaticamente os defeitos do procedimento licitatório. Como vimos, havendo interesse público, o defeito insanável será anulado.\nc) Errada: para que haja declaração de nulidade, é obrigatória a análise do interesse público (art. 147).\nd) Errada: os efeitos da nulidade são, em regra, retroativos, por força do art. 148, caput. É possível a modulação dos efeitos, na forma do art. 148, § 2º: “Ao declarar a nulidade do contrato, a autoridade, com vistas à continuidade da atividade administrativa, poderá decidir que ela só tenha eficácia em momento futuro, suficiente para efetuar nova contratação, por prazo de até 6 (seis) meses, prorrogável uma única vez”. Contudo, a regra é o efeito retroativo da declaração de nulidade.\ne) Certa: de fato, os dois requisitos cumulativos para que haja a anulação de um contrato administrativo (declaração de nulidade) são o vício insanável e o interesse público envolvido.\n\nGabarito: E.",
+              "id": 7
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Macaé - RJ / 2024",
+              "question": "A sociedade empresária K. Lote Ltda. foi contratada pelo Município X para prestação de serviços de limpeza. No entanto, os atos praticados pela sociedade empresária deram causa à inexecução parcial do pacto, resultando em significativos prejuízos financeiros ao erário. Diante do exposto, e considerando o direito sancionatório regulamentado na Lei nº 14.133/2021, a sociedade empresária contratada poderá ser penalizada com",
+              "options": [
+                "advertência, somente.",
+                "impedimento de licitar e contratar com a Administração direta e indireta de quaisquer entes da federação.",
+                "declaração de inidoneidade pelo prazo máximo de três anos.",
+                "multa de 10% do valor do contrato e impedimento de licitar e contratar com o Município X pelo prazo de trinta meses.",
+                "declaração de inidoneidade, que impede a sociedade empresária contratada de participar dos certames realizados somente pelo Município X."
+              ],
+              "answer": 3,
+              "explanation": "a) Errada: por força do art. 156, §2º, a advertência é uma sanção aplicável exclusivamente quando há “simples” inexecução parcial do contrato. Como o caso do enunciado foi de inexecução parcial com grave lesão, não cabe a advertência à sociedade empresária K. Lote Ltda.\nb) Errada: o impedimento de licitar e contratar só tem efeito no âmbito do ente federativo que aplicou a penalidade (art. 156, §3º). Logo, não alcança a Administração Direta e Indireta de “quaisquer entes de federação”.\nc) Errada: a declaração de inidoneidade para licitar ou contratar tem prazo mínimo de três e máximo de seis anos (art. 156, §4º).\nd) Certa: a multa é a única das sanções da Lei de Licitações que pode ser aplicada em conjunto com outras (art. 156, §7º), de forma que é cabível a combinação com o impedimento de licitar e contratar com o Município X. Ademais, a multa não pode ser inferior a 0,5% nem superior a 30% do valor do contrato (art. 156, §3º), então os 10% da opção D são legais. Por fim, o impedimento de licitar e contratar é a sanção aplicável quando o contratado dá causa a inexecução parcial do contrato que cause grave dano à Administração.\ne) Errada: a declaração de inidoneidade é a sanção mais grave da Lei de Licitações, pois diferentemente do que diz a opção E, ela impede o responsável de participar de certames em todos os entes federativos, não apenas no Município X.\n\nGabarito: D.",
+              "id": 8
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Cuiabá - MT / 2024",
+              "question": "Juliana, no exercício de suas atribuições como servidora pública do Município de Cuiabá, foi questionada acerca das peculiaridades atinentes aos contratos de prestação de serviços contínuos, notadamente nas situações que envolvam alocação de mão de obra, à luz do disposto na Lei nº 14.133/2021. Diante dessa situação hipotética, assinale a resposta correta a ser dada por Juliana.",
+              "options": [
+                "Nos contratos de serviços contínuos o critério de reajustamento, observado o interregno mínimo de um ano da data da formalização do contrato, mediante demonstração analítica da variação dos custos, é designado de reajustamento em sentido estrito, dependendo de requerimento e demonstração pelo contratado para a sua efetivação.",
+                "Nas contratações de serviços contínuos com regime de dedicação exclusiva de mão de obra, a Administração responderá solidariamente pelos encargos previdenciários e subsidiariamente pelos encargos trabalhistas se comprovada falha na fiscalização do cumprimento das obrigações do contratado.",
+                "Nas licitações relacionadas aos contratos em questão não é viável que o edital exija que percentual mínimo da mão de obra responsável pelo objeto da contratação seja constituído por mulheres vítima de violência doméstica, nem por oriundos ou egressos do sistema prisional.",
+                "Nos contratos para serviços contínuos com regime de dedicação exclusiva de mão de obra, a repactuação deve ser realizada independentemente de requerimento do contratado, inexistindo prazo para que a Administração responda a tal pedido, caso venha a ser formulado mediante apresentação de documentos pelo interessado.",
+                "Nas contratações de serviços contínuos com dedicação exclusiva de mão de obra, para assegurar o cumprimento das obrigações trabalhistas pelo contratado, é vedado que o edital e o contrato prevejam, entre outras medidas, a de condicionar o pagamento à comprovação de quitação das obrigações trabalhistas vencidas relativas ao contrato."
+              ],
+              "answer": 1,
+              "explanation": "a) Errada: a Lei de Licitações prevê que, nos contratos de serviços contínuos com dedicação exclusiva ou predominância de mão de obra, o critério de reajustamento será por repactuação. Logo, não será por reajustamento em sentido estrito, como diz a opção A. Indo além: a demonstração analítica da variação dos custos é um dos quesitos sobre a repactuação (art. 6º, LIX); no entanto, o interregno mínimo de um ano não é contado a partir da data da formalização do contrato, mas sim da data da apresentação da proposta ou da data da última repactuação (art. 135, §3º).\nb) Certa: de fato, se comprovada falha da fiscalização no cumprimento de obrigações do contratado em contratos de serviços contínuos com regime de dedicação exclusiva de mão de obra, a Administração responde solidariamente (caso de encargos previdenciários) e subsidiariamente (caso de encargos trabalhistas). Inclusive, trata-se de característica exclusiva dessa categoria de contratos.\nc) Errada: a referida exigência é viável, de acordo com o art. 25, § 9º, I: “§ 9º O edital poderá, na forma disposta em regulamento, exigir que percentual mínimo da mão de obra responsável pela execução do objeto da contratação seja constituído por: I - mulheres vítimas de violência doméstica; II - oriundos ou egressos do sistema prisional”.\nd) Errada: a repactuação será precedida de solicitação do contratado (art. 135, §6º). Ademais, nos contratos para serviços contínuos com regime de dedicação exclusiva de mão de obra ou com predominância de mão de obra, o prazo para resposta ao pedido de repactuação de preços será preferencialmente de 1 (um) mês, contado da data do fornecimento da documentação comprobatória (art. 92, § 6º).\ne) Errada: o edital ou o contrato poderão condicionar o pagamento à comprovação de quitação das obrigações trabalhistas vencidas relativas ao contrato (art. 121, § 3º, II).\n\nGabarito: B.",
+              "id": 9
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Macaé - RJ / 2024",
+              "question": "A União editou uma lei que ampliava a alíquota tributária, o que afetou significativamente o objeto do contrato firmado entre a sociedade empresária XYZ Ltda. e o Município X. A medida impossibilitou a execução do contrato tal como inicialmente pactuado, tendo em vista a elevação dos custos suportados pela sociedade empresária contratada. Considerando a situação hipotética, é correto afirmar que ocorreu",
+              "options": [
+                "fato da administração, que autoriza a modificação unilateral do contrato.",
+                "fato do príncipe, que autoriza a alteração do contrato por acordo entre as partes.",
+                "força maior, que autoriza a revisão do equilíbrio econômico-financeiro do contrato.",
+                "caso fortuito, que autoriza a manutenção do contrato por acordo entre as partes.",
+                "fato da administração, que autoriza a revisão do equilíbrio econômico-financeiro por ato unilateral da administração."
+              ],
+              "answer": 1,
+              "explanation": "a) e\ne) Erradas: o fato da administração corresponde a toda ação ou omissão do poder público, na qualidade de contratante, que incide direta e especificamente sobre o contrato, retardando ou impedindo a sua execução. Trata-se de um descumprimento das cláusulas contratuais ou outra medida (como a alteração unilateral) de responsabilidade da Administração. Um exemplo é a não liberação do local da obra no prazo estipulado para que a empresa comece os trabalhos. Contudo, não é isso que ocorreu no enunciado (vamos ver adiante). Ademais, o restabelecimento do equilíbrio econômico-financeiro deve ocorrer por acordo das partes (art. 124, II, “d”).\nb) Certa: o fato do príncipe corresponde a uma determinação estatal geral, que atinge indiretamente o contrato. A elevação da carga tributária é um exemplo de fato do príncipe. Nesse sentido, o art. 134 da Lei de Licitações dispõe que: Art. 134. Os preços contratados serão alterados, para mais ou para menos, conforme o caso, se houver, após a data da apresentação da proposta, criação, alteração ou extinção de quaisquer tributos ou encargos legais ou a superveniência de disposições legais, com comprovada repercussão sobre os preços contratados. Logo, a opção B está correta.\nc) e\nd) Erradas: o caso fortuito ou força maior, que no âmbito da Lei 14133/2021 incorrem nos mesmos efeitos, correspondem a eventos extraordinários, inevitáveis e imprevisíveis – ou previsíveis, mas de consequências incalculáveis –, alheios à vontade das partes, que acarretem onerosidade excessiva, retardamento ou impossibilidade de execução do objeto do contrato. Esses eventos podem autorizar a alteração do contrato visando ao restabelecimento do equilíbrio econômico-financeiro. Contudo, a alteração de alíquota tributária não caso fortuito nem força maior, mas fato do príncipe.\n\nGabarito: B.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u7l3",
+          "title": "Lição 3",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Macaé - RJ / 2024",
+              "question": "A sociedade empresária Sol e Lua Ltda. foi contratada pelo município X para prestar serviços laboratoriais aos munícipes. O contrato foi firmado no valor de R$ 2 milhões e previa a entrega de bens de propriedade do Município, os quais a contratada seria a depositária, no valor de R$ 300 mil. O objeto do contrato não apresentava elevada complexidade técnica e os riscos envolvidos foram avaliados como mínimos. Considerando a situação hipotética e as normas vigentes aplicáveis à prestação de garantias nos contratos administrativos, assinale a afirmativa correta.",
+              "options": [
+                "A contratada deverá prestar garantia de, no máximo, R$ 400 mil.",
+                "A administração somente poderá executar o seguro-garantia se a contratada houver realizado o pagamento do prêmio nas datas conveniadas com a seguradora.",
+                "O prazo de vigência da apólice do seguro-garantia não será superior ao prazo estabelecido no contrato principal.",
+                "Na hipótese de suspensão do contrato por ordem ou inadimplemento da Administração, a contratada ficará obrigada a renovar a garantia ou a endossar a apólice de seguro ainda que não tenha ocorrido o adimplemento pela Administração.",
+                "Nas contratações de obras, serviços e fornecimentos, a garantia poderá ser de até 5% (cinco por cento) do valor inicial do contrato, autorizada a majoração desse percentual para até 30% (trinta por cento), desde que justificada mediante análise da complexidade técnica e dos riscos envolvidos."
+              ],
+              "answer": 0,
+              "explanation": "a) Certa: o enunciado nos informa que não há, no contrato, elevada complexidade técnica nem altos riscos. Nesse sentido, nos termos do art. 98, caput, a garantia máxima será de 5% do valor inicial do contrato, o que corresponde, no caso da questão, a R$ 100 mil. No entanto, por força do art. 101, será acrescido ao valor da garantia o valor dos bens dos quais a contratada foi depositária, configurando um total de R$ 400 mil para a garantia.\nb) Errada: ainda que o contratado atrase o pagamento do prêmio, que é o valor que deve ser pago à seguradora, o seguro-garantia continuará em vigor, por força do art. 97, II: Art. 97. O seguro-garantia tem por objetivo garantir o fiel cumprimento das obrigações assumidas pelo contratado perante à Administração, inclusive as multas, os prejuízos e as indenizações decorrentes de inadimplemento, observadas as seguintes regras nas contratações regidas por esta Lei: I - o prazo de vigência da apólice será igual ou superior ao prazo estabelecido no contrato principal e deverá acompanhar as modificações referentes à vigência deste mediante a emissão do respectivo endosso pela seguradora; II - o seguro-garantia continuará em vigor mesmo se o contratado não tiver pago o prêmio nas datas convencionadas.\nc) Errada: o prazo de vigência da apólice será igual ou superior ao prazo estabelecido no contrato principal (art. 97, I).\nd) Errada: nesse caso, o contratado ficará desobrigado de renovar a garantia ou de endossar a apólice de seguro até a ordem de reinício da execução ou o adimplemento pela Administração (art. 96, § 2º).\ne) Errada: a majoração, caso justificada mediante análise da complexidade técnica e dos riscos envolvidos, será de até 10% (art. 98, caput).\n\nGabarito: A.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Macaé - RJ / 2024",
+              "question": "Uma Fundação Pública Municipal de direito privado contratou a sociedade empresária K. Lote Ltda. para prestar serviços de engenharia. No entanto, a sociedade empresária havia praticado diversas irregularidades que ensejaram o descumprimento do pacto, causando um dano de R$ 80 mil ao erário. Imediatamente a autoridade competente instaurou o processo de responsabilização para apuração dos fatos imputados à contratada. Ao fim desse processo, concluiu-se pela rescisão unilateral do contrato, pelo ressarcimento de R$80 mil aos cofres públicos, além da aplicação de multa de R$ 25 mil reais. Registra-se que a sociedade empresária havia comprovado a prestação de serviços no valor de R$ 90 mil, ainda não pagos pela Administração Municipal, e prestado uma garantia em dinheiro no montante de R$ 25 mil. Considerando os fatos narrados e as disposições da Lei nº 14.133/2021, assinale a afirmativa correta.",
+              "options": [
+                "A Comissão de responsabilização deverá ser composta por três servidores estatutários ou, na sua falta, por dois empregados públicos com pelo menos cinco anos de experiência.",
+                "A sociedade empresária terá direito ao pagamento de R$10 mil, em razão do encerramento do contrato.",
+                "A Administração poderá aplicar à sociedade empresária a penalidade de multa de até 0,5% do valor do contrato.",
+                "O Secretário Municipal da pasta a qual esteja vinculada a Fundação Municipal é a autoridade competente para declarar a inidoneidade da sociedade empresária K. Lote.",
+                "Caso a sociedade empresária seja penalizada com impedimento para licitar e contratar, não poderá participar de nenhum certame promovido por qualquer ente da Federação pelo prazo de 3 (três) anos."
+              ],
+              "answer": 1,
+              "explanation": "a) Errada: o requisito para os integrantes da comissão de responsabilização, dado pelo art. 158 da Lei de Licitações, só se aplica a casos em que sanção for de impedimento de licitar e contratar ou de declaração de inidoneidade para licitar ou contratar. Na situação do enunciado, só foi mencionada a sanção de multa. Logo, a apuração não dependerá de comissão. Ademais, quando são requeridos anos de experiência de um empregado integrante da comissão, o limite mínimo dado pelo art. 158 é de três anos.\nb) Certa: de acordo com o art. 156, §8º, “Se a multa aplicada e as indenizações cabíveis forem superiores ao valor de pagamento eventualmente devido pela Administração ao contratado, além da perda desse valor, a diferença será descontada da garantia prestada [...]”. Assim: • multa (R$25 mil) + indenização (R$ 80 mil) = R$ 105 mil • valor devido pela Administração (R$90 mil) -> 90 – 105 = R$ 15 mil. Esta diferença (15 mil) será descontada do valor da garantia: • Garantia (25 mil) – diferença (15 mil) = R$ 10 mil. Portanto, a Administração devolverá somente R$10 mil para a sociedade empresária no encerramento do contrato.\nc) Errada: a penalidade de multa pode ser de até 30% do valor do contrato, por força do art. 156, §3º.\nd) Errada: a referida sanção, quando aplicada por fundação (ou autarquia), é de competência exclusiva da autoridade máxima da própria entidade, de acordo com o art. 156, §6º, I.\ne) Errada: o alcance da sanção de impedimento para licitar e contratar se encerra no âmbito da Administração direta ou indireta do próprio ente que a aplicou a penalidade. Logo, não alcança qualquer ente da Federação. Ademais, o prazo máximo é de três anos.\n\nGabarito: B.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Macaé - RJ / 2024",
+              "question": "De acordo com a Lei nº 14.133/2021, no dever de pagamento pela Administração, será observada a ordem cronológica para cada fonte diferenciada de recursos, subdividida em determinadas categorias de contratos, quais sejam, fornecimento de bens, locações, prestação de serviços e realização de obras. A referida ordem cronológica poderá ser alterada mediante prévia justificativa da autoridade competente e posterior comunicação ao órgão de controle interno da Administração e ao Tribunal de Contas competente, nas situações definidas na legislação de regência. Nesse cenário, considerando a Lei nº 14.133/2021, a ordem cronológica de pagamento não poderá ser alterada em caso de",
+              "options": [
+                "pagamento de contrato, cujo objeto seja imprescindível para assegurar a integridade do patrimônio público ou para manter o funcionamento das atividades finalísticas do órgão ou entidade.",
+                "pagamento de serviços necessários ao funcionamento dos sistemas estruturantes, desde que demonstrado o risco de descontinuidade do cumprimento do objeto do contrato.",
+                "pagamento a uma microempresa, a uma empresa de pequeno porte, ao agricultor familiar, ao produtor rural pessoa física ou jurídica, ao microempreendedor individual e a uma sociedade cooperativa.",
+                "pagamento de direitos oriundos de contratos em caso de falência, recuperação judicial ou dissolução da empresa contratada.",
+                "grave perturbação da ordem, situação de emergência ou calamidade pública."
+              ],
+              "answer": 2,
+              "explanation": "No âmbito da Lei de licitações, a ordem cronológica de pagamentos só pode ser alterada nas situações previstas nos incisos do §1º do art. 141: I - grave perturbação da ordem, situação de emergência ou calamidade pública; II - pagamento a microempresa, empresa de pequeno porte, agricultor familiar, produtor rural pessoa física, microempreendedor individual e sociedade cooperativa, desde que demonstrado o risco de descontinuidade do cumprimento do objeto do contrato; III - pagamento de serviços necessários ao funcionamento dos sistemas estruturantes, desde que demonstrado o risco de descontinuidade do cumprimento do objeto do contrato; IV - pagamento de direitos oriundos de contratos em caso de falência, recuperação judicial ou dissolução da empresa contratada; V - pagamento de contrato cujo objeto seja imprescindível para assegurar a integridade do patrimônio público ou para manter o funcionamento das atividades finalísticas do órgão ou entidade, quando demonstrado o risco de descontinuidade da prestação de serviço público de relevância ou o cumprimento da missão institucional. Nesse sentido, a questão requer um caso em que a ordem não será alterada, ou seja, um caso que não conste nos referidos incisos. Logo, temos a resposta certa na opção C, uma vez que a prioridade para as ME, EPP e afins somente ocorrerá quando “demonstrado o risco de descontinuidade do cumprimento do objeto do contrato”. Da forma como informou a letra C, a prioridade aconteceria em qualquer caso.\n\nGabarito: C.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Macaé - RJ / 2024",
+              "question": "A sociedade empresária K. Lote Ltda. foi punida com a penalidade de impedimento para licitar e contratar com o Município X pelo prazo de três anos. ==4baedc== Após dois anos da aplicação da penalidade, a empresa requereu reabilitação junto à Administração do Município X. No respectivo processo administrativo, o município observou que a sociedade empresária: I. Solicitou o parcelamento do débito que lhe fora imputado, estando em dia com o pagamento das respectivas parcelas. II. Efetuou o pagamento da multa que lhe fora imposta. III. Cumpriu as normas de compliance corporativo exigidas no ato punitivo como condição à reabilitação. Considerando as informações apresentadas, a reabilitação da sociedade empresária deverá ser",
+              "options": [
+                "deferida, em razão de cumprimento dos requisitos estabelecidos na legislação aplicável.",
+                "indeferido, tendo em vista que a reabilitação somente poderá ser requerida após três anos da aplicação da penalidade.",
+                "deferido, pois os requisitos para reabilitação não são cumulativos, podendo a administração avaliar as circunstâncias do caso.",
+                "deferida, pois é possível requerer a reabilitação no prazo estabelecido e nas condições definidas.",
+                "indeferida, pois a reabilitação está condicionada à reparação integral dos danos gerados ao erário."
+              ],
+              "answer": 4,
+              "explanation": "a) Errada: o enunciado não indica o cumprimento de todos os requisitos estabelecidos para a reabilitação na Lei de Licitações. Segundo o art. 163, exige-se, cumulativamente: I - reparação integral do dano causado à Administração Pública; II - pagamento da multa; III - transcurso do prazo mínimo de 1 (um) ano da aplicação da penalidade, no caso de impedimento de licitar e contratar, ou de 3 (três) anos da aplicação da penalidade, no caso de declaração de inidoneidade; IV - cumprimento das condições de reabilitação definidas no ato punitivo; V - análise jurídica prévia, com posicionamento conclusivo quanto ao cumprimento dos requisitos definidos neste artigo. Como o débito foi parcelado, não houve a reparação integral do dano. Portanto, a empresa não atende aos requisitos para reabilitação.\nb) Errada: a reabilitação somente pode ser requerida após três anos da aplicação da penalidade quando o caso for de declaração de inidoneidade. Logo, como o caso foi de impedimento para licitar e contratar, o transcurso mínimo entre a penalidade e o requerimento de reabilitação é menor, de um ano (art. 163, III).\nc) Errada: como vimos, os requisitos são cumulativos, não havendo discricionaridade quanto a isso.\nd) Errada: é possível requerer a reabilitação no prazo mencionado, mas não nas condições definidas, tendo em vista a falta do pagamento integral do dano.\ne) Certa: de fato, a reparação integral dos danos gerados ao erário, ainda não cumprida no caso mencionado, é uma das condições à reabilitação.\n\nGabarito: E.",
+              "id": 4
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Macaé - RJ / 2024",
+              "question": "A sociedade empresária K. Lote Ltda. foi contratada pelo Município de Macaé, após regular procedimento licitatório. No entanto, a sociedade empresária praticou atos irregulares que culminaram na inexecução total do contrato. Diante dessas irregularidades, o ente municipal instaurou procedimento de responsabilização e a comissão responsável pela condução desse procedimento intimou o contratado a apresentar defesa escrita e especificar as provas que eventualmente pretendesse produzir. O prazo definido na Lei nº 14.133/2021 para que a sociedade empresária possa, na situação apresentada, exercer seu direito defesa, é de",
+              "options": [
+                "5 dias úteis.",
+                "10 dias úteis.",
+                "15 dias úteis.",
+                "20 dias úteis.",
+                "30 dias úteis."
+              ],
+              "answer": 2,
+              "explanation": "Em havendo inexecução total do contrato, a sanção cabível é, a princípio, o impedimento de licitar e contratar (Lei 14.133/2021, art. 156, §4º). O prazo de defesa no âmbito de um respectivo processo administrativo é de 15 dias úteis (art. 158, caput). Logo, a resposta certa é a opção C.\n\nGabarito: C.",
+              "id": 5
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – CVM/2024",
+              "question": "O diretor-executivo da sociedade empresária ABC, ao verificar que o estado Alfa publicou edital de licitação pública, determinou que a sua assessoria jurídica lhe apresentasse um parecer sobre a alocação de riscos no contexto dos contratos administrativos, visando a uma tomada de decisão informada sobre a participação ou não no processo licitatório. Nesse cenário, considerando as disposições da Lei nº 14.133/2021 (Nova Lei de Licitações e Contratos Administrativos), é correto afirmar que:",
+              "options": [
+                "o equilíbrio econômico-financeiro, atendidas as condições do contrato e da matriz de alocação de riscos, será considerado mantido, renunciando as partes aos pedidos de restabelecimento do equilíbrio relacionados aos riscos assumidos, inclusive no que se refere ao aumento ou à redução, por legislação superveniente, dos tributos diretamente pagos pelo contratado em decorrência do contrato;",
+                "o contrato poderá identificar os riscos contratuais previstos e presumíveis e prever matriz de alocação de riscos, alocando-os entre contratante e contratado, mediante indicação daqueles a serem assumidos pelo setor público ou pelo setor privado, vedando-se o compartilhamento de riscos;",
+                "a matriz de alocação de riscos definirá o equilíbrio econômico-financeiro inicial do contrato, devendo ser observada na solução de eventuais pleitos das partes, salvo em relação a eventos supervenientes;",
+                "a alocação dos riscos contratuais será quantificada para fins de projeção dos reflexos de seus custos no valor estimado da contratação;",
+                "os riscos que tenham cobertura oferecida por seguradoras serão preferencialmente assumidos pelo setor público."
+              ],
+              "answer": 3,
+              "explanation": "a) Errada. De fato, a matriz de alocação de riscos define o equilíbrio econômico-financeiro do contrato. Porém, ela não impede a realização de reequilíbrio no que se refere (art. 103, § 5º): (i) às alterações unilaterais determinadas pela Administração, nas hipóteses do inciso I do caput do art. 124 desta Lei; (ii) ao aumento ou à redução, por legislação superveniente, dos tributos diretamente pagos pelo contratado em decorrência do contrato.\nb) Errada. O contrato poderá identificar os riscos contratuais previstos e presumíveis e prever matriz de alocação de riscos, alocando-os entre contratante e contratado, mediante indicação daqueles a serem assumidos pelo setor público ou pelo setor privado ou daqueles a serem compartilhados (art. 103, caput);\nc) Errada. A matriz de alocação de riscos definirá o equilíbrio econômico-financeiro inicial do contrato em relação a eventos supervenientes e deverá ser observada na solução de eventuais pleitos das partes (art. 103, § 4º).\nd) Certa. Exatamente como consta na Lei de Licitações: “§ 3º A alocação dos riscos contratuais será quantificada para fins de projeção dos reflexos de seus custos no valor estimado da contratação” (art. 103, § 3º)\ne) Errada. Os riscos que tenham cobertura oferecida por seguradoras serão preferencialmente transferidos ao contratado (art. 103, § 2º).\n\nGabarito: alternativa D.",
+              "id": 6
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – Receita Federal/2023",
+              "question": "Em tema de alocação de riscos em contratos administrativos, a nova Lei de Licitações e Contratos estabelece que o contrato poderá identificar os riscos contratuais previstos e presumíveis e prever matriz de alocação de riscos, alocando-os entre contratante e contratado, mediante indicação daqueles a serem assumidos pelo setor público ou pelo setor privado ou daqueles a serem assumidos pelo setor público ou pelo setor privado ou daqueles a serem compartilhados. Nesse contexto, de acordo com a Lei n° 14.133/2021, sempre que atendidas as condições do contrato e da matriz de alocação de riscos, será considerado mantido o equilíbrio econômico-financeiro,",
+              "options": [
+                "desde que observada a vedação de que os riscos que tenham cobertura oferecida por seguradoras sejam transferidos ao contratado.",
+                "observando-se, na alocação de riscos, a necessária obrigação legal de adoção de métodos e padrões usualmente utilizados por entidades públicas e, ao tratar de riscos relacionados à arrecadação tributária, a prévia manifestação da Receita Federal.",
+                "uma vez que a alocação de riscos deve considerar, em compatibilidade com as obrigações e os encargos atribuídos às partes no contrato, a natureza do risco, mas não o beneficiário das prestações a que se vincula e a capacidade de cada selo para melhor gerenciá-lo, para se evitar vantagem excessivas a uma dessas partes do contrato.",
+                "renunciando as partes aos pedidos de restabelecimento do equilíbrio relacionados aos riscos assumidos, exceto no que refere às alterações unilaterais determinadas pela Administração, nas hipóteses indicadas na lei, e ao aumento ou à redução, por legislação superveniente, dos tributos diretamente pagos pelo contratado em decorrência do contrato.",
+                "quando, na alocação de riscos, for observada a obrigatoriedade legal de adoção de métodos e padrões usualmente utilizados por entidades públicas, mas não por privadas, e os ministérios e secretarias supervisores dos órgãos e das entidades da Administração Pública definirem os parâmetros e o detalhamento dos procedimentos necessários à sua identificação, alocação e quantificação financeira mediante autorização do Tribunal de Contas."
+              ],
+              "answer": 3,
+              "explanation": "a) a L14133 prevê que os riscos que tenham cobertura oferecida por seguradoras serão preferencialmente transferidos ao contratado (art. 103, § 2º) – ERRADA;\nb) a Lei de Licitações prevê que, na alocação de riscos, poderão ser adotados métodos e padrões usualmente utilizados por entidades públicas e privadas, e os ministérios e secretarias supervisores dos órgãos e das entidades da Administração Pública poderão definir os parâmetros e o detalhamento dos procedimentos necessários a sua identificação, alocação e quantificação financeira (L14133, art. 103, § 6º). Também não há, na lei, indicação de necessidade de manifestação prévia da Receita Federal – ERRADA;\nc) a alocação de riscos considerará, em compatibilidade com as obrigações e os encargos atribuídos às partes no contrato, a natureza do risco, o beneficiário das prestações a que se vincula e a capacidade de cada setor para melhor gerenciá-lo (art. 103, § 1º) – ERRADA;\nd) sempre que atendidas as condições do contrato e da matriz de alocação de riscos, será considerado mantido o equilíbrio econômico-financeiro, renunciando as partes aos pedidos de restabelecimento do equilíbrio relacionados aos riscos assumidos, exceto no que se refere: (i) às alterações unilaterais determinadas pela Administração, nas hipóteses do inciso I do caput do art. 124 desta Lei; e (ii) ao aumento ou à redução, por legislação superveniente, dos tributos diretamente pagos pelo contratado em decorrência do contrato (art. 103, §5º). Essa medida ocorre porque a matriz de alocação de riscos já precifica os riscos. Assim, as partes “renunciam” aos pedidos de reequilíbrio, pois o risco já estará no preço, salvo os casos excepcionais citados acima – CORRETA;\ne) já vimos que, na alocação de riscos, poderão ser adotados métodos e padrões usualmente utilizados por entidades públicas e privadas (art. 103, § 6º) – ERRADA.\n\nGabarito: alternativa D.",
+              "id": 7
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – Receita Federal/2023",
+              "question": "Felipe é servidor federal estável ocupante de cargo efetivo e foi regularmente designado como agente da contratação do respectivo órgão. No exercício de suas atribuições, Felipe deparou- se com uma nulidade em procedimento licitatório, realizado com fulcro na Lei nº 14.133/2021, que resultou na formalização de um contrato de prestação de serviços contínuos, que está em plena execução. Acerca desta situação hipotética, é correto afirmar que",
+              "options": [
+                "eventual nulidade do procedimento licitatório resultou automaticamente sanada com a formalização do contrato.",
+                "a Administração deve necessariamente reconhecer a nulidade do contrato, pois dos atos nulos não se originam direitos.",
+                "eventuais impactos econômicos e financeiros do reconhecimento da nulidade não podem ser considerados pela Administração, diante da verificação de um vício insanável.",
+                "caso preenchidos os requisitos para declarar a nulidade do contrato, a Administração, com vistas a dar continuidade à atividade administrativa, poderá decidir que a nulidade só tenha eficácia em momento futuro, suficiente para efetuar nova contratação, por prazo de até seis meses, prorrogável uma vez.",
+                "verificada a necessidade de declarar a nulidade do contrato, a Administração fica exonerada do dever de indenizar o contratado pelo que tiver executado, ainda que não lhe seja imputável o vício."
+              ],
+              "answer": 3,
+              "explanation": "a) não se fala em saneamento das nulidades com a assinatura do contrato, já que as nulidades poderão ser declaradas mesmo durante a execução contratual (art. 147) – ERRADA;\nb) caberá à Administração decidir sobre a suspensão da execução ou sobre a declaração de nulidade do contrato (art. 147), avaliando se a medida atende ao interesse público. Logo, a anulação não é obrigatória – ERRADA;\nc) constatada irregularidade no procedimento licitatório ou na execução contratual, caso não seja possível o saneamento, a decisão sobre a suspensão da execução ou sobre a declaração de nulidade do contrato somente será adotada na hipótese em que se revelar medida de interesse público, com avaliação, entre outros, os impactos econômicos e financeiros decorrentes do atraso na fruição dos benefícios do objeto do contrato (art. 147, I) – ERRADA;\nd) conforme previsto no art. 148, §2º, ao declarar a nulidade do contrato, a autoridade, com vistas à continuidade da atividade administrativa, poderá decidir que ela só tenha eficácia em momento futuro, suficiente para efetuar nova contratação, por prazo de até 6 (seis) meses, prorrogável uma única vez. Essa é a modulação dos efeitos da anulação – CORRETA;\ne) a nulidade não exonerará a Administração do dever de indenizar o contratado pelo que houver executado até a data em que for declarada ou tornada eficaz, bem como por outros prejuízos regularmente comprovados, desde que não lhe seja imputável, e será promovida a responsabilização de quem lhe tenha dado causa (art. 149) – ERRADA.\n\nGabarito: alternativa D.",
+              "id": 8
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – CGU/2022",
+              "question": "Após regular processo licitatório, a União, por meio do Ministério das Cidades, firmou contrato administrativo com a sociedade empresária Alfa, para reforma de um edifício de quatro andares. Um mês após a assinatura do contrato, o Ministério das Cidades, com as devidas justificativas, unilateralmente, resolveu alterar o contrato, pois concluiu ser necessária a modificação do valor contratual em decorrência de diminuição quantitativa de seu objeto, na ordem de 50%, haja vista que agora apenas tem interesse na reforma de dois andares do edifício. Consoante dispõe a nova Lei de Licitações (Lei nº 14.133/2021), por se tratar de alteração unilateral quantitativa, a sociedade empresária Alfa:",
+              "options": [
+                "será obrigada a aceitar, nas mesmas condições contratuais, supressões de até 25% do valor inicial atualizado do contrato;",
+                "será obrigada a aceitar, nas mesmas condições contratuais, a supressão pretendida na ordem de 50% do valor inicial atualizado do contrato, por se tratar de reforma de edifício;",
+                "não será obrigada a aceitar, nas mesmas condições contratuais, qualquer supressão quantitativa do valor do contrato, em razão do equilíbrio econômico e financeiro que deve ser respeitado nos contratos administrativos;",
+                "não será obrigada a aceitar qualquer supressão quantitativa do valor do contrato, mas pode voluntariamente fazê-lo, desde que haja redução proporcional do valor do contrato, respeitando-se, a um só tempo, a margem de lucro do contratado e a economicidade para o contratante;",
+                "será obrigada a aceitar, nas mesmas condições contratuais, a supressão pretendida, em qualquer percentual incidente sobre o valor do contrato, em razão da cláusula exorbitante que decorre de lei e está implícita em todos os contratos administrativos."
+              ],
+              "answer": 0,
+              "explanation": "a NLLC dispõe sobre os percentuais de alteração unilateral no art. 125, nos seguintes termos: Art. 125. Nas alterações unilaterais a que se refere o inciso I do caput do art. 124 desta Lei, o contratado será obrigado a aceitar, nas mesmas condições contratuais, acréscimos ou supressões de até 25% (vinte e cinco por cento) do valor inicial atualizado do contrato que se fizerem nas obras, nos serviços ou nas compras, e, no caso de reforma de edifício ou de equipamento, o limite para os acréscimos será de 50% (cinquenta por cento). Portanto, a regra é a alteração de 25% “para mais” ou “para menos”. Já no caso especial de reforma de edifício ou de equipamento caberá o percentual específico de até 50% para as alterações “para mais”. Porém, para reduções, permanece o percentual de 25%. Logo, somente seria cabível a redução de até 25%, já que se trata de supressão, motivo pelo qual o gabarito é a letra A. Ademais, a NLLC dispõe que é direito subjetivo do contratado a extinção do contrato no caso de “I - supressão, por parte da Administração, de obras, serviços ou compras que acarrete modificação do valor inicial do contrato além do limite permitido no art. 125 desta Lei” (art. 137, § 2º, I). A letra B está errada, pois o percentual de 50% não vale para as supressões. A letra C também é errada, pois, observados os limites legais, haveria necessidade de aceitar a alteração. Nesse caso, contudo, deverá ser observada a regra do art. 130, que dispõe que: “caso haja alteração unilateral do contrato que aumente ou diminua os encargos do contratado, a Administração deverá restabelecer, no mesmo termo aditivo, o equilíbrio econômico-financeiro inicial”. A letra D está errada, pois há hipóteses em que a empresa deveria aceitar as alterações, mas desde que dentro dos limites legais. Por fim, a letra E está errada, pois há limite previsto em lei.\n\nGabarito: alternativa A.",
+              "id": 9
+            },
+            {
+              "type": "question",
+              "header": "FGV – CGU/2022",
+              "statement": "Em janeiro de 2022, a sociedade empresária Gama, após processo licitatório, celebrou contrato administrativo com a União, por meio do Ministério Beta, para prestação de determinados serviços. No curso da execução do contrato, a sociedade empresária Gama prestou declaração falsa e praticou ato fraudulento, causando danos à União, em razão da prestação dos serviços contratados de forma diversa do que foi acordado, dos pontos de vista qualitativo e quantitativo. Após regular processo administrativo, observando todas as cautelas legais, com base na Lei nº 14.133/2021, a União deve aplicar à sociedade empresária Gama a sanção administrativa de:\na) impedimento de licitar ou contratar no âmbito da Administração Pública direta e indireta federal, pelo prazo máximo de três anos;\nb) declaração de inidoneidade para licitar ou contratar no âmbito da Administração Pública federal, pelo prazo mínimo de cinco anos e máximo de oito anos;\nc) declaração de inidoneidade para licitar ou contratar no âmbito da Administração Pública direta e indireta de todos os entes federativos, pelo prazo mínimo de três anos e máximo de seis anos;\nd) impedimento de licitar ou contratar no âmbito da Administração Pública direta e indireta de todos os entes federativos, pelo prazo mínimo de cinco anos e máximo de oito anos;\ne) ressarcimento integral do dano ao erário, implantação ou aperfeiçoamento de programa de integridade, e impedimento de licitar ou contratar no âmbito da Administração Pública direta e indireta federal, pelo prazo máximo de oito anos.",
+              "correctOption": "C",
+              "explanation": "a empresa Gama cometeu as infrações previstas no art. 155 da NLLC, quais sejam: VIII - apresentar declaração ou documentação falsa exigida para o certame ou prestar declaração falsa durante a licitação ou a execução do contrato; IX - fraudar a licitação ou praticar ato fraudulento na execução do contrato; Essas infrações são puníveis com a pena de declaração de inidoneidade, na forma do art. 156, IV, combinado com o § 5º, que prevê que: § 5º A sanção prevista no inciso IV do caput deste artigo será aplicada ao responsável pelas infrações administrativas previstas nos incisos VIII, IX, X, XI e XII do caput do art. 155 desta Lei, bem como pelas infrações administrativas previstas nos incisos II, III, IV, V, VI e VII do caput do referido artigo que justifiquem a imposição de penalidade mais grave que a sanção referida no § 4º deste artigo, e impedirá o responsável de licitar ou contratar no âmbito da Administração Pública direta e indireta de todos os entes federativos, pelo prazo mínimo de 3 (três) anos e máximo de 6 (seis) anos. Ademais, a declaração de inidoneidade alcança toda a Administração Pública direta e indireta de todos os entes federativos e o seu prazo varia de três a seis anos. Vale lembrar que essa pena depende do processo de responsabilização, previsto no art. 158 da NLLC. Logo, o gabarito é a letra C. As letras A e D estão erradas, pois indicaram a penalidade incorreta, sendo que a letra D também indicou o alcance e o prazo errados para o impedimento (se fosse cabível). A letra B está indicando o alcance e o prazo errados para a declaração de inidoneidade. Por fim, a letra E possui vários erros. Primeiro porque a pena não é o impedimento. Além disso, o ressarcimento é uma obrigação decorrente do dano ao erário, sendo que a aplicação das sanções não exclui, em hipótese alguma, a obrigação de reparação integral do dano causado à Administração Pública (art. 156, § 9º). Ademais, a implementação de programa de integridade não é sanção, mas exigência para a reabilitação, em alguns casos, na forma do art. 163, parágrafo único, e é medida obrigatória no caso de contratos de grande vulto (art. 25, § 4º).\n\nGabarito: alternativa C.\n\n1. (Prof. Herbert Almeida - Inédita) As cláusulas contratuais devem ser claras e precisas, contendo sua finalidade, bem como os direitos, obrigações e responsabilidade das partes.\n\nComentário: a Lei n° 14.133/2021 estabelece que todo contrato deverá mencionar os nomes das partes e os de seus representantes, a finalidade, o ato que autorizou sua lavratura, o número do processo da licitação ou da contratação direta e a sujeição dos contratantes às normas da Lei de Licitações e às cláusulas contratuais. Ademais, os contratos deverão estabelecer com clareza e precisão as condições para sua execução, expressas em cláusulas que definam os direitos, as obrigações e as responsabilidades das partes, em conformidade com os termos do edital de licitação e os da proposta vencedora ou com os termos do ato que autorizou a contratação direta e os da respectiva proposta (art. 89, §§ 1° e 2°).\n\nGabarito: correto.\n\n2. (Prof. Herbert Almeida - Inédita) A convocação do licitante vencedor para assinar o contrato deverá ocorrer dentro do prazo estabelecido no edital, autorizando-se a prorrogação por igual período caso haja solicitação da parte, devidamente justificada.\n\nComentário: a Lei 14.133/2021 dispõe que o prazo de convocação é estabelecido em edital, e poderá ser prorrogado uma vez, por igual período, mediante solicitação da parte durante seu transcurso, devidamente justificada, e desde que o motivo apresentado seja aceito pela administração (art. 90, § 1°).\n\nGabarito: correto. 3. (Prof. Herbert Almeida - Inédita) O licitante pode pedir a prorrogação do prazo para assinatura do contrato, mesmo que o prazo inicial estabelecido pela administração já tenha se esgotado.\n\nComentário: caso queira solicitar a prorrogação do prazo para assinatura do termo de contrato, o licitante vencedor deve apresentar solicitação à administração durante o transcurso do prazo inicialmente estabelecido, justificando seu pedido (art. 90, § 1°)\n\nGabarito: errado. 4. (Prof. Herbert Almeida - Inédita) Na hipótese de o licitante vencedor não assinar o termo de contrato, a administração pode convocar os licitantes remanescentes, realizando, em qualquer caso, a contratação nos termos e condições das respectivas propostas.\n\nComentário: quando a administração convoca o licitante vencedor e esse não comparece para assinar o termo de contrato, faculta-se a convocação dos licitantes remanescentes, obedecida a ordem de classificação e desde que aceitem celebrar o contrato nas condições propostas pelo licitante vencedor (art. 90, § 2º). Somente se não houver sucesso na contratação, é que a administração poderá partir para a negociação e, depois, para a convocação nas condições das propostas de cada um (art. 90, § 4º).\n\nGabarito: errado. 5. (Prof. Herbert Almeida - Inédita) A administração, ao final do procedimento licitatório, convocou o licitante vencedor para assinar o contrato e cumprir as condições de sua proposta. Passado o prazo estipulado no edital, o vencedor não compareceu. Por essa razão, foram convocados os licitantes remanescentes, que também não aceitaram assinar o contrato nas condições propostas pelo licitante vencedor. Nessa situação, a administração pode propor uma negociação com os licitantes remanescentes, visando a obter um preço melhor, vedado o aceite de valor acima do preço do adjudicatário.\n\nComentário: nos casos em que nenhum dos licitantes aceitar a contratação nos mesmos moldes do proposto pelo licitante vencedor, a administração, observados o valor estimado e sua eventual atualização nos termos do edital, poderá convocar os licitantes remanescentes para negociação, na ordem de classificação, com vistas à obtenção de preço melhor, mesmo que acima do preço do adjudicatário (art. 90, §4°, I). Então, na negociação, a administração pode aceitar uma proposta com valor acima do preço originalmente vencedor. Nesse caso, a negociação busca obter o preço melhor do que a proposta de cada licitante, ainda que seja pior do que a proposta do licitante até então vencedor.\n\nGabarito: errado. 6. (Prof. Herbert Almeida - Inédita) O licitante remanescente, convocado para negociação, sofrerá as penalidades cabíveis, incluindo a perda da garantia, caso não aceite firmar o contrato nas condições propostas pela administração.\n\nComentário: não seria justo penalizar o licitante convocado para negociação, caso este não aceite as condições propostas pela administração. Nesse sentido, a regra quanto a aplicação de penalidades e perda de garantia não se aplica aos licitantes remanescentes convocados para negociação, nos termos do art. 90, § 6º da NLLC.\n\nGabarito: errado. 7. (Prof. Herbert Almeida - Inédita) Os contratos devem ser divulgados e mantidos à disposição do público em sítio eletrônico oficial, exceto nos casos em que o sigilo for imprescindível à segurança da sociedade e do Estado.\n\nComentário: realmente, os contratos e seus aditamentos terão forma escrita e serão juntados ao processo que tiver dado origem à contratação, divulgados e mantidos à disposição do público em sítio eletrônico oficial. Contudo, será admitida a manutenção em sigilo de contratos e de termos aditivos quando imprescindível à segurança da sociedade e do Estado, nos termos da legislação que regula o acesso à informação (art. 91, § 1°).\n\nGabarito: correto. 8. (Prof. Herbert Almeida - Inédita) Como condição para prorrogação dos contratos, deverá ser feita a verificação quanto a regularidade fiscal do contratado, bem como a emissão de certidões negativas de inidoneidade, de impedimento e de débitos trabalhistas.\n\nComentário: antes de formalizar ou prorrogar o prazo de vigência do contrato, a administração deverá verificar a regularidade fiscal do contratado, consultar o Cadastro Nacional de Empresas Inidôneas e Suspensas (Ceis) e o Cadastro Nacional de Empresas Punidas (Cnep), emitir as certidões negativas de inidoneidade, de impedimento e de débitos trabalhistas e juntá-las ao respectivo processo (art. 91, § 4°).\n\nGabarito: correto. 9. (Prof. Herbert Almeida - Inédita) O contrato deve, necessariamente, conter cláusulas que estabeleçam o objeto e seus elementos característicos, além da legislação aplicável à execução do contrato, inclusive quanto aos casos omissos.\n\nComentário: o art. 92 da Lei de Licitações lista uma série de cláusulas necessárias a todos os contratos. Entre elas, consta a cláusula que estabeleça o objeto e seus elementos característicos e a legislação aplicável à execução do contrato, inclusive quanto aos casos omissos (incisos I e III), entre outras.\n\nGabarito: correto. 10. (Prof. Herbert Almeida - Inédita) Os contratos administrativos devem necessariamente conter cláusula estabelecendo a data-base e a periodicidade do reajustamento de preços, assim como o prazo para resposta a eventual pedido de repactuação de preços.\n\nComentário: de fato, essas são cláusulas necessárias estabelecidas no art. 92, incisos V e X da Lei de Licitações: Art. 92. São necessárias em todo contrato cláusulas que estabeleçam: [...] V - o preço e as condições de pagamento, os critérios, a data-base e a periodicidade do reajustamento de preços e os critérios de atualização monetária entre a data do adimplemento das obrigações e a do efetivo pagamento; [...] X - o prazo para resposta ao pedido de repactuação de preços, quando for o caso;\n\nGabarito: correto. 11. (Prof. Herbert Almeida - Inédita) A administração deve fazer constar no contrato cláusula que declare competente o foro de sua sede, inclusive quando o objeto for a aquisição de bens e serviços realizada por unidades administrativas com sede no exterior.\n\nComentário: a regra é que os contratos celebrados pela administração pública com pessoas físicas ou jurídicas, inclusive as domiciliadas no exterior, deverão conter cláusula que declare competente o foro da sede da administração para dirimir qualquer questão contratual, ressalvadas algumas hipóteses, entre as quais, quando se tratar de aquisição de bens e serviços realizada por unidades administrativas com sede no exterior (art. 92, §1°, III). Então, nesses casos, pode ser estabelecido outro local para a resolução de eventuais conflitos entre as partes.\n\nGabarito: errado. 12. (Prof. Herbert Almeida - Inédita) Desde que compatível com o regime de execução aplicado, as medições realizadas nos contratos de obras e serviços de engenharia devem ser semestrais.\n\nComentário: nos contratos de obras e serviços de engenharia, sempre que compatível com o regime de execução, a medição será mensal, e não semestral como diz a assertiva (art. 92, §5°).\n\nGabarito: errado. 13. (Prof. Herbert Almeida - Inédita) É cláusula necessária dos contratos a que prevê o prazo para resposta ao pedido de repactuação de preços, que deverá ser preferencialmente de um mês, quando se tratar de prestação de serviços contínuos com regime de dedicação exclusiva de mão de obra.\n\nComentário: nos contratos para serviços contínuos com regime de dedicação exclusiva de mão de obra ou com predominância de mão de obra, o prazo para resposta ao pedido de repactuação de preços será preferencialmente de um mês, contado da data do fornecimento da documentação prevista em lei (art. 92, §6°). Ademais, é cláusula necessária a que prevê que deve constar o prazo para resposta ao pedido de repactuação, na forma do art. 92, X.\n\nGabarito: correto. 14. (Prof. Herbert Almeida - Inédita) A repactuação será precedida de solicitação do contratado, acompanhada de demonstração analítica da variação dos custos.\n\nComentário: a repactuação visa à manutenção do equilíbrio econômico-financeiro do contrato, devendo ser precedida de solicitação do contratado, acompanhada de demonstração analítica da variação dos custos, por meio de apresentação da planilha de custos e formação de preços, ou do novo acordo, convenção ou sentença normativa que fundamenta a repactuação (art. 135, § 6º).\n\nGabarito: correto. 15. (Prof. Herbert Almeida - Inédita) Determinada empresa saiu vencedora em procedimento licitatório para fornecimento de serviços técnicos especializados, relativos ao desenvolvimento de um software para ser implementado na gestão dos serviços de saúde de um município. Nesse caso, o autor do projeto deverá ceder todos os direitos patrimoniais a eles relativos para a administração pública.\n\nComentário: de fato, a Lei 14.133/2021 estabelece que, nas contratações de projetos ou de serviços técnicos especializados, inclusive daqueles que contemplem o desenvolvimento de programas e aplicações de internet para computadores, máquinas, equipamentos e dispositivos de tratamento e de comunicação da informação (software) – e a respectiva documentação técnica associada –, o autor deverá ceder todos os direitos patrimoniais a eles relativos para a administração pública, exatamente como diz a assertiva (art. 93, caput).\n\nGabarito: correto. 16. (Prof. Herbert Almeida - Inédita) Determinada empresa saiu vencedora em procedimento licitatório para fornecimento de serviços técnicos especializados, relativos ao desenvolvimento de um software para ser implementado na gestão dos serviços de saúde de um município. Nessa situação, apesar de receber a cessão dos direitos patrimoniais relativos ao projeto, a administração fica impedida de realizar alterações sem antes pedir autorização do seu autor.\n\nComentário: realmente, o autor do projeto deve ceder os direitos patrimoniais relativos a ele para a administração. Contudo, o que a NLLC prevê é que a administração pode livremente utilizar e alterar o projeto, sem necessidade de nova autorização do autor (art. 93, caput).\n\nGabarito: errado. 17. (Prof. Herbert Almeida - Inédita) Em procedimento licitatório para fornecimento de serviços técnicos especializados, o autor do projeto deve ceder os direitos patrimoniais à administração e, apesar de não precisar autorizar eventuais modificações no projeto, deverá ser comunicado caso a administração o altere.\n\nComentário: na hipótese de posterior alteração do projeto pela Administração Pública, o autor deverá ser comunicado, e os registros serão promovidos nos órgãos ou entidades competentes (art. 93, § 3°)\n\nGabarito: correto. 18. (Prof. Herbert Almeida - Inédita) A divulgação dos contratos no Portal Nacional de Contratações Públicas (PNPC) é condição indispensável para sua eficácia, devendo ser publicados no prazo de vinte dias úteis contados da data de sua assinatura, no caso de licitação.\n\nComentário: a divulgação no Portal Nacional de Contratações Públicas (PNCP) é condição indispensável para a eficácia do contrato e de seus aditamentos e deverá ocorrer nos seguintes prazos, contados da data de sua assinatura: 20 (vinte) dias úteis, no caso de licitação; 10 (dez) dias úteis, no caso de contratação direta (art. 93 da NLLC).\n\nGabarito: correto. 19. (Prof. Herbert Almeida - Inédita) No caso de obras, devem ser divulgados em sítio oficial tanto os quantitativos e os preços unitários e totais que contratar quanto os quantitativos efetivamente executados e os preços praticados.\n\nComentário: no caso de obras, a administração divulgará em sítio eletrônico oficial (art. 94, § 3º): (i) em até 25 dias úteis após a assinatura do contrato: os quantitativos e os preços unitários e totais que contratar; e, (ii) em até 45 dias úteis após a conclusão do contrato: os quantitativos executados e os preços praticados.\n\nGabarito: correto. 20. (Prof. Herbert Almeida - Inédita) Nas compras de entrega imediata e das quais não resultem obrigações futuras, será dispensado o instrumento de contrato, desde que se trate de licitação considerada como de baixo valor.\n\nComentário: realmente, o instrumento de contrato pode ser substituído por outros instrumentos hábeis (carta-contrato, nota de empenho de despesa, autorização de compra ou ordem de execução de serviço), no caso de compras com entrega imediata e integral dos bens adquiridos e dos quais não resultem obrigações futuras, inclusive quanto a assistência técnica. Contudo, isso ocorre independentemente de seu valor, e não apenas nas licitações de baixo valor (art. 95. II). Assim, a questão misturou as duas hipóteses em que o instrumento de contrato poderá ser dispensado.\n\nGabarito: errado. 21. (Prof. Herbert Almeida - Inédita) É vedada a celebração de contratos verbais com a administração, exceto aqueles firmados para pequenas compras, especificamente na modalidade pregão.\n\nComentário: em regra, é nulo e de nenhum efeito o contrato verbal firmado com a administração. Contudo, a NLLC autoriza os contratos verbais para pequenas compras ou para prestação de serviços de pronto pagamento, assim entendidos os de valor não superior a R$ 10 mil (considerando os valores originais da L14133) (art. 95, § 2º). Então, é admitida a celebração de contratos verbais, e a exceção não está atrelada a uma modalidade licitatória, mas sim ao valor pré-determinado na Lei de Licitações.\n\nGabarito: errado. 22. (Prof. Herbert Almeida - Inédita) A previsão de garantia contratual é cláusula necessária, ou seja, obrigatória, o que torna sua instituição, em regra, uma decisão vinculada da autoridade competente.\n\nComentário: as garantias contratuais são instituídas a critério da autoridade competente (ou seja, é uma decisão discricionária, e não vinculada), em cada caso (art. 96). A previsão da estipulação de garantia realmente consta como cláusula necessária. Na forma do art. 92, XII, é necessária em todo contrato cláusulas que estabeleçam as garantias oferecidas para assegurar sua plena execução, quando exigidas. Então, quando não for exigida a garantia, essa cláusula também não precisa constar do contrato. Parece estranho, mas é assim: ela é uma cláusula necessária, mas apenas quando for exigida a garantia.\n\nGabarito: errado. 23. (Prof. Herbert Almeida - Inédita) A garantia contratual poderá ser majorada para até dez por cento nas contratações de obras, desde que haja justificativa por razões de complexidade técnica e com base nos riscos envolvidos.\n\nComentário: nas contratações de obras, serviços e fornecimentos, a garantia poderá ser de até 5% (cinco por cento) do valor inicial do contrato, autorizada a majoração desse percentual para até 10% (dez por cento), desde que justificada mediante análise da complexidade técnica e dos riscos envolvidos (art. 98).\n\nGabarito: correto. 24. (Prof. Herbert Almeida - Inédita) O valor da garantia é calculado com base no valor inicial do contrato, salvo nas contratações de serviços contínuos com vigência superior a um ano, em que o percentual será calculado com base no valor anual do contrato.\n\nComentário: nas contratações de serviços e fornecimentos contínuos com vigência superior a 1 (um) ano, assim como nas subsequentes prorrogações, será utilizado o valor anual do contrato para definição e aplicação dos percentuais de 5% ou 10%, conforme previsto no caput do art. 98, parágrafo único. Nos demais casos, segue-se a regra de calcular o valor da garantia a partir do valor inicial do contrato (art. 98, caput).\n\nGabarito: correto. 25. (Prof. Herbert Almeida - Inédita) O contratado pode atuar como depositário dos bens a serem entregues à administração, hipótese em que o valor desses bens será acrescido ao valor da garantia.\n\nComentário: nos casos de contratos que impliquem a entrega de bens pela administração, dos quais o contratado ficará depositário, o valor desses bens deverá ser acrescido ao valor da garantia (art. 101 da Lei n° 14.133/2021).\n\nGabarito: correto. 26. (Prof. Herbert Almeida - Inédita) Na contratação de obras e serviços de engenharia, o edital poderá exigir a prestação da garantia na modalidade seguro-garantia e prever a obrigação de a seguradora, em caso de inadimplemento pelo contratado, assumir a execução e concluir o objeto do contrato.\n\nComentário: isso é verdade, e corresponde à previsão literal do art. 102 da NLLC. O segurador, nesse caso, assume a responsabilidade de concluir e executar o objeto. Tal situação é denominada step in right, que significa que a seguradora assumi a obrigação de gerenciamento, execução e entrega do empreendimento quando a contratada falhar no cumprimento de suas obrigações.\n\nGabarito: correto. 27. (Prof. Herbert Almeida - Inédita) Na contratação de obras e serviços de engenharia, o contrato pode exigir a prestação de seguro-garantia, e, em caso de inadimplemento do contratado, a seguradora ficará autorizada a subcontratar a conclusão do objeto contratual, total ou parcialmente.\n\nComentário: na contratação de obras e serviços de engenharia, o edital poderá exigir a prestação da garantia na modalidade seguro-garantia e prever a obrigação de a seguradora, em caso de inadimplemento pelo contratado, assumir a execução e concluir o objeto do contrato. Nessa hipótese, entre outras providências, a seguradora poderá subcontratar a conclusão do contrato, total ou parcialmente (art. 102, III da NLLC).\n\nGabarito: correto. 28. (Prof. Herbert Almeida - Inédita) As cláusulas exorbitantes, fundamentadas no princípio da supremacia do interesse público sobre o privado, colocam a administração em posição de verticalidade perante o particular.\n\nComentário: as chamadas cláusulas exorbitantes, previstas principalmente no art. 104 da NLLC, constituem cláusulas de direito público que colocam a administração em posição de verticalidade perante o particular, e, por isso, têm seu fundamento no princípio da supremacia do interesse público sobre o privado.\n\nGabarito: correto. 29. (Prof. Herbert Almeida - Inédita) Nos contratos de serviços contínuos, a administração poderá extinguir o contrato antes do prazo fixado em edital, sem ônus, quando entender que o contrato não lhe oferece mais vantagens.\n\nComentário: a administração pode celebrar contratos com prazo de até cinco anos, nas hipóteses de serviços e fornecimentos contínuos. Nesse sentido, nos termos do art. 106 da Lei, fica assegurada à administração a possibilidade de extinguir o contrato, sem ônus, quando não dispuser de créditos orçamentários para sua continuidade ou quando entender que o contrato não mais lhe oferece vantagem (inciso III).\n\nGabarito: correto. 30. (Prof. Herbert Almeida - Inédita) O prazo máximo de duração dos contratos de serviços contínuos será de dez anos, incluídas eventuais prorrogações, devendo a administração atestar que os preços permanecem vantajosos ao longo desse período.\n\nComentário: a NLLC diz que os contratos de serviços e fornecimentos contínuos poderão ser prorrogados sucessivamente, respeitada a vigência máxima decenal (ou seja, de dez anos), desde que haja previsão em edital e que a autoridade competente ateste que as condições e os preços permanecem vantajosos para a administração, permitida a negociação com o contratado ou a extinção contratual sem ônus para qualquer das partes (art. 107).\n\nGabarito: correto.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u7l4",
+          "title": "Lição 4",
+          "slides": [
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "Os contratos de eficiência poderão ter prazo de vigência de até trinta e cinco anos, quando houver investimento por parte do contratado, desde que as benfeitorias permanentes sejam revertidas ao patrimônio da administração ao final do contrato.",
+              "correctOption": "C",
+              "explanation": "no contrato de eficiência que gere economia para a administração, os prazos serão de até 35 (trinta e cinco) anos, nos contratos com investimento, assim considerados aqueles que impliquem a elaboração de benfeitorias permanentes, realizadas exclusivamente a expensas do contratado, que serão revertidas ao patrimônio da administração pública ao término do contrato (art. 110, II, Lei n° 14.133/2021).\n\nGabarito: correto.",
+              "id": 1
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "O contrato firmado sob o regime de fornecimento e de prestação de serviço associado terá a sua vigência máxima definida pela soma do prazo relativo ao fornecimento inicial ou à entrega da obra com o prazo relativo ao serviço de operação e manutenção, este limitado a cinco anos contados da data de recebimento do objeto inicial, autorizada a prorrogação na forma da lei.",
+              "correctOption": "C",
+              "explanation": "a questão trata dos contratos firmados sob o regime de fornecimento e prestação de serviço associado. Nesses casos, a vigência máxima será definida pela soma do prazo relativo ao fornecimento inicial ou à entrega da obra com o prazo relativo ao serviço de operação e manutenção. Este último (prazo do serviço) está limitado a cinco anos, contados da data de recebimento do objeto inicial, autorizada a prorrogação (art. 113).\n\nGabarito: correto.",
+              "id": 2
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "É possível a prorrogação do prazo de quinze anos, previsto como prazo máximo de vigência dos contratos de operação continuada de sistemas estruturantes de tecnologia da informação.",
+              "correctOption": "E",
+              "explanation": "nos termos do art. 114 da NLLC, o contrato que previr a operação continuada de sistemas estruturantes de tecnologia da informação poderá ter vigência máxima de 15 (quinze) anos. A Lei 14.133/2021, entretanto, nada fala sobre a possibilidade de prorrogação. Anota-se, ainda, que os contratos de operação continuada de sistemas estruturantes de tecnologia da informação são aquelas relativos aos programas de TI imprescindíveis para a atuação da administração, cuja descontinuidade possa gerar prejuízos para a atividade administrativa, como os sistemas de pessoal, sistemas de gestão de patrimônio, sistemas financeiros, etc. ==4baedc==\n\nGabarito: errado.",
+              "id": 3
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "A obra de reforma de um edifício público está paralisada há mais de um mês, atrasando o cronograma de entrega inicialmente previsto. Nessa situação, a Lei de Licitações e Contratos determina que sejam divulgados em sítio eletrônico oficial e em placa no local da obra os motivos e os responsáveis pela paralisação, indicando a data prevista para o reinício dos trabalhos.",
+              "correctOption": "C",
+              "explanation": "agora, na NLLC, há a determinação de que quando se tratar de obras, havendo paralisação por mais de 1 (um) mês, a administração deverá divulgar, em sítio eletrônico oficial e em placa a ser afixada em local da obra de fácil visualização pelos cidadãos, aviso público de obra paralisada, com o motivo e o responsável pela inexecução temporária do objeto do contrato e a data prevista para o reinício da sua execução (art. 115, §6°).\n\nGabarito: correto.",
+              "id": 4
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "Ao longo de toda a execução do contrato, o contratado deverá cumprir a reserva de cargos prevista em lei para pessoa com deficiência, indicando para a administração a relação dos empregados que preenchem referidas vagas, sempre que solicitado.",
+              "correctOption": "C",
+              "explanation": "ao longo de toda a execução do contrato, o contratado deverá cumprir a reserva de cargos prevista em lei para pessoa com deficiência, para reabilitado da Previdência Social ou para aprendiz, bem como as reservas de cargos previstas em outras normas específicas. Ademais, sempre que solicitado pela administração, o contratado deverá comprovar o cumprimento da reserva de cargos, com a indicação dos empregados que preencherem as referidas vagas (art. 116).\n\nGabarito: correto.",
+              "id": 5
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "A execução do contrato deverá ser acompanhada e fiscalizada por um ou mais fiscais do contrato, que devem, entre outros requisitos, ser preferencialmente servidores efetivos ou empregados públicos dos quadros permanentes da administração pública.",
+              "correctOption": "C",
+              "explanation": "nos termos do art. 117 da nova Lei, a execução do contrato deverá ser acompanhada e fiscalizada por 1 (um) ou mais fiscais do contrato, representantes da administração especialmente designados conforme requisitos estabelecidos no art. 7º, ou pelos respectivos substitutos, permitida a contratação de terceiros para assisti-los e subsidiá-los com informações pertinentes a essa atribuição. Nesse sentido, o(s) fiscal(is) do contrato deverão atender aos requisitos do art. 7º da Lei de Licitações, que são os seguintes: I – sejam, preferencialmente, servidor efetivo ou empregado público dos quadros permanentes da Administração Pública; II – tenham atribuições relacionadas a licitações e contratos ou possuam formação compatível ou qualificação atestada por certificação profissional emitida por escola de governo criada e mantida pelo poder público; e III – não sejam cônjuge ou companheiro de licitantes ou contratados habituais da Administração nem tenham com eles vínculo de parentesco, colateral ou por afinidade, até o terceiro grau, ou de natureza técnica, comercial, econômica, financeira, trabalhista e civil. Portanto, está correta a assertiva.\n\nGabarito: correto.",
+              "id": 6
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "A responsabilização objetiva atribuída aos terceiros auxiliares dos fiscais retira desses últimos qualquer responsabilidade sobre a fiscalização do contrato.",
+              "correctOption": "E",
+              "explanation": "a contratação de terceiros não eximirá de responsabilidade o fiscal do contrato, nos limites das informações recebidas do terceiro contratado. Lembrando que o terceiro assume responsabilidade civil objetiva pela veracidade e pela precisão das informações prestadas, na forma do art. 117, § 4°, I e II da NLLC.\n\nGabarito: errado.",
+              "id": 7
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "O contratado é responsável pelos danos causados diretamente à administração ou a terceiros em razão da execução do contrato, mas a fiscalização e o acompanhamento pelo contratante reduzirá essa responsabilidade.",
+              "correctOption": "E",
+              "explanation": "realmente, o contratado será responsável pelos danos causados diretamente à Administração ou a terceiros em razão da execução do contrato, mas não excluirá nem reduzirá essa responsabilidade a fiscalização ou o acompanhamento pelo contratante, nos termos do art. 120 da Lei n° 14.133/2021.\n\nGabarito: errado.",
+              "id": 8
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "Em nenhuma hipótese a inadimplência do contratado em relação aos encargos trabalhistas, fiscais e comerciais transferirá à administração a responsabilidade pelo seu pagamento.",
+              "correctOption": "E",
+              "explanation": "o art. 121, § 1º da Lei n° 14.133/2021, dispõe que “a inadimplência do contratado em relação aos encargos trabalhistas, fiscais e comerciais não transferirá à administração a responsabilidade pelo seu pagamento e não poderá onerar o objeto do contrato nem restringir a regularização e o uso das obras e das edificações, inclusive perante o registro de imóveis”. Todavia, há uma ressalva ao final no parágrafo subsequente, definindo que, exclusivamente, “nas contratações de serviços contínuos com regime de dedicação exclusiva de mão de obra, a administração responderá solidariamente pelos encargos previdenciários e subsidiariamente pelos encargos trabalhistas se comprovada falha na fiscalização do cumprimento das obrigações do contratado”. Então, não se pode afirmar que a administração não terá responsabilidade em nenhuma hipótese pelos encargos trabalhistas.\n\nGabarito: errado.",
+              "id": 9
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "A subcontratação de partes da obra é permitida e não exime o contratado de suas responsabilidades legais e contratuais.",
+              "correctOption": "C",
+              "explanation": "na execução do contrato e sem prejuízo das responsabilidades contratuais e legais, o contratado poderá subcontratar partes da obra, do serviço ou do fornecimento até o limite autorizado, em cada caso, pela administração, na forma do art. 122 da Lei de Licitações.\n\nGabarito: correto.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u7l5",
+          "title": "Lição 5",
+          "slides": [
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "Os editais de licitação não poderão vedar ou restringir a subcontratação da execução dos contratos.",
+              "correctOption": "E",
+              "explanation": "a subcontratação poderá ser vedada, restringida, ou poderão ser estabelecidas condições para seu implemento, por regulamento ou edital, na forma do art. 122, § 2º, da NLLC.\n\nGabarito: errado.",
+              "id": 1
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "A extinção do contrato deverá ser formalmente motivada nos autos do processo, assegurados o contraditório e a ampla defesa.",
+              "correctOption": "C",
+              "explanation": "essa é a previsão literal do art. 137, que traz um rol de situações que ensejam a extinção do contrato: “constituirão motivos para extinção do contrato, a qual deverá ser formalmente motivada nos autos do processo, assegurados o contraditório e a ampla defesa, as seguintes situações: [...]”.\n\nGabarito: correto.",
+              "id": 2
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "O contratado tem direito subjetivo à extinção do contrato quando houver suspensão da sua execução por prazo superior a dois meses consecutivos ou sessenta dias intercalados.",
+              "correctOption": "E",
+              "explanation": "a Lei n° 14.133/2021 traz como hipóteses em que o contratado terá direito à extinção do contrato, entre outras: a “suspensão de execução do contrato, por ordem escrita da administração, por prazo superior a três meses” e as “repetidas suspensões que totalizem noventa dias úteis” (art. 137, §2° II e II). Assim, se o prazo superar três meses consecutivos ou se a soma de diversas suspensões totalizar noventa dias úteis, o contratado poderá exigir a extinção do contrato.\n\nGabarito: errado.",
+              "id": 3
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "A administração está há trinta dias atrasada nos pagamentos devidos à contratada. Nesse caso, caberá à contratada requerer a extinção contratual, podendo paralisar imediatamente a execução do objeto.",
+              "correctOption": "E",
+              "explanation": "a Lei 14.133/2021 prevê que o atraso superior a dois meses, contado da emissão da nota fiscal, dos pagamentos ou de parcelas de pagamentos devidos pela administração por despesas de obras, serviços ou fornecimentos ensejará o direito do contratado de exigir a extinção contratual (art. 137, § 2º, IV). Assim, a questão está errada, pois o prazo é de dois meses. Após este período, o contratado poderá exigir a extinção do contrato ou a suspensão do cumprimento de suas obrigações.\n\nGabarito: errado.",
+              "id": 4
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "A empresa X é contratada pela administração para a prestação de serviços contínuos de varrição das vias públicas. Ocorre que o contrato foi extinto por culpa exclusiva da administração. Nesse caso, a empresa poderá ser ressarcida dos prejuízos regularmente comprovados, e terá direito à devolução da garantia.",
+              "correctOption": "C",
+              "explanation": "esse é um caso em que o contratado não deu causa a extinção, e, portanto, não poderá ser prejudicado por isso. Assim, a NLLC dispõe que, quando a extinção decorrer de culpa exclusiva da administração, o contratado será ressarcido pelos prejuízos regularmente comprovados que houver sofrido e terá direito a (art. 138, §2°): I – devolução da garantia; II – pagamentos devidos pela execução do contrato até a data de extinção; III – pagamento do custo da desmobilização. Assim, está correta a assertiva.\n\nGabarito: correto.",
+              "id": 5
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "Ao extinguir o contrato por ato unilateral, a administração poderá ocupar e utilizar o local, as instalações, os equipamentos, o material e o pessoal empregados na execução do contrato e necessários à sua continuidade.",
+              "correctOption": "C",
+              "explanation": "a extinção unilateral poderá ter como consequências (art. 139): (i) assunção imediata do objeto do contrato, no estado e local em que se encontrar, por ato próprio da Administração; (ii) ocupação e utilização do local, das instalações, dos equipamentos, do material e do pessoal empregados na execução do contrato e necessários à sua continuidade; (iii) execução da garantia contratual para: (a) ressarcimento da administração pública por prejuízos decorrentes da não execução; (b) pagamento de verbas trabalhistas, fundiárias e previdenciárias, quando cabível; (c) pagamento das multas devidas à administração pública; (d) exigência da assunção da execução e da conclusão do objeto do contrato pela seguradora, quando cabível; (iv) retenção dos créditos decorrentes do contrato até o limite dos prejuízos causados à administração pública e das multas aplicadas. A aplicação dessas medidas ficará a critério da administração, que poderá dar continuidade à obra ou ao serviço por execução direta ou indireta (§1° do art. 139).\n\nGabarito: correto.",
+              "id": 6
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "Ao constatar uma irregularidade na execução contratual, caso não seja possível seu saneamento, a administração somente declarará sua nulidade caso isso se revele medida de interesse público, analisando-se, entre outros aspectos, os impactos econômicos e financeiros decorrentes do atraso na fruição dos benefícios do objeto do contrato.",
+              "correctOption": "C",
+              "explanation": "nos termos do que dispõe o art. 147 da NLLC, constatada irregularidade no procedimento licitatório ou na execução contratual, caso não seja possível o saneamento, a decisão sobre a suspensão da execução ou sobre a declaração de nulidade do contrato somente será adotada na hipótese em que se revelar medida de interesse público, com avaliação, entre outros, dos impactos econômicos e financeiros decorrentes do atraso na fruição dos benefícios do objeto do contrato (inciso I). Vale destacar que, nos casos em que a anulação não se revelar medida de interesse público, o poder público deverá optar pela continuidade do contrato e pela solução da irregularidade por meio de indenização por perdas e danos, sem prejuízo da apuração de responsabilidade e da aplicação de penalidades cabíveis.\n\nGabarito: correto.",
+              "id": 7
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "Mesmo após a declaração de nulidade do contrato, é possível, por decisão da autoridade, que o serviço continue sendo prestado por um prazo de até seis meses, prorrogável uma vez, para que se tenha tempo hábil para se efetuar nova contratação.",
+              "correctOption": "C",
+              "explanation": "ao declarar a nulidade do contrato, a autoridade, com vistas à continuidade da atividade administrativa, poderá decidir que ela só tenha eficácia em momento futuro, suficiente para efetuar nova contratação, por prazo de até seis meses, prorrogável uma única vez (art. 148, § 2º).\n\nGabarito: correto.",
+              "id": 8
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "São requisitos para a realização da contratação a caracterização adequada de seu objeto, bem como a indicação dos créditos orçamentários, sob pena de nulidade.",
+              "correctOption": "C",
+              "explanation": "nos termos do art. 150, nenhuma contratação será feita sem a caracterização adequada de seu objeto e sem a indicação dos créditos orçamentários para pagamento das parcelas contratuais vincendas no exercício em que for realizada a contratação, sob pena de nulidade do ato e de responsabilização de quem lhe tiver dado causa.\n\nGabarito: correto.",
+              "id": 9
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "O recebimento provisório das compras realizadas pela administração é feito de forma sumária, pelo responsável por seu acompanhamento e fiscalização, verificando-se de imediato a conformidade do material com as exigências contratuais.",
+              "correctOption": "E",
+              "explanation": "em se tratando de compras, o objeto do contrato será recebido provisoriamente, de forma sumária, pelo responsável por seu acompanhamento e fiscalização, com verificação posterior da conformidade do material com as exigências contratuais, nos termos do art. 140, II, “a” da Lei n° 14.133/2021. Então, o responsável recebe provisoriamente as compras, deixando a verificação de sua conformidade com o que foi contratado para momento posterior.\n\nGabarito: errado.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u7l6",
+          "title": "Lição 6",
+          "slides": [
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "Nos casos de grave perturbação da ordem, situação de emergência ou calamidade pública, poderá haver alteração da ordem cronológica dos pagamentos feitos pela administração, mediante prévia justificativa e posterior comunicação aos órgãos de controle interno e externo da administração.",
+              "correctOption": "C",
+              "explanation": "em regra, no dever de pagamento pela administração, será observada a ordem cronológica para cada fonte diferenciada de recurso. Contudo, essa ordem poderá ser alterada, mediante prévia justificativa da autoridade competente e posterior comunicação ao órgão de controle interno da Administração e ao tribunal de contas competente, exclusivamente nos casos permitidos pelo art. 141, § 1º da Lei de Licitações, entre os quais se incluem a grave perturbação da ordem, a situação de emergência ou a calamidade pública.\n\nGabarito: correto.",
+              "id": 1
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "Admite-se o estabelecimento de remuneração variável na contratação de obras, fornecimentos e serviços, inclusive de engenharia.",
+              "correctOption": "C",
+              "explanation": "na contratação de obras, fornecimentos e serviços, inclusive de engenharia, poderá ser estabelecida remuneração variável vinculada ao desempenho do contratado, com base em metas, padrões de qualidade, critérios de sustentabilidade ambiental e prazos de entrega definidos no edital de licitação e no contrato, conforme disposto no art. 144 da NLLC.\n\nGabarito: correto.",
+              "id": 2
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "Ao licitante que cometer alguma infração administrativa prevista na Lei n° 14.133/2021 poderão ser aplicadas as sanções de advertência, multa, impedimento de licitar ou contratar e declaração de inidoneidade para licitar ou contratar.",
+              "correctOption": "C",
+              "explanation": "as sanções aplicáveis no âmbito da NLLC estão previstas no art. 156, que assim dispõe: Art. 156. Serão aplicadas ao responsável pelas infrações administrativas previstas nesta Lei as seguintes sanções: I – advertência; II – multa; III – impedimento de licitar e contratar; IV – declaração de inidoneidade para licitar ou contratar. Está correta a assertiva, portanto.\n\nGabarito: correto.",
+              "id": 3
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "A sanção de impedimento de licitar e contratar pode ter prazo máximo de três anos, e abrange toda a administração pública, federal, estadual ou municipal.",
+              "correctOption": "E",
+              "explanation": "ao sofrer a sanção de impedimento de licitar e contratar, o responsável fica impedido de licitar ou contratar no âmbito da administração pública direta e indireta do ente federativo que tiver aplicado a sanção, pelo prazo máximo de três anos. Então, o prazo está correto, mas a abrangência da sanção restringe-se à administração direta e indireta apenas do órgão federativo que a aplicou (art. 156, § 4°).\n\nGabarito: errado.",
+              "id": 4
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "Nos casos em que uma empresa contratada é declarada inidônea para licitar ou contratar, esta ficará impedida de licitar ou contratar no âmbito da administração pública direta e indireta de todos os entes federativos, pelo prazo mínimo de 3 (três) anos e máximo de 6 (seis) anos.",
+              "correctOption": "C",
+              "explanation": "a aplicação da sanção de declaração de inidoneidade impedirá o responsável de licitar ou contratar no âmbito da administração pública direta e indireta de todos os entes federativos, pelo prazo mínimo de 3 (três) anos e máximo de 6 (seis) anos (art. 156, §5°).\n\nGabarito: correto.",
+              "id": 5
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "Eventuais diferenças entre a multa aplicada à contratada e as indenizações devidas pela administração podem ser descontadas da garantia prestada no contrato.",
+              "correctOption": "C",
+              "explanation": "a Lei de Licitações esclarece que, quando a multa aplicada e as indenizações cabíveis forem superiores ao valor de pagamento eventualmente devido pela administração ao contratado, além da perda desse valor, a diferença será descontada da garantia prestada ou será cobrada judicialmente (art. 156, § 8º).\n\nGabarito: correto.",
+              "id": 6
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "O prazo prescricional para aplicação das sanções é de cinco anos, contados da ciência da infração pela administração, vedada sua interrupção.",
+              "correctOption": "E",
+              "explanation": "apesar de o prazo ser realmente de cinco anos, o art. 158, § 4º, prevê hipóteses em que a prescrição será interrompida ou suspensa (interrompida pela instauração do processo de responsabilização; suspensa pela celebração de acordo de leniência; suspensa por decisão judicial que inviabilize a conclusão da apuração administrativa).\n\nGabarito: errado.",
+              "id": 7
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "A Lei n° 14.133/2021 traz a possibilidade de desconsideração da personalidade jurídica, quando esta for utilizada com abuso de direito, facilitando a prática de atos ilícitos relacionados aos processos licitatórios.",
+              "correctOption": "C",
+              "explanation": "essa previsão consta do art. 160 da Lei, segundo o qual a personalidade jurídica poderá ser desconsiderada sempre que utilizada com abuso do direito para facilitar, encobrir ou dissimular a prática dos atos ilícitos previstos na Lei de Licitações ou para provocar confusão patrimonial.\n\nGabarito: correto.",
+              "id": 8
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "Ao contratado que atrase de maneira injustificada a execução do contrato poderá ser aplicada multa de mora.",
+              "correctOption": "C",
+              "explanation": "a multa de mora (art. 162) é aplicada em virtude de atraso injustificado na execução do contrato.\n\nGabarito: correto.",
+              "id": 9
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "A própria autoridade que aplicou a penalidade é competente pela reabilitação do contratado, desde que atendidos os requisitos cumulativos previstos na Lei n° 14.133/2021, entre os quais se destaca a necessidade de reparar integralmente o dano causado à administração.",
+              "correctOption": "C",
+              "explanation": "nos termos do art. 163 da Lei de Licitações, é admitida a reabilitação do licitante ou contratado perante a própria autoridade que aplicou a penalidade, exigidos, cumulativamente (entre outros requisitos), a reparação integral do dano causado à administração pública.\n\nGabarito: correto.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u7l7",
+          "title": "Lição 7",
+          "slides": [
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "Considere que a administração descubra que um contratado apresentou declaração ou documentação falsa exigida para o certame, além de ter prestado declaração falsa durante a licitação. Nessa situação, o contratado responderá com as sanções cabíveis, e sua reabilitação será condicionada à implantação ou aperfeiçoamento de programa de integridade pelo responsável.",
+              "correctOption": "C",
+              "explanation": "a sanção pela infração mencionada na questão exige, como condição de reabilitação do licitante ou contratado, a implantação ou aperfeiçoamento de programa de integridade pelo responsável, nos termos do art. 163, parágrafo único da Lei 14.133/2021.\n\nGabarito: correto.",
+              "id": 1
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "João, morador da cidade de São Paulo, tomou conhecimento da publicação de edital de licitação para compra de materiais de consumo da prefeitura que já tinham sido licitados há pouco tempo. Além disso, não havia qualquer justificativa sobre os quantitativos a serem licitados. A fim de exercer seu papel de cidadão, João pretende impugnar os termos do edital. Nessa situação, é possível que João apresente impugnação, no prazo de até três dias úteis antes da data prevista para abertura do certame.",
+              "correctOption": "C",
+              "explanation": "nos termos do art. 164, qualquer pessoa é parte legítima para impugnar edital de licitação por irregularidade na aplicação desta Lei ou para solicitar esclarecimento sobre os seus termos, devendo protocolar o pedido até 3 (três) dias úteis antes da data de abertura do certame. Assim, é possível a apresentação de impugnação por parte de João.\n\nGabarito: correto.",
+              "id": 2
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "João, morador da cidade de São Paulo, tomou conhecimento da publicação de edital de licitação para compra de materiais de consumo da prefeitura que já tinham sido licitados há pouco tempo. Além disso, não havia qualquer justificativa sobre os quantitativos a serem licitados. A fim de exercer seu papel de cidadão, João pretende impugnar os termos do edital. Nessa situação, a administração terá até três dias úteis para divulgar a resposta à impugnação.",
+              "correctOption": "C",
+              "explanation": "a resposta à impugnação ou ao pedido de esclarecimento apresentada pelo interessado será divulgada em sítio eletrônico oficial no prazo de até 3 (três) dias úteis, limitado ao último dia útil anterior à data da abertura do certame, nos termos do art. 164, parágrafo único.\n\nGabarito: correto.",
+              "id": 3
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "Caso o licitante pretenda apresentar recurso em face da decisão que anulou o procedimento licitatório, deverá observar o prazo de cinco dias úteis, contados da data de intimação ou de lavratura da ata.",
+              "correctOption": "E",
+              "explanation": "dos atos da administração decorrentes da aplicação da Lei de Licitações, cabe recurso, no prazo de 3 (três) dias úteis, contado da data de intimação ou de lavratura da ata, em face de (art. 165, I): (a) ato que defira ou indefira pedido de pré-qualificação de interessado ou de inscrição em registro cadastral, sua alteração ou cancelamento; (b) julgamento das propostas; (c) ato de habilitação ou inabilitação de licitante; (d) anulação ou revogação da licitação; (e) extinção do contrato, quando determinada por ato unilateral e escrito da Administração. Portanto, o prazo de recurso é de três dias úteis.\n\nGabarito: errado.",
+              "id": 4
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "O pedido de reconsideração tem efeito suspensivo e somente será apresentado em face de ato contra o qual não caiba recurso hierárquico.",
+              "correctOption": "C",
+              "explanation": "pedido de reconsideração é cabível relativamente a ato do qual não caiba recurso hierárquico (art. 165, II). Além disso, nos termos do art. 168, o pedido de reconsideração dará efeito suspensivo ao ato ou à decisão recorrida, até que sobrevenha decisão final da autoridade competente.\n\nGabarito: correto.",
+              "id": 5
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "O licitante que pretenda apresentar recurso contra sua a decisão de inabilitação deverá manifestar imediatamente sua intenção de recorrer, apresentando suas razões no prazo de três dias úteis.",
+              "correctOption": "C",
+              "explanation": "nos recursos apresentados em face do julgamento das propostas ou do ato de habilitação ou inabilitação de licitante, os interessados devem manifestar intenção de recorrer imediatamente, sob pena de preclusão, e o prazo para apresentação das razões recursais, que é de três dias úteis, será iniciado na data de intimação ou de lavratura da ata de habilitação ou inabilitação ou, na hipótese de adoção da inversão de fases, da ata de julgamento (art. 165, §1°, I).\n\nGabarito: correto.",
+              "id": 6
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "A autoridade competente, ao receber o recurso, poderá reconsiderar sua decisão no prazo de cinco dias úteis; caso não reconsidere, deverá encaminhar o recurso à autoridade superior no prazo de dez dias úteis, com a devida motivação.",
+              "correctOption": "E",
+              "explanation": "o recurso será dirigido à autoridade que tiver editado o ato ou proferido a decisão recorrida. Essa autoridade pode reconsiderar o ato ou a decisão no prazo de 3 (três) dias úteis, e, caso não reconsidere, vai encaminhar o recurso, com a sua motivação, à autoridade superior, a qual deverá proferir sua decisão no prazo máximo de 10 (dez) dias úteis, contado do recebimento dos autos. Então, está quase tudo ok, menos o prazo para apreciação do pedido de reconsideração, que é de três dias úteis, e não cinco dias úteis (art. 165, §2°).\n\nGabarito: errado.",
+              "id": 7
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "A empresa X participa de procedimento licitatório e no curso do procedimento sofreu as sanções de advertência e multa. Caso pretenda recorrer da cominação, deverá apresentar recurso no prazo de quinze dias úteis.",
+              "correctOption": "C",
+              "explanation": "nos termos do art. 166, da aplicação das sanções previstas nos incisos I, II e III do caput do art. 156 desta Lei – advertência, multa e impedimento de licitar ou contratar – caberá recurso no prazo de 15 (quinze) dias úteis, contado da data da intimação.\n\nGabarito: correto.",
+              "id": 8
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "A empresa X participa de procedimento licitatório e no curso do procedimento sofreu as sanções de advertência e multa. Nesse caso, apresentado o recurso pela empresa e não tendo sido a decisão reconsiderada, a autoridade superior terá que proferir sua decisão no prazo máximo de vinte dias úteis, contado do recebimento dos autos.",
+              "correctOption": "C",
+              "explanation": "diante das sanções aplicadas, o interessado pode apresentar recurso. Nesse caso, a autoridade que proferiu a decisão pode reconsiderá-la no prazo de 5 (cinco) dias úteis. Caso não o faça, encaminhará o recurso com sua motivação à autoridade superior, a qual deverá proferir sua decisão no prazo máximo de 20 (vinte) dias úteis, contado do recebimento dos autos (art. 166, parágrafo único).\n\nGabarito: correto.",
+              "id": 9
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "O pedido de reconsideração apresentado em face da sanção que declarar a inidoneidade do licitante deve ser apresentado no prazo de vinte dias úteis e decidido no prazo de quinze dias úteis.",
+              "correctOption": "E",
+              "explanation": "os prazos estão trocados. No caso da sanção de declaração de inidoneidade, caberá apenas pedido de reconsideração, que deverá ser apresentado no prazo de 15 (quinze) dias úteis, contado da data da intimação, e decidido no prazo máximo de 20 (vinte) dias úteis, contado do seu recebimento (art. 167).\n\nGabarito: errado.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u7l8",
+          "title": "Lição 8",
+          "slides": [
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "A critério da autoridade competente, poderá ser atribuído efeito suspensivo aos recursos e aos pedidos de reconsideração.",
+              "correctOption": "E",
+              "explanation": "a nova Lei de Licitações não traz a atribuição de efeito suspensivo como sendo uma decisão discricionária da autoridade. Dessa forma, o art. 168 determina que o recurso e o pedido de reconsideração terão efeito suspensivo do ato ou da decisão recorrida até que sobrevenha decisão final da autoridade competente.\n\nGabarito: errado.",
+              "id": 1
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "As contratações públicas estão sujeitas ao controle social e submetem-se a práticas contínuas e permanentes de gestão de riscos e de controle preventivo, cuja implementação será de responsabilidade da alta administração do órgão ou entidade.",
+              "correctOption": "C",
+              "explanation": "as contratações públicas deverão submeter-se a práticas contínuas e permanentes de gestão de riscos e de controle preventivo, inclusive mediante adoção de recursos de tecnologia da informação, além de estar subordinadas ao controle social, nos termos do que dispõe o art. 169 da nova Lei. Ademais, a implementação dessas práticas será de responsabilidade da alta administração do órgão ou entidade e levará em consideração os custos e os benefícios decorrentes de sua implementação.\n\nGabarito: correto.",
+              "id": 2
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "O controle das contratações públicas submete-se a três linhas de defesa, integradas, por servidores, unidades de assessoramento jurídico e órgãos de controle interno, tribunais de contas, entre outros.",
+              "correctOption": "C",
+              "explanation": "as contratações públicas devem submeter-se a práticas contínuas e permanentes de gestão de riscos e de controle preventivo, inclusive mediante adoção de recursos de tecnologia da informação, e, além de estar subordinadas ao controle social, sujeitar-se-ão às seguintes linhas de defesa: I – primeira linha de defesa, integrada por servidores e empregados públicos, agentes de licitação e autoridades que atuam na estrutura de governança do órgão ou entidade; II – segunda linha de defesa, integrada pelas unidades de assessoramento jurídico e de controle interno do próprio órgão ou entidade; III – terceira linha de defesa, integrada pelo órgão central de controle interno da Administração e pelo tribunal de contas. Então, de maneira geral, está correta a afirmativa.\n\nGabarito: correto.",
+              "id": 3
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "As contratações públicas deverão submeter-se a práticas contínuas e permanentes de gestão de riscos e de controle preventivo, a cargo da alta administração do órgão ou entidade, visando produzir resultados vantajosos focados na eficiência, eficácia e efetividade nas contratações públicas.",
+              "correctOption": "C",
+              "explanation": "a implementação das práticas de controle e de gestão preventiva de riscos será de responsabilidade da alta administração do órgão ou entidade e levará em consideração os custos e os benefícios decorrentes de sua implementação, optando-se pelas medidas que promovam relações íntegras e confiáveis, com segurança jurídica para todos os envolvidos, e que produzam o resultado mais vantajoso para a administração, com eficiência, eficácia e efetividade nas contratações públicas, nos termos do previsto pelo art. 169, §1° da Lei de Licitações.\n\nGabarito: correto.",
+              "id": 4
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "Para a realização de suas atividades, os órgãos de controle deverão ter acesso irrestrito aos documentos e às informações necessárias à realização dos trabalhos, exceto quanto aos documentos classificados pelo órgão ou entidade nos termos da Lei de Acesso à Informação (Lei nº 12.527/2011).",
+              "correctOption": "E",
+              "explanation": "não é isso o que prevê a Lei de Licitações. Na verdade, a lei diz que, para a realização de suas atividades, os órgãos de controle deverão ter acesso irrestrito aos documentos e às informações necessárias à realização dos trabalhos, inclusive aos documentos classificados pelo órgão ou entidade nos termos da Lei nº 12.527/2011 (Lei de Acesso à Informação). Nessa situação, o órgão de controle com o qual foi compartilhada eventual informação sigilosa tornar-se-á corresponsável pela manutenção do seu sigilo, nos termos do art. 169, § 2º.\n\nGabarito: errado.",
+              "id": 5
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "Os integrantes das linhas de defesa nas contratações devem adotar medidas para o saneamento, quando identificarem simples impropriedades formais, buscando evitar que ocorram novamente, através do aperfeiçoamento do controle preventivo e da capacitação dos agentes públicos responsáveis.",
+              "correctOption": "C",
+              "explanation": "quando os integrantes das linhas de defesa constatarem simples impropriedade formal, a lei diz que eles devem adotar medidas para o seu saneamento e para a mitigação de riscos de sua nova ocorrência, preferencialmente com o aperfeiçoamento dos controles preventivos e com a capacitação dos agentes públicos responsáveis (art. 169, § 3º, I).\n\nGabarito: correto.",
+              "id": 6
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "Os órgãos de controle devem adotar critérios de oportunidade, materialidade, relevância e risco na fiscalização dos atos decorrentes da aplicação da Lei n° 14.133/2021.",
+              "correctOption": "C",
+              "explanation": "de fato, o art. 170 da NLLC diz que os órgãos de controle adotarão, na fiscalização dos atos previstos na Lei, critérios de oportunidade, materialidade, relevância e risco e considerarão as razões apresentadas pelos órgãos e entidades responsáveis e os resultados obtidos com a contratação.\n\nGabarito: correto.",
+              "id": 7
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "O tribunal de contas pode suspender cautelarmente o processo licitatório, devendo-se pronunciar definitivamente sobre o mérito da irregularidade que tenha dado causa à suspensão no prazo de vinte e cinco dias úteis, contado do recebimento das informações prestadas pelo órgão ou entidade, prorrogável por igual período uma única vez.",
+              "correctOption": "C",
+              "explanation": "ao suspender cautelarmente o processo licitatório, o tribunal de contas deverá pronunciar-se definitivamente sobre o mérito da irregularidade que tenha dado causa à suspensão no prazo de 25 (vinte e cinco) dias úteis, contado da data do recebimento das informações prestadas, prorrogável por igual período uma única vez (art. 171, § 1º).\n\nGabarito: correto.",
+              "id": 8
+            },
+            {
+              "type": "question",
+              "header": "Prof. Herbert Almeida - Inédita",
+              "statement": "A decisão do tribunal de contas que analisar o mérito da suspensão cautelar do procedimento deverá definir as medidas necessárias e adequadas para o saneamento do processo, desde que isso não implique a sua anulação.",
+              "correctOption": "E",
+              "explanation": "na verdade, o tribunal pode sim determinar a anulação do procedimento. Nesse sentido, o art. 171, § 3° diz que a decisão que examinar o mérito da medida cautelar deverá definir as medidas necessárias e adequadas, em face das alternativas possíveis, para o saneamento do processo licitatório, ou determinar a sua anulação.\n\nGabarito: errado.",
+              "id": 9
             }
           ]
         }
