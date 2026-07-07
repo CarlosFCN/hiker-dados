@@ -2,7 +2,7 @@
   "id": "direito_administrativo_mpes",
   "title": "Direito Administrativo MPES",
   "acronym": "DADM",
-  "version": "150620261154",
+  "version": "070720261523",
   "units": [
     {
       "id": "1",
@@ -8077,6 +8077,1015 @@
               "correctOption": "E",
               "explanation": "na verdade, o tribunal pode sim determinar a anulação do procedimento. Nesse sentido, o art. 171, § 3° diz que a decisão que examinar o mérito da medida cautelar deverá definir as medidas necessárias e adequadas, em face das alternativas possíveis, para o saneamento do processo licitatório, ou determinar a sua anulação.\n\nGabarito: errado.",
               "id": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "CONTROLE DA ADMINISTRAÇÃO PÚBLICA",
+      "color": "bg-green-500",
+      "lessons": [
+        {
+          "id": "u8l1",
+          "title": "Lição 1",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TCE-RR / 2025",
+              "question": "Após compreender a distinção entre a anulação e a revogação dos atos administrativos e verificar as peculiaridades atinentes ao controle exercido pelos Tribunais de Contas sobre os atos discricionários realizados pelo Poder Executivo, Maristela verificou corretamente que",
+              "options": [
+                "deve o Tribunal de Contas revogar tais atos administrativos, caso verifique a existência de qualquer vício na sua formalização.",
+                "cabe ao Tribunal de Contas tanto a anulação quanto a revogação de tais atos administrativos, sempre com efeitos retroativos.",
+                "cumpre ao Tribunal de Contas anular tais atos administrativos nas situações que não mais atenderem ao interesse público.",
+                "não compete ao Tribunal de Contas revogar tais atos administrativos, pois não é o órgão competente para o exercício da discricionariedade.",
+                "não incumbe ao Tribunal de Contas a anulação dos atos administrativos eivados de vícios insanáveis, notadamente em relação ao motivo e à finalidade."
+              ],
+              "answer": 3,
+              "explanation": "Primeiro, já vamos alertar: o TC não anule nem revoga atos dos outros Poderes. A prerrogativa de revogar é da Administração, ao passo que a anulação cabe ao Judiciário ou à Administração. O papel do TC é fixar prazo para o exato cumprimento da Lei (CF, art. 71, IX), ou seja, o TC pode determinar que a Administração promova a anulação, mas não cabe ao Tribunal anular diretamente. Agora, vamos analisar as opções.\na) Errada /\nb) Errada /\ne) Errada. Além de não ser competência do TC, a revogação não decorre de ilegalidade (vício), mas de exame de mérito.\nc) Errada. A anulação é cabível quando há ilegalidade, e não por ausência de interesse público. Nesse caso, caberia a revogação, mas lembrando que não se trata de competência do Tribunal de Contas.\nd) Certa. De fato, o Tribunal de Contas não tem competência para revogar atos administrativos, pois isso envolve juízo de conveniência e oportunidade, que pertence ao agente que emitiu o ato. Há autores que defendem que os TCs realizam controle de mérito limitado, em relação ao aspecto da economicidade. Porém, além de isso não ser pacífico (e, não minha opinião, incorreto), tal controle não permitiria a realização de revogação, mas apenas o exame se a escolha do gestor foi a mais econômica entre as opções disponíveis.\n\nGabarito: alternativa D.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TRF - 5ª REGIÃO / 2025",
+              "question": "Exercentes do controle externo sobre a Administração Pública, os Tribunais de Contas (federal, estadual ou municipal, onde existir) devem ser acionados sempre que houver a necessidade de fiscalização de atos e contratos administrativos, na forma da Constituição Federal de 1988. Diante do exposto, é correto afirmar que:",
+              "options": [
+                "como integrantes do Poder Legislativo, os Tribunais de Contas devem submeter suas fiscalizações a eventual aprovação ou reprovação da respectiva Casa Legislativa;",
+                "uma vez que são tribunais integrantes da estrutura do Poder Judiciário, os Tribunais de Contas podem aplicar sanções diretamente àqueles que tenham cometido irregularidades/ilegalidades no âmbito da Administração Pública;",
+                "os Tribunais de Contas, auxiliares do Poder Legislativo, devem julgar com eficiência e economicidade atos e contratos públicos, bem como imputar as devidas responsabilidades de pessoas naturais e jurídicas pela prática de condutas tanto culposas como dolosas;",
+                "os Tribunais de Contas devem atuar somente após o exercício do controle interno desempenhado pelas controladorias dos órgãos e entidades da Administração Pública;",
+                "considerando sua atuação voltada à proteção do interesse público indisponível, os Tribunais de Contas afastam a adoção da consensualidade, largamente empregada no Poder Judiciário, em suas decisões e manifestações."
+              ],
+              "answer": 2,
+              "explanation": "a) Errada. Os Tribunais de Contas são órgãos que auxiliam o Poder Legislativo, mas não é pacífico se eles integram o referido Poder (art. 71, CF/88). De qualquer forma, o TC pode realizar fiscalizações de ofício, independentemente de aprovação do Legislativo. O Poder Legislativo até pode solicitar a realização de fiscalizações, mas isso não retira a autonomia do TC de realizar por iniciativa própria (CF, art. 71, IV).\nb) Errada. Os Tribunais de Contas não integram o Poder Judiciário. Porém, de fato, eles podem aplicar sanções (CF, art. 71, VIII).\nc) Certa. Conforme art. 71, VIII, o controle externo, a cargo do Congresso Nacional, será exercido com o auxílio do Tribunal de Contas da União, ao qual compete aplicar aos responsáveis, em caso de ilegalidade de despesa ou irregularidade de contas, as sanções previstas em lei, que estabelecerá, entre outras cominações, multa proporcional ao dano causado ao erário.\nd) Errada. O controle externo pode ocorrer independentemente do controle interno.\ne) Errada. O TCU adota a consensualidade em vários instrumentos, como nos casos de ajuste de condutas, termos de alerta, recomendações e outras medidas pedagógicas, não sendo um órgão de perfil exclusivamente punitivo.\n\nGabarito: alternativa C.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – MP-RJ / 2025",
+              "question": "Após regular processo licitatório, o Poder Executivo do Município Sigma celebrou contrato administrativo com a sociedade empresária Beta, que iniciou a execução do respectivo objeto. Em inspeção realizada pelo Tribunal de Contas, constatou-se a existência de uma possível fraude no processo licitatório, em razão de conluio entre agentes públicos e representantes de Beta. Em situações dessa natureza, à luz da sistemática constitucional, é correto afirmar que o Tribunal de Contas tem competência para",
+              "options": [
+                "declarar a nulidade do contrato.",
+                "representar ao Ministério Público, para que determine a sustação do contrato.",
+                "comunicar à Assembleia Legislativa o resultado da inspeção, órgão que pode sustar o contrato.",
+                "reconhecer a ilicitude da licitação, o que, por via reflexa, acarreta a desconstituição do contrato.",
+                "determinar ao Poder Executivo de Sigma que exonere os agentes públicos que realizaram o conluio."
+              ],
+              "answer": 2,
+              "explanation": "a) Errada. O Tribunal de Contas não tem competência para declarar nulidade nem de atos nem de contratos. O que os Tribunais fazem é fixar prazo para que o órgão ou entidade promova a correção (isso pode envolver a determinação para que o órgão anule o ato ou contrato). Se não atendido, no caso de contrato, o ato de sustação será adotado diretamente pelo Congresso Nacional (ou entidades simétricas), que solicitará, de imediato, ao Poder Executivo as medidas cabíveis (art. 71, §1°).\nb) Errada. Não existe previsão de representação ao MP neste caso.\nc) Certa. Nos termos do art. 71, §1º da CF, o Tribunal de Contas comunica à Assembleia Legislativa, que pode sustar o contrato — competência do Legislativo. Na verdade, a questão, em si, não ficou completa. A banca cometeu a falha comum de confundir a fixação de prazo para a correção e a sustação do ato ou contrato. Antes de comunicar a Assembleia, o TC poderia determinar a correção. Apenas se não atendido é que caberia a comunicação ao Legislativo. Contudo, em questões assim, vamos seguir a linha da banca. Não queremos ter razão, queremos é acertar a questão!\nd) Errada. Não é da competência dos TCs desconstituir contratos. Ademais, o Tribunal, por si só, não declara a nulidade (a Corte manda o órgão declarar).\ne) Errada. Os TCs não têm competência para determinar exoneração de servidores.\n\nGabarito: alternativa C.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – MP-RJ / 2025",
+              "question": "O Prefeito do Município Alfa, situado em uma região interiorana do Estado Beta, estava prestes a assinar diversos atos de admissão de pessoal na Administração Pública direta do Poder Executivo. No entanto, tinha dúvidas se essas admissões tinham que ser objeto de análise pelo Tribunal de Contas competente, o que o levou a consultar a sua assessoria. A assessoria respondeu corretamente que",
+              "options": [
+                "toda admissão de pessoal deve ter sua legalidade apreciada pelo Tribunal de Contas estadual para fins de registro.",
+                "o Tribunal de Contas estadual não analisa, para fins de registro, a legalidade das nomeações para cargos de provimento em comissão.",
+                "em razão da autonomia municipal, a admissão de pessoal não está sujeita à análise de legalidade, a priori ou a posteriori, pelo Tribunal de Contas competente.",
+                "apenas a admissão de pessoal para ocupar cargo de provimento efetivo deve ter sua legalidade apreciada pelo Tribunal de Contas estadual para fins de registro.",
+                "apenas a admissão de pessoal para ocupar cargo de provimento efetivo deve ter sua legalidade apreciada pelo Tribunal de Contas do Município Alfa para fins de registro."
+              ],
+              "answer": 1,
+              "explanation": "a) Errada. Nem toda admissão de pessoal precisa de registro. As nomeações para cargos comissionados não se submetem ao registro prévio pelo Tribunal de Contas, nos termos do art. 71, III da CF/88.\nb) Certa. Não há registro das nomeações para cargos em comissão pelo Tribunal de Contas. Nesse sentido: “ Art. 71. O controle externo, a cargo do Congresso Nacional, será exercido com o auxílio do Tribunal de Contas da União, ao qual compete: III - apreciar, para fins de registro, a legalidade dos atos de admissão de pessoal, a qualquer título, na administração direta e indireta, incluídas as fundações instituídas e mantidas pelo Poder Público, excetuadas as nomeações para cargo de provimento em comissão, bem como a das concessões de aposentadorias, reformas e pensões, ressalvadas as melhorias posteriores que não alterem o fundamento legal do ato concessório”.\nc) Errada. A autonomia municipal não exclui a fiscalização exercida pelo Tribunal de Contas, inclusive quanto à legalidade de admissões, nos termos da CF/88.\nd) Errada. Não está correto restringir o controle do TC apenas ao pessoal ocupante de cargo efetivo, já que a CF diz que a apreciação se dará nas admissões “a qualquer título”. Logo, contratações de agentes vitalícios, empregados públicos e temporários também passam pelo registro do Tribunal.\ne) Errada. Apenas poucos municípios (como São Paulo e Rio de Janeiro) têm TCM. No mais, a fiscalização caberia ao TCE (ou TCdosMs).\n\nGabarito: alternativa B.",
+              "id": 4
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TJ-GO / 2025",
+              "question": "O Tribunal de Justiça do Estado Alfa, com estrita observância do processo contemplado na ordem constitucional, promoveu a admissão de pessoal no seu quadro de serviços auxiliares. Por tal razão, Ana, que há pouco tempo fora designada para atuar no órgão de controle interno do referido Tribunal de Justiça, consultou o superior hierárquico em relação à necessidade, ou não, de a referida admissão ter a sua legalidade apreciada, para fins de registro, pelo Tribunal de Contas do Estado Alfa (TCEA). O superior hierárquico esclareceu corretamente que",
+              "options": [
+                "toda e qualquer admissão de pessoal deve ser apreciada, para os fins indicados, pelo TCEA.",
+                "apenas a admissão de pessoal para cargos de provimento efetivo deve ser apreciada, para os fins indicados, pelo TCEA.",
+                "em razão da presunção de legalidade dos atos administrativos, a apreciação somente é necessária se houver impugnação.",
+                "apesar de a admissão de pessoal precisar ser apreciada, para os fins indicados, pelo TCEA, isto não ocorre em relação às contratações por prazo determinado.",
+                "apesar de a admissão de pessoal precisar ser apreciada, para os fins indicados, pelo TCEA, isto não ocorre em relação às nomeações para os cargos de provimento em comissão."
+              ],
+              "answer": 4,
+              "explanation": "a) Errada. Não é toda e qualquer admissão de pessoal deve ser apreciada para fins de registro pelo Tribunal de Contas. As nomeações para cargo de provimento em comissão não precisam, conforme previsto no art. 71, III da CF.\nb) Errada. Cabe ao TC apreciar, para fins de registro, a legalidade dos atos de admissão de pessoal, a qualquer título (e não apenas com vínculo efetivo), na administração direta e indireta, incluídas as fundações instituídas e mantidas pelo Poder Público. São excetuadas, apenas, as nomeações para cargo de provimento em comissão, na forma do art. 71, III.\nc) Errada. A presunção de legalidade não afasta a obrigação de registro perante o TC, sendo essa uma previsão constitucional.\nd) Errada. As contratações por prazo determinado também estão sujeitas ao controle dos Tribunais de Contas, conforme previsto na CF, que menciona a necessidade de apreciação dos atos de admissão de pessoal a qualquer título.\ne) Certa. As nomeações para cargo em comissão não precisam ser analisadas para fins de registro, nos exatos termos do inciso III do art. 71: “III - apreciar, para fins de registro, a legalidade dos atos de admissão de pessoal, a qualquer título, na administração direta e indireta, incluídas as fundações instituídas e mantidas pelo Poder Público, excetuadas as nomeações para cargo de provimento em comissão, bem como a das concessões de aposentadorias, reformas e pensões, ressalvadas as melhorias posteriores que não alterem o fundamento legal do ato concessório”.\n\nGabarito: alternativa E.",
+              "id": 5
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TCE-RR / 2025",
+              "question": "Considere uma situação hipotética em que o Poder Judiciário estadual anule determinado ato administrativo emanado do Governador, após análise e constatação de sua nulidade. Nesse caso, estamos diante de um exemplo do seguinte tipo de controle existente na Administração Pública:",
+              "options": [
+                "controle interno.",
+                "controle externo.",
+                "controle social.",
+                "controle societal.",
+                "controle legislativo."
+              ],
+              "answer": 1,
+              "explanation": "a) Errada. Controle interno é todo aquele realizado pela entidade ou órgão responsável pela atividade controlada, no âmbito da própria Administração.\nb) Certa. O controle realizado pelo Judiciário sobre ato do Executivo caracteriza controle externo, pois é feito por um Poder sobre outro.\nc) Errada. Controle social é exercido pela sociedade, e não pelo Judiciário.\nd) Errada. \"Controle societal\" não é expressão técnica adotada na doutrina e jurisprudência. No máximo, poderíamos dizer que seria o controle social.\ne) Errada. Controle legislativo é exercido pelo Legislativo, com o apoio dos Tribunais de Contas.\n\nGabarito: alternativa B.",
+              "id": 6
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TCE PI/2025",
+              "question": "Considere os atores do Estado do Piauí listados a seguir. I. Fundação Pública Estadual de direito privado Alfa. II. Ministério Público do Estado do Piauí. III. Empresa Pública Federal Beta, sediada em Teresina/PI. IV. João, Secretário de Estado do Piauí, ordenador de despesas. V. Ordem dos Advogados do Brasil, seccional Piauí. Acerca da competência das Cortes de Contas, os atores que estão sujeitos ao controle externo exercido pelo Tribunal de Contas do Estado do Piauí são",
+              "options": [
+                "III e IV, apenas.",
+                "III e V, apenas.",
+                "I, II e IV, apenas.",
+                "I, II e III, apenas.",
+                "I, II, III e V, apenas."
+              ],
+              "answer": 2,
+              "explanation": "vamos analisar cada uma das opções, para respondermos esta questão, sendo que “Sim” significa “estar sujeito ao controle externo realizado pelo TCE. I) Sim. As fundações públicas estaduais, ainda que de direito privado, integram a Administração Pública Indireta do Estado e, como tal, estão sujeitas ao controle externo do TCE. II) Sim. O Ministério Público Estadual é um órgão autônomo, que faz parte da estrutura do Estado. Portanto, suas contas e atos administrativos, relacionados à gestão de recursos públicos, estão sujeitos ao controle externo do Tribunal de Contas do Estado. III) Não. Embora a empresa pública Beta esteja sediada no Estado do Piauí, ela pertence à União (é uma entidade federal) e, portanto, não está sujeita ao controle do TCE. O controle dessa entidade seria exercido pelo Tribunal de Contas da União (TCU), haja vista que lida com recursos pertencentes à União; não ao ente estadual. IV) Sim. O Secretário de Estado, na condição de ordenador de despesas, está diretamente sujeito ao controle externo do TCE, uma vez que administra recursos públicos estaduais. V) Não. No RE 1182189, o Supremo Tribunal Federal (STF) fixou uma tese no sentido de que o Conselho Federal da Ordem dos Advogados do Brasil (OAB) e suas seccionais não são obrigados a prestar contas ao Tribunal de Contas da União (TCU) ou a qualquer outra entidade externa. Logo, a OAB e a seccional não estão sujeitas ao controle do TCE ou do TCU.\n\nGabarito: alternativa C.",
+              "id": 7
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV / Prefeitura de Vitória - ES / 2024",
+              "question": "Analise as afirmativas a seguir. I. O controle jurisdicional do processo administrativo disciplinar restringe-se ao exame da regularidade do procedimento e da legalidade do ato. II. A administração pode anular seus próprios atos, quando eivados de vícios que os tornem ilegais. III. É possível a revogação de um ato administrativo por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos. IV. O controle de mérito do ato administrativo pode ser realizado pelo Poder Judiciário, desde que autorizado pela autoridade máxima do órgão que editou o referido ato. É correto o que está dito em",
+              "options": [
+                "I e II, apenas.",
+                "I, II e III, apenas.",
+                "I e IV, apenas.",
+                "I, III e IV, apenas.",
+                "I, II e IV, apenas."
+              ],
+              "answer": 1,
+              "explanation": "vamos à análise das afirmativas. I) Correta. O STJ, por meio da Súmula nº 665, estabeleceu que o controle jurisdicional do PAD restringe-se ao exame da regularidade do procedimento e da legalidade do ato, à luz dos princípios do contraditório, da ampla defesa e do devido processo legal. Assim, não é permitida a incursão no mérito administrativo, salvo em casos de (i) flagrante ilegalidade, (ii) teratologia ou (iii) manifesta desproporcionalidade da sanção aplicada. II) e III) Corretos. De acordo com a Súmula 473 do STF, “a administração pode (i) anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos; ou (ii) revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial”. IV) Incorreto. O Poder Judiciário, no exercício da função típica jurisdicional, não faz o controle de mérito (conveniência e oportunidade) dos atos administrativos editados por outros Órgãos.\n\nGabarito: B.",
+              "id": 8
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – Pref. de Niterói/2024",
+              "question": "O controle jurisdicional da Administração Pública é um dos principais instrumentos para garantir que os atos e políticas do governo sigam a lei e os princípios constitucionais. Quanto ao controle jurisdicional da Administração Pública, analise as afirmativas a seguir. I. A Administração Pública pode revisar e anular seus atos, sem precisar de intervenção do Judiciário, em casos de irregularidades. Contudo, a parte lesada não pode buscar o Judiciário. II. O controle jurisdicional deve respeitar a autonomia dos poderes Executivo e Legislativo, sem interferir diretamente em questões de mérito administrativo, apenas em casos de violação da legalidade. III. O Judiciário não age por iniciativa própria. Ele é provocado por meio de ações, como mandado de segurança, ação popular, ou ação civil pública. Está correto o que se afirma em",
+              "options": [
+                "I, apenas.",
+                "I e II, apenas.",
+                "I e III, apenas.",
+                "II e III, apenas.",
+                "I, II e III."
+              ],
+              "answer": 3,
+              "explanation": "I – Errado. O item aborda o princípio da autotutela, o qual, nas palavras da Maria Sylvia Zanella Di Pietro: [...] pela autotutela o controle se exerce sobre os próprios atos, com a possibilidade de [i] anular ou convalidar os ilegais e [ii] revogar os inconvenientes ou inoportunos, independentemente de recurso ao Poder Judiciário. Ademais, o item aborda o assunto enunciado na Súmula 473 do Supremo Tribunal Federal – STF, conforme se apresenta adiante: A administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial. Logo, percebe-se que a parte lesada pode, sim, buscar o Poder Judiciário, cuja apreciação deve ser respeitada. II – Certo. À luz da doutrina de Maria Sylvia Zanella Di Pietro: [...] o ato discricionário deve ser analisado sob o aspecto da [i] legalidade e do [ii] mérito: o primeiro diz respeito à conformidade do ato com a lei e o segundo diz respeito à oportunidade e conveniência diante do interesse público a atingir. Nessa toada, a referida Doutrinadora ensina que o Poder Judiciário pode analisar a (i) legalidade e (ii) os limites da discricionariedade, consoante o trecho adiante apresentado (grifo nosso): [...] com relação ao ato discricionário, o Judiciário pode [i] apreciar os aspectos da legalidade e [ii] verificar se a Administração não ultrapassou os limites da discricionariedade; neste caso, pode o Judiciário invalidar o ato, porque a autoridade ultrapassou o espaço livre deixado pela lei e invadiu o campo da legalidade. III – Certo. A característica da inércia impõe ao Poder Judiciário manifestar-se somente ao ser provocado. Isso ocorre por meio de instrumentos judiciais, tais como mandado de segurança, ação popular, ou ação civil pública.\n\nGabarito: alternativa D.",
+              "id": 9
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – Pref. Macaé RJ/2024",
+              "question": "Destacando o posicionamento da doutrina majoritária, o controle da Administração Pública pode ser classificado, quanto ao órgão controlador, como legislativo ou político, jurisdicional e administrativo e, quanto ao momento de sua realização, como prévio, concomitante ou posterior. Nesse sentido, considere que a Comissão de Constituição e Justiça da Câmara dos Deputados tenha arquivado um projeto de lei sob o argumento de sua inconsistência material com a Constituição da República. Nesse caso, operou-se o controle classificado como",
+              "options": [
+                "Preventivo e Jurisdicional.",
+                "Legislativo e repressivo.",
+                "Prévio e Político.",
+                "Posterior e Executivo.",
+                "Prévio e Interno."
+              ],
+              "answer": 2,
+              "explanation": "segundo Paulo Roberto de Figueiredo Dantas: O Poder Legislativo [...] pode realizar controle político de constitucionalidade, tanto preventivo como repressivo. O controle preventivo é o realizado pela Comissão de Constituição, Justiça e de Cidadania (CCJ), pertencente à Câmara dos Deputados, [...] antes de o projeto de lei ser votado pelas Casas do Congresso Nacional. No caso analisado, o controle foi exercido pela CCJ da Câmara dos Deputados, que é parte do Poder Legislativo. Portanto, trata-se de um controle legislativo, com natureza política. Por outro lado, é comum se referir ao controle legislativo técnico, quando realizado pelos Tribunais de Contas. Ademais, o controle ocorreu antes de o projeto de lei ser votado pelas Casas do Congresso Nacional, ou seja, foi realizado no momento prévio à aprovação. Logo, conclui-se que o controle descrito na questão foi prévio e político.\n\nGabarito: alternativa C.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u8l2",
+          "title": "Lição 2",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TRF 1/2024",
+              "question": "No âmbito do controle interno e externo dos atos administrativos, o Poder Judiciário poderá revogar:",
+              "options": [
+                "todos os atos administrativos que apresentem vício de legalidade insanável, no âmbito do controle interno;",
+                "apenas os atos discricionários editados pelo próprio Judiciário, no exercício de função atípica, na esfera do controle interno;",
+                "os atos vinculados, ainda que editados pelo Poder Executivo, por razões de conveniência e oportunidade, na seara do controle externo;",
+                "os atos que integram os processos administrativos que tramitem perante o Poder Judiciário, ainda que preclusos, nos limites do controle interno;",
+                "quaisquer atos vinculados ou discricionários que tenham sido editados pelo Poder Executivo, no exercício do controle externo."
+              ],
+              "answer": 1,
+              "explanation": "A – Errado. Conforme Maria Sylvia Zanella Di Pietro, o Poder Judiciário exerce controle sobre os atos administrativos quanto à legalidade, podendo anular atos que apresentem vícios legais. No caso dos atos vinculados, o controle judicial pode abranger todos os aspectos, enquanto nos atos discricionários, o Judiciário pode invalidar o ato apenas quando a Administração ultrapassa os limites legais da discricionariedade. Todavia, a assertiva atribui ao Poder Judiciário a possibilidade de revogar atos administrativos, o que é incorreto. O Poder Judiciário não revoga atos administrativos quando atua em sua função típica, podendo apenas os anular quando identificados vícios de legalidade. B - Correto. Controle interno é aquele que ocorre no âmbito do mesmo poder. Assim, quando o Judiciário controle os seus próprios atos, também exerce controle interno, exercendo atipicamente a sua função administrativa atípica. C – Errado. Conforme já exposto, o Poder Judiciário, no exercício da sua função típica, não tem competência para revogar atos administrativos, seja discricionário ou vinculado, tampouco pode exercer juízo de conveniência e oportunidade no controle externo. D – Errado. No exercício da função atípica de administrar, o Poder Judiciário pode revogar atos discricionários realizados por esse Poder. Porém, Di Pietro alerta que não é possível revogar atos que integram um procedimento administrativo, pois a cada ato praticado ocorre a preclusão em relação ao ato anterior. A preclusão garante a segurança jurídica e impede que decisões já consolidadas em etapas anteriores de um processo administrativo sejam revistas de forma arbitrária. Por exemplo: se a autoridade já firmou um contrato, não poderá mais revogar a licitação (procedimento anterior ao contrato). E – Errado. Segundo já frisado, o Poder Judiciário não pode revogar atos administrativo praticados por outros poderes.\n\nGabarito: alternativa B.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – AL SC/2024",
+              "question": "A respeito do controle, analise as afirmativas a seguir. I. O controle é tema inerente à função constitucional exercida pela própria Administração, por outros órgãos ou por qualquer cidadão, com vistas à efetiva correção na conduta dos gestores públicos, com escopo de garantir atuação conforme aos modelos desejados e anteriormente planejados, gerando uma aferição sistemática. II. O controle interno trata da função de controle da Administração Pública sobre si própria e visa, dentre outros objetivos, ao cumprimento do princípio da legalidade, à observância dos preceitos da boa administração, e a verificar a conveniência e a oportunidade de medidas e decisões no atendimento do interesse público. III. O controle externo é atividade essencial do regime democrático de fiscalização sobre a gestão dos recursos públicos, tanto no que concerne à execução das despesas como na arrecadação de receitas e na avaliação dos resultados alcançados na implementação das políticas públicas, realizada por órgão dotado de autonomia e independência em relação aos fiscalizados. Está correto o que se afirma em",
+              "options": [
+                "I, apenas.",
+                "I e III, apenas.",
+                "II, apenas.",
+                "I, II e III.",
+                "I e II, apenas."
+              ],
+              "answer": 3,
+              "explanation": "I – Correto. Afirmativa em consonância com o conceito apresentado pelo Eduardo Martins Guerra: Controle da Administração Pública é a possibilidade de verificação, inspeção, exame, pela própria Administração, por outros poderes ou por qualquer cidadão, da efetiva correção na conduta gerencial de um poder, órgão ou autoridade, no escopo de garantir atuação conforme os modelos desejados e anteriormente planejados, gerando uma aferição sistemática. II – Certo. À luz da doutrina de Odete Medauar: A função de controle sobre si próprio apresenta-se inerente à atividade administrativa, havendo, inclusive, órgãos ou funcionários dotados dessa atribuição específica, por exemplo, supervisores, inspetores, corregedores. O controle interno visa ao cumprimento do princípio da legalidade, à observância dos preceitos da “boa administração”, a estimular a ação dos órgãos, a verificar a conveniência e a oportunidade de medidas e decisões no atendimento do interesse público (controle de mérito), a verificar a proporção custo-benefício na realização das atividades e a verificar a eficácia de medidas na solução de problemas. III – Correto. Hely Lopes Meirelles afirma o seguinte sobre o controle externo: É o que se realiza por um Poder ou órgão constitucional independente funcionalmente sobre a atividade administrativa de outro Poder estranho à Administração responsável pelo ato controlado, como, p. ex., [...] a auditoria do Tribunal de Contas sobre a efetivação de determinada despesa do Executivo. Por fim, a avaliação dos resultados alcançados na implementação de políticas públicas pode ser realizada por meio de auditoria operacional, a qual, segundo Luiz Henrique Lima, envolve “[...] processo de coleta e de análise sistemáticas de informações sobre características, processos e resultados de um programa, atividade ou organização [...] com o objetivo de aferir o desempenho da gestão governamental”. Então, por exemplo, o programa Pé-de-Meia, política pública voltada para estudantes matriculados no ensino médio público, passa por avaliação dos resultados alcançados pelo Tribunal de Contas da União – TCU.\n\nGabarito: alternativa D.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – AL SC/2024",
+              "question": "Os sistemas de Controle na Administração Pública Brasileira desempenham um papel crucial na promoção da integridade e na prevenção de irregularidades e corrupção no âmbito da Administração Pública. Com relação aos Sistemas de Controle na Administração Pública Brasileira, analise os itens a seguir. I. O controle externo, atribuído ao Congresso Nacional, é realizado com o apoio do Tribunal de Contas da União. II. Os Ministros do Tribunal de Contas da União possuem as mesmas garantias, prerrogativas, impedimentos, vencimentos e vantagens dos Ministros do Supremo Tribunal Federal. III. Qualquer cidadão, partido político, associação ou sindicato é parte legítima para, na forma da lei, denunciar irregularidades ou ilegalidades perante o Tribunal de Contas da União.\n\nEstá correto o que se afirma em:",
+              "options": [
+                "I, apenas.",
+                "I e II, apenas.",
+                "I e III, apenas.",
+                "II e III, apenas.",
+                "I, II e III."
+              ],
+              "answer": 2,
+              "explanation": "I – Correto. À luz do art. 71 da Constituição Federal – CF: O controle externo, a cargo do Congresso Nacional, será exercido com o auxílio do Tribunal de Contas da União [...] Portanto, o Congresso Nacional tem a atribuição de realizar o controle externo. Cabe ao Tribunal de Contas da União auxiliá-lo nessa atividade. II – Errado. Nos termos do §3º do art. 73 da Constituição Federal – CF: Os Ministros do Tribunal de Contas da União terão as mesmas garantias, prerrogativas, impedimentos, vencimentos e vantagens dos Ministros do Superior Tribunal de Justiça, aplicando-se-lhes, quanto à aposentadoria e pensão, as normas constantes do art. 40. Portanto, os Ministros do TCU terão as mesmas garantias, prerrogativas, impedimentos etc. dos Ministros do STJ; não do STF. III – Certo. Trata-se da literalidade do §2º do art. 74 da Constituição Federal.\n\nGabarito: C.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – AL TO/2024",
+              "question": "Quanto ao Controle Administrativo, assinale a afirmativa incorreta.",
+              "options": [
+                "É possível o exercício do controle administrativo no âmbito dos poderes Legislativo e Judiciário.",
+                "Na seara do controle administrativo se busca a verdade formal e, por isso, o controle administrativo deve constituir-se em processo.",
+                "A fiscalização hierárquica abrange o controle de legalidade, bem como o de mérito.",
+                "A impugnação de um edital realizada por um cidadão é exemplo do exercício do direito de petição.",
+                "As corregedorias são órgãos que possuem a função de verificar a atuação dos agentes pelo prisma da legalidade, da impessoalidade e da moralidade."
+              ],
+              "answer": 1,
+              "explanation": "a) Correto. Todos os poderes desempenham a função executiva (administrativa), sendo que os Poderes Legislativo e Judiciário a exercem de forma atípica. Como consequência, os atos praticados no exercício dessa função precisam passar por um controle interno, que é administrativo. Na doutrina de Hely Lopes Meirelles, controle interno “[...] É todo aquele realizado pela entidade ou órgão responsável pela atividade controlada, no âmbito da própria Administração. Assim, qualquer controle efetivado pelo Executivo sobre seus serviços ou agentes é considerado interno, como interno será também o controle do Legislativo ou do Judiciário, por seus órgãos de administração, sobre seu pessoal e os atos administrativos que pratique”.\nb) Incorreto. A Administração pública deve buscar a verdade material, conforme ilustra Odete Medauar: Esse princípio [verdade material], também denominado verdade real, vinculado ao princípio da oficialidade, exprime que a Administração deve tomar decisões com base nos fatos tais como se apresentam na realidade, não se satisfazendo com a versão oferecida pelos sujeitos. Para tanto, tem o direito e o dever de carrear para o expediente todos os dados, informações, documentos a respeito da matéria tratada, sem estar jungida aos aspectos suscitados pelos sujeitos.\nc) Correto. Segundo Hely Lopes Meirelles, a fiscalização hierárquica é exercida pelos órgãos superiores sobre os inferiores dentro da mesma Administração. Essa fiscalização está intrinsecamente ligada ao poder hierárquico, o qual possibilita revisar atos praticados por subordinados, abarcando tanto o controle de legalidade quanto o de mérito. O controle de mérito diz respeito a aspectos como conveniência e oportunidade, enquanto o controle de legalidade analisa a adequação do ato à lei. Logo, a fiscalização hierárquica, inerente ao poder hierárquico, inclui tanto o controle de legalidade quanto o de mérito, sendo esses dois aspectos essenciais para ordenar e revisar a atuação administrativa.\nd) Correto. Na lição de José dos Santos Carvalho Filho, o direito de petição é uma garantia constitucional assegurada no art. 5º, inciso XXXIV, \"a\", da Constituição Federal, permitindo que qualquer cidadão se dirija aos Poderes Públicos (i) para defesa de direitos ou (ii) contra ilegalidade ou abuso de poder. De acordo com o Autor, tal direito possui grande amplitude, abrangendo a defesa de direitos individuais ou coletivos, próprios ou de terceiros. Por conseguinte, a impugnação de um edital por um cidadão enquadra-se perfeitamente no exercício do direito de petição. Trata-se de uma forma de postulação perante os órgãos públicos para contestar um ato administrativo, sob a alegação de ilegalidade ou de prejuízo a direitos, o que está alinhado com a função do direito em comento.\ne) Correto. Segundo Bruno Betti, a corregedoria é um exemplo de órgão de controle interno ou autocontrole, sendo responsável por fiscalizar condutas administrativas produzidas dentro de sua própria esfera de atuação. Segundo a Lei nº 10.180/2001, o Sistema de Controle Interno do Poder Executivo Federal atua para avaliar a legalidade e os resultados das ações administrativas e para apurar irregularidades, conforme previsto nos artigos 20 e 24. Nessa lógica, os órgãos internos — como as corregedorias — têm atribuições específicas relacionadas à fiscalização da conduta dos servidores e apuração de ilegalidades. Logo, percebe-se que a atuação da corregedoria está diretamente relacionada aos princípios da administração pública, incluindo legalidade, impessoalidade e moralidade; todos fundamentais para o controle disciplinar e a promoção da integridade na administração pública.\n\nGabarito: alternativa B.",
+              "id": 4
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TCE GO/2024",
+              "question": "A Constituição Federal do Brasil, em seu artigo 71, estabelece que o controle externo das contas públicas será realizado pelo Congresso Nacional, com o auxílio do Tribunal de Contas da União (TCU). Assinale a opção que indica uma competência do TCU.",
+              "options": [
+                "avaliar a execução dos programas de governo.",
+                "apreciar as contas prestadas anualmente pelo Governador.",
+                "exercer o controle das operações de crédito, avais e garantias.",
+                "fiscalizar a aplicação de quaisquer recursos repassados pela União, mediante convênio, a Estado.",
+                "avaliar o cumprimento das metas previstas no plano plurianual."
+              ],
+              "answer": 3,
+              "explanation": "as opções A, C e E apresentaram competências do sistema de controle interno, na forma do art. 74 da CF: Art. 74. Os Poderes Legislativo, Executivo e Judiciário manterão, de forma integrada, sistema de controle interno com a finalidade de: I - avaliar o cumprimento das metas previstas no plano plurianual (letra\nE), a execução dos programas de governo e dos orçamentos da União; (letra\nA) II - comprovar a legalidade e avaliar os resultados, quanto à eficácia e eficiência, da gestão orçamentária, financeira e patrimonial nos órgãos e entidades da administração federal, bem como da aplicação de recursos públicos por entidades de direito privado; III - exercer o controle das operações de crédito, avais e garantias, bem como dos direitos e haveres da União; (letra\nC) IV - apoiar o controle externo no exercício de sua missão institucional. A opção B descreveu uma competência do Tribunal de Contas do Estado, mas o enunciado pede uma competência do Tribunal de Contas da União. Por fim, de fato, compete ao TCU “VI - fiscalizar a aplicação de quaisquer recursos repassados pela União mediante convênio, acordo, ajuste ou outros instrumentos congêneres, a Estado, ao Distrito Federal ou a Município; (CF, art. 71, VI) (letra\nD).\n\nGabarito: alternativa D.",
+              "id": 5
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TCE GO/2024 – adaptada",
+              "question": "O artigo 70 da Constituição Federal estabelece que a fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e das entidades da administração direta e indireta, no que se refere à legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas, será́ exercida pelo Congresso Nacional mediante controle externo e pelo sistema de controle interno de cada Poder. Assinale a opção que indica uma competência do TCU.",
+              "options": [
+                "apreciar as contas prestadas anualmente pelo Governador.",
+                "legislar sobre assuntos de seu interesse.",
+                "prestar contas da aplicação dos auxílios federais ou estaduais entregues ao Município.",
+                "julgar as contas dos responsáveis por bens, excluídas as fundações mantidas pelo Estado.",
+                "aplicar aos responsáveis, em caso de ilegalidade de despesa, multa proporcional ao dano causado ao erário."
+              ],
+              "answer": 4,
+              "explanation": "a) Errada. Apreciar as contas prestadas pelo governador, emitindo o parecer prévio, é competência dos tribunais de contas dos estados.\nb) Errada. O TC dispõe de iniciativa reservada para iniciar o processo legislativo sobre a sua organização e funcionamento. Adicionalmente, o Tribunal também goza de poder regulamentar, para dispor sobre os processos que lhe devam ser submetidos. Porém, não cabe ao TC legislar.\nc) Errada. Quem vai prestar contas é a autoridade que utilizar os recursos, e não o TC.\nd) Errada. O TCU julga as contas “dos administradores e demais responsáveis por dinheiros, bens e valores públicos da administração direta e indireta, INCLUÍDAS as fundações e sociedades instituídas e mantidas pelo Poder Público federal [...]” (CF, art. 71, II);\ne) Certa. Segundo a CF, compete ao TCU “aplicar aos responsáveis, em caso de ilegalidade de despesa ou irregularidade de contas, as sanções previstas em lei, que estabelecerá, entre outras cominações, multa proporcional ao dano causado ao erário” (CF, art. 71, VIII).\n\nGabarito: alternativa E.",
+              "id": 6
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – CVM/2024",
+              "question": "Luiz ingressou, em juízo, com uma demanda, ao argumento de que a ausência de determinada norma regulamentadora estava tornando inviável o exercício de direitos e liberdades constitucionais e de prerrogativas inerentes à cidadania. Nesse cenário, considerando as disposições da Constituição Federal, é correto afirmar que Luiz ingressou, em juízo, com um (uma):",
+              "options": [
+                "mandado de segurança;",
+                "mandado de injunção;",
+                "ação civil pública;",
+                "ação popular;",
+                "habeas data."
+              ],
+              "answer": 1,
+              "explanation": "Segundo a CF: “LXXI - conceder-se-á mandado de injunção sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania”. Logo, o instrumento cabível é o mandado de injunção (letra\nB).\na) Errada. Conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público (CF, art. 5º, LXIX);\nc) Errada. A ação civil pública é instrumento de competência do Ministério Público (e outras autoridades com legitimidade definida na Lei 7.347/1985), cujo objetivo é a proteção do patrimônio público e social, do meio ambiente e de outros interesses difusos e coletivos (CF, art. 129, III);\nd) Errada. A ação popular serve para anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência (CF, art. 5º, LXXIII);\ne) Errada. O habeas data será concedido: (i) para assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público; (ii) para a retificação de dados, quando não se prefira fazêlo por processo sigiloso, judicial ou administrativo (CF, art. 5º, LXXII).\n\nGabarito: alternativa B.",
+              "id": 7
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – CGE PB/2024",
+              "question": "No contexto dos controles exercidos sobre a atividade financeira do Estado, a Constituição Federal dispõe expressamente sobre as competências dos poderes e órgãos. No caso dos tribunais de contas, as atividades de controle exercidas por eles:",
+              "options": [
+                "devem ser prioritárias a entidades que compõem a administração direta;",
+                "são direcionadas ao aperfeiçoamento dos controles internos dos jurisdicionados;",
+                "são facultativas quanto à perspectiva de desempenho operacional;",
+                "se estendem sobre a execução orçamentária e aspectos de gestão fiscal;",
+                "têm foco nas prestações de contas de final de gestão."
+              ],
+              "answer": 3,
+              "explanation": "a) o controle dos Tribunais de Contas abrange tanto os órgãos da administração direta quanto as entidades da administração indireta, bem como todas as entidades que recebam recursos públicos, na forma do disposto no art. 70 da CF/88. Portanto, não existe essa prioridade – ERRADA;\nb) as atividades dos Tribunais de Contas são direcionadas à proteção dos recursos públicos e ao aperfeiçoamento da gestão pública como um todo, e não somente ao aperfeiçoamento dos controles internos, como faz parecer a assertiva – ERRADA;\nc) não são facultativas, já que o art. 70 diz expressamente que compete ao TC a “fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e das entidades da administração direta e indireta (...)” – ERRADA;\nd) é exatamente isso que diz o art. 70 da CF, vejamos: “Art. 70. A fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e das entidades da administração direta e indireta, quanto à legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas, será exercida pelo Congresso Nacional, mediante controle externo, e pelo sistema de controle interno de cada Poder”. Acrescenta-se ainda todo o aspecto fiscal decorrente da Lei de Responsabilidade Fiscal, que se insere nas competências do controle “orçamentário e financeiro” em sentido amplo – CORRETA;\ne) o Tribunal de Contas analisa todas as prestações de contas, e não apenas as de final de gestão. Por exemplo, ao final do primeiro ano de mandato, o chefe do Poder Executivo presta contas, cabendo ao TC emitir o parecer prévio. Contudo, essas contas ainda não são de “final de gestão”, pois ainda há mais três anos de mandato para o chefe do Executivo – ERRADA.\n\nGabarito: alternativa D.",
+              "id": 8
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – CGE PB/2024",
+              "question": "Os controles sobre a atividade financeira do Estado colaboram para a consolidação democrática e subsidiam, mediante o acesso à informação relevante e fidedigna, o controle social. Esses controles, também chamados de fiscalização no texto constitucional, são exercidos sob diferentes perspectivas e objetivos. Uma dessas perspectivas é a fiscalização operacional, que tem entre os seus objetivos:",
+              "options": [
+                "avaliar o grau de cumprimento dos objetivos e metas previstos na lei orçamentária;",
+                "examinar e verificar a regularidade e a correção técnica da escrituração;",
+                "possibilitar um controle sobre a regularidade dos registros e a utilização dos bens públicos;",
+                "verificar se as contas públicas representam a efetiva situação financeira de uma entidade;",
+                "verificar a realização dos planos de governo, em vista de evitar que os recursos sejam aplicados com desvio de finalidade."
+              ],
+              "answer": 0,
+              "explanation": "vamos aproveitar essa questão para rever os conceitos sobre a natureza da fiscalização exercida pelos Tribunais de Contas: FISCALIZAÇÃO O QUE É FISCALIZADO? Financeira Arrecadação de receitas e realização de despesas Orçamentária Acompanhamento da execução orçamentária Contábil Registros e documentos contábeis, tais como os balanços e demonstrações Operacional Performance, por meio de indicadores de desempenho, para contribuir para o aperfeiçoamento da gestão pública Patrimonial Guarda e conservação de bens A questão nos pergunta acerca do aspecto operacional. Na letra A, a alternativa fala sobre objetivos e metas, que tem relação direta com o desempenho (e não diretamente com a execução do orçamento em si, que poderia enquadrar o controle como orçamentário). Por isso, aqui está o nosso gabarito. Lembrando que todos os controles vão ter um pouco de cada aspecto, mas ao falar de objetivos e metas, estamos dando ênfase no controle operacional. As demais alternativas focam mais nos aspectos financeiros e de regularidade, o que reforça que apenas a alternativa A se relaciona com performance e desempenho, ao falar de objetivos e metas.\n\nGabarito: alternativa A.",
+              "id": 9
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – CGE PB/2024",
+              "question": "Ao ser empossado após aprovação em concurso público, um servidor foi lotado na superintendência geral de licitações e contratos de um ente público. O servidor ficou diretamente subordinado ao diretor de licitações, que supervisionava o trabalho no servidor na instrução dos processos licitatórios. Essa supervisão, que decorre do poder hierárquico, pode ser enquadrada no âmbito das atividades de controle:",
+              "options": [
+                "interno;",
+                "do mérito;",
+                "operacional;",
+                "da legalidade;",
+                "de desempenho."
+              ],
+              "answer": 0,
+              "explanation": "a) o controle interno é todo aquele realizado pela entidade ou órgão responsável pela atividade controlada, no âmbito da própria Administração. No caso da questão, o controle hierárquico, realizado internamente no órgão entre superior e o subordinado é caracterizado como um controle administrativo interno – CORRETA;\nb) o mérito diz respeito à conveniência e oportunidade, que, apesar de se relacionar com o controle administrativo, não foi o foco do enunciado – ERRADA;\nc) o controle operacional tem como foco o cumprimento de metas e objetivos, relacionando-se com o desempenho da gestão das contas. Não há relação com o que foi pedido na questão – ERRADA;\nd) a legalidade diz respeito ao cumprimento das normas, e, apesar de dever ser observada em toda atividade administrativa, não era o foco da questão – ERRADA;\ne) o controle de desempenho nada mais é do que o controle operacional. Observe que o controle interno abrange o mérito, a legalidade e o desempenho (letras B a\nE), mas nenhum desses foi citado como ponto central do enunciado – ERRADA.\n\nGabarito: alternativa A.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u8l3",
+          "title": "Lição 3",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "FGV – CGE PB/2024",
+              "question": "Dada a sua natureza, a atividade financeira no Estado não pode prescindir de estruturas definidas de controle com o fim último de salvaguardar os recursos públicos. Nesse contexto, os controles sobre a atividade financeira do Estado:",
+              "options": [
+                "são efetivos somente quando executados de forma prévia ou concomitante;",
+                "subsidiam o julgamento das contas dos responsáveis pela execução orçamentária;",
+                "não são baseados em sistema de auditoria, mas em critérios de legalidade e legitimidade;",
+                "têm aplicação circunscrita às receitas e despesas objeto de planejamento orçamentário;",
+                "são mandatórios para entidades da administração direta e facultativos para as da administração indireta."
+              ],
+              "answer": 1,
+              "explanation": "a) o controle da administração pode ser realizado não apenas de forma prévia ou concomitante, mas também em momento posterior, ou seja, após a conclusão do ato controlado, tendo como objetivo corrigir eventuais defeitos, declarar sua nulidade ou dar-lhe eficácia. O julgamento de contas e a emissão de parecer prévio, por exemplo, são controles posteriores e, nem por isso, deixam de ser efetivos – ERRADA;\nb) isso mesmo. Os administradores públicos têm as suas contas julgadas pelos TCs, e a atividade de controle financeiro exercida por estes órgãos subsidiam esse julgamento. Na verdade, boa parte do julgamento das contas diz respeito à execução dos orçamentos e ao cumprimento das metas financeiras – CORRETA;\nc) de fato, o controle deve se basear em critérios de legalidade, legitimidade e economicidade, mas isso não quer dizer que não utilizem sistemas de auditoria. Isso consta, inclusive, do art. 71, IV, que diz que o Tribunal de contas pode fazer inspeções e auditorias – ERRADA;\nd) o controle da atividade financeira do Estado não se restringe às receitas e às despesas objeto do planejamento orçamentário. O controle também é realizado sobre aspectos de desempenho, efetividade etc. Adicionalmente, existem receitas que não constam no orçamento, mas que são objeto de controle. Por exemplo: se o Estado arrecadar muito mais do que o previsto no orçamento, ainda assim essa receita será objeto de controle – ERRADA;\ne) o controle é mandatório tanto para entidades da administração direta quanto da indireta, na forma do art. 70 da CF/88 – ERRADA.\n\nGabarito: alternativa B.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – AL MA/2023",
+              "question": "João, servidor ocupante de cargo efetivo da Assembleia Legislativa do Estado do Maranhão, ao ser questionado acerca da viabilidade de controle a ser realizado pelo Legislativo sobre os atos administrativos do Poder Executivo, inclusive com relação à respectiva fiscalização contábil, financeira, orçamentária, operacional e patrimonial, respondeu corretamente, à luz dos ditames da Constituição da República, que o Poder Legislativo",
+              "options": [
+                "realiza o controle interno dos atos do Poder Executivo, no âmbito da autotutela administrativa, de modo que tem o poder-dever de anulá-los em caso de ilegalidade.",
+                "é responsável pelo controle externo de tais atos, podendo sustar os atos normativos que exorbitem do poder regulamentar.",
+                "não pode realizar controle sobre os referidos atos, considerando que apenas deve realizar o controle interno de seus próprios atos administrativos.",
+                "pode realizar o controle externo dos atos administrativos do Poder Executivo, inclusive mediante a revogação de tais atos por razões de conveniência e oportunidade.",
+                "atua mediante controle interno, com o auxílio do Tribunal de Contas, a fim de verificar a legalidade, legitimidade e economicidade dos atos do Poder executivo."
+              ],
+              "answer": 1,
+              "explanation": "a) Errado. O Poder Legislativo realiza controle externo, na forma do art. 70 da Constituição.\nb) Correto. O art. 70 atribui ao Legislativo a titularidade do controle externo. Ademais, o art. 49, dispõe que compete ao Congresso Nacional: “sustar os atos normativos do Poder Executivo que exorbitem do poder regulamentar ou dos limites de delegação legislativa”.\nc) Errado. Já vimos que o Legislativo faz sim controle externo.\nd) Errado. Somente o mesmo Poder que praticou o ato pode revogá-lo. Assim, ainda que o controle que o Legislativo faz tenha natureza política, não permite que seja realizada a revogação de atos dos demais Poderes, por conveniência e oportunidade.\ne) Errado. O controle do Legislativo é externo.\n\nGabarito: alternativa B.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TCE ES/2023",
+              "question": "De acordo com a doutrina de Direito Administrativo, em tema de controle da Administração Pública, especificamente no que tange aos meios de controle, é correto afirmar que a chamada supervisão ministerial ou tutela administrativa:",
+              "options": [
+                "é também designada como controle finalístico;",
+                "ocorre no âmbito da mesma pessoa jurídica;",
+                "decorre do poder hierárquico, em razão do escalonamento vertical entre supervisor e supervisionado;",
+                "se baseia no poder de polícia, que incide sobre os órgãos da Administração Pública;",
+                "independe de norma legal que a estabeleça e ocorre no âmbito de uma mesma entidade da administração indireta."
+              ],
+              "answer": 0,
+              "explanation": "a) Correta. A supervisão ministerial ocorre quando os ministérios supervisionam a atuação da Administração Indireta, buscando analisar o cumprimento das finalidades das entidades administrativas. Assim, esta forma de controle também é chamada de controle finalístico.\nb) Errado. A supervisão ministerial ocorre entre pessoas jurídicas distintas (pessoa política e pessoa administrativa).\nc) Errado. Não existe hierarquia entre a Administração Direta e Indireta. Assim, não há hierarquia na supervisão ministerial.\nd) Errado. A supervisão ministerial é uma forma de controle administrativo, não se confundindo com o poder de polícia.\ne) Errado. Já vimos que este controle envolve pessoas jurídicas distintas. Ademais, como se trata de controle por vinculação, depende de expressa previsão em lei.\n\nGabarito: alternativa A.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – Senado Federal/2022",
+              "question": "Em tema de controle da Administração Pública, a apreciação, para fins de registro, da legalidade dos atos de admissão de pessoal dos novos servidores do cargo efetivo de Técnico Legislativo - Policial Legislativo do Senado Federal que, em breve, serão nomeados, compete",
+              "options": [
+                "à Controladoria-Geral da União, a qual também exerce similar atividade em relação às nomeações para cargo de provimento em comissão.",
+                "ao Tribunal de Contas da União, o qual, contudo, não exerce similar atividade em relação às nomeações para cargo de provimento em comissão.",
+                "à Câmara dos Deputados, a qual também exerce similar atividade em relação às nomeações para cargo de provimento em comissão.",
+                "à Controladoria-Geral da União, a qual, contudo, não exerce similar atividade em relação às nomeações para cargo de provimento em comissão.",
+                "ao Tribunal de Contas da União, o qual também exerce similar atividade em relação às nomeações para cargo de provimento em comissão."
+              ],
+              "answer": 1,
+              "explanation": "esta fica fácil. Segundo a Constituição Federal: III - apreciar, para fins de registro, a legalidade dos atos de admissão de pessoal, a qualquer título, na administração direta e indireta, incluídas as fundações instituídas e mantidas pelo Poder Público, excetuadas as nomeações para cargo de provimento em comissão, bem como a das concessões de aposentadorias, reformas e pensões, ressalvadas as melhorias posteriores que não alterem o fundamento legal do ato concessório; Assim, o Tribunal de Contas aprecia a legalidade da admissão de pessoal, exceto o provimento em comissão (letra\nB). As letras A, C e D estão erradas, pois o registro cabe ao Tribunal de Contas. E a letra E é errada, pois não é registro de provimento em comissão.\n\nGabarito: alternativa B.",
+              "id": 4
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – SEFAZ AM/2022",
+              "question": "Em matéria de controle externo da Administração Pública, de acordo com o texto da Constituição da República, ao Tribunal de Contas compete apreciar, para fins de registro, a legalidade dos atos de admissão de pessoal, a qualquer título, na administração",
+              "options": [
+                "direta, incluídas as nomeações para cargo de provimento em comissão, bem como a das concessões de aposentadorias, reformas, pensões e as melhorias posteriores, ainda que não alterem o fundamento legal do ato concessório.",
+                "direta, incluídas as fundações públicas, bem como a das concessões de aposentadorias, reformas e pensões, incluindo as melhorias posteriores que não alterem o fundamento legal do ato concessório.",
+                "direta e indireta, bem como a das concessões de aposentadorias, reformas e pensões, incluindo as melhorias posteriores que não alterem o fundamento legal do ato concessório.",
+                "direta e indireta, incluídas as nomeações para cargo de provimento em comissão, bem como a das concessões de aposentadorias, reformas e pensões, ressalvadas as melhorias posteriores que não alterem o fundamento legal do ato concessório.",
+                "direta e indireta, incluídas as fundações instituídas e mantidas pelo Poder Público, excetuadas as nomeações para cargo de provimento em comissão, bem como a das concessões de aposentadorias, reformas e pensões, ressalvadas as melhorias posteriores que não alterem o fundamento legal do ato concessório."
+              ],
+              "answer": 4,
+              "explanation": "vamos analisar o texto do art. 71, II da CF: Art. 71. O controle externo, a cargo do Congresso Nacional, será exercido com o auxílio do Tribunal de Contas da União, ao qual compete: III - apreciar, para fins de registro, a legalidade dos atos de admissão de pessoal, a qualquer título, na administração direta e indireta, incluídas as fundações instituídas e mantidas pelo Poder Público, excetuadas as nomeações para cargo de provimento em comissão, bem como a das concessões de aposentadorias, reformas e pensões, ressalvadas as melhorias posteriores que não alterem o fundamento legal do ato concessório; Assim, podemos concluir que a única alternativa que está de acordo com a previsão constitucional é a letra E.\n\nGabarito: alternativa E.",
+              "id": 5
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TJ RO/2021",
+              "question": "Joana, prefeita do Município Alfa, verificando notável aumento na taxa de natalidade da população de baixa renda, praticou ato administrativo determinando a construção de dois prédios, que serão destinados a creches municipais. Pedro, vereador do mesmo município, observando o aumento da expectativa de vida local, ajuizou ação em nome próprio, visando compelir a municipalidade a destinar os dois prédios supramencionados à instalação de entidades de longa permanência para acolhimento da crescente população idosa. O juiz titular da comarca, concordando com o pleito de Pedro, revogou o ato expedido por Joana e determinou que os dois prédios fossem destinados aos interesses da população idosa, e não a creches municipais, sob o fundamento de que a população idosa é mais vulnerável do que as crianças, que possuem seus pais, os quais têm o dever de guarda e sustento. Diante do exposto, no tocante ao controle da administração pública, pode-se afirmar que a conduta do magistrado foi: Alternativas",
+              "options": [
+                "correta, por se tratar de controle de legalidade dos atos da administração, podendo ser exercido de forma ampla pelo Judiciário, no interesse da população vulnerável;",
+                "incorreta, pois não pode o Judiciário decidir sobre quaisquer assuntos afetos ao Poder Executivo, em razão do princípio da separação dos poderes;",
+                "correta, por se tratar de controle de mérito dos atos da administração, podendo ser exercido de forma ampla pelo Judiciário, no interesse da população vulnerável;",
+                "incorreta, pois o Judiciário se imiscuiu indevidamente no mérito administrativo, analisando a conveniência e a oportunidade do ato administrativo, em ofensa ao princípio da separação dos poderes;",
+                "correta, pois a Constituição da República de 1988 prevê que a lei não excluirá da apreciação do Judiciário lesão ou ameaça de lesão a direito, o que justifica a decisão."
+              ],
+              "answer": 3,
+              "explanation": "a) o controle exercido pelo Poder Judiciário sobre os atos dos demais poderes não é exercido de forma ampla. Ele abrange sim os aspectos de legalidade desses atos, mas não pode entrar em aspectos de mérito, ou seja, na conveniência ou oportunidade do administrador ao praticar um ato administrativo. Vale lembrar que o juiz revogou o ato, sendo certo que a revogação é controle de mérito – ERRADA;\nb) o princípio da separação dos poderes existe, de fato, mas existe também o sistema de freios e contrapesos, que autoriza o controle de um poder sobre o outro. Assim, o judiciário pode sim analisar atos praticados pelo Executivo, desde que se limite a analisar a legalidade desses atos, no exercício de sua função típica – ERRADA;\nc) a decisão não está correta, pois o Judiciário não analisa o mérito dos atos dos demais poderes – ERRADA;\nd) isso mesmo. O juiz, nesse caso, extrapolou suas funções, pois analisou aspectos de conveniência e oportunidade do administrador, o que não é permitido. Sua análise deveria ser restrita à legalidade dos atos praticados – CORRETA;\ne) de fato, existe essa previsão constitucional, mas ela não autoriza que o Judiciário atue fora de seus limites de competência, adentrando no mérito dos atos administrativos praticados pelos demais poderes – ERRADA.\n\nGabarito: alternativa D.",
+              "id": 6
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – PC RN/2021",
+              "question": "A fiscalização contábil, financeira, orçamentária, operacional e patrimonial da Polícia Civil do Rio Grande do Norte, quanto à legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas, é exercida, mediante controle externo, por excelência:",
+              "options": [
+                "pelo Poder Judiciário, ao qual compete analisar de ofício a constitucionalidade e a legalidade na aplicação de quaisquer recursos repassados pelo Estado à Polícia Civil;",
+                "pela Controladoria Geral do Estado, à qual compete fiscalizar a aplicação de quaisquer recursos repassados pelo Estado à Polícia Civil e aplicar as correlatas sanções administrativas e civis;",
+                "pela Procuradoria Geral do Estado, com auxílio da Corregedoria, à qual compete apreciar a legalidade das concessões de aposentadorias, reformas e pensões de policiais civis como escrivães e agentes;",
+                "pelo Ministério Público Estadual, ao qual compete aplicar diretamente aos responsáveis, em caso de ilegalidade de despesa ou irregularidade de contas, as sanções previstas em lei, como multa proporcional ao dano causado ao erário;",
+                "pela Assembleia Legislativa, com o auxílio do Tribunal de Contas do Estado, ao qual compete, por exemplo, apreciar, para fins de registro, a legalidade dos atos de admissão de policiais civis como escrivães e agentes."
+              ],
+              "answer": 4,
+              "explanation": "essa questão foi específica do Estado do Rio Grande do Norte, mas nos serve como exemplo de como aplicar o princípio da simetria na prática. A previsão constitucional trata da regra geral em âmbito federal. Assim dispõe: Art. 70. A fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e das entidades da administração direta e indireta, quanto à legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas, será exercida pelo Congresso Nacional, mediante controle externo, e pelo sistema de controle interno de cada Poder. Trazendo isso para o âmbito estadual, temos que o órgão simétrico ao Congresso é a Assembleia Legislativa, e do Tribunal de Contas da União, o Tribunal de Contas estadual. Um exemplo da atuação do controle externo é, de fato, “apreciar, para fins de registro, a legalidade dos atos de admissão de pessoal, a qualquer título, na administração direta e indireta, incluídas as fundações instituídas e mantidas pelo Poder Público, excetuadas as nomeações para cargo de provimento em comissão, bem como a das concessões de aposentadorias, reformas e pensões, ressalvadas as melhorias posteriores que não alterem o fundamento legal do ato concessório”. Assim, em âmbito estadual, é correto dizer que o controle externo é exercido “pela Assembleia Legislativa, com o auxílio do Tribunal de Contas do Estado, ao qual compete, por exemplo, apreciar, para fins de registro, a legalidade dos atos de admissão de policiais civis como escrivães e agentes”. Assim, está correta a alternativa E.\n\nGabarito: alternativa E.",
+              "id": 7
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – MPE RJ/2020",
+              "question": "Mário, prefeito municipal, fez publicar no site oficial do Município reportagem jornalística, cujo título coincidia com o slogan de sua campanha eleitoral do último pleito, atribuindo a si, em flagrante ilegalidade por promoção pessoal, os créditos por inauguração de uma nova creche municipal. A Promotoria de Tutela Coletiva da região, então, ajuizou a medida judicial cabível, requerendo liminarmente a exclusão da matéria publicada no site. A defesa do réu alegou a impossibilidade de controle judicial do que é publicado no sítio eletrônico do Município, sob pena de violação à liberdade de expressão e separação dos poderes. No caso em tela, ao réu:",
+              "options": [
+                "não assiste razão, pois o Judiciário pode, em regra, exercer o controle sobre a legalidade e o mérito administrativo;",
+                "não assiste razão, pois ao Judiciário, quando provocado, cabe o controle sobre a legalidade do ato administrativo;",
+                "não assiste razão, pois ao Ministério Público cabe, em regra, o controle sobre a legalidade e o mérito administrativo;",
+                "assiste razão, pois o Judiciário deve, em regra, interferir no mérito e na legalidade do ato administrativo;",
+                "assiste razão, pois o Judiciário não pode interferir, em regra, na legalidade do ato administrativo, e sim em seu mérito."
+              ],
+              "answer": 1,
+              "explanation": "o art. 37, § 1º, da Constituição Federal veda a promoção pessoal de agentes públicos através da publicidade oficial. O texto assim dispõe: Art. 37. [...] § 1º A publicidade dos atos, programas, obras, serviços e campanhas dos órgãos públicos deverá ter caráter educativo, informativo ou de orientação social, dela não podendo constar nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos. A não observância desse dispositivo gera violação a princípios administrativos como o da impessoalidade, legalidade e moralidade. Tendo isso em mente, sabemos que a violação dos princípios pode ser analisada pelo Poder Judiciário, pois se relaciona com a análise da legalidade dos atos. Assim, vamos analisar o erro de cada alternativa e encontrar a resposta certa:\na) o judiciário pode analisar a legalidade, mas não o mérito dos atos administrativos dos demais poderes – ERRADA;\nb) exatamente isso. Quando provocado, o Judiciário pode analisar a legalidade dos atos praticados pelos demais poderes, no exercício da sua função típica – CORRETA;\nc) o Ministério Público não realiza, por si só, controle de legalidade e mérito dos atos administrativos dos demais poderes, sendo essa uma competência do Poder Judiciário. Até podemos dizer que o MP faz controle de legalidade, mas não por si só, pois o MP provoca o Poder Judiciário na realização desse controle – ERRADA;\nd) como já salientamos, o Judiciário não analisa o mérito dos atos administrativos dos demais poderes – ERRADA;\ne) totalmente o contrário. O Judiciário analisa a legalidade, mas não o mérito dos atos administrativos – ERRADA.\n\nGabarito: alternativa B.",
+              "id": 8
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – CGU/2022",
+              "question": "Em tema de controle da administração pública, a Controladoria-Geral da União (CGU), em sede de controle externo, está sujeita à:",
+              "options": [
+                "fiscalização do Poder Judiciário, nos aspectos ligados à legalidade de suas atividades meio e fim, pelo princípio da inafastabilidade do controle jurisdicional, mas não se submete a outros órgãos de controle, como o Tribunal de Contas da União e o Ministério Público Federal (MPF);",
+                "atuação do Ministério Público Federal (MPF) e, em caso de ilegalidade de despesa ou irregularidade de contas no âmbito da CGU, o MPF, após regular processo administrativo, pode aplicar ao gestor responsável as sanções previstas em lei, como multa proporcional ao dano causado ao erário;",
+                "realização, pelo Tribunal de Contas da União, por iniciativa própria, da Câmara dos Deputados, do Senado Federal, de Comissão técnica ou de inquérito, de inspeções e auditorias de natureza contábil, financeira, orçamentária, operacional e patrimonial;",
+                "fiscalização do Poder Legislativo, que pode assinar prazo para que a CGU adote as providências necessárias ao exato cumprimento da lei, se verificada ilegalidade, e sustar, se não atendido, a execução do ato impugnado, comunicando a decisão ao Tribunal de Contas da União;",
+                "atuação do Poder Executivo, por meio da Advocacia-Geral da União, que fiscaliza a aplicação de quaisquer recursos repassados pela União à CGU mediante convênio, acordo, ajuste ou outros instrumentos congêneres, aplicando as sanções legais aos responsáveis."
+              ],
+              "answer": 2,
+              "explanation": "a) de fato, a CGU está sujeita ao controle judicial, que poderá envolver as atividades meio ou fim. Por exemplo, uma licitação ilegal da CGU poderá ser anulada pelo Judiciário, sendo esta uma atividade meio da Controladoria. Na mesma linha, a aplicação de uma penalidade, no âmbito de sua função de correição (atividade fim), poderá ser anulada se ilegal. Contudo, isso não afasta o controle de outros órgãos, em virtude das competências do TCU e do MPF, por exemplo – ERRADA;\nb) o MPF não possui competência para aplicar sanções diretamente. Para isso, o Parquet precisa mover ações judiciais, no âmbito de suas atribuições. Ademais, a multa proporcional ao dano é aplicada pelo TCU, na forma do art. 71 – ERRADA;\nc) a CF dispõe que compete ao TCU (art. 71): “IV – realizar, por iniciativa própria, da Câmara dos Deputados, do Senado Federal, de Comissão técnica ou de inquérito, inspeções e auditorias de natureza contábil, financeira, orçamentária, operacional e patrimonial, nas unidades administrativas dos Poderes Legislativo, Executivo e Judiciário, e demais entidades referidas no inciso II”. O inciso II, por sua vez, dispõe que compete ao TCU “II – julgar as contas dos administradores e demais responsáveis por dinheiros, bens e valores públicos da administração direta e indireta, incluídas as fundações e sociedades instituídas e mantidas pelo Poder Público federal […]”. Como a CGU faz parte da administração direta federal, ela está sujeita à jurisdição do TCU, que poderá realizar auditorias e inspeções, por iniciativa própria ou por provocação do Legislativo – CORRETA;\nd) essa competência é do TCU e não do Legislativo, na forma do art. 71, incisos IX e X. Ademais, o TCU, no caso de sustação de ato, deverá comunicar a decisão à Câmara dos Deputados e ao Senado Federal – ERRADA;\ne) essa é outra competência do TCU, nos termos do art. 71, VI, da CF – ERRADA.\n\nGabarito: alternativa C.",
+              "id": 9
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – MPE RJ/2019",
+              "question": "O Tribunal de Contas do Estado Alfa, ao analisar o ato de concessão inicial de aposentadoria do servidor público João, o que ocorreu no ano seguinte à sua prática, entendeu que o tempo de serviço exigido pela ordem jurídica não fora corretamente integralizado. Com isso, sem a prévia oitiva de João, decidiu que o benefício foi irregularmente concedido, comunicando a sua decisão, logo em seguida, ao órgão competente. À luz da sistemática constitucional, é correto afirmar que:",
+              "options": [
+                "a análise do tempo de serviço é ato vinculado, logo, o Tribunal de Contas não poderia revê-lo;",
+                "o Tribunal de Contas atuou no estrito exercício de suas competências, não sendo necessária a prévia oitiva de João;",
+                "ao não assegurar o contraditório e a ampla defesa a João, o Tribunal de Contas proferiu decisão nula;",
+                "uma vez concedido o benefício previdenciário, a sua desconstituição exige decisão judicial;",
+                "o Tribunal de Contas extrapolou suas competências, pois somente poderia analisar o valor do benefício."
+              ],
+              "answer": 1,
+              "explanation": "a) o ato poderia ser revisto pelo TC sim, como forma de se controlar o atendimento às disposições legais em relação ao tempo previsto na lei e ao efetivamente trabalhado pelo servidor – ERRADO;\nb) sim, pois nos processos relativos à concessão inicial de aposentadoria, não é necessário oportunizar o contraditório e a ampla defesa ao servidor. Isso é o que consta da Súmula Vinculante n° 3, do STF, que diz que “nos processos perante o Tribunal de Contas da União asseguram-se o contraditório e a ampla defesa quando da decisão puder resultar anulação ou revogação de ato administrativo que beneficie o interessado, excetuada a apreciação da legalidade do ato de concessão inicial de aposentadoria, reforma e pensão” – CORRETO;\nc) não há nulidade, pois o ordenamento dispensa o contraditório e a ampla defesa nesses casos, conforme disposto na SV n° 3 do STF – ERRADO;\nd) não é necessária decisão judicial, a própria administração pode rever seus atos, sem necessidade de intervenção do Poder Judiciário – ERRADO;\ne) o Tribunal possui competência para apreciar a legalidade de ato de concessão inicial de aposentadoria, reforma e pensão, nos termos da SV nº 3, do STF e do art. 71, III, da CF/88 – ERRADO.\n\nGabarito: alternativa B.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u8l4",
+          "title": "Lição 4",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "FGV – TJ CE/2019",
+              "question": "Controle da administração pública é o conjunto de mecanismos jurídicos e administrativos por meio dos quais o poder público e o próprio povo exercem o poder de fiscalização e de revisão da atividade administrativa. De acordo com a doutrina de Direito Administrativo, quanto à natureza do órgão controlador, o controle pode ser classificado como:",
+              "options": [
+                "legislativo, que é aquele executado pelo Poder Legislativo, com o auxílio da Procuradoria-Geral de Justiça;",
+                "judicial, que é aquele executado pelo Poder Judiciário, que, em regra, faz a revisão do mérito administrativo;",
+                "administrativo, que é aquele executado pela própria Administração Pública, calcado em seu poder de autotutela;",
+                "externo, que é aquele executado pelo Poder Executivo, com o auxílio do Tribunal de Contas;",
+                "externo, que é aquele executado pelo Ministério Público, com o auxílio da Controladoria-Geral."
+              ],
+              "answer": 2,
+              "explanation": "a) o controle legislativo é executado pelo Poder Legislativo com o auxílio do Tribunal de Contas – ERRADO;\nb) o Poder Judiciário realiza controle judicial dos atos praticados pelos demais poderes, mas este é restrito à análise da legalidade dos atos, e não do mérito administrativo – ERRADO;\nc) o controle administrativo ocorre quando a própria Administração controla os seus atos, com base na autotutela – CORRETO; d e\ne) o controle externo é aquele realizado por um Poder sobre os atos administrativos praticados por outro Poder – ERRADO;\n\nGabarito: alternativa C.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV – Prefeitura de Salvador - BA/2019",
+              "question": "Determinado Município do Estado da Bahia, por meio de sua Secretaria Municipal de Meio Ambiente, exerce o controle finalístico sobre a autarquia municipal de meio ambiente, para verificar se a entidade está cumprindo as disposições definidas na lei específica que a criou. A hipótese em tela, de acordo com a doutrina de Direito Administrativo, trata do controle por",
+              "options": [
+                "subordinação, eis que praticado por autoridade hierarquicamente superior, entre órgãos e agentes de uma mesma pessoa jurídica da Administração Pública.",
+                "legalidade, eis que praticado por autoridade hierarquicamente superior, entre órgãos e agentes de uma mesma pessoa jurídica da Administração Pública.",
+                "hierarquia, eis que praticado pela Administração Direta sobre uma entidade centralizada, que tem a obrigação de prestar contas sobre o cumprimento de suas obrigações estatutárias.",
+                "vinculação, eis que praticado pela Administração Direta sobre uma entidade descentralizada, não se caracterizando como subordinação hierárquica, mas tão somente uma espécie de supervisão.",
+                "extensão, eis que praticado pela Administração Direta sobre a Indireta, mediante controle externo exercido por um poder em relação aos atos administrativos praticados por outro poder do Estado."
+              ],
+              "answer": 3,
+              "explanation": "a) não há relação de subordinação entre os entes da administração direta e indireta, mas sim de vinculação – ERRADO;\nb) o controle de legalidade tem por objetivo verificar a conformação do ato ou procedimento administrativo com as normas legais e os preceitos administrativos. Esse controle pode ser realizado pela própria administração ou pelo Poder Judiciário. Porém, a assertiva está errada, pois no controle finalístico (administração direta sobre a indireta) não existe hierarquia – ERRADO;\nc) não há hierarquia na relação entre as entidades da administração indireta e a administração direta – ERRADA;\nd) o controle finalístico ou supervisão ministerial é o controle exercido pela Administração Direta sobre a Indireta, realizado pelo ministério (ou secretaria, no âmbito estadual) ao qual a entidade administrativa encontra-se vinculada – CORRETO;\ne) o controle realizado no caso do enunciado é feito por vinculação, e não extensão – ERRADO.\n\nGabarito: alternativa D.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/TJ SC/2018",
+              "question": "Em matéria de controle da Administração Pública, de acordo com o ordenamento jurídico e a doutrina de Direito Administrativo, o Poder Judiciário:",
+              "options": [
+                "não se submete a controle por parte do Poder Executivo, em razão do princípio da soberania das decisões judiciais;",
+                "não se submete a controle por parte dos Poderes Legislativo e Executivo, em razão do princípio da separação dos Poderes;",
+                "não se submete a controle por parte do Poder Legislativo, que desempenha apenas atividade de elaboração de leis;",
+                "se submete a controle por parte dos Poderes Executivo e Legislativo, em razão do sistema de freios e contrapesos;",
+                "se submete a controle contábil, financeiro e orçamentário, por parte do Poder Executivo, por meio do Tribunal de Contas."
+              ],
+              "answer": 3,
+              "explanation": "a) o Poder Judiciário se submete sim ao controle do Poder Executivo, por exemplo, quando o Presidente da República indica nomes de pessoas para ocuparem cargos de ministros de tribunais superiores – ERRADA;\nb) e\nc) o Poder Judiciário se submete sim ao controle dos Poderes Legislativo e Executivo. Na alternativa anterior já vimos exemplo de controle pelo Poder Executivo. O Poder Legislativo, por sua vez, é o titular do controle externo sobre a Administração Pública, controle que também se estende ao Poder Judiciário quando exerce funções administrativas. Além disso, existem outras situações de controle legislativo, como o processo de sabatina que o Senado realiza sobre nomes indicados para compor o STF – ERRADA;\nd) nossa Constituição consagrou o sistema de freios e contrapesos, no qual os Poderes se controlam mutuamente, a fim de que nenhum deles passe por cima dos demais. Nas alternativas anteriores, vimos exemplos de controle sobre o Poder Judiciário exercido pelos Poderes Legislativo e Executivo – CORRETA;\ne) o controle contábil, financeiro e orçamentário é exercido pelo Congresso Nacional, com o auxílio do Tribunal de Contas da União (art. 70 e 71 CF). Logo, o correto seria Poder Legislativo, e não Poder Executivo – ERRADA.\n\nGabarito: alternativa D.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/MPE AL/2018",
+              "question": "João, tão logo tomou posse no cargo de Prefeito Municipal, foi informado pelo seu principal assessor que os atos da sua administração estariam sujeitos ao controle político e financeiro do Poder Legislativo. Sobre a referida informação, considerando a ordem jurídica brasileira, assinale a afirmativa correta.",
+              "options": [
+                "Está parcialmente certa, pois o Legislativo exerce o controle político e, o Tribunal de Contas, o financeiro.",
+                "Está errada, pois não existe controle político e o controle financeiro é exercido pelo Tribunal de Contas.",
+                "Está errada, pois a separação dos poderes impede que qualquer Poder controle os atos do Executivo.",
+                "Está certa, pois o Legislativo, por imperativo constitucional, exerce os referidos controles.",
+                "Está parcialmente certa, pois o Legislativo só exerce o controle político, não o financeiro."
+              ],
+              "answer": 3,
+              "explanation": "a),\nb) e\ne) de fato, o Legislativo exercerá o controle político – como exemplo, podemos mencionar a necessidade de prévia aprovação do Senado Federal para a indicação de nomes de algumas autoridades (CF, art. 52, III). Por outro lado, o Tribunal de Contas realiza o controle técnico, dada a natureza de sua atuação. Porém, não podemos dizer que o Legislativo não faz controle financeiro, já que o Congresso é o titular do controle externo, em seus aspectos financeiro, orçamentário, operacional, contábil e operacional, nos termos do art. 70 da Constituição Federal – ERRADAS;\nc) a separação dos poderes legitima a prática do sistema de freios e contrapesos, no qual os Poderes se controlam mutuamente, a fim de que nenhum deles passe por cima dos demais – ERRADA;\nd) exatamente. De acordo com o texto constitucional, sabemos que é competência do Legislativo, exercer o controle político, com o auxílio do Tribunal de Contas da União, direcionado a controlar a fiscalização contábil, financeira, orçamentária, operacional e patrimonial da Administração Pública federal (por simetria, entendemos ser atinente aos estados, DF e munícipios), mediante controle externo (CF, art. 70, caput) – CORRETA.\n\nGabarito: alternativa D.",
+              "id": 4
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/TJ AL/2018",
+              "question": "O controle da administração pública pode ser conceituado como o conjunto de mecanismos jurídicos e administrativos por meio dos quais se exerce o poder de fiscalização e de revisão da atividade administrativa em qualquer das esferas de poder. Nesse contexto, de acordo com a doutrina e o texto constitucional, o Poder:",
+              "options": [
+                "Judiciário é controlado exclusivamente pelo Conselho Nacional de Justiça, não podendo ser alvo de qualquer ingerência dos Poderes Legislativo e Executivo;",
+                "Legislativo exerce controle externo financeiro sobre o Poder Judiciário no que se refere à receita, à despesa e à gestão dos recursos públicos;",
+                "Legislativo exerce o controle interno sobre o Poder Executivo, no que tange à fiscalização contábil, financeira, orçamentária, operacional e patrimonial da Administração direta e indireta;",
+                "Judiciário exerce o controle externo sobre a legalidade e o mérito administrativo dos atos praticados pelos Poderes Executivo e Legislativo;",
+                "Executivo exerce o controle externo sobre a legalidade dos atos do Poder Legislativo, devendo declarar a inconstitucionalidade dos que violem a Constituição da República de 1988."
+              ],
+              "answer": 1,
+              "explanation": "a) o Judiciário não é controlado exclusivamente pelo CNJ, o qual faz apenas seu controle disciplinar e administrativo – ERRADA;\nb) a CF/88 atribuiu ao Poder Legislativo a competência de exercer o controle externo financeiro sobre o poder e judiciário no que se refere à receita, à despesa e à gestão dos recursos públicos. E para isso conta com o auxílio do TCU – CORRETA;\nc) o controle feito pelo Poder Legislativo aos demais poderes é externo. Por outro lado, o controle interno do Poder Legislativo é limitado à sua estrutura orgânica – ERRADA;\nd) o Judiciário não tem competência para julgar o mérito administrativo. Sua competência se limita ao controle dos aspectos legais, somente – ERRADA;\ne) o poder que realiza o controle externo de legalidade e declara a inconstitucionalidade é o Poder Judiciário, não o Executivo – ERRADA.\n\nGabarito: alternativa B.",
+              "id": 5
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/Câmara de Salvador - BA/2018",
+              "question": "Em matéria de classificação do controle da Administração Pública quanto à natureza do órgão controlador, a doutrina de Direito Administrativo destaca o controle:",
+              "options": [
+                "legislativo, em que a Câmara Municipal promove a fiscalização contábil, financeira, orçamentária, operacional e patrimonial dos Poderes Executivo e Judiciário municipais, com o auxílio do Tribunal de Contas, mediante controle externo;",
+                "legislativo, em que a Câmara Municipal analisa a legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas, do Poder Executivo municipal, incluindo as entidades da administração direta e indireta, mediante controle interno;",
+                "judicial, em que o Poder Judiciário realiza o controle da legalidade dos atos administrativos, sendo que a atividade política do Estado não se submete a controle judicial em abstrato, pela discricionariedade administrativa;",
+                "judicial, em que o Poder Judiciário realiza, em regra, o controle da legalidade e do mérito dos atos administrativos, em razão dos princípios da inafastabilidade da jurisdição e do acesso à justiça;",
+                "administrativo, em que o Poder Executivo, com o auxílio do Tribunal de Contas e da Controladoria, realiza a fiscalização contábil, financeira, orçamentária, operacional e patrimonial dos demais poderes do Estado."
+              ],
+              "answer": 2,
+              "explanation": "a) não existe Poder Judiciário municipal. Nos municípios, temos apenas o Executivo e o Legislativo – ERRADA;\nb) o controle exercido nesse caso é o externo e não o interno. Este último é aquele realizado pela entidade ou órgão responsável pela atividade controlada, no âmbito da própria Administração – ERRADA;\nc) isso mesmo. O controle judicial não interferirá no mérito dessas decisões, mas sim na legalidade. Lembrando que ele é um controle de legalidade e legitimidade. Isso não significa que ele se limite estritamente ao texto da lei, pois cabe ao Judiciário analisar a observância dos princípios administrativos, como a moralidade, razoabilidade e proporcionalidade (mas nunca entrar no mérito) – CORRETA;\nd) como vimos, o controle judicial sobre os atos da Administração é exclusivamente de legalidade, não se imiscuindo no mérito – ERRADA;\ne) é o Poder Legislativo que realiza a fiscalização contábil, financeira, orçamentária, operacional e patrimonial, com o auxílio do Tribunal de Contas, através do controle externo (art. 71 CF) – ERRADA.\n\nGabarito: alternativa C.",
+              "id": 6
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/Câmara de Salvador - BA/2018",
+              "question": "Em matéria de controle da Administração Pública, o Poder Legislativo Municipal exerce, mediante controle externo, a fiscalização contábil, financeira, orçamentária, operacional e patrimonial, quanto à legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas:",
+              "options": [
+                "do Poder Executivo, incluindo administração direta e indireta, com o auxílio do Tribunal de Contas;",
+                "dos Poderes Executivo e Judiciário, com o auxílio do Tribunal de Justiça;",
+                "dos Poderes Executivo, Legislativo e Judiciário, com o auxílio do Tribunal de Contas;",
+                "dos Poderes Executivo, Legislativo e Judiciário, com o auxílio do Tribunal de Justiça;",
+                "dos Poderes Executivo e Judiciário, com o auxílio da Controladoria do Município."
+              ],
+              "answer": 0,
+              "explanation": "De acordo com o art. 31 da CF, a fiscalização do Município será exercida pelo Poder Legislativo Municipal, mediante controle externo, e pelos sistemas de controle interno do Poder Executivo Municipal, na forma da lei. Ademais, o controle externo realizado pela Câmara Municipal será exercido com o auxílio dos Tribunais de Contas dos Estados ou do Município ou dos Conselhos ou Tribunais de Contas dos Municípios, onde houver (§ 1º). Logo, o gabarito é a letra A, já que o Legislativo exerce o controle externo do Poder Executivo, com o auxílio do TC. As demais opções estão, por consequência, incorretas. Lembrando que não existe Judiciário municipal.\n\nGabarito: alternativa A.",
+              "id": 7
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/Câmara de Salvador - BA/2018",
+              "question": "Controle da administração pública é o conjunto de instrumentos definidos pelo ordenamento jurídico, a fim de permitir a fiscalização da atuação estatal por órgãos e entidades do próprio poder público e também diretamente pelo povo. Nesse contexto, de acordo com a doutrina de Direito Administrativo, na classificação do controle da administração pública quanto à natureza do órgão controlador, destaca-se o controle:",
+              "options": [
+                "administrativo, que decorre da competência que o Poder Judiciário tem para controlar os demais poderes;",
+                "legislativo, que é executado pelo Poder Legislativo, diretamente ou mediante auxílio do Tribunal de Contas;",
+                "legislativo, que é executado pelo Ministério Público, como órgão de controle externo dos demais poderes;",
+                "judicial, que é promovido pelo Tribunal de Contas em âmbito orçamentário em face dos Poderes Executivo, Legislativo e Judiciário;",
+                "judicial, que é titularizado pelo Ministério Público, que controla a legalidade dos atos praticados pelos Poderes Executivo e Legislativo."
+              ],
+              "answer": 1,
+              "explanation": "a) já sabemos que o controle administrativo é aquele exercido pela Administração Pública a fim de controlar os seus próprios atos. Por outro lado, quando o Judiciário controle os demais poderes, teremos o controle jurisdicional – ERRADA;\nb) exatamente. Essa é a previsão advinda do texto constitucional (arts. 70 e 71). O controle legislativo é exercido diretamente pelas casas legislativas ou por intermédio dos tribunais de contas – CORRETA;\nc) como vimos, quem exerce o controle legislativo é o próprio Legislativo. Já o Ministério Público pode ser classificado como o órgão de controle da Administração Pública como um todo, atuando como fiscal da Lei – ERRADA;\nd) o controle judicial é exercido pelo próprio Poder Judiciário. Lembrando que o TC não integra o Judiciário, constituindo órgão independente ligado ao Poder Legislativo – ERRADA;\ne) o MP não faz parte do Poder Judiciário; em verdade, o MP não faz parte de nenhum Poder, constituindo basicamente um órgão independente dos demais poderes – ERRADA.\n\nGabarito: alternativa B.",
+              "id": 8
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/MPE BA/2017",
+              "question": "A Constituição da República de 1988, por um lado, assegurou ao Ministério Público autonomia funcional e administrativa e, por outro, estabeleceu um conjunto de instrumentos definidos no ordenamento jurídico para sua fiscalização. Em matéria de controle da Administração Pública, o Ministério Público está sujeito ao controle:",
+              "options": [
+                "interno, com o auxílio do Tribunal de Contas, sobre aspectos contábeis, financeiros, orçamentários e patrimoniais;",
+                "interno, com o auxílio da Controladoria Geral da União ou dos Estados;",
+                "externo, pelo Conselho Nacional do Ministério Público na análise de mérito da atuação funcional dos membros do MP;",
+                "externo, pelo Poder Executivo, a quem compete elaborar integralmente a proposta orçamentária do MP;",
+                "externo, pelo Poder Legislativo, com o auxílio do Tribunal de Contas."
+              ],
+              "answer": 4,
+              "explanation": "Como já vimos em nossa aula, o Ministério Público está sujeito ao controle externo pelo Poder Legislativo, auxiliado pelo Tribunal de Contas da União. O controle externo da gestão pública é desenvolvido de forma conjunta pelo Legislativo cabendo-lhe a titularidade, auxiliado pelo Tribunal de Contas, o qual detém competências próprias e privativas. Assim, podemos afirmar que o MP sofre controle externo, pelo Legislativo, auxiliado pelo TC (letra\nE). A letra A é errada, pois o TC não faz controle interno sobre o MP. O erro da letra B é que o MP não sobre controle da CGU ou das controladorias dos estados. Ademais, o CNMP não avalia o mérito das decisões funcionais dos membros do MP. O que ele faz é o controle administrativo e disciplinar. Por fim, o MP dispõe que autonomia para elaborar a sua proposta orçamentária, o que inválida a letra D.\n\nGabarito: alternativa E.",
+              "id": 9
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/ALERJ/2017",
+              "question": "Determinada agência de fomento estadual, enquadrada como instituição financeira, é instada pelo competente Tribunal de Contas a apresentar dados relativos aos financiamentos públicos por ela concedidos. Diante da requisição, deve a agência:",
+              "options": [
+                "se recusar a fornecer os dados relativos ao financiamento público, considerando que estão protegidos pelo sigilo bancário;",
+                "se recusar a fornecer os dados relativos ao financiamento público, porquanto apenas o Poder Judiciário poderia requisitar essas informações;",
+                "fornecer os dados requisitados pelo Tribunal de Contas, considerando o fato de que operações financeiras que envolvam recursos públicos não estão submetidas ao sigilo bancário;",
+                "fornecer os dados requisitados pelo Tribunal de Contas, considerando o fato de que a Constituição Federal ressalva expressamente o direito ao sigilo nos casos de requisições efetivadas pelas Cortes de Contas;",
+                "se recusar a fornecer os dados relativos ao financiamento público, porquanto restaria violado o direito à intimidade dos beneficiários dos financiamentos públicos."
+              ],
+              "answer": 2,
+              "explanation": "O sigilo bancário é protegido pelo artigo 5º, incisos X e XII da CF/88, quando diz que “são invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas, assegurado o direito a indenização pelo dano material ou moral decorrente de sua violação” e que “é inviolável o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas, salvo, no último caso, por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal”. Para que haja a quebra do sigilo, em regra, se faz necessária uma autorização judicial. Mas, excepcionalmente, o STF já decidiu que o envio de informações aos Tribunais de Contas, relativas a operações de crédito originárias de recursos públicos não é coberto pelo sigilo bancário (STF. MS 33340/DF, j. em 26/5/2015). Portanto, a agência deve fornecer os dados requisitados pelo Tribunal de Contas, considerando o fato de que operações financeiras que envolvam recursos públicos não estão submetidas ao sigilo bancário, conforme alternativa C.\n\nGabarito: alternativa C.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u8l5",
+          "title": "Lição 5",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "FGV/MPE-RJ/2016",
+              "question": "Manoel, Técnico estável do Ministério Público da área administrativa, praticou infração administrativa prevista no estatuto dos servidores públicos. Após processo administrativo disciplinar, o Procurador-Geral de Justiça aplicou-lhe a pena de demissão. Inconformado, Manoel recorreu ao Judiciário, pretendendo sua reintegração. De acordo com a doutrina e jurisprudência de Direito Administrativo, no caso em tela, em regra, ao Poder Judiciário cabe a análise:",
+              "options": [
+                "apenas da legalidade do ato impugnado, não podendo se imiscuir na questão de mérito administrativo;",
+                "apenas da questão de mérito administrativo do ato impugnado, não podendo se imiscuir na motivação do ato;",
+                "da legalidade e do mérito administrativo do ato impugnado, em respeito ao princípio da inafastabilidade da jurisdição;",
+                "da conveniência e oportunidade na prática do ato administrativo impugnado;",
+                "da legalidade, conveniência e oportunidade na prática do ato administrativo impugnado, pela soberania jurisdicional."
+              ],
+              "answer": 0,
+              "explanation": "O Poder Judiciário não poderá adentrar no mérito da decisão, ou seja, em nenhuma hipótese o controle judicial adentrará no juízo de conveniência e oportunidade da autoridade administrativa que editou o ato, pois a esse Poder só cabe avaliar a legalidade e legitimidade, mas não o mérito. O controle de mérito atua sobre a conveniência ou oportunidade do ato controlado. Assim, em regra, somente o Poder que editou um ato administrativo poderá exercer o controle do mérito desse ato.\n\nGabarito: alternativa A.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/MPE-RJ/2016",
+              "question": "João, Deputado Estadual, fez inflamado discurso na Assembleia Legislativa a respeito da necessidade de serem fiscalizados certos atos praticados pelo Governador do Estado, os quais, no seu entender, eram intensamente prejudiciais ao interesse público. Ao final do discurso, foram travados intensos debates a respeito dos limites da atuação do Poder Legislativo e das demais estruturas de poder. Diante da narrativa acima, é correto afirmar que:",
+              "options": [
+                "em respeito ao princípio da separação dos poderes, um Poder não está autorizado a fiscalizar os atos de outro;",
+                "a fiscalização do Poder Executivo somente é realizada pelo Tribunal de Contas;",
+                "o Poder Legislativo, além de legislar, pode fiscalizar os atos do Executivo;",
+                "somente o Poder Judiciário, mediante provocação do legítimo interessado, pode fiscalizar o Executivo;",
+                "apenas o Ministério Público está autorizado a fiscalizar os atos do Poder Executivo."
+              ],
+              "answer": 2,
+              "explanation": "Di Pietro dispõe que o controle da Administração Pública pode ser definido “como o poder de fiscalização e correção que sobre ela exercem os órgãos dos Poderes Judiciário, Legislativo e Executivo, com o objetivo de garantir a conformidade de sua atuação com os princípios que lhe são impostos pelo ordenamento jurídico”. O controle pode ser exercido de forma interna, pela própria Administração ou Poder que editou o ato controlado; ou externa, realizado por órgão independente ou de outro Poder do que efetuou o ato controlado. O Poder Legislativo exerce, em suas atribuições típicas (juntamente com a de legislar), a fiscalização dos demais poderes. Divide-se em controle parlamentar direto (exercido diretamente pelo Congresso Nacional); e controle parlamentar indireto (exercido pelo Tribunal de Contas da União).\n\nGabarito: alternativa C.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/IBGE/2016",
+              "question": "O direito positivo confere a agentes públicos uma série de poderes administrativos que consistem em prerrogativas de direito público que permitem ao Estado alcançar seus fins. Ao lado de tais poderes, o ordenamento jurídico também estabelece certos deveres que precisam ser cumpridos pelos administradores públicos. Dentre esses deveres, de acordo com a doutrina de Direito Administrativo, destaca-se o dever de:",
+              "options": [
+                "improbidade, segundo o qual a atuação do Administrador deve, em qualquer hipótese, pautar-se pelos princípios da honestidade e moralidade, quer em face dos administrados, quer em face da própria Administração;",
+                "prestar contas, segundo o qual o Administrador deve prestar contas internamente, aos órgãos internos de controle, e externamente, ao Poder Legislativo, por meio dos Tribunais de Contas;",
+                "agir vinculadamente, segundo o qual o Administrador está adstrito ao princípio da legalidade, de maneira que lhe é vedado fazer juízo de valor sobre a oportunidade e conveniência para escolha de políticas públicas;",
+                "discricionariedade, segundo o qual o Administrador possui liberdade total para decidir, de acordo com o interesse público, sobre a destinação do orçamento público;",
+                "hierarquia, segundo o qual o Administrador deve se submeter a todas as decisões provenientes do Poder Judiciário, diante do escalonamento de poderes da República previsto na Constituição."
+              ],
+              "answer": 1,
+              "explanation": "a) improbidade probidade, segundo o qual a atuação do Administrador deve, em qualquer hipótese, pautar-se pelos princípios da honestidade e moralidade, quer em face dos administrados, quer em face da própria Administração – ERRADA;\nb) a fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e das entidades da administração direta e indireta, quanto à legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas, será exercida mediante controle externo, e pelo sistema de controle interno de cada Poder (art. 70, CF/88). Já o controle externo, será exercido com o auxílio dos Tribunais de Contas (art. 71, CF/88) – CORRETA;\nc) e\nd) o administrador realmente está adstrito à observância do princípio da legalidade, mas possui a discricionariedade para, dentre as opções legalmente previstas, agir da forma mais conveniente e oportuna na implementação das políticas públicas e sobre a destinação do orçamento – ERRADAS;\ne) os Poderes são independentes e harmônicos entre si. Dessa forma, em regra, podem agir independentemente de autorização ou chancela uns dos outros – ERRADA.\n\nGabarito: alternativa B.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/CODEMIG/2015",
+              "question": "Em matéria de controle da Administração Pública, é correto afirmar que as empresas públicas:",
+              "options": [
+                "se sujeitam ao controle externo do Poder Legislativo, que o faz com o auxílio do Tribunal de Contas;",
+                "se sujeitam ao controle externo do Poder Judiciário, apenas após o esgotamento da via administrativa;",
+                "se sujeitam ao controle externo do Poder Executivo a que estiverem vinculadas, mas não ao dos Poderes Legislativo ou Judiciário, pelo princípio da separação dos poderes;",
+                "não estão sujeitas a qualquer controle externo, eis que não integram a Administração Direta e possuem personalidade jurídica de direito privado;",
+                "não estão sujeitas a qualquer controle externo dos Poderes Executivo ou Legislativo, mas são controladas pelo Poder Judiciário, pelo princípio do acesso à justiça."
+              ],
+              "answer": 0,
+              "explanation": "Conforme prevê o art. 70 da CF/88, a fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e das entidades da administração direta e indireta, como é o caso das empresas públicas, quanto à legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas, será exercida pelo Congresso Nacional (Poder Legislativo), mediante controle externo, e pelo sistema de controle interno de cada Poder, que é realizado com o auxílio do Tribunal de Contas (art. 71, CF/88).\n\nGabarito: alternativa A.",
+              "id": 4
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/TJ-PI/2015",
+              "question": "Em matéria de controle da Administração Pública, o controle externo dos atos praticados pelo Poder Executivo por parte do Poder Judiciário:",
+              "options": [
+                "se restringe à analise da legalidade dos atos, eis que ao Poder Judiciário, em regra, é vedada a análise do mérito dos atos administrativos;",
+                "abrange o controle de legalidade e de mérito dos atos administrativos, podendo o Judiciário, em regra, respectivamente, anular os ilegais e revogar os inoportunos ou inconvenientes;",
+                "abrange o controle de legalidade e de mérito dos atos administrativos, podendo o Judiciário, respectivamente, anular os inoportunos ou inconvenientes e revogar os ilegais;",
+                "se restringe à analise do mérito dos atos, eis que ao Poder Judiciário, em regra, é vedada a análise da legalidade formal dos atos administrativos;",
+                "é o mais amplo possível, cabendo ao Judiciário, em última instância, analisar o acerto da discricionariedade administrativa e da legalidade formal dos atos, em respeito ao princípio da inafastabilidade do controle jurisdicional."
+              ],
+              "answer": 0,
+              "explanation": "O Poder Judiciário não analisa o mérito da decisão, ou seja, não adentra no juízo de conveniência e oportunidade da autoridade administrativa que editou o ato, pois a esse Poder só cabe avaliar a legalidade e legitimidade, mas não o mérito. O controle de mérito atua sobre a conveniência ou oportunidade do ato controlado. Assim, em regra, somente o Poder que editou um ato administrativo poderá exercer o controle do mérito desse ato.\n\nGabarito: alternativa A.",
+              "id": 5
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/Prefeitura de Niterói-RJ/2015",
+              "question": "Em tema de controle da atividade administrativa, a fiscalização contábil, financeira, orçamentária, operacional e patrimonial do Município (Poder Executivo), quanto à legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas, será exercida pelo sistema de controle:",
+              "options": [
+                "interno do próprio Poder Executivo e, mediante controle externo, pelo Poder Judiciário Municipal com auxílio do Tribunal de Contas;",
+                "interno do Poder Legislativo e, mediante controle externo, pelo Poder Judiciário Municipal com auxílio do Tribunal de Contas;",
+                "interno do próprio Poder Executivo e, mediante controle externo, pela Câmara Municipal com auxílio do Tribunal de Contas;",
+                "externo, por meio de prestação de contas ao Estado e à União e, mediante controle interno, pela Câmara Municipal com auxílio do Tribunal de Contas;",
+                "externo, por meio de prestação de contas ao Estado e à União e, mediante controle interno, pelos Poderes Legislativo e Judiciário municipais."
+              ],
+              "answer": 2,
+              "explanation": "No âmbito municipal, a Constituição Federal prevê expressamente no art. 31 que “a fiscalização do Município será exercida pelo Poder Legislativo Municipal, mediante controle externo, e pelos sistemas de controle interno do Poder Executivo Municipal, na forma da lei”. Além disso, dispõe que o controle externo da Câmara Municipal será exercido com o auxílio dos Tribunais de Contas dos Estados ou do Município ou dos Conselhos ou Tribunais de Contas dos Municípios, onde houver.\n\nGabarito: alternativa C.",
+              "id": 6
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/TCM-SP/2015",
+              "question": "Rafael é servidor público ocupante de cargo efetivo de Técnico Administrativo do Poder Executivo municipal. Por meio de uma portaria assinada pelo Prefeito, Rafael foi cedido para o Poder Legislativo do mesmo município, para exercer a função de chefe de gabinete de Vereador, no período de 01/06/14 até 01/06/16. Em meados de 2015, por necessidade do serviço, o Prefeito expediu nova portaria revogando a cessão de diversos servidores (dentre eles, a de Rafael) a órgãos estranhos ao executivo municipal e determinando seu retorno ao órgão de origem, em 30 dias. Inconformado, Rafael impetrou mandado de segurança, pleiteando a manutenção de sua cessão à câmara municipal até o dia 01/06/16. A pretensão de Rafael merece ser julgada:",
+              "options": [
+                "procedente, porque a revogação da cessão é ato administrativo discricionário e, por tal razão, o Poder Judiciário, em regra, pode controlar o seu mérito e concluir, pelo princípio da proporcionalidade, que a contribuição do servidor cedido à Câmara, no caso concreto, é mais importante que a alegação de necessidade de pessoal no executivo;",
+                "procedente, porque a revogação da cessão é ato administrativo vinculado e, por tal razão, o Poder Judiciário pode controlar o seu mérito e concluir que deve ser respeitado o direito subjetivo do servidor de permanecer cedido até o prazo final previsto na portaria (01/06/16), pela aplicação da teoria dos motivos determinantes;",
+                "procedente, porque a revogação da cessão é ato administrativo discricionário e, por tal razão, o Poder Judiciário, em regra, pode controlar o seu mérito e concluir que deve ser respeitado o direito subjetivo do servidor de permanecer cedido até o prazo final previsto na portaria (01/06/16), pela aplicação do princípio da inafastabilidade do controle jurisdicional;",
+                "improcedente, porque a revogação da cessão é ato administrativo discricionário e, por tal razão, o Poder Judiciário, em regra, deve controlar apenas a sua legalidade (e não o seu mérito) e o Prefeito pode revogar a cessão antes do prazo final, por motivos de oportunidade e conveniência, que atendam ao interesse público;",
+                "improcedente, eis que, apesar de a revogação da cessão ser um ato administrativo vinculado e, por isso, tanto a Administração quanto o Poder Judiciário, podem analisar o seu mérito, revisando os valores de oportunidade e conveniência na manutenção do ato, na hipótese em tela deve ser respeitada a supremacia do Poder Executivo."
+              ],
+              "answer": 3,
+              "explanation": "Sabemos que o Mandado de Segurança é o instrumento previsto para combater ilegalidade ou abuso de poder cometido por autoridade pública ou por agente de pessoa jurídica no exercício de atribuições do Poder Público. No caso do enunciado, podemos perceber que não houve nenhuma ilegalidade ou abuso no ato do Prefeito; pelo contrário, ele agiu dentro de sua competência para organizar o funcionamento do Poder Executivo municipal, sendo certo também que a cessão de servidores configura uma decisão discricionária do Administrador. Sendo assim, não há ilegalidade na revogação da portaria, que se deu por motivos de necessidade do serviço. Nessas hipóteses, o Poder Judiciário está restrito à análise da legalidade do ato, não podendo determinar a permanência do servidor no órgão cedido, pois estaria adentrando no mérito da decisão da Administração, o que é vedado.\n\nGabarito: alternativa D.",
+              "id": 7
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/DPE-MT/2015",
+              "question": "Durante operação de fiscalização a bares e restaurantes, a Secretaria de Urbanismo do Município observou que o \"Bar do Seu Silva\" não respeitava o limite para a passagem de pedestres, devido à colocação de mesas e cadeiras na calçada. O espaço mínimo permitido para a circulação era de 1,60 m (um metro e sessenta) e o bar só liberara um espaço de 1,50 m (um metro e cinquenta). Em consequência, os fiscais autuaram o estabelecimento, determinaram a sua interdição e recolheram mesas, cadeiras e barris de chope. Considerando a situação descrita, assinale a afirmativa correta.",
+              "options": [
+                "Não cabe o oferecimento de qualquer defesa na esfera administrativa ou judicial, em razão do legítimo exercício de autotutela administrativa.",
+                "Não cabe o oferecimento de qualquer defesa na esfera administrativa ou judicial, em razão do legítimo exercício do poder de polícia, que é insuscetível de controle.",
+                "É possível o oferecimento de impugnação administrativa ou judicial, a fim de que se discutam os limites ao exercício do poder de polícia, como a observância dos princípios da razoabilidade e proporcionalidade.",
+                "É possível o oferecimento de impugnação administrativa ou judicial, pois o poder de polícia exercido pela fiscalização municipal não goza do atributo da autoexecutoriedade.",
+                "É possível o oferecimento de impugnação administrativa ou judicial, pois a autotutela administrativa somente pode ser exercida após a observância do contraditório e da ampla defesa."
+              ],
+              "answer": 2,
+              "explanation": "A polícia administrativa se expressa ora através de atos no exercício de competência discricionária, ora através de atos vinculados. Se, eventualmente, um ato discricionário mostrar-se desarrazoado ou desproporcional, o Poder Judiciário poderá anulá-lo em virtude de sua ilegalidade ou ilegitimidade. É exatamente o caso do enunciado, pois, apesar de não haver discricionariedade quanto a fiscalizar ou não, ou quanto a aplicar as sanções ou não, a sua gradação pode atender a aspectos discricionários, a depender do caso concreto. Lembrando que a própria Administração também pode rever os seus atos, tanto em relação aos aspectos de mérito quanto aos aspectos de legalidade. Portanto, é possível o oferecimento de impugnação administrativa ou judicial, a fim de que se discutam os limites ao exercício do poder de polícia, como a observância dos princípios da razoabilidade e proporcionalidade.\n\nGabarito: alternativa C.",
+              "id": 8
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/MPE-RJ/2016",
+              "question": "Determinado Município do Estado do Rio de Janeiro opera diretamente aterro sanitário para recebimento de todo resíduo sólido produzido na cidade, desde 2014. Maria, moradora vizinha ao aterro, entende que está sofrendo problemas de saúde, pois utiliza água de poço artesiano que teria se tornada imprópria para o consumo, em razão da contaminação do lençol freático pelo chorume produzido no aterro. Assim, em abril de 2016, Maria impetrou mandado de segurança pretendendo a paralisação da operação do aterro, apontando como autoridades coatoras o Prefeito e o Secretário Municipal de Meio Ambiente e requereu a realização de perícia ambiental. A petição inicial foi indeferida liminarmente pelo juízo de primeiro grau de jurisdição e Maria interpôs recurso de apelação. Instado a se manifestar no processo sobre o recurso, o Procurador de Justiça que atua junto à Câmara Cível deverá ofertar parecer no sentido da:",
+              "options": [
+                "reforma da decisão, eis que Maria é parte legítima para proteger seu direito líquido e certo, não amparado por habeas corpus ou habeas data, diante da ilegalidade dos agentes públicos por causarem dano ambiental, que será comprovado no curso da instrução processual;",
+                "reforma da decisão, eis que a lesão sofrida por Maria se protrai no tempo, razão pela qual não se operou o prazo decadencial de 120 (cento e vinte) dias e os danos difusos ambientais serão comprovados no curso da instrução processual;",
+                "manutenção da decisão, eis que já se operou o prazo decadencial de 120 (cento e vinte) dias, contados a partir da data em que o aterro sanitário entrou em operação, razão pela qual deverá Maria ingressar com uma ação ordinária;",
+                "manutenção da decisão, eis que Maria não ostenta legitimidade ativa para figurar como impetrante em mandado de segurança que tem como causa de pedir dano ambiental, devendo o Ministério Público assumir o polo ativo da demanda;",
+                "manutenção da decisão, eis que faltou um dos requisitos legais do remédio constitucional, qual seja, o direito líquido e certo com prova pré-constituída da ilegalidade, pois a comprovação do dano ambiental demanda dilação probatória."
+              ],
+              "answer": 4,
+              "explanation": "O mandado de segurança é um remédio constitucional previsto no art. 5º, LXIX, da CF, para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público. A característica do mandado de segurança é a ausência da instrução processual, de tal forma que o direito líquido e certo deverá ser comprovado de plano, ou seja, o autor da ação deverá demonstrar o seu direito logo na petição inicial. Com isso, já podemos eliminar as alternativas A e B. Além disso, note que não é possível comprovar de plano se Maria está sofrendo problemas de saúde. E, mesmo que isso seja demonstrado, deverá ocorrer uma fase processual para se demonstrar se, de fato, o problema de saúde possui nexo com a instalação do aterro sanitário. Com efeito, o próprio enunciado demonstrou que Maria requisitou a realização de perícia ambiental, ou seja, a própria impetrante ==4baedc== demonstrou que precisará da instrução processual para comprovar o seu pedido. Logo, é necessário manter a decisão judicial. Assim, podemos marcar a opção E como correta, uma vez que o mandado de segurança não foi impetrado com todos os seus requisitos, sobretudo porque faltou a demonstração do direito líquido e certo na petição inicial, pois o dano ambiental dependerá de realização da fase de produção de provas. A letra C está incorreta, uma vez que o prazo decadencial de 120 dias conta a partir do momento em que o interessado toma ciência do ato impugnado (Lei 12.016/2009, art. 23). A letra D, por sua vez, está errada porque Maria seria legitimada para interpor o mandado de segurança, se o remédio fosse cabível.\n\nGabarito: alternativa E.",
+              "id": 9
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/MPE-RJ/2016",
+              "question": "Promotor de Tutela Coletiva instaurou inquérito civil público para apurar a legalidade da delegação pelo Município à determinada sociedade empresária da prestação do serviço público de transporte coletivo municipal de passageiros. No curso das investigações, restou comprovado que o contrato administrativo firmado para tal fim não foi precedido de licitação, mas a tarifa cobrada dos usuários tem preço módico. Dessa forma, deverá o Promotor:",
+              "options": [
+                "arquivar o inquérito civil, diante da autonomia da vontade das partes contratantes e da modicidade da tarifa, que demonstram não haver prejuízo ao interesse público;",
+                "arquivar o inquérito civil em relação à sociedade empresária, diante da modicidade da tarifa, e ajuizar ação civil pública para obrigar o Município a realizar licitação por tomada de preços para delegação do serviço público;",
+                "ajuizar ação civil pública para obrigar o Município a realizar licitação, na modalidade concorrência, para concessão do serviço público de transporte coletivo municipal de passageiros;",
+                "ajuizar ação civil pública para obrigar o Município a realizar licitação, na modalidade tomada de preços, para permissão do serviço público de transporte coletivo municipal de passageiros;",
+                "ajuizar ação civil pública para obrigar o Município a realizar licitação, para delegação na modalidade autorização do serviço público de transporte coletivo municipal de passageiros."
+              ],
+              "answer": 2,
+              "explanation": "A ação civil pública é uma medida judicial de controle dos atos administrativos, que possui como legitimado, entre outros, o Ministério Público. Esse, no entanto, não era o ponto central da questão. O seu cerne consta no art. 175 da Constituição Federal, que dispõe que: “incumbe ao Poder Público, na forma da lei, diretamente ou sob regime de concessão ou permissão, sempre através de licitação, a prestação de serviços públicos”. Com efeito, em regra, a delegação de serviços públicos deve ocorrer mediante concessão, uma vez que esta é a forma adequada para a delegação de serviços que exijam maior segurança jurídica, sobretudo quando houver altos investimentos envolvidos, e ainda quando o interesse público for predominante sobre o interesse do particular em prestar o serviço. O caso da delegação de transporte coletivo municipal de passageiros é um exemplo, pois neste caso os investimentos envolvidos são elevados, exigindo uma formalização mais robusta, e há mais interesse da população em receber este serviço do que mesmo do particular em prestá-lo (afinal, sem transporte coletivo, o trânsito seria um caos). Assim, a licitação será a concorrência, nos termos do art. 2º, II, da Lei 8.987/1995: “II – concessão de serviço público: a delegação de sua prestação, feita pelo poder concedente, mediante licitação, na modalidade de concorrência, à pessoa jurídica ou consórcio de empresas que demonstre capacidade para seu desempenho, por sua conta e risco e por prazo determinado”. Portanto, o nosso gabarito é a opção C. Não caberia o arquivamento, uma vez que houve a ilegalidade que deverá ser sanada. Também não caberia adotar outras formas de delegação (permissão ou autorização), uma vez que essas formas de delegação devem ser utilizadas em situações menos complexas, em que a estabilidade da relação jurídica não seja tão relevante.\n\nGabarito: alternativa C.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u8l6",
+          "title": "Lição 6",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "FGV/Prefeitura de Niterói/2015",
+              "question": "Com base na doutrina de Direito Administrativo, o controle de mérito da atividade administrativa é feito:",
+              "options": [
+                "pela própria Administração Pública, por razões de conveniência e oportunidade, e, em regra, não se submete à sindicabilidade pelo Poder Judiciário;",
+                "pela própria Administração Pública e pelo Poder Judiciário, por razões de conveniência e oportunidade, com base nos princípios da autotutela e acesso à Justiça;",
+                "mediante controle interno exercido pelo Tribunal de Contas e por meio de controle externo do Poder Judiciário;",
+                "somente mediante controle interno exercido pelo Tribunal de Contas, em respeito ao princípio constitucional da separação dos poderes;",
+                "pelos Poderes Executivo, Legislativo e Judiciário, pela prerrogativa da discricionariedade, com base no sistema constitucional de freios e contrapesos."
+              ],
+              "answer": 0,
+              "explanation": "O controle de mérito de um ato administrativo é o controle realizado pela própria Administração, em relação à conveniência e oportunidade do ato administrativo. Assim, verificando-se que o ato, lícito e eficaz, passou a se mostra inconveniente ou inoportuno para o interesse público, será possível revogá-lo. Tal controle de mérito é realizado pela Administração, não cabendo ao Poder Judiciário exercer o controle de mérito sobre o ato administrativo alheio. Ademais, a sindicabilidade é a análise de um ato administrativo para se verificar se ele está de acordo com o ordenamento jurídico. Nesse contexto, sabemos que o Poder Judiciário não análise o controle de mérito. Porém, não é possível dizer que nunca ocorrerá a sindicabilidade desse tipo de ato, uma vez que o Poder Judiciário não irá analisar o mérito em si, mas vai verificar se o ato está de acordo com o nosso ordenamento jurídico, tendo como fundamento, sobretudo, a moralidade, a razoabilidade e a proporcionalidade do ato. Dessa forma, constata-se que a opção A está correta. Vamos analisar as outras opções:\nb) o Judiciário não realiza controle de mérito de um ato administrativo – ERRADA;\nc) o controle realizado pelo Tribunal de Contas é um controle externo. Ademais, o Judiciário, conforme acabamos de anotar, não faz controle de mérito – ERRADA;\nd) novamente, o controle do Tribunal de Contas é externo – ERRADA;\ne) essa opção exige um pouco mais de cuidado. Os Poderes Executivo, Legislativo e Judiciário de fato realizam controle de mérito, porém sobre os seus próprios atos, ou seja, exercendo a função administrativa sobre os seus próprios atos e não sobre a atividade dos Poderes alheios. Assim, não se está diante de sistema constitucional de freios e contrapesos, pois não há, nesse caso, exercício de função típica nem mesmo de controle externo – ERRADA.\n\nGabarito: alternativa A.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/Prefeitura de Niterói/2015",
+              "question": "Em tema de controle da atividade administrativa, é correto afirmar que o Poder Legislativo municipal:",
+              "options": [
+                "não está sujeito a controle externo pelos outros poderes, em razão do princípio da separação dos poderes;",
+                "exerce o controle externo dos Poderes Executivo e Judiciário municipais, com o auxílio de equipe técnica;",
+                "exerce o controle externo do Poder Executivo municipal, com o auxílio do Tribunal de Contas;",
+                "está sujeito a controle externo pelo Poder Judiciário municipal, que o faz pelos Juízos da comarca;",
+                "está sujeito a controle externo pelo Poder Executivo municipal, que o faz com auxílio do Tribunal de Contas."
+              ],
+              "answer": 2,
+              "explanation": "Vamos iniciar pela redação do art. 31 da Constituição Federal: Art. 31. A fiscalização do Município será exercida pelo Poder Legislativo Municipal, mediante controle externo, e pelos sistemas de controle interno do Poder Executivo Municipal, na forma da lei. § 1º O controle externo da Câmara Municipal será exercido com o auxílio dos Tribunais de Contas dos Estados ou do Município ou dos Conselhos ou Tribunais de Contas dos Municípios, onde houver. § 2º O parecer prévio, emitido pelo órgão competente sobre as contas que o Prefeito deve anualmente prestar, só deixará de prevalecer por decisão de dois terços dos membros da Câmara Municipal. § 3º As contas dos Municípios ficarão, durante sessenta dias, anualmente, à disposição de qualquer contribuinte, para exame e apreciação, o qual poderá questionar-lhes a legitimidade, nos termos da lei. § 4º É vedada a criação de Tribunais, Conselhos ou órgãos de Contas Municipais. Assim, o Poder Legislativo municipal exerce o controle externo do Poder Executivo municipal, com o auxílio técnico do Tribunal de Contas. A letra A está errada, pois todo Poder submete-se ao controle externo. Por exemplo, o Poder Legislativo sofre controle externo do Tribunal de Contas (julgamento das contas) e do Poder Judiciário (controle de legalidade dos atos), assim como do próprio Poder Executivo, no caso de sanção e veto de leis, por exemplo. As letras B e D estão erradas, pois não existe Judiciário municipal. Além disso, o auxílio é do Tribunal de Contar e não de “equipe técnica”. Por fim, a letra E está errada, uma vez que o Poder Executivo até exerce controle externo sobre o Legislativo, mas em situações específicas, como o veto/sanção de leis, não existindo, nessas situações, “auxílio do Tribunal de Contas”.\n\nGabarito: alternativa C.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/TJ RO/2015",
+              "question": "Em tema de controle da Administração Pública, é correto afirmar que o Poder Judiciário se submete ao sistema de controle:",
+              "options": [
+                "interno (como aquele feito por meio de auditoria contábil do próprio Tribunal), mas não se sujeita a controle externo, pelo princípio da supremacia do Poder Judiciário;",
+                "interno (como aquele exercido pela Corregedoria sobre os atos dos serventuários da Justiça) e controle externo (como aquele praticado pelo Tribunal de Contas);",
+                "interno (como aquele exercido pelo Conselho da Magistratura), mas não se sujeita a controle externo, pelo princípio da separação dos poderes;",
+                "interno (como aquele exercido pelo Tribunal de Contas) e controle externo (como aquele praticado pelo Conselho Nacional de Justiça);",
+                "interno (como aquele exercido pelo Conselho Nacional de Justiça) e controle externo (como aquele praticado pelo Conselho Nacional do Ministério Público)."
+              ],
+              "answer": 1,
+              "explanation": "Nessa questão, era necessário identificar quais os casos são de controle interno e quais de controle externo. Em linhas gerais, o controle externo é aquele realizado por um Poder sobre o outro, ao passo que o controle interno é aquele realizado dentro do mesmo Poder. Contudo, a questão exige um pouco sobre o tipo de controle realizado pelo Conselho Nacional de Justiça – CNJ e pelo Conselho Nacional do Ministério Público. Não é um entendimento pacífico, mas a doutrina majoritária entende que esses órgãos realizam controle externo, respectivamente, sobre o Poder Judiciário (no caso do CNJ) e o Ministério Público (no caso do CNMP). Portanto, ambos exercem controle externo, mas um sobre o Judiciário e outro sobre o Ministério Público. Além disso, devemos saber que todo Poder sofre algum tipo de controle externo, sendo que todos também se sujeitam ao controle externo do Tribunal de Contas. Agora, vamos analisar as opções:\na) interno (como aquele feito por meio de auditoria contábil do próprio Tribunal) [correto – a Corregedoria é um órgão administrativo interno, logo o controle que realiza sobre os serventuários da Justiça é interno] e, mas não se sujeita a controle externo, pelo princípio da supremacia do Poder Judiciário [errado – todo Poder sofre controle externo de outro];\nb) interno (como aquele exercido pela Corregedoria sobre os atos dos serventuários da Justiça) [correto – a Corregedoria é um órgão administrativo interno, logo o controle que realiza sobre os serventuários da Justiça é interno] e controle externo (como aquele praticado pelo Tribunal de Contas) [correto – o controle do Tribunal de Contas sobre as atividades dos Poderes é o principal exemplo de controle externo]; [GABARITO]\nc) interno (como aquele exercido pelo Conselho da Magistratura) [errado – o Conselho da Magistratura está previsto no art. 7º do Regimento Interno do TJ, logo exerce atividade de controle interno], mas não se sujeita a controle externo, pelo princípio da separação dos poderes [errado – já vimos que Poder sofre controle externo de outro];\nd) interno (como aquele exercido pelo Tribunal de Contas) [errado – o Tribunal de Contas exerce o controle externo] e controle externo (como aquele praticado pelo Conselho Nacional de Justiça) [correto – o CNJ de fato exerce controle externo, ainda que não seja pacífico];\ne) interno (como aquele exercido pelo Conselho Nacional de Justiça) [errado – acabamos de ver que o controle do CNJ é externo] e controle externo (como aquele praticado pelo Conselho Nacional do Ministério Público) [errado – o CNMP realmente exerce controle externo, mas sobre o Ministério Público].\n\nGabarito: alternativa B.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/MPE-RJ/2016",
+              "question": "Determinado servidor do Ministério Público teve sua aposentadoria deferida pela Administração Superior e recebeu os respectivos proventos por pouco mais de 4 (quatro) anos. Ato contínuo, soube que o respectivo processo administrativo estava prestes a ser examinado pelo Tribunal de Contas. Em relação a esse caso concreto, é correto afirmar que:",
+              "options": [
+                "o registro da aposentadoria, no caso de irregularidades detectadas pelo Tribunal de Contas, pode ser negado, não sendo necessária a observância do contraditório;",
+                "o deferimento da aposentadoria, pelo Ministério Público, consubstancia ato jurídico perfeito, que não pode ser alterado;",
+                "o registro da aposentadoria não pode ser negado pelo Tribunal de Contas, isso sob pena de violar a autonomia administrativa do Ministério Público;",
+                "a aposentadoria, enquanto direito social, somente pode ser alterada pelo Poder Judiciário, não pelo órgão concedente ou pelo Tribunal de Contas;",
+                "o registro da aposentadoria, pelo Tribunal de Contas, é prática que não encontra sustentação nas regras e nos princípios constitucionais."
+              ],
+              "answer": 0,
+              "explanation": "Inicialmente, devemos saber que a Constituição Federal determina que compete ao Tribunal de Contas da União “apreciar, para fins de registro, a legalidade dos atos de admissão de pessoal, a qualquer título, na administração direta e indireta, incluídas as fundações instituídas e mantidas pelo Poder Público, excetuadas as nomeações para cargo de provimento em comissão, bem como a das concessões de aposentadorias, reformas e pensões, ressalvadas as melhorias posteriores que não alterem o fundamento legal do ato concessório” (CF, art. 71, III). Portanto, após a concessão inicial da aposentadoria, o ato depende de prévia manifestação do Tribunal de Contas correspondente, uma vez que tal ato constitui, segundo o STF, ato administrativo complexo, ou seja, somente se aperfeiçoa com o registro realizado pela Corte de Contas. Logo, poderá o Tribunal de Contas negar o registro, se identificar irregularidades, determinando a realização das devidas correções. Com isso, já podemos marcar incorretas as letras B (o ato não é perfeito enquanto não registrado), C (o Tribunal de Contas pode negar o registro), D (pelo mesmo motivo, já que a realização do registro é privativa do Tribunal de Contas) e E (o registro de aposentadoria está previsto na Constituição). Ademais, a questão exige o conhecimento da Súmula Vinculante 3 do STF, que dispõe o seguinte: “Nos processos perante o Tribunal de Contas da União asseguram-se o contraditório e a ampla defesa quando da decisão puder resultar anulação ou revogação de ato administrativo que beneficie o interessado, excetuada a apreciação da legalidade do ato de concessão inicial de aposentadoria, reforma e pensão”. Dessa forma, na apreciação dos atos de registro, não há, como regra, o contraditório. Existem exceções, mas isso não invalida a questão. Logo, o nosso gabarito é a alternativa A.\n\nGabarito: alternativa A.",
+              "id": 4
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/MPE-RJ/2016",
+              "question": "Epaminondas, advogado militante, foi consultado a respeito da função desempenhada pelo Tribunal de Contas em relação ao ato de concessão de aposentadoria do servidor público. A esse respeito, é correto afirmar que:",
+              "options": [
+                "o ato de concessão de aposentadoria deve ser registrado na própria Administração Pública;",
+                "nenhum órgão público exerce funções de registro público, logo, não deve registrar aposentadorias;",
+                "a análise do título de aposentadoria, pelo Tribunal de Contas, é meramente formal, não lhe sendo permitido aferir a sua legalidade;",
+                "somente o Poder Judiciário pode anular o ato de concessão de aposentadoria emitido pela Administração Pública;",
+                "o ato de concessão de aposentadoria somente torna-se perfeito após o registro no Tribunal de Contas."
+              ],
+              "answer": 4,
+              "explanation": "O art. 71, III, da Constituição Federal, outorga ao Tribunal de Contas da União a competência para “apreciar, para fins de registro, a legalidade dos atos de admissão de pessoal, a qualquer título, na administração direta e indireta, incluídas as fundações instituídas e mantidas pelo Poder Público, excetuadas as nomeações para cargo de provimento em comissão, bem como a das concessões de aposentadorias, reformas e pensões, ressalvadas as melhorias posteriores que não alterem o fundamento legal do ato concessório”. Portanto, é o TCU (na União) e os demais Tribunais de Contas (nos estados e municípios) que realizam o registro dos atos de admissão de pessoal e de concessão de aposentadorias, reformas e pensões, com as ressalvas constantes no próprio art. 71, III. Com efeito, o ato de concessão de aposentadoria é considerado, pelo STF, como ato administrativo complexo, uma vez que somente se aperfeiçoa com o registro do ato perante o Tribunal de Contas (STF, MS 24.997). Quer dizer, trata-se, para o STF, de um único ato, mas que necessita da conjugação de vontade de dois ou mais diferentes órgãos ou autoridades. Dessa forma, um ato de concessão de aposentadoria somente torna-se perfeito com o registro na Corte de Contas (alternativa\nE). As opções A e B estão incorretas, uma vez que há registro e ele ocorre no Tribunal de Contas. A alternativa C, por outro lado, está incorreta, pois a análise do título de aposentadoria busca aferir a legalidade do ato. Por fim, a letra D está incorreta, uma vez que, além do Judiciário, a própria Administração (de ofício ou por provocação/determinação) tem a competência para anular ato de aposentadoria tido como ilegal. Vale reforçar que o Tribunal de Contas não possui essa competência (declarar a nulidade), mas pode determinar que a autoridade administrativa proceda a anulação, sob pena de sanção (mas isso já é tema de controle externo, rsrsrs!).\n\nGabarito: alternativa E.",
+              "id": 5
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/SEAD AP/2010",
+              "question": "No conceito de controle da administração pública, a comprovação da eficiência ou da oportunidade de um ato diz respeito:",
+              "options": [
+                "ao controle hierárquico.",
+                "ao controle finalístico.",
+                "ao controle externo popular.",
+                "ao controle de mérito.",
+                "ao controle preventivo."
+              ],
+              "answer": 3,
+              "explanation": "Vamos começar relembrando as classificações para o controle da Administração Pública: • Controle hierárquico: resulta do escalonamento hierárquico dos órgãos administrativos; • Controle finalístico: refere-se ao poder que não possui fundamento na hierarquia; • Controle externo: realizado por órgão independente ou de outro Poder do que efetuou o ato controlado; • Controle popular: efetuado pela sociedade civil ou pelos administrados em geral; • Controle de mérito: tem por objetivo comprovar a eficiência e os resultados do ato, além dos aspectos de conveniência e oportunidade; e • Controle preventivo: é o controle prévio realizado antes do início da prática do ato ou antes de sua conclusão. Para tanto, nossa alternativa correta é a letra D – controle de mérito.\n\nGabarito: alternativa D.",
+              "id": 6
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/SEAD AP/2010",
+              "question": "Com relação ao controle da administração pública, analise as alternativas a seguir: I. Controle concomitante é aquele que acompanha a realização de um ato para verificar a regularidade de sua formação. II. Controle corretivo é aquele que se efetiva após a conclusão do ato. III. Controle de legalidade é aquele teleológico, de verificação de enquadramento de instituição no programa geral de Governo. Assinale:",
+              "options": [
+                "se somente a afirmativa I estiver correta.",
+                "se somente a afirmativa II estiver correta.",
+                "se somente a afirmativa III estiver correta.",
+                "se somente as afirmativas I e II estiverem corretas.",
+                "se somente as afirmativas I e III estiverem corretas."
+              ],
+              "answer": 3,
+              "explanation": "Mais uma questão para assimilar a classificação do controle na Administração. Vejamos: I. Controle concomitante é aquele que acompanha a realização de um ato para verificar a regularidade de sua formação. O controle concomitante é aquele que ocorre durante o processo de formação do ato controlado, ou seja, acompanha a sua realização – CORRETO; II. Controle corretivo é aquele que se efetiva após a conclusão do ato. O controle corretivo ou controle subsequente é aquele que é realizado após a conclusão do ato controlado, tendo como objetivo corrigir eventuais defeitos, declarar sua nulidade ou dar-lhe eficácia – CORRETO; III. Controle de legalidade é aquele teleológico, de verificação de enquadramento de instituição no programa geral de Governo. O controle de legalidade ou legitimidade é aquele que procura verificar a conformação do ato ou do procedimento com as normas legais que o regem. O controle apresentado pela afirmação é o finalístico, que tem o objetivo de garantir o atingimento das finalidades da entidade controlada – ERRADO. Dessa forma, são verdadeiras as afirmações I e II, e nossa alternativa é a letra D (se somente as afirmativas I e II estiverem corretas).\n\nGabarito: alternativa D.",
+              "id": 7
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/ALEMA/2013",
+              "question": "Existem diversos tipos e formas de controlar a Administração Pública, que variam conforme o poder, órgão ou autoridade que o exercitará e o momento de sua efetivação. A classificação das formas de controle se dará conforme",
+              "options": [
+                "sua tipicidade, o motivo, ao aspecto controlado e à finalidade.",
+                "sua tipicidade, o momento do exercício, ao objeto, conteúdo e à amplitude.",
+                "sua origem, o momento do exercício, ao aspecto controlado e à amplitude.",
+                "sua origem, o motivo, ao objeto e conteúdo e à finalidade.",
+                "sua competência, o motivo, ao objeto e conteúdo e à amplitude."
+              ],
+              "answer": 2,
+              "explanation": "Podemos classificar o controle da administração pública quanto (1) ao fundamento, à existência de hierarquia ou à amplitude – hierárquico e finalístico; (2) à origem ou ao posicionamento do órgão que o efetua – interno, externo e popular; (3) ao órgão que o exerce – administrativo, legislativo e judicial; (4) ao momento em que se efetua – prévio, concomitante ou posterior; (5) ao aspecto da atividade administrativa controlada – de legalidade ou legitimidade e de mérito. Assim, correta a alternativa C (sua origem, o momento do exercício, ao aspecto controlado e à amplitude).\n\nGabarito: alternativa C.",
+              "id": 8
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/TJ AM/2013",
+              "question": "A gestão da coisa pública, em razão de atender ao interesse de toda sociedade, deve ser objeto de constante fiscalização. Tendo por base a temática do controle sobre a Administração Pública, assinale a afirmativa correta.",
+              "options": [
+                "Os responsáveis pelo controle interno devem comunicar irregularidades ao Tribunal de Contas sob pena de responsabilidade solidária.",
+                "O controle sobre a Administração Pública será interno e externo, uma vez que na Constituição não há previsão de instrumentos de controle popular.",
+                "O controle sobre a administração é essencialmente corretivo, não havendo controle prévio ou concomitante.",
+                "O controle sobre a administração inclui a análise da conveniência e oportunidade de seus atos por parte do poder judiciário.",
+                "O Poder Legislativo não realiza controle sobre a Administração Pública em razão da separação de poderes."
+              ],
+              "answer": 0,
+              "explanation": "a) a responsabilidade solidária significa que o titular pelo controle interno pode ser condenado junto com o responsável pela ilegalidade ou irregularidade. Ela é aplicada caso o responsável pelo controle interno tenha conhecimento de alguma irregularidade ou ilegalidade e não dê conhecimento ao Tribunal de Contas – CORRETO;\nb) já vimos as várias classificações do controle. Dentre elas temos a classificação quanto à origem ou ao posicionamento do órgão que o efetua, quais sejam (a) interno, (b) externo e (c) popular. Assim, a sociedade civil também pode efetuar o controle – ERRADO;\nc) em relação ao momento em que é efetuado, o controle pode ocorrer previamente, concomitantemente e posteriormente – ERRADO;\nd) diante de um ato ilegal, ilegítimo ou imoral, cabe ao Poder Judiciário anular o ato administrativo. Contudo, não é possível analisar o mérito, ou seja, o juízo de conveniência e oportunidade do agente público – ERRADO;\ne) o controle da administração pública agirá em todos os poderes. Para tanto, podemos definir o controle, segundo Maria Di Pietro, como “o poder de fiscalização e correção que sobre ela exercem os órgãos dos Poderes Judiciário, Legislativo e Executivo, com o objetivo de garantir a conformidade de sua atuação com os princípios que lhe são impostos pelo ordenamento jurídico”. Nessa linha, existem várias formas de controle do Poder Legislativa sobre o Poder Executivo, a exemplo do julgamento das contas anuais do Presidente da República (CF, art. 49, IX) – ERRADO.\n\nGabarito: alternativa A.",
+              "id": 9
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/SEAD AP/2010",
+              "question": "O poder de sustação do Congresso Nacional em relação aos atos normativos do Poder Executivo que exorbitem do poder regulamentar é uma função do controle:",
+              "options": [
+                "administrativo.",
+                "político.",
+                "de legalidade.",
+                "externo.",
+                "normativo."
+              ],
+              "answer": 1,
+              "explanation": "O controle externo realizado pelo Poder Legislativo manifesta-se de duas maneiras: (a) controle político, também chamado de controle parlamentar direto, que é aquele exercido diretamente pelo Congresso Nacional, por suas Casas, pelas comissões parlamentares, ou diretamente pelos membros do Poder Legislativo; (b) controle exercido pelo Tribunal de Contas (também chamado de controle parlamentar indireto ou simplesmente controle técnico). Muitas vezes, reserva-se o termo “controle externo” para a fiscalização contábil, financeira, orçamentária, operacional e patrimonial prevista nos artigos 70 e 71 da Constituição, realizados pelo Congresso Nacional – como titular do controle externo – e pelo Tribunal de Contas da União, que possui competência próprias e privativas prevista no art. 71. Assim, em que pese a sustação de ator normativos seja uma forma de controle externo, existe um termo mais específico para denominá-la, que é o controle político. Portanto, o poder de sustação do Congresso Nacional em relação aos atos normativos do Poder Executivo que exorbitem do poder regulamentar trata-se de controle político (opção\nB).\n\nGabarito: alternativa B.",
+              "id": 10
+            }
+          ]
+        },
+        {
+          "id": "u8l7",
+          "title": "Lição 7",
+          "slides": [
+            {
+              "type": "multiple_choice",
+              "header": "FGV/TJ AM/2013",
+              "question": "Um tópico importante no Direito Administrativo é o relativo à necessidade da Administração Pública ser controlada. Tendo em vista essa necessidade, assinale a alternativa que indica a forma como esse controle é exercido.",
+              "options": [
+                "A Administração Pública sofre controle interno exercido exclusivamente pelo Poder Legislativo.",
+                "A Administração Pública em razão da separação de poderes não pode sofrer controle judicial.",
+                "O Poder Executivo exercerá controle externo da Administração Pública com auxílio do Tribunal de Contas.",
+                "O controle externo da Administração Pública segundo disposição constitucional será exercido pelo Poder Judiciário com auxilio do Tribunal de Contas.",
+                "O controle externo da Administração Pública será exercido pelo Poder Legislativo com auxílio do Tribunal de Contas."
+              ],
+              "answer": 4,
+              "explanation": "De acordo com o art. 71 da Constituição Federal, o controle externo, a cargo do Congresso Nacional, será exercido com o auxílio do Tribunal de Contas da União – opção E correta; opções C e D erradas. Vejamos as outras duas opções:\na) o controle interno é todo aquele realizado pela entidade ou órgão responsável pela atividade controlada, no âmbito da própria Administração. Dessa forma, o controle realizado pelo Poder Executivo, Legislativo e Judiciário, cada um sobre os seus respectivos serviços e agentes, é considerado interno – ERRADO;\nb) a Constituição Federal admite formas de controle de um Poder sobre o outro, fundamentando o famoso sistema de “freios e contrapesos” ou check and balances. Nessa linha, o Poder Judiciário pode exercer o controle sobre a administração pública, desde que seja acionado para isso. Alguns instrumentos de controle judicial são: mandato de segurança, ação popular, ação civil pública, etc. – ERRADO.\n\nGabarito: alternativa E.",
+              "id": 1
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/TJ AM/2013",
+              "question": "A Administração Pública encontra-se sujeita a várias formas de controle. Com relação às formas de controle sobre a administração, assinale a afirmativa correta.",
+              "options": [
+                "O controle judicial tem como principal função assegurar a legalidade da atuação da administração pública.",
+                "O judiciário poderá rever o mérito administrativo quando esse se mostrar inconveniente ou inoportuno, a critério do juiz.",
+                "A palavra final sobre as contas do chefe do executivo em todas as esferas federativas pertence ao tribunal de contas que emite o parecer conclusivo sobre essas contas.",
+                "As decisões judiciais possibilitam a revogação e a anulação de atos da administração pública.",
+                "O legislativo apenas exerce controle prévio sobre a administração pública, o controle sobre a administração é posteriormente exercido pelo tribunal de contas e pelo judiciário."
+              ],
+              "answer": 0,
+              "explanation": "O controle judicial é um controle eminentemente de legalidade, permitindo somente a anulação dos atos considerados ilegais (aí incluídos os ilegítimos e imorais). Todavia, por meio do controle judicial, não é possível controlas o mérito administrativo, isto é, o juízo de conveniência e oportunidade do agente público. Por conseguinte, uma decisão judicial só poderá anular um ato ilegal, mas jamais poderá revogar um ato legítimo por motivo de conveniência e oportunidade. A partir dessas considerações, podemos perceber que a opção A está correta, enquanto as alternativas B e D estão erradas, pois não é possível rever o mérito nem revogar ato administrativo por meio de controle judicial. Sobre as contas do chefe do Poder Executivo, vale a seguinte regra: ® Tribunal de Contas: aprecia as contas prestadas anualmente pelo chefe do Poder Executivo, mediante parecer prévio que deverá ser elaborado em sessenta dias a contar de seu recebimento (CF, art. 71, I); ® Poder Legislativo: julga as contas prestadas anualmente pelo chefe Poder Executivo (CF, art. 49, IX). Assim, exclusivamente para o chefe do Poder Executivo, o Tribunal de Contas não julga, mas apenas emite parecer prévio. Portanto, a “palavra final” cabe ao Poder Legislativo. Logo, a opção C está errada. Para os demais administradores, porém, o Tribunal efetivamente julga as contas (CF, art. 71, II) – nesses casos, a decisão final é do Tribunal de Contas. Por fim, o erro na opção E é que o legislativo pode exercer controle prévio, concomitante e posterior. Vejamos alguns exemplos de controle legislativo: ® prévio: aprovação, pelo Senado Federal, da pessoa indicada para dirigente do Banco Central; ® concomitante: fiscalizar e controlar, diretamente, ou por qualquer de suas Casas, os atos do Poder Executivo, incluídos os da administração indireta (CF, art. 49, X); ® posterior: julgar anualmente as contas prestadas pelo Presidente da República (art. 49, IX).\n\nGabarito: alternativa A.",
+              "id": 2
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/SEFAZ RJ/2011",
+              "question": "A respeito dos sistemas de controle da administração pública, analise as afirmativas a seguir: I. Os responsáveis pelo controle interno, ao tomarem conhecimento de qualquer ilegalidade ou irregularidade, dela darão ciência ao Tribunal de Contas competente, sob pena de responsabilidade solidária. II. A aplicação das sanções decorrentes da prática de ato de improbidade administrativa independe da aprovação ou rejeição das contas pelo órgão de controle interno ou pelo Tribunal de Contas competente. III. De acordo com a lei de processo administrativo do Estado do Rio de Janeiro, a revogação de atos administrativos por motivo de conveniência e oportunidade deve respeitar direitos adquiridos; entretanto, como se trata de desfazimento do ato por razões de mérito, não se oferece ao beneficiário a oportunidade de manifestar-se previamente à revogação. Assinale",
+              "options": [
+                "se apenas as afirmativas I e II estiverem corretas.",
+                "se apenas a afirmativa I estiver correta.",
+                "se apenas a afirmativa II estiver correta.",
+                "se apenas a afirmativa III estiver correta.",
+                "se apenas as afirmativas II e III estiverem corretas."
+              ],
+              "answer": 0,
+              "explanation": "I. Os responsáveis pelo controle interno, ao tomarem conhecimento de qualquer ilegalidade ou irregularidade, dela darão ciência ao Tribunal de Contas competente, sob pena de responsabilidade solidária. É isso mesmo. Caso os responsáveis pelo controle interno tomem conhecimento de qualquer irregularidade ou ilegalidade, devem dar ciência ao Tribunal de Contas, sob pena de responsabilidade solidária (CF, art. 74, §1º), ou seja, podem ser condenados junto com o responsável pela ilegalidade ou irregularidade – CORRETO; II. A aplicação das sanções decorrentes da prática de ato de improbidade administrativa independe da aprovação ou rejeição das contas pelo órgão de controle interno ou pelo Tribunal de Contas competente. A Constituição da República se referiu à improbidade administrativa como forma de violação à moralidade administrativa, incluindo diversos dispositivos sobre o tema. Uma vez que se insere no texto constitucional, essa norma alcança a administração pública direta e indireta, de qualquer dos Poderes, de todos os entes da Federação. Por conseguinte, foi editada a Lei 8.429/1992, norma de caráter nacional, alcançando, portanto, todos os entes da Federação (União, estados, Distrito Federal e municípios). Assim, o art. 21 determina que a aplicação das sanções previstas na Lei independe da aprovação ou rejeição das contas pelo órgão de controle interno ou pelo Tribunal ou Conselho de Contas – CORRETO; III. De acordo com a lei de processo administrativo do Estado do Rio de Janeiro, a revogação de atos administrativos por motivo de conveniência e oportunidade deve respeitar direitos adquiridos; entretanto, como se trata de desfazimento do ato por razões de mérito, não se oferece ao beneficiário a oportunidade de manifestar-se previamente à revogação. Apesar de a questão abordar especificamente a Lei de Processo Administrativo do Rio de Janeiro, podemos responder este item de forma geral, utilizando a Súmula 473 do STF: Súmula 473:A Administração pode anular seus próprios atos, quando eivados de vícios que os tornam ilegais, porque deles não se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial. (Grifos nossos) Com efeito, a Lei de Processo Administrativo do Rio de Janeiro (Lei Estadual 5.427/2009) determina que ao beneficiário do ato deverá ser assegurada a oportunidade para se manifestar previamente à anulação ou revogação do ato: Art. 51. A Administração deve anular seus próprios atos, quando eivados de vício de legalidade, e pode, respeitados os direitos adquiridos, revogá-los por motivo de conveniência ou oportunidade. Parágrafo único. Ao beneficiário do ato deverá ser assegurada a oportunidade para se manifestar previamente à anulação ou revogação do ato.\n\nGabarito: alternativa A.",
+              "id": 3
+            },
+            {
+              "type": "multiple_choice",
+              "header": "FGV/ALEMA/2013",
+              "question": "Controle na Administração Pública é o conjunto de mecanismos jurídicos para a correção e a fiscalização das atividades da Administração Pública. O controle feito em âmbito administrativo por outra pessoa jurídica distinta daquela de onde precede o ato, é denominado",
+              "options": [
+                "Controle Judicial.",
+                "Controle Externo.",
+                "Controle de Legalidade.",
+                "Controle Hierárquico.",
+                "Controle Tutelar."
+              ],
+              "answer": 4,
+              "explanation": "Essa questão é daquelas altamente capciosas. Vimos que parte da doutrina considera o controle realizado pela Administração Direta sobre a Indireta como forma de controle externo (Carvalho Filho e Di Pietro). Outros autores, no entanto, tratam como se fosse controle interno (Alexandrino e Paulo). Há ainda uma terceira corrente, defendida por Celso Antônio Bandeira de Mello que fala em “controle interno exterior”. Nessa questão, devemos observar que o controle é realizado por outra pessoa jurídica distinta daquela onde precede o ato, logo é o controle da Administração Direta sobre as entidades administrativas (Administração Indireta), pois são pessoas jurídicas distintas. Esse controle é chamado de controle finalístico, tutela ou supervisão ministerial. Logo, podemos ver que a definição se enquadra na opção E: controle tutelar. Devemos observar, ademais, que o enunciado mencionou “pessoa jurídica distinta”, o que não deve ser confundido com “poderes distintos” ou “um Poder sobre o outro”. Além disso, podemos ver que a FGV desconsiderou a doutrina que classifica o controle finalístico (tutelar) como forma de controle externo. Assim, o item até poderia ser anulado, mas, como não foi, podemos ver uma tendência da banca em considerar o controle da administração direta sobre a indireta como uma modalidade de controle interno. Não podemos ter 100% de certeza nisso, pois não foi uma afirmação direta, mas vemos uma tendência!\n\nGabarito: alternativa E. Concluímos por hoje. Bons estudos. HERBERT ALMEIDA. http://www.estrategiaconcursos.com.br/cursosPorProfessor/herbert-almeida-3314/ @profherbertalmeida /profherbertalmeida /profherbertalmeida /profherbertalmeida e /controleexterno Se preferir, basta escanear as figuras abaixo:",
+              "id": 4
             }
           ]
         }
